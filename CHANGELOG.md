@@ -31,3 +31,4 @@
 - [2026-04-01 19:47] refactor(security): decouple repository interface from concrete security service
 - [2026-04-01 19:47] perf(cache): memoize expensive computations in cache
 - [2026-04-01 20:59] refactor(core): optimize data flow between domain and data layers
+- [2026-04-01 21:12] feat(security): implement shimmer loading skeleton in security
