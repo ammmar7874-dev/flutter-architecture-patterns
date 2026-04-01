@@ -27,3 +27,4 @@
 - [2026-04-01 18:13] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-04-01 19:10] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-04-01 19:25] fix(analytics): resolve race condition during analytics initialization
+- [2026-04-01 19:30] fix(cache): correct layout constraints and overflow in cache
