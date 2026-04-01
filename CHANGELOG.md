@@ -12,3 +12,4 @@
 - [2026-04-01 11:54] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-04-01 12:36] feat(security): integrate offline caching for security state
 - [2026-04-01 13:07] refactor(security): migrate security controller to modern notifier syntax
+- [2026-04-01 13:11] feat(forms): add bi-directional event bus handler for forms
