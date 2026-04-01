@@ -36,3 +36,4 @@
 - [2026-04-01 21:40] style(auth): harmonize light and dark theme palette for auth
 - [2026-04-01 22:31] fix(analytics): resolve race condition during analytics initialization
 - [2026-04-01 22:58] feat(i18n): add input validation and sanitization for i18n
+- [2026-04-01 23:03] fix(security): handle null assertion failure in security parser
