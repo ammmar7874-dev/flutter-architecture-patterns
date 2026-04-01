@@ -33,3 +33,4 @@
 - [2026-04-01 20:59] refactor(core): optimize data flow between domain and data layers
 - [2026-04-01 21:12] feat(security): implement shimmer loading skeleton in security
 - [2026-04-01 21:37] test(network): add unit tests for network business logic
+- [2026-04-01 21:40] style(auth): harmonize light and dark theme palette for auth
