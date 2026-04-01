@@ -18,3 +18,4 @@
 - [2026-04-01 14:08] docs(security): add detailed code comments and architecture guide for security
 - [2026-04-01 14:13] fix(state): handle null assertion failure in state parser
 - [2026-04-01 14:13] feat(perf): integrate custom telemetry logger in perf
+- [2026-04-01 15:15] fix(perf): handle null assertion failure in perf parser
