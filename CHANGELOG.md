@@ -6,3 +6,4 @@
 - [2026-04-01 09:36] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-04-01 09:42] refactor(network): extract reusable atomic widgets from network
 - [2026-04-01 10:03] perf(core): optimize memory consumption in core list viewport
+- [2026-04-01 10:28] fix(ui): correct layout constraints and overflow in ui
