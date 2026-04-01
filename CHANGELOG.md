@@ -14,3 +14,4 @@
 - [2026-04-01 13:07] refactor(security): migrate security controller to modern notifier syntax
 - [2026-04-01 13:11] feat(forms): add bi-directional event bus handler for forms
 - [2026-04-01 13:43] docs(analytics): add detailed code comments and architecture guide for analytics
+- [2026-04-01 14:04] fix(security): handle null assertion failure in security parser
