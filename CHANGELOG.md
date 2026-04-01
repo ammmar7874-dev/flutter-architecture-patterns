@@ -28,3 +28,4 @@
 - [2026-04-01 19:10] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-04-01 19:25] fix(analytics): resolve race condition during analytics initialization
 - [2026-04-01 19:30] fix(cache): correct layout constraints and overflow in cache
+- [2026-04-01 19:47] refactor(security): decouple repository interface from concrete security service
