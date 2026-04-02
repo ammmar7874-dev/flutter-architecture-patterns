@@ -44,3 +44,4 @@
 - [2026-04-02 09:22] style(core): harmonize light and dark theme palette for core
 - [2026-04-02 09:27] feat(network): integrate custom telemetry logger in network
 - [2026-04-02 09:38] docs(theme): update readme and API contracts for theme
+- [2026-04-02 09:59] feat(ui): add bi-directional event bus handler for ui
