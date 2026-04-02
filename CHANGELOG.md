@@ -50,3 +50,4 @@
 - [2026-04-02 10:49] fix(forms): correct layout constraints and overflow in forms
 - [2026-04-02 11:05] feat(theme): implement shimmer loading skeleton in theme
 - [2026-04-02 11:13] feat(core): add input validation and sanitization for core
+- [2026-04-02 11:17] test(theme): add unit tests for theme business logic
