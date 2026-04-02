@@ -66,3 +66,4 @@
 - [2026-04-02 14:04] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-04-02 15:02] perf(navigation): apply RepaintBoundary on animated navigation widgets
 - [2026-04-02 15:10] fix(core): resolve race condition during core initialization
+- [2026-04-02 15:11] refactor(auth): migrate auth controller to modern notifier syntax
