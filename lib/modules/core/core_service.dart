@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-04-02 15:10:15
-// Commit: fix(core): resolve race condition during core initialization
+// Updated at: 2026-04-02 16:48:47
+// Commit: fix(core): fix memory leak by cancelling core subscription
 
 class coreComponentState {
-  final String commitRef = '64';
-  final String lastMessage = 'fix(core): resolve race condition during core initialization';
-  final DateTime timestamp = DateTime.parse('2026-04-02T15:10:15+05:00');
+  final String commitRef = '69';
+  final String lastMessage = 'fix(core): fix memory leak by cancelling core subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-02T16:48:47+05:00');
 }
