@@ -65,3 +65,4 @@
 - [2026-04-02 14:00] refactor(theme): decouple repository interface from concrete theme service
 - [2026-04-02 14:04] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-04-02 15:02] perf(navigation): apply RepaintBoundary on animated navigation widgets
+- [2026-04-02 15:10] fix(core): resolve race condition during core initialization
