@@ -88,3 +88,4 @@
 - [2026-04-02 21:28] style(auth): harmonize light and dark theme palette for auth
 - [2026-04-02 21:34] perf(navigation): memoize expensive computations in navigation
 - [2026-04-02 21:48] docs(perf): add detailed code comments and architecture guide for perf
+- [2026-04-02 21:56] perf(state): apply RepaintBoundary on animated state widgets
