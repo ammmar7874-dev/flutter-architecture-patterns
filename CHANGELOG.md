@@ -48,3 +48,4 @@
 - [2026-04-02 10:09] feat(theme): add async theme stream provider
 - [2026-04-02 10:14] fix(forms): fix memory leak by cancelling forms subscription
 - [2026-04-02 10:49] fix(forms): correct layout constraints and overflow in forms
+- [2026-04-02 11:05] feat(theme): implement shimmer loading skeleton in theme
