@@ -47,3 +47,4 @@
 - [2026-04-02 09:59] feat(ui): add bi-directional event bus handler for ui
 - [2026-04-02 10:09] feat(theme): add async theme stream provider
 - [2026-04-02 10:14] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-04-02 10:49] fix(forms): correct layout constraints and overflow in forms

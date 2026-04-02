@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-04-02 10:14:49
-// Commit: fix(forms): fix memory leak by cancelling forms subscription
+// Updated at: 2026-04-02 10:49:33
+// Commit: fix(forms): correct layout constraints and overflow in forms
 
 class formsComponentState {
-  final String commitRef = '45';
-  final String lastMessage = 'fix(forms): fix memory leak by cancelling forms subscription';
-  final DateTime timestamp = DateTime.parse('2026-04-02T10:14:49+05:00');
+  final String commitRef = '46';
+  final String lastMessage = 'fix(forms): correct layout constraints and overflow in forms';
+  final DateTime timestamp = DateTime.parse('2026-04-02T10:49:33+05:00');
 }
