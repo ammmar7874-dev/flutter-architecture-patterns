@@ -92,3 +92,4 @@
 - [2026-04-02 21:59] refactor(test): migrate test controller to modern notifier syntax
 - [2026-04-02 22:25] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-04-02 22:58] fix(core): handle null assertion failure in core parser
+- [2026-04-02 23:00] perf(theme): optimize memory consumption in theme list viewport
