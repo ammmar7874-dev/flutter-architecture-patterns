@@ -78,3 +78,4 @@
 - [2026-04-02 18:25] fix(perf): handle null assertion failure in perf parser
 - [2026-04-02 18:26] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-04-02 18:32] refactor(network): optimize data flow between domain and data layers
+- [2026-04-02 19:02] fix(navigation): prevent double tap duplicate action in navigation
