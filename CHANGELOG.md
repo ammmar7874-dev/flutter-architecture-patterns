@@ -75,3 +75,4 @@
 - [2026-04-02 17:25] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-04-02 17:30] refactor(network): extract reusable atomic widgets from network
 - [2026-04-02 18:20] feat(navigation): add bi-directional event bus handler for navigation
+- [2026-04-02 18:25] fix(perf): handle null assertion failure in perf parser
