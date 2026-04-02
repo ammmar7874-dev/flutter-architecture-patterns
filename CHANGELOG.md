@@ -52,3 +52,4 @@
 - [2026-04-02 11:13] feat(core): add input validation and sanitization for core
 - [2026-04-02 11:17] test(theme): add unit tests for theme business logic
 - [2026-04-02 11:29] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-04-02 12:13] chore(test): update dependencies and cleanup unused imports in test
