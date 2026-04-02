@@ -42,3 +42,4 @@
 - [2026-04-02 09:05] fix(analytics): handle null assertion failure in analytics parser
 - [2026-04-02 09:19] feat(theme): add async theme stream provider
 - [2026-04-02 09:22] style(core): harmonize light and dark theme palette for core
+- [2026-04-02 09:27] feat(network): integrate custom telemetry logger in network
