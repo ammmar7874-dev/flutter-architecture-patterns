@@ -69,3 +69,4 @@
 - [2026-04-02 15:11] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-04-02 15:14] fix(state): fix memory leak by cancelling state subscription
 - [2026-04-02 16:12] test(security): implement widget integration tests for security
+- [2026-04-02 16:36] chore(analytics): update dependencies and cleanup unused imports in analytics
