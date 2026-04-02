@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-04-01 18:13:31
-// Commit: refactor(forms): migrate forms controller to modern notifier syntax
+// Updated at: 2026-04-02 10:14:49
+// Commit: fix(forms): fix memory leak by cancelling forms subscription
 
 class formsComponentState {
-  final String commitRef = '23';
-  final String lastMessage = 'refactor(forms): migrate forms controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-04-01T18:13:31+05:00');
+  final String commitRef = '45';
+  final String lastMessage = 'fix(forms): fix memory leak by cancelling forms subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-02T10:14:49+05:00');
 }
