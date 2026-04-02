@@ -63,3 +63,4 @@
 - [2026-04-02 13:44] fix(analytics): handle null assertion failure in analytics parser
 - [2026-04-02 13:56] feat(forms): implement responsive forms view component
 - [2026-04-02 14:00] refactor(theme): decouple repository interface from concrete theme service
+- [2026-04-02 14:04] perf(storage): apply RepaintBoundary on animated storage widgets
