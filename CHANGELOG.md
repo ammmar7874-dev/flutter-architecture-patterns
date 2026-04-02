@@ -72,3 +72,4 @@
 - [2026-04-02 16:36] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-04-02 16:48] fix(core): fix memory leak by cancelling core subscription
 - [2026-04-02 16:52] fix(perf): correct layout constraints and overflow in perf
+- [2026-04-02 17:25] perf(analytics): apply RepaintBoundary on animated analytics widgets
