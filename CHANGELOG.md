@@ -138,3 +138,4 @@
 - [2026-04-04 22:20] feat(state): add input validation and sanitization for state
 - [2026-04-04 22:39] perf(test): optimize memory consumption in test list viewport
 - [2026-04-04 22:43] style(cache): adjust design tokens, typography, and contrast in cache
+- [2026-04-04 23:15] feat(i18n): add async i18n stream provider
