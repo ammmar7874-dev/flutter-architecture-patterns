@@ -126,3 +126,4 @@
 - [2026-04-04 18:27] fix(core): fix memory leak by cancelling core subscription
 - [2026-04-04 18:57] feat(state): add input validation and sanitization for state
 - [2026-04-04 19:00] feat(state): integrate offline caching for state state
+- [2026-04-04 19:39] feat(navigation): integrate custom telemetry logger in navigation
