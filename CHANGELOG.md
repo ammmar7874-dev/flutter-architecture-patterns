@@ -94,3 +94,4 @@
 - [2026-04-02 22:58] fix(core): handle null assertion failure in core parser
 - [2026-04-02 23:00] perf(theme): optimize memory consumption in theme list viewport
 - [2026-04-02 23:25] fix(network): prevent double tap duplicate action in network
+- [2026-04-04 09:30] refactor(i18n): extract reusable atomic widgets from i18n
