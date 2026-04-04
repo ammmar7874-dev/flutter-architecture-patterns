@@ -117,3 +117,4 @@
 - [2026-04-04 14:48] fix(i18n): handle null assertion failure in i18n parser
 - [2026-04-04 15:13] feat(core): add async core stream provider
 - [2026-04-04 15:19] feat(navigation): add async navigation stream provider
+- [2026-04-04 16:12] test(storage): implement widget integration tests for storage
