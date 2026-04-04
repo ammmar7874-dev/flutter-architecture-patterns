@@ -105,3 +105,4 @@
 - [2026-04-04 11:37] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-04-04 12:07] refactor(perf): migrate perf controller to modern notifier syntax
 - [2026-04-04 12:08] feat(perf): implement responsive perf view component
+- [2026-04-04 12:18] refactor(navigation): extract reusable atomic widgets from navigation
