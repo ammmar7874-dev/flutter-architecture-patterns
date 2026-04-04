@@ -128,3 +128,4 @@
 - [2026-04-04 19:00] feat(state): integrate offline caching for state state
 - [2026-04-04 19:39] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-04-04 19:45] feat(i18n): add bi-directional event bus handler for i18n
+- [2026-04-04 20:28] feat(test): add bi-directional event bus handler for test
