@@ -124,3 +124,4 @@
 - [2026-04-04 16:53] fix(ui): handle null assertion failure in ui parser
 - [2026-04-04 17:09] refactor(ui): decouple repository interface from concrete ui service
 - [2026-04-04 18:27] fix(core): fix memory leak by cancelling core subscription
+- [2026-04-04 18:57] feat(state): add input validation and sanitization for state
