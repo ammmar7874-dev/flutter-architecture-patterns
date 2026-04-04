@@ -134,3 +134,4 @@
 - [2026-04-04 20:59] fix(state): fix memory leak by cancelling state subscription
 - [2026-04-04 21:03] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-04-04 21:16] style(cache): adjust design tokens, typography, and contrast in cache
+- [2026-04-04 22:10] refactor(network): extract reusable atomic widgets from network
