@@ -121,3 +121,4 @@
 - [2026-04-04 16:30] style(core): adjust design tokens, typography, and contrast in core
 - [2026-04-04 16:30] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-04-04 16:47] feat(i18n): add bi-directional event bus handler for i18n
+- [2026-04-04 16:53] fix(ui): handle null assertion failure in ui parser
