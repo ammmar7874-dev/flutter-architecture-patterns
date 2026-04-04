@@ -96,3 +96,4 @@
 - [2026-04-02 23:25] fix(network): prevent double tap duplicate action in network
 - [2026-04-04 09:30] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-04-04 09:37] fix(network): resolve race condition during network initialization
+- [2026-04-04 09:49] perf(state): apply RepaintBoundary on animated state widgets
