@@ -131,3 +131,4 @@
 - [2026-04-04 20:28] feat(test): add bi-directional event bus handler for test
 - [2026-04-04 20:30] fix(state): resolve race condition during state initialization
 - [2026-04-04 20:37] test(network): add unit tests for network business logic
+- [2026-04-04 20:59] fix(state): fix memory leak by cancelling state subscription
