@@ -115,3 +115,4 @@
 - [2026-04-04 14:17] feat(test): integrate custom telemetry logger in test
 - [2026-04-04 14:30] fix(state): prevent double tap duplicate action in state
 - [2026-04-04 14:48] fix(i18n): handle null assertion failure in i18n parser
+- [2026-04-04 15:13] feat(core): add async core stream provider
