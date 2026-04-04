@@ -119,3 +119,4 @@
 - [2026-04-04 15:19] feat(navigation): add async navigation stream provider
 - [2026-04-04 16:12] test(storage): implement widget integration tests for storage
 - [2026-04-04 16:30] style(core): adjust design tokens, typography, and contrast in core
+- [2026-04-04 16:30] fix(ui): fix memory leak by cancelling ui subscription
