@@ -141,3 +141,4 @@
 - [2026-04-04 23:15] feat(i18n): add async i18n stream provider
 - [2026-04-05 10:51] style(test): harmonize light and dark theme palette for test
 - [2026-04-05 11:23] fix(storage): correct layout constraints and overflow in storage
+- [2026-04-05 13:22] refactor(core): extract reusable atomic widgets from core
