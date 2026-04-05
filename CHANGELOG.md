@@ -147,3 +147,4 @@
 - [2026-04-05 16:32] refactor(network): optimize data flow between domain and data layers
 - [2026-04-05 18:24] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-04-05 20:57] fix(security): resolve race condition during security initialization
+- [2026-04-05 22:18] refactor(navigation): migrate navigation controller to modern notifier syntax
