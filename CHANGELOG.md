@@ -145,3 +145,4 @@
 - [2026-04-05 15:57] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-04-05 16:08] feat(perf): add async perf stream provider
 - [2026-04-05 16:32] refactor(network): optimize data flow between domain and data layers
+- [2026-04-05 18:24] feat(i18n): implement shimmer loading skeleton in i18n
