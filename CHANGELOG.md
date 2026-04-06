@@ -156,3 +156,4 @@
 - [2026-04-06 11:44] refactor(core): optimize data flow between domain and data layers
 - [2026-04-06 12:21] chore(core): update dependencies and cleanup unused imports in core
 - [2026-04-06 12:23] feat(ui): implement responsive ui view component
+- [2026-04-06 12:32] feat(storage): add bi-directional event bus handler for storage
