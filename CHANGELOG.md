@@ -154,3 +154,4 @@
 - [2026-04-06 11:03] chore(core): update dependencies and cleanup unused imports in core
 - [2026-04-06 11:14] fix(theme): handle null assertion failure in theme parser
 - [2026-04-06 11:44] refactor(core): optimize data flow between domain and data layers
+- [2026-04-06 12:21] chore(core): update dependencies and cleanup unused imports in core
