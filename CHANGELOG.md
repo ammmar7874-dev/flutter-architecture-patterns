@@ -151,3 +151,4 @@
 - [2026-04-05 23:15] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-04-06 09:50] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-04-06 10:09] fix(cache): handle null assertion failure in cache parser
+- [2026-04-06 11:03] chore(core): update dependencies and cleanup unused imports in core
