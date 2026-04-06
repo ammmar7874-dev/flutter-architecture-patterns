@@ -166,3 +166,4 @@
 - [2026-04-06 18:41] test(theme): implement widget integration tests for theme
 - [2026-04-06 19:21] fix(forms): handle null assertion failure in forms parser
 - [2026-04-06 19:30] feat(security): implement shimmer loading skeleton in security
+- [2026-04-06 19:34] refactor(core): decouple repository interface from concrete core service
