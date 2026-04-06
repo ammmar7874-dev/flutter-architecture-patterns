@@ -150,3 +150,4 @@
 - [2026-04-05 22:18] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-04-05 23:15] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-04-06 09:50] refactor(navigation): extract reusable atomic widgets from navigation
+- [2026-04-06 10:09] fix(cache): handle null assertion failure in cache parser
