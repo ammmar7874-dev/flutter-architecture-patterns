@@ -170,3 +170,4 @@
 - [2026-04-06 20:12] feat(perf): implement responsive perf view component
 - [2026-04-06 20:36] perf(cache): optimize memory consumption in cache list viewport
 - [2026-04-06 21:00] style(network): adjust design tokens, typography, and contrast in network
+- [2026-04-06 21:17] refactor(navigation): migrate navigation controller to modern notifier syntax
