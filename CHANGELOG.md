@@ -163,3 +163,4 @@
 - [2026-04-06 15:35] docs(core): update readme and API contracts for core
 - [2026-04-06 16:37] refactor(analytics): optimize data flow between domain and data layers
 - [2026-04-06 17:50] fix(analytics): handle null assertion failure in analytics parser
+- [2026-04-06 18:41] test(theme): implement widget integration tests for theme
