@@ -173,3 +173,4 @@
 - [2026-04-06 21:17] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-04-06 21:22] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-04-07 09:14] feat(storage): add async storage stream provider
+- [2026-04-07 09:40] feat(ui): add async ui stream provider
