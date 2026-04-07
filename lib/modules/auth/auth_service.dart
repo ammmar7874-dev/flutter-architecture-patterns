@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-04-07 12:33:27
-// Commit: fix(auth): correct layout constraints and overflow in auth
+// Updated at: 2026-04-07 14:57:22
+// Commit: fix(auth): fix memory leak by cancelling auth subscription
 
 class authComponentState {
-  final String commitRef = '175';
-  final String lastMessage = 'fix(auth): correct layout constraints and overflow in auth';
-  final DateTime timestamp = DateTime.parse('2026-04-07T12:33:27+05:00');
+  final String commitRef = '179';
+  final String lastMessage = 'fix(auth): fix memory leak by cancelling auth subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-07T14:57:22+05:00');
 }
