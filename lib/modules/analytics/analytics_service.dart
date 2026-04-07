@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-04-07 16:45:40
-// Commit: docs(analytics): add detailed code comments and architecture guide for analytics
+// Updated at: 2026-04-07 17:17:06
+// Commit: fix(analytics): fix memory leak by cancelling analytics subscription
 
 class analyticsComponentState {
-  final String commitRef = '180';
-  final String lastMessage = 'docs(analytics): add detailed code comments and architecture guide for analytics';
-  final DateTime timestamp = DateTime.parse('2026-04-07T16:45:40+05:00');
+  final String commitRef = '181';
+  final String lastMessage = 'fix(analytics): fix memory leak by cancelling analytics subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-07T17:17:06+05:00');
 }

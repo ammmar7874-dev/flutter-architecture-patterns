@@ -182,3 +182,4 @@
 - [2026-04-07 14:40] refactor(cache): extract reusable atomic widgets from cache
 - [2026-04-07 14:57] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-04-07 16:45] docs(analytics): add detailed code comments and architecture guide for analytics
+- [2026-04-07 17:17] fix(analytics): fix memory leak by cancelling analytics subscription
