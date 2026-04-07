@@ -175,3 +175,4 @@
 - [2026-04-07 09:14] feat(storage): add async storage stream provider
 - [2026-04-07 09:40] feat(ui): add async ui stream provider
 - [2026-04-07 10:59] fix(i18n): handle null assertion failure in i18n parser
+- [2026-04-07 12:07] feat(cache): integrate custom telemetry logger in cache
