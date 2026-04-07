@@ -174,3 +174,4 @@
 - [2026-04-06 21:22] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-04-07 09:14] feat(storage): add async storage stream provider
 - [2026-04-07 09:40] feat(ui): add async ui stream provider
+- [2026-04-07 10:59] fix(i18n): handle null assertion failure in i18n parser
