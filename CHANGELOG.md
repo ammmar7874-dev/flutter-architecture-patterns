@@ -177,3 +177,4 @@
 - [2026-04-07 10:59] fix(i18n): handle null assertion failure in i18n parser
 - [2026-04-07 12:07] feat(cache): integrate custom telemetry logger in cache
 - [2026-04-07 12:33] fix(auth): correct layout constraints and overflow in auth
+- [2026-04-07 13:52] docs(cache): add detailed code comments and architecture guide for cache
