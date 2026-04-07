@@ -189,3 +189,4 @@
 - [2026-04-07 19:07] docs(ui): update readme and API contracts for ui
 - [2026-04-07 19:13] feat(perf): integrate offline caching for perf state
 - [2026-04-07 19:35] test(navigation): add unit tests for navigation business logic
+- [2026-04-07 19:40] refactor(i18n): optimize data flow between domain and data layers
