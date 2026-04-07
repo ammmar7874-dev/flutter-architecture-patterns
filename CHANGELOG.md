@@ -184,3 +184,4 @@
 - [2026-04-07 16:45] docs(analytics): add detailed code comments and architecture guide for analytics
 - [2026-04-07 17:17] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-04-07 17:38] feat(ui): implement responsive ui view component
+- [2026-04-07 19:00] refactor(core): extract reusable atomic widgets from core
