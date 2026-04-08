@@ -199,3 +199,4 @@
 - [2026-04-08 16:40] docs(ui): update readme and API contracts for ui
 - [2026-04-08 17:45] fix(storage): correct layout constraints and overflow in storage
 - [2026-04-08 19:20] fix(storage): correct layout constraints and overflow in storage
+- [2026-04-08 19:29] fix(analytics): fix memory leak by cancelling analytics subscription
