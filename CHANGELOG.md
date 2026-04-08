@@ -197,3 +197,4 @@
 - [2026-04-08 16:02] feat(core): add bi-directional event bus handler for core
 - [2026-04-08 16:14] feat(auth): integrate custom telemetry logger in auth
 - [2026-04-08 16:40] docs(ui): update readme and API contracts for ui
+- [2026-04-08 17:45] fix(storage): correct layout constraints and overflow in storage
