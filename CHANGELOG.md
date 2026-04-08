@@ -193,3 +193,4 @@
 - [2026-04-08 09:31] test(ui): implement widget integration tests for ui
 - [2026-04-08 10:08] perf(security): memoize expensive computations in security
 - [2026-04-08 11:42] test(analytics): add unit tests for analytics business logic
+- [2026-04-08 11:42] fix(core): correct layout constraints and overflow in core
