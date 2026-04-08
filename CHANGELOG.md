@@ -201,3 +201,4 @@
 - [2026-04-08 19:20] fix(storage): correct layout constraints and overflow in storage
 - [2026-04-08 19:29] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-04-08 19:51] refactor(forms): decouple repository interface from concrete forms service
+- [2026-04-08 22:02] perf(analytics): apply RepaintBoundary on animated analytics widgets
