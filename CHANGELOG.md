@@ -221,3 +221,4 @@
 - [2026-04-09 11:47] perf(security): memoize expensive computations in security
 - [2026-04-09 11:58] refactor(auth): decouple repository interface from concrete auth service
 - [2026-04-09 12:24] style(network): adjust design tokens, typography, and contrast in network
+- [2026-04-09 12:53] chore(theme): update dependencies and cleanup unused imports in theme
