@@ -261,3 +261,4 @@
 - [2026-04-09 22:32] fix(navigation): resolve race condition during navigation initialization
 - [2026-04-09 22:42] refactor(storage): decouple repository interface from concrete storage service
 - [2026-04-09 22:49] docs(theme): update readme and API contracts for theme
+- [2026-04-09 23:17] refactor(network): optimize data flow between domain and data layers
