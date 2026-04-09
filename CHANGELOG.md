@@ -228,3 +228,4 @@
 - [2026-04-09 13:32] feat(network): integrate offline caching for network state
 - [2026-04-09 14:08] test(core): implement widget integration tests for core
 - [2026-04-09 14:46] refactor(state): optimize data flow between domain and data layers
+- [2026-04-09 15:28] feat(perf): implement shimmer loading skeleton in perf
