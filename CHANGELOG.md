@@ -256,3 +256,4 @@
 - [2026-04-09 21:15] perf(auth): optimize memory consumption in auth list viewport
 - [2026-04-09 21:19] test(storage): add unit tests for storage business logic
 - [2026-04-09 21:21] docs(theme): update readme and API contracts for theme
+- [2026-04-09 21:31] feat(i18n): add async i18n stream provider
