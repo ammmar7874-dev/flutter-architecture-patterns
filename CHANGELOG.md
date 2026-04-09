@@ -225,3 +225,4 @@
 - [2026-04-09 12:56] perf(security): memoize expensive computations in security
 - [2026-04-09 13:10] feat(perf): add bi-directional event bus handler for perf
 - [2026-04-09 13:25] style(forms): harmonize light and dark theme palette for forms
+- [2026-04-09 13:32] feat(network): integrate offline caching for network state
