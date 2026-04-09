@@ -223,3 +223,4 @@
 - [2026-04-09 12:24] style(network): adjust design tokens, typography, and contrast in network
 - [2026-04-09 12:53] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-04-09 12:56] perf(security): memoize expensive computations in security
+- [2026-04-09 13:10] feat(perf): add bi-directional event bus handler for perf
