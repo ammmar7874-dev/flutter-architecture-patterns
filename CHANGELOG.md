@@ -245,3 +245,4 @@
 - [2026-04-09 17:50] perf(network): optimize memory consumption in network list viewport
 - [2026-04-09 17:54] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-04-09 18:37] perf(navigation): optimize memory consumption in navigation list viewport
+- [2026-04-09 18:38] feat(forms): add bi-directional event bus handler for forms
