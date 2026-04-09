@@ -238,3 +238,4 @@
 - [2026-04-09 16:47] perf(test): optimize memory consumption in test list viewport
 - [2026-04-09 16:49] feat(analytics): implement shimmer loading skeleton in analytics
 - [2026-04-09 16:56] feat(network): implement shimmer loading skeleton in network
+- [2026-04-09 17:07] feat(i18n): integrate offline caching for i18n state
