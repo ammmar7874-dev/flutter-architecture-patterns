@@ -255,3 +255,4 @@
 - [2026-04-09 21:05] chore(state): update dependencies and cleanup unused imports in state
 - [2026-04-09 21:15] perf(auth): optimize memory consumption in auth list viewport
 - [2026-04-09 21:19] test(storage): add unit tests for storage business logic
+- [2026-04-09 21:21] docs(theme): update readme and API contracts for theme
