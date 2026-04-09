@@ -215,3 +215,4 @@
 - [2026-04-09 10:58] perf(security): memoize expensive computations in security
 - [2026-04-09 11:14] feat(analytics): implement responsive analytics view component
 - [2026-04-09 11:15] fix(core): fix memory leak by cancelling core subscription
+- [2026-04-09 11:22] feat(cache): implement shimmer loading skeleton in cache
