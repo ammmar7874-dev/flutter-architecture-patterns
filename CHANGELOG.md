@@ -216,3 +216,4 @@
 - [2026-04-09 11:14] feat(analytics): implement responsive analytics view component
 - [2026-04-09 11:15] fix(core): fix memory leak by cancelling core subscription
 - [2026-04-09 11:22] feat(cache): implement shimmer loading skeleton in cache
+- [2026-04-09 11:33] feat(i18n): add input validation and sanitization for i18n
