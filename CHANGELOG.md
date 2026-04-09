@@ -209,3 +209,4 @@
 - [2026-04-09 10:11] chore(navigation): update dependencies and cleanup unused imports in navigation
 - [2026-04-09 10:17] feat(test): add input validation and sanitization for test
 - [2026-04-09 10:22] refactor(security): extract reusable atomic widgets from security
+- [2026-04-09 10:34] perf(navigation): apply RepaintBoundary on animated navigation widgets
