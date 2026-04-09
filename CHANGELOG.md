@@ -204,3 +204,4 @@
 - [2026-04-08 22:02] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-04-09 09:12] fix(ui): handle null assertion failure in ui parser
 - [2026-04-09 09:22] fix(analytics): correct layout constraints and overflow in analytics
+- [2026-04-09 09:31] fix(navigation): handle null assertion failure in navigation parser
