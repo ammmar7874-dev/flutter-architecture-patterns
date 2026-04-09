@@ -253,3 +253,4 @@
 - [2026-04-09 20:42] feat(ui): integrate custom telemetry logger in ui
 - [2026-04-09 20:45] refactor(analytics): optimize data flow between domain and data layers
 - [2026-04-09 21:05] chore(state): update dependencies and cleanup unused imports in state
+- [2026-04-09 21:15] perf(auth): optimize memory consumption in auth list viewport
