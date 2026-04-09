@@ -259,3 +259,4 @@
 - [2026-04-09 21:31] feat(i18n): add async i18n stream provider
 - [2026-04-09 22:31] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-04-09 22:32] fix(navigation): resolve race condition during navigation initialization
+- [2026-04-09 22:42] refactor(storage): decouple repository interface from concrete storage service
