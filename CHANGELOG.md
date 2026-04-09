@@ -236,3 +236,4 @@
 - [2026-04-09 16:35] feat(state): add async state stream provider
 - [2026-04-09 16:39] chore(test): update dependencies and cleanup unused imports in test
 - [2026-04-09 16:47] perf(test): optimize memory consumption in test list viewport
+- [2026-04-09 16:49] feat(analytics): implement shimmer loading skeleton in analytics
