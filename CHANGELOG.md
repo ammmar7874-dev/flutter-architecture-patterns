@@ -231,3 +231,4 @@
 - [2026-04-09 15:28] feat(perf): implement shimmer loading skeleton in perf
 - [2026-04-09 15:44] feat(storage): integrate custom telemetry logger in storage
 - [2026-04-09 15:44] fix(analytics): fix memory leak by cancelling analytics subscription
+- [2026-04-09 16:02] fix(test): handle null assertion failure in test parser
