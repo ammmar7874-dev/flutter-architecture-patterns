@@ -203,3 +203,4 @@
 - [2026-04-08 19:51] refactor(forms): decouple repository interface from concrete forms service
 - [2026-04-08 22:02] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-04-09 09:12] fix(ui): handle null assertion failure in ui parser
+- [2026-04-09 09:22] fix(analytics): correct layout constraints and overflow in analytics
