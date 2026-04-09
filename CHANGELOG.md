@@ -226,3 +226,4 @@
 - [2026-04-09 13:10] feat(perf): add bi-directional event bus handler for perf
 - [2026-04-09 13:25] style(forms): harmonize light and dark theme palette for forms
 - [2026-04-09 13:32] feat(network): integrate offline caching for network state
+- [2026-04-09 14:08] test(core): implement widget integration tests for core
