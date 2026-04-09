@@ -229,3 +229,4 @@
 - [2026-04-09 14:08] test(core): implement widget integration tests for core
 - [2026-04-09 14:46] refactor(state): optimize data flow between domain and data layers
 - [2026-04-09 15:28] feat(perf): implement shimmer loading skeleton in perf
+- [2026-04-09 15:44] feat(storage): integrate custom telemetry logger in storage
