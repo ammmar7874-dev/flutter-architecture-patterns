@@ -274,3 +274,4 @@
 - [2026-04-10 12:34] refactor(theme): decouple repository interface from concrete theme service
 - [2026-04-10 12:37] docs(test): update readme and API contracts for test
 - [2026-04-10 12:45] feat(cache): integrate offline caching for cache state
+- [2026-04-10 12:59] feat(cache): add async cache stream provider
