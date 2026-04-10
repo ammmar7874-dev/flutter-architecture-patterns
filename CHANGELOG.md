@@ -307,3 +307,4 @@
 - [2026-04-10 20:57] perf(theme): memoize expensive computations in theme
 - [2026-04-10 21:07] refactor(cache): extract reusable atomic widgets from cache
 - [2026-04-10 21:07] perf(forms): optimize memory consumption in forms list viewport
+- [2026-04-10 21:23] test(cache): add unit tests for cache business logic
