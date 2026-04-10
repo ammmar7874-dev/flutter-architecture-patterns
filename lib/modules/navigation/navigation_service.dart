@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-04-10 17:19:55
-// Commit: perf(navigation): memoize expensive computations in navigation
+// Updated at: 2026-04-10 20:38:39
+// Commit: refactor(navigation): migrate navigation controller to modern notifier syntax
 
 class navigationComponentState {
-  final String commitRef = '288';
-  final String lastMessage = 'perf(navigation): memoize expensive computations in navigation';
-  final DateTime timestamp = DateTime.parse('2026-04-10T17:19:55+05:00');
+  final String commitRef = '300';
+  final String lastMessage = 'refactor(navigation): migrate navigation controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-04-10T20:38:39+05:00');
 }
