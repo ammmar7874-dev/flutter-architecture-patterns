@@ -293,3 +293,4 @@
 - [2026-04-10 17:25] perf(theme): optimize memory consumption in theme list viewport
 - [2026-04-10 17:42] feat(analytics): implement shimmer loading skeleton in analytics
 - [2026-04-10 17:48] chore(ui): update dependencies and cleanup unused imports in ui
+- [2026-04-10 18:16] feat(ui): add bi-directional event bus handler for ui
