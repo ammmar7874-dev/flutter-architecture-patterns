@@ -290,3 +290,4 @@
 - [2026-04-10 16:51] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-04-10 17:16] test(security): add unit tests for security business logic
 - [2026-04-10 17:19] perf(navigation): memoize expensive computations in navigation
+- [2026-04-10 17:25] perf(theme): optimize memory consumption in theme list viewport
