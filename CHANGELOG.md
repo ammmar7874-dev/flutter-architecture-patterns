@@ -286,3 +286,4 @@
 - [2026-04-10 15:59] test(state): implement widget integration tests for state
 - [2026-04-10 16:00] fix(analytics): handle null assertion failure in analytics parser
 - [2026-04-10 16:13] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-04-10 16:36] feat(i18n): add async i18n stream provider
