@@ -303,3 +303,4 @@
 - [2026-04-10 20:14] style(state): harmonize light and dark theme palette for state
 - [2026-04-10 20:38] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-04-10 20:49] chore(core): update dependencies and cleanup unused imports in core
+- [2026-04-10 20:51] fix(network): prevent double tap duplicate action in network
