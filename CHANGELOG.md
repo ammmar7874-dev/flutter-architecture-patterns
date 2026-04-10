@@ -277,3 +277,4 @@
 - [2026-04-10 12:59] feat(cache): add async cache stream provider
 - [2026-04-10 14:22] docs(navigation): update readme and API contracts for navigation
 - [2026-04-10 14:31] fix(cache): handle null assertion failure in cache parser
+- [2026-04-10 14:34] style(forms): harmonize light and dark theme palette for forms
