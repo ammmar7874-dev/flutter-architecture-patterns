@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-04-10 10:49:45
-// Commit: feat(perf): implement shimmer loading skeleton in perf
+// Updated at: 2026-04-10 18:42:35
+// Commit: fix(perf): fix memory leak by cancelling perf subscription
 
 class perfComponentState {
-  final String commitRef = '265';
-  final String lastMessage = 'feat(perf): implement shimmer loading skeleton in perf';
-  final DateTime timestamp = DateTime.parse('2026-04-10T10:49:45+05:00');
+  final String commitRef = '293';
+  final String lastMessage = 'fix(perf): fix memory leak by cancelling perf subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-10T18:42:35+05:00');
 }
