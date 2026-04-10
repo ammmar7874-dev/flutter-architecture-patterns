@@ -287,3 +287,4 @@
 - [2026-04-10 16:00] fix(analytics): handle null assertion failure in analytics parser
 - [2026-04-10 16:13] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-04-10 16:36] feat(i18n): add async i18n stream provider
+- [2026-04-10 16:51] docs(storage): add detailed code comments and architecture guide for storage
