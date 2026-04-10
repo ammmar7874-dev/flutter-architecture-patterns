@@ -292,3 +292,4 @@
 - [2026-04-10 17:19] perf(navigation): memoize expensive computations in navigation
 - [2026-04-10 17:25] perf(theme): optimize memory consumption in theme list viewport
 - [2026-04-10 17:42] feat(analytics): implement shimmer loading skeleton in analytics
+- [2026-04-10 17:48] chore(ui): update dependencies and cleanup unused imports in ui
