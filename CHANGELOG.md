@@ -297,3 +297,4 @@
 - [2026-04-10 18:42] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-04-10 18:59] feat(forms): implement shimmer loading skeleton in forms
 - [2026-04-10 19:11] fix(security): correct layout constraints and overflow in security
+- [2026-04-10 19:24] refactor(perf): optimize data flow between domain and data layers
