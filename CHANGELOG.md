@@ -275,3 +275,4 @@
 - [2026-04-10 12:37] docs(test): update readme and API contracts for test
 - [2026-04-10 12:45] feat(cache): integrate offline caching for cache state
 - [2026-04-10 12:59] feat(cache): add async cache stream provider
+- [2026-04-10 14:22] docs(navigation): update readme and API contracts for navigation
