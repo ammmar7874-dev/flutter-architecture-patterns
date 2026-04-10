@@ -306,3 +306,4 @@
 - [2026-04-10 20:51] fix(network): prevent double tap duplicate action in network
 - [2026-04-10 20:57] perf(theme): memoize expensive computations in theme
 - [2026-04-10 21:07] refactor(cache): extract reusable atomic widgets from cache
+- [2026-04-10 21:07] perf(forms): optimize memory consumption in forms list viewport
