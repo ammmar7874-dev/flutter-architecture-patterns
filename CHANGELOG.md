@@ -264,3 +264,4 @@
 - [2026-04-09 23:17] refactor(network): optimize data flow between domain and data layers
 - [2026-04-10 09:33] test(analytics): add unit tests for analytics business logic
 - [2026-04-10 09:53] docs(navigation): add detailed code comments and architecture guide for navigation
+- [2026-04-10 09:59] chore(core): update dependencies and cleanup unused imports in core
