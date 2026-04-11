@@ -314,3 +314,4 @@
 - [2026-04-11 11:20] feat(network): integrate offline caching for network state
 - [2026-04-11 11:54] refactor(test): migrate test controller to modern notifier syntax
 - [2026-04-11 12:09] perf(ui): apply RepaintBoundary on animated ui widgets
+- [2026-04-11 13:35] feat(navigation): add input validation and sanitization for navigation
