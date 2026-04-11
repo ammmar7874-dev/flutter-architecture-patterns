@@ -312,3 +312,4 @@
 - [2026-04-10 23:08] test(theme): implement widget integration tests for theme
 - [2026-04-11 10:55] feat(auth): add input validation and sanitization for auth
 - [2026-04-11 11:20] feat(network): integrate offline caching for network state
+- [2026-04-11 11:54] refactor(test): migrate test controller to modern notifier syntax
