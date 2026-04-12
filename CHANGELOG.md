@@ -329,3 +329,4 @@
 - [2026-04-12 09:38] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-04-12 09:44] test(network): add unit tests for network business logic
 - [2026-04-12 10:05] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-04-12 10:26] feat(storage): add async storage stream provider
