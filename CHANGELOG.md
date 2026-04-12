@@ -352,3 +352,4 @@
 - [2026-04-12 16:40] feat(forms): add input validation and sanitization for forms
 - [2026-04-12 16:46] perf(network): memoize expensive computations in network
 - [2026-04-12 16:51] refactor(navigation): decouple repository interface from concrete navigation service
+- [2026-04-12 16:54] docs(security): update readme and API contracts for security
