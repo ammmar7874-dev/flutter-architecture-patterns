@@ -343,3 +343,4 @@
 - [2026-04-12 14:11] docs(state): add detailed code comments and architecture guide for state
 - [2026-04-12 14:32] docs(network): update readme and API contracts for network
 - [2026-04-12 14:42] refactor(perf): optimize data flow between domain and data layers
+- [2026-04-12 15:22] fix(analytics): handle null assertion failure in analytics parser
