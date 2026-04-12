@@ -338,3 +338,4 @@
 - [2026-04-12 12:51] test(storage): add unit tests for storage business logic
 - [2026-04-12 13:17] style(cache): harmonize light and dark theme palette for cache
 - [2026-04-12 13:19] feat(cache): implement shimmer loading skeleton in cache
+- [2026-04-12 13:26] test(theme): add unit tests for theme business logic
