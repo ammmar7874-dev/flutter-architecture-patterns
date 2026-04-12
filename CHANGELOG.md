@@ -349,3 +349,4 @@
 - [2026-04-12 16:18] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-04-12 16:22] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-04-12 16:36] test(state): add unit tests for state business logic
+- [2026-04-12 16:40] feat(forms): add input validation and sanitization for forms
