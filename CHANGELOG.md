@@ -347,3 +347,4 @@
 - [2026-04-12 15:26] refactor(storage): optimize data flow between domain and data layers
 - [2026-04-12 16:09] feat(auth): add input validation and sanitization for auth
 - [2026-04-12 16:18] fix(theme): fix memory leak by cancelling theme subscription
+- [2026-04-12 16:22] docs(forms): add detailed code comments and architecture guide for forms
