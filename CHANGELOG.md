@@ -344,3 +344,4 @@
 - [2026-04-12 14:32] docs(network): update readme and API contracts for network
 - [2026-04-12 14:42] refactor(perf): optimize data flow between domain and data layers
 - [2026-04-12 15:22] fix(analytics): handle null assertion failure in analytics parser
+- [2026-04-12 15:26] refactor(storage): optimize data flow between domain and data layers
