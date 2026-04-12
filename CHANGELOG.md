@@ -354,3 +354,4 @@
 - [2026-04-12 16:51] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-04-12 16:54] docs(security): update readme and API contracts for security
 - [2026-04-12 17:28] fix(test): prevent double tap duplicate action in test
+- [2026-04-12 19:24] test(navigation): add unit tests for navigation business logic
