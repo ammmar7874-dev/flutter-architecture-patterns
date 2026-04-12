@@ -335,3 +335,4 @@
 - [2026-04-12 11:29] feat(navigation): integrate offline caching for navigation state
 - [2026-04-12 11:38] feat(i18n): implement responsive i18n view component
 - [2026-04-12 12:28] feat(ui): implement shimmer loading skeleton in ui
+- [2026-04-12 12:51] test(storage): add unit tests for storage business logic
