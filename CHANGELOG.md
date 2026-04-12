@@ -341,3 +341,4 @@
 - [2026-04-12 13:26] test(theme): add unit tests for theme business logic
 - [2026-04-12 13:38] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-04-12 14:11] docs(state): add detailed code comments and architecture guide for state
+- [2026-04-12 14:32] docs(network): update readme and API contracts for network
