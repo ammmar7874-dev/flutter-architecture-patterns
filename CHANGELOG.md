@@ -360,3 +360,4 @@
 - [2026-04-12 21:20] feat(security): add input validation and sanitization for security
 - [2026-04-12 21:52] fix(perf): prevent double tap duplicate action in perf
 - [2026-04-12 22:18] feat(state): integrate offline caching for state state
+- [2026-04-12 23:00] feat(i18n): add input validation and sanitization for i18n
