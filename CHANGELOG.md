@@ -357,3 +357,4 @@
 - [2026-04-12 19:24] test(navigation): add unit tests for navigation business logic
 - [2026-04-12 20:29] feat(theme): add bi-directional event bus handler for theme
 - [2026-04-12 20:44] perf(perf): memoize expensive computations in perf
+- [2026-04-12 21:20] feat(security): add input validation and sanitization for security
