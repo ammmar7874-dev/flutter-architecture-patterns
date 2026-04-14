@@ -379,3 +379,4 @@
 - [2026-04-14 19:01] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-04-14 19:02] feat(cache): integrate custom telemetry logger in cache
 - [2026-04-14 19:28] style(state): harmonize light and dark theme palette for state
+- [2026-04-14 20:22] fix(analytics): prevent double tap duplicate action in analytics
