@@ -365,3 +365,4 @@
 - [2026-04-14 11:12] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-04-14 11:40] fix(network): handle null assertion failure in network parser
 - [2026-04-14 12:50] refactor(storage): optimize data flow between domain and data layers
+- [2026-04-14 14:09] fix(test): resolve race condition during test initialization
