@@ -384,3 +384,4 @@
 - [2026-04-14 21:43] perf(auth): memoize expensive computations in auth
 - [2026-04-14 22:14] docs(test): update readme and API contracts for test
 - [2026-04-14 22:27] feat(theme): add async theme stream provider
+- [2026-04-14 22:29] perf(core): memoize expensive computations in core
