@@ -373,3 +373,4 @@
 - [2026-04-14 16:38] feat(theme): integrate custom telemetry logger in theme
 - [2026-04-14 16:39] refactor(security): optimize data flow between domain and data layers
 - [2026-04-14 17:00] fix(core): correct layout constraints and overflow in core
+- [2026-04-14 17:54] feat(auth): integrate custom telemetry logger in auth
