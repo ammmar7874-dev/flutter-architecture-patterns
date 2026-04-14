@@ -362,3 +362,4 @@
 - [2026-04-12 22:18] feat(state): integrate offline caching for state state
 - [2026-04-12 23:00] feat(i18n): add input validation and sanitization for i18n
 - [2026-04-14 10:18] feat(cache): implement shimmer loading skeleton in cache
+- [2026-04-14 11:12] style(storage): adjust design tokens, typography, and contrast in storage
