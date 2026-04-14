@@ -377,3 +377,4 @@
 - [2026-04-14 18:05] fix(state): correct layout constraints and overflow in state
 - [2026-04-14 18:32] feat(perf): add async perf stream provider
 - [2026-04-14 19:01] refactor(auth): migrate auth controller to modern notifier syntax
+- [2026-04-14 19:02] feat(cache): integrate custom telemetry logger in cache
