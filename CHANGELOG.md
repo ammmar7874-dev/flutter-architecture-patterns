@@ -381,3 +381,4 @@
 - [2026-04-14 19:28] style(state): harmonize light and dark theme palette for state
 - [2026-04-14 20:22] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-04-14 20:31] chore(ui): update dependencies and cleanup unused imports in ui
+- [2026-04-14 21:43] perf(auth): memoize expensive computations in auth
