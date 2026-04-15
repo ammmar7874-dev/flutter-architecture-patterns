@@ -406,3 +406,4 @@
 - [2026-04-15 20:12] feat(theme): implement shimmer loading skeleton in theme
 - [2026-04-15 21:39] refactor(storage): extract reusable atomic widgets from storage
 - [2026-04-15 22:09] feat(theme): add bi-directional event bus handler for theme
+- [2026-04-15 23:12] perf(forms): apply RepaintBoundary on animated forms widgets
