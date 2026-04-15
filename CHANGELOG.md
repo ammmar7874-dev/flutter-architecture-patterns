@@ -387,3 +387,4 @@
 - [2026-04-14 22:29] perf(core): memoize expensive computations in core
 - [2026-04-14 22:42] docs(auth): add detailed code comments and architecture guide for auth
 - [2026-04-15 09:13] docs(cache): add detailed code comments and architecture guide for cache
+- [2026-04-15 09:15] fix(security): prevent double tap duplicate action in security
