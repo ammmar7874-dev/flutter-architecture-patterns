@@ -396,3 +396,4 @@
 - [2026-04-15 12:49] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-04-15 13:10] refactor(network): extract reusable atomic widgets from network
 - [2026-04-15 13:13] feat(core): implement shimmer loading skeleton in core
+- [2026-04-15 13:29] perf(analytics): optimize memory consumption in analytics list viewport
