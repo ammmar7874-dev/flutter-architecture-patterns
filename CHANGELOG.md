@@ -394,3 +394,4 @@
 - [2026-04-15 11:06] fix(auth): correct layout constraints and overflow in auth
 - [2026-04-15 11:31] feat(state): add input validation and sanitization for state
 - [2026-04-15 12:49] refactor(auth): migrate auth controller to modern notifier syntax
+- [2026-04-15 13:10] refactor(network): extract reusable atomic widgets from network
