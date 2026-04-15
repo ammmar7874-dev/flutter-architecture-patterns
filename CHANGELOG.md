@@ -398,3 +398,4 @@
 - [2026-04-15 13:13] feat(core): implement shimmer loading skeleton in core
 - [2026-04-15 13:29] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-04-15 13:36] chore(storage): update dependencies and cleanup unused imports in storage
+- [2026-04-15 13:49] fix(i18n): resolve race condition during i18n initialization
