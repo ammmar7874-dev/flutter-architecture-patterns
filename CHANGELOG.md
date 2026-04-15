@@ -405,3 +405,4 @@
 - [2026-04-15 19:28] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-04-15 20:12] feat(theme): implement shimmer loading skeleton in theme
 - [2026-04-15 21:39] refactor(storage): extract reusable atomic widgets from storage
+- [2026-04-15 22:09] feat(theme): add bi-directional event bus handler for theme
