@@ -436,3 +436,4 @@
 - [2026-04-16 16:54] refactor(ui): extract reusable atomic widgets from ui
 - [2026-04-16 16:57] style(core): adjust design tokens, typography, and contrast in core
 - [2026-04-16 17:32] refactor(perf): decouple repository interface from concrete perf service
+- [2026-04-16 18:02] refactor(i18n): decouple repository interface from concrete i18n service
