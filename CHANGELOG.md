@@ -422,3 +422,4 @@
 - [2026-04-16 12:39] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-04-16 13:15] docs(cache): update readme and API contracts for cache
 - [2026-04-16 14:04] perf(storage): memoize expensive computations in storage
+- [2026-04-16 14:41] docs(network): update readme and API contracts for network
