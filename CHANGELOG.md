@@ -415,3 +415,4 @@
 - [2026-04-16 11:00] perf(i18n): memoize expensive computations in i18n
 - [2026-04-16 11:04] feat(cache): integrate offline caching for cache state
 - [2026-04-16 11:26] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-04-16 11:36] feat(forms): add input validation and sanitization for forms
