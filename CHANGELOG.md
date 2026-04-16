@@ -434,3 +434,4 @@
 - [2026-04-16 16:42] test(perf): implement widget integration tests for perf
 - [2026-04-16 16:47] refactor(i18n): optimize data flow between domain and data layers
 - [2026-04-16 16:54] refactor(ui): extract reusable atomic widgets from ui
+- [2026-04-16 16:57] style(core): adjust design tokens, typography, and contrast in core
