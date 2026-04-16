@@ -424,3 +424,4 @@
 - [2026-04-16 14:04] perf(storage): memoize expensive computations in storage
 - [2026-04-16 14:41] docs(network): update readme and API contracts for network
 - [2026-04-16 14:50] perf(core): apply RepaintBoundary on animated core widgets
+- [2026-04-16 15:00] perf(theme): optimize memory consumption in theme list viewport
