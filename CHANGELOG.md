@@ -426,3 +426,4 @@
 - [2026-04-16 14:50] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-04-16 15:00] perf(theme): optimize memory consumption in theme list viewport
 - [2026-04-16 15:03] feat(storage): implement responsive storage view component
+- [2026-04-16 15:05] perf(ui): apply RepaintBoundary on animated ui widgets
