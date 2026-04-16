@@ -442,3 +442,4 @@
 - [2026-04-16 18:31] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-04-16 18:35] fix(storage): prevent double tap duplicate action in storage
 - [2026-04-16 19:55] test(test): add unit tests for test business logic
+- [2026-04-16 20:02] docs(core): update readme and API contracts for core
