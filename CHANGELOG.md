@@ -444,3 +444,4 @@
 - [2026-04-16 19:55] test(test): add unit tests for test business logic
 - [2026-04-16 20:02] docs(core): update readme and API contracts for core
 - [2026-04-16 20:40] refactor(auth): extract reusable atomic widgets from auth
+- [2026-04-16 21:45] chore(test): update dependencies and cleanup unused imports in test
