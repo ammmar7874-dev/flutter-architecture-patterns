@@ -419,3 +419,4 @@
 - [2026-04-16 11:40] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-04-16 11:54] docs(storage): update readme and API contracts for storage
 - [2026-04-16 12:21] feat(core): add input validation and sanitization for core
+- [2026-04-16 12:39] refactor(navigation): decouple repository interface from concrete navigation service
