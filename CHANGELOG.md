@@ -417,3 +417,4 @@
 - [2026-04-16 11:26] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-04-16 11:36] feat(forms): add input validation and sanitization for forms
 - [2026-04-16 11:40] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-04-16 11:54] docs(storage): update readme and API contracts for storage
