@@ -423,3 +423,4 @@
 - [2026-04-16 13:15] docs(cache): update readme and API contracts for cache
 - [2026-04-16 14:04] perf(storage): memoize expensive computations in storage
 - [2026-04-16 14:41] docs(network): update readme and API contracts for network
+- [2026-04-16 14:50] perf(core): apply RepaintBoundary on animated core widgets
