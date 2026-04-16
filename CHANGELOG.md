@@ -439,3 +439,4 @@
 - [2026-04-16 18:02] refactor(i18n): decouple repository interface from concrete i18n service
 - [2026-04-16 18:09] feat(test): integrate custom telemetry logger in test
 - [2026-04-16 18:25] refactor(auth): decouple repository interface from concrete auth service
+- [2026-04-16 18:31] fix(cache): fix memory leak by cancelling cache subscription
