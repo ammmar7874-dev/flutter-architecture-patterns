@@ -428,3 +428,4 @@
 - [2026-04-16 15:03] feat(storage): implement responsive storage view component
 - [2026-04-16 15:05] perf(ui): apply RepaintBoundary on animated ui widgets
 - [2026-04-16 15:18] perf(test): memoize expensive computations in test
+- [2026-04-16 15:53] chore(core): update dependencies and cleanup unused imports in core
