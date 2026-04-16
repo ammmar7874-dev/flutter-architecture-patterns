@@ -437,3 +437,4 @@
 - [2026-04-16 16:57] style(core): adjust design tokens, typography, and contrast in core
 - [2026-04-16 17:32] refactor(perf): decouple repository interface from concrete perf service
 - [2026-04-16 18:02] refactor(i18n): decouple repository interface from concrete i18n service
+- [2026-04-16 18:09] feat(test): integrate custom telemetry logger in test
