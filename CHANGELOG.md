@@ -430,3 +430,4 @@
 - [2026-04-16 15:18] perf(test): memoize expensive computations in test
 - [2026-04-16 15:53] chore(core): update dependencies and cleanup unused imports in core
 - [2026-04-16 16:15] style(perf): harmonize light and dark theme palette for perf
+- [2026-04-16 16:26] fix(test): correct layout constraints and overflow in test
