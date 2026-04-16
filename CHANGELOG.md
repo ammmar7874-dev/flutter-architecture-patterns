@@ -425,3 +425,4 @@
 - [2026-04-16 14:41] docs(network): update readme and API contracts for network
 - [2026-04-16 14:50] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-04-16 15:00] perf(theme): optimize memory consumption in theme list viewport
+- [2026-04-16 15:03] feat(storage): implement responsive storage view component
