@@ -450,3 +450,4 @@
 - [2026-04-16 22:02] feat(analytics): add async analytics stream provider
 - [2026-04-16 22:36] feat(perf): implement responsive perf view component
 - [2026-04-16 23:04] style(ui): harmonize light and dark theme palette for ui
+- [2026-04-17 09:05] test(storage): add unit tests for storage business logic
