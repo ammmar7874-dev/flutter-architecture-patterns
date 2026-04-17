@@ -500,3 +500,4 @@
 - [2026-04-17 21:15] style(auth): harmonize light and dark theme palette for auth
 - [2026-04-17 21:24] feat(storage): add async storage stream provider
 - [2026-04-17 21:51] style(storage): harmonize light and dark theme palette for storage
+- [2026-04-17 21:53] feat(cache): implement shimmer loading skeleton in cache
