@@ -504,3 +504,4 @@
 - [2026-04-17 22:21] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-04-17 22:37] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-04-17 22:38] feat(network): add async network stream provider
+- [2026-04-17 23:13] refactor(state): decouple repository interface from concrete state service
