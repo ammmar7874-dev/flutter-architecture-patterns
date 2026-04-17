@@ -467,3 +467,4 @@
 - [2026-04-17 11:18] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-04-17 11:25] perf(ui): optimize memory consumption in ui list viewport
 - [2026-04-17 11:26] refactor(core): decouple repository interface from concrete core service
+- [2026-04-17 11:33] perf(core): optimize memory consumption in core list viewport
