@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-04-17 17:53:51
-// Commit: fix(i18n): resolve race condition during i18n initialization
+// Updated at: 2026-04-17 22:21:30
+// Commit: refactor(i18n): migrate i18n controller to modern notifier syntax
 
 class i18nComponentState {
-  final String commitRef = '488';
-  final String lastMessage = 'fix(i18n): resolve race condition during i18n initialization';
-  final DateTime timestamp = DateTime.parse('2026-04-17T17:53:51+05:00');
+  final String commitRef = '500';
+  final String lastMessage = 'refactor(i18n): migrate i18n controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-04-17T22:21:30+05:00');
 }
