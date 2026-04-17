@@ -489,3 +489,4 @@
 - [2026-04-17 16:41] test(storage): implement widget integration tests for storage
 - [2026-04-17 17:31] fix(theme): prevent double tap duplicate action in theme
 - [2026-04-17 17:35] refactor(network): optimize data flow between domain and data layers
+- [2026-04-17 17:53] fix(i18n): resolve race condition during i18n initialization
