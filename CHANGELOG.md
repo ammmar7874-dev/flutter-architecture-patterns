@@ -486,3 +486,4 @@
 - [2026-04-17 15:05] refactor(ui): decouple repository interface from concrete ui service
 - [2026-04-17 15:05] feat(test): implement responsive test view component
 - [2026-04-17 15:29] chore(forms): update dependencies and cleanup unused imports in forms
+- [2026-04-17 16:41] test(storage): implement widget integration tests for storage
