@@ -466,3 +466,4 @@
 - [2026-04-17 11:08] fix(core): resolve race condition during core initialization
 - [2026-04-17 11:18] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-04-17 11:25] perf(ui): optimize memory consumption in ui list viewport
+- [2026-04-17 11:26] refactor(core): decouple repository interface from concrete core service
