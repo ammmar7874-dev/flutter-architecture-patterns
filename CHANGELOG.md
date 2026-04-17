@@ -494,3 +494,4 @@
 - [2026-04-17 19:09] feat(ui): integrate custom telemetry logger in ui
 - [2026-04-17 19:10] test(theme): implement widget integration tests for theme
 - [2026-04-17 19:16] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-04-17 20:03] style(auth): adjust design tokens, typography, and contrast in auth
