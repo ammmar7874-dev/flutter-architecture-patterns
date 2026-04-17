@@ -487,3 +487,4 @@
 - [2026-04-17 15:05] feat(test): implement responsive test view component
 - [2026-04-17 15:29] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-04-17 16:41] test(storage): implement widget integration tests for storage
+- [2026-04-17 17:31] fix(theme): prevent double tap duplicate action in theme
