@@ -455,3 +455,4 @@
 - [2026-04-17 09:10] chore(perf): update dependencies and cleanup unused imports in perf
 - [2026-04-17 09:18] perf(state): optimize memory consumption in state list viewport
 - [2026-04-17 09:23] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-04-17 09:42] feat(security): integrate offline caching for security state
