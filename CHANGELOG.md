@@ -502,3 +502,4 @@
 - [2026-04-17 21:51] style(storage): harmonize light and dark theme palette for storage
 - [2026-04-17 21:53] feat(cache): implement shimmer loading skeleton in cache
 - [2026-04-17 22:21] refactor(i18n): migrate i18n controller to modern notifier syntax
+- [2026-04-17 22:37] docs(cache): add detailed code comments and architecture guide for cache
