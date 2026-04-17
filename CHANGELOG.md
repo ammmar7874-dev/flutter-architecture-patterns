@@ -458,3 +458,4 @@
 - [2026-04-17 09:42] feat(security): integrate offline caching for security state
 - [2026-04-17 09:54] fix(security): correct layout constraints and overflow in security
 - [2026-04-17 09:55] feat(cache): add input validation and sanitization for cache
+- [2026-04-17 10:28] feat(cache): add async cache stream provider
