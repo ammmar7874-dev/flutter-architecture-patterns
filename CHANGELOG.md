@@ -478,3 +478,4 @@
 - [2026-04-17 13:32] feat(storage): implement responsive storage view component
 - [2026-04-17 13:45] fix(perf): correct layout constraints and overflow in perf
 - [2026-04-17 13:56] feat(perf): implement responsive perf view component
+- [2026-04-17 13:59] fix(security): prevent double tap duplicate action in security
