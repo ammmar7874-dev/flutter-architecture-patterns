@@ -473,3 +473,4 @@
 - [2026-04-17 11:56] test(navigation): add unit tests for navigation business logic
 - [2026-04-17 11:59] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-04-17 12:57] feat(cache): add bi-directional event bus handler for cache
+- [2026-04-17 13:02] docs(core): add detailed code comments and architecture guide for core
