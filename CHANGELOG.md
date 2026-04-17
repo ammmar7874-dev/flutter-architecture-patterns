@@ -474,3 +474,4 @@
 - [2026-04-17 11:59] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-04-17 12:57] feat(cache): add bi-directional event bus handler for cache
 - [2026-04-17 13:02] docs(core): add detailed code comments and architecture guide for core
+- [2026-04-17 13:26] refactor(test): migrate test controller to modern notifier syntax
