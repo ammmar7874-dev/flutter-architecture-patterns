@@ -453,3 +453,4 @@
 - [2026-04-17 09:05] test(storage): add unit tests for storage business logic
 - [2026-04-17 09:08] perf(ui): memoize expensive computations in ui
 - [2026-04-17 09:10] chore(perf): update dependencies and cleanup unused imports in perf
+- [2026-04-17 09:18] perf(state): optimize memory consumption in state list viewport
