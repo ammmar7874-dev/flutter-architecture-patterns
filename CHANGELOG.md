@@ -472,3 +472,4 @@
 - [2026-04-17 11:49] refactor(storage): decouple repository interface from concrete storage service
 - [2026-04-17 11:56] test(navigation): add unit tests for navigation business logic
 - [2026-04-17 11:59] docs(forms): add detailed code comments and architecture guide for forms
+- [2026-04-17 12:57] feat(cache): add bi-directional event bus handler for cache
