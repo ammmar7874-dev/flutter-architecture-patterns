@@ -522,3 +522,4 @@
 - [2026-04-18 14:02] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-04-18 14:06] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-04-18 14:09] style(theme): adjust design tokens, typography, and contrast in theme
+- [2026-04-18 14:32] feat(storage): add async storage stream provider
