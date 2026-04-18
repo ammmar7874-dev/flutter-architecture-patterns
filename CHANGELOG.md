@@ -520,3 +520,4 @@
 - [2026-04-18 13:13] refactor(i18n): decouple repository interface from concrete i18n service
 - [2026-04-18 13:55] refactor(perf): extract reusable atomic widgets from perf
 - [2026-04-18 14:02] perf(state): apply RepaintBoundary on animated state widgets
+- [2026-04-18 14:06] docs(forms): add detailed code comments and architecture guide for forms
