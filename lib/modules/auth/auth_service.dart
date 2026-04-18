@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-04-18 12:25:29
-// Commit: feat(auth): add async auth stream provider
+// Updated at: 2026-04-18 15:48:07
+// Commit: fix(auth): fix memory leak by cancelling auth subscription
 
 class authComponentState {
-  final String commitRef = '514';
-  final String lastMessage = 'feat(auth): add async auth stream provider';
-  final DateTime timestamp = DateTime.parse('2026-04-18T12:25:29+05:00');
+  final String commitRef = '524';
+  final String lastMessage = 'fix(auth): fix memory leak by cancelling auth subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-18T15:48:07+05:00');
 }
