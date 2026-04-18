@@ -532,3 +532,4 @@
 - [2026-04-18 18:38] docs(ui): update readme and API contracts for ui
 - [2026-04-18 18:39] refactor(network): extract reusable atomic widgets from network
 - [2026-04-18 18:45] docs(analytics): update readme and API contracts for analytics
+- [2026-04-18 18:48] style(core): harmonize light and dark theme palette for core
