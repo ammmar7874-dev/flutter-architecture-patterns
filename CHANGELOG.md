@@ -539,3 +539,4 @@
 - [2026-04-18 20:08] style(network): harmonize light and dark theme palette for network
 - [2026-04-18 20:27] feat(perf): add input validation and sanitization for perf
 - [2026-04-18 20:55] test(auth): implement widget integration tests for auth
+- [2026-04-18 21:39] refactor(theme): decouple repository interface from concrete theme service
