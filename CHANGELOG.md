@@ -516,3 +516,4 @@
 - [2026-04-18 12:06] test(theme): add unit tests for theme business logic
 - [2026-04-18 12:09] perf(security): memoize expensive computations in security
 - [2026-04-18 12:25] feat(auth): add async auth stream provider
+- [2026-04-18 12:50] fix(security): correct layout constraints and overflow in security
