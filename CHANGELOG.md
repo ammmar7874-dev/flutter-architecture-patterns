@@ -542,3 +542,4 @@
 - [2026-04-18 21:39] refactor(theme): decouple repository interface from concrete theme service
 - [2026-04-18 21:48] feat(auth): implement shimmer loading skeleton in auth
 - [2026-04-18 22:27] refactor(navigation): extract reusable atomic widgets from navigation
+- [2026-04-18 22:34] feat(ui): integrate offline caching for ui state
