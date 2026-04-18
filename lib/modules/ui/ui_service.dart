@@ -1,9 +1,9 @@
 ﻿// Module: ui
-// Updated at: 2026-04-17 19:09:05
-// Commit: feat(ui): integrate custom telemetry logger in ui
+// Updated at: 2026-04-18 11:51:48
+// Commit: fix(ui): fix memory leak by cancelling ui subscription
 
 class uiComponentState {
-  final String commitRef = '490';
-  final String lastMessage = 'feat(ui): integrate custom telemetry logger in ui';
-  final DateTime timestamp = DateTime.parse('2026-04-17T19:09:05+05:00');
+  final String commitRef = '509';
+  final String lastMessage = 'fix(ui): fix memory leak by cancelling ui subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-18T11:51:48+05:00');
 }

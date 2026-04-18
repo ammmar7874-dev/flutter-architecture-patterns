@@ -510,3 +510,4 @@
 - [2026-04-18 09:40] feat(perf): implement responsive perf view component
 - [2026-04-18 11:42] feat(forms): implement responsive forms view component
 - [2026-04-18 11:44] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-04-18 11:51] fix(ui): fix memory leak by cancelling ui subscription
