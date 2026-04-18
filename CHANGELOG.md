@@ -526,3 +526,4 @@
 - [2026-04-18 15:01] fix(i18n): resolve race condition during i18n initialization
 - [2026-04-18 15:41] feat(forms): implement responsive forms view component
 - [2026-04-18 15:48] fix(auth): fix memory leak by cancelling auth subscription
+- [2026-04-18 16:32] perf(auth): apply RepaintBoundary on animated auth widgets
