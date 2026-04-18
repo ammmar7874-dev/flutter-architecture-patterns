@@ -529,3 +529,4 @@
 - [2026-04-18 16:32] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-04-18 16:55] feat(i18n): add async i18n stream provider
 - [2026-04-18 18:28] fix(auth): correct layout constraints and overflow in auth
+- [2026-04-18 18:38] docs(ui): update readme and API contracts for ui
