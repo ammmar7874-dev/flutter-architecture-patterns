@@ -512,3 +512,4 @@
 - [2026-04-18 11:44] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-04-18 11:51] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-04-18 11:56] fix(forms): resolve race condition during forms initialization
+- [2026-04-18 12:06] chore(theme): update dependencies and cleanup unused imports in theme
