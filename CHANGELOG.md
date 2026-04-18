@@ -536,3 +536,4 @@
 - [2026-04-18 18:53] style(theme): adjust design tokens, typography, and contrast in theme
 - [2026-04-18 19:02] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-04-18 19:57] feat(storage): add async storage stream provider
+- [2026-04-18 20:08] style(network): harmonize light and dark theme palette for network
