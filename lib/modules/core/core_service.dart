@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-04-18 18:48:09
-// Commit: style(core): harmonize light and dark theme palette for core
+// Updated at: 2026-04-21 11:57:33
+// Commit: fix(core): handle null assertion failure in core parser
 
 class coreComponentState {
-  final String commitRef = '531';
-  final String lastMessage = 'style(core): harmonize light and dark theme palette for core';
-  final DateTime timestamp = DateTime.parse('2026-04-18T18:48:09+05:00');
+  final String commitRef = '545';
+  final String lastMessage = 'fix(core): handle null assertion failure in core parser';
+  final DateTime timestamp = DateTime.parse('2026-04-21T11:57:33+05:00');
 }
