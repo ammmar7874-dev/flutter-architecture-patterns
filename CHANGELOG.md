@@ -550,3 +550,4 @@
 - [2026-04-21 14:07] refactor(state): migrate state controller to modern notifier syntax
 - [2026-04-21 14:58] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-04-21 16:17] fix(network): handle null assertion failure in network parser
+- [2026-04-21 16:50] fix(test): correct layout constraints and overflow in test
