@@ -553,3 +553,4 @@
 - [2026-04-21 16:50] fix(test): correct layout constraints and overflow in test
 - [2026-04-21 22:13] refactor(theme): decouple repository interface from concrete theme service
 - [2026-04-21 23:06] feat(i18n): integrate offline caching for i18n state
+- [2026-04-21 23:07] fix(i18n): correct layout constraints and overflow in i18n
