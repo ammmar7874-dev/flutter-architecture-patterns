@@ -547,3 +547,4 @@
 - [2026-04-21 11:12] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-04-21 11:20] fix(storage): handle null assertion failure in storage parser
 - [2026-04-21 11:57] fix(core): handle null assertion failure in core parser
+- [2026-04-21 14:07] refactor(state): migrate state controller to modern notifier syntax
