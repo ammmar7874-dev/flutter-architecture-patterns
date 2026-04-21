@@ -545,3 +545,4 @@
 - [2026-04-18 22:34] feat(ui): integrate offline caching for ui state
 - [2026-04-21 11:10] feat(navigation): add bi-directional event bus handler for navigation
 - [2026-04-21 11:12] perf(auth): apply RepaintBoundary on animated auth widgets
+- [2026-04-21 11:20] fix(storage): handle null assertion failure in storage parser
