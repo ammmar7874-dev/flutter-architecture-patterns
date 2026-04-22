@@ -562,3 +562,4 @@
 - [2026-04-22 13:59] style(test): adjust design tokens, typography, and contrast in test
 - [2026-04-22 16:00] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-04-22 16:15] refactor(theme): extract reusable atomic widgets from theme
+- [2026-04-22 16:51] fix(perf): correct layout constraints and overflow in perf
