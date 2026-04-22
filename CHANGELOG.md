@@ -565,3 +565,4 @@
 - [2026-04-22 16:51] fix(perf): correct layout constraints and overflow in perf
 - [2026-04-22 18:13] refactor(state): decouple repository interface from concrete state service
 - [2026-04-22 19:20] fix(network): handle null assertion failure in network parser
+- [2026-04-22 20:38] test(forms): add unit tests for forms business logic
