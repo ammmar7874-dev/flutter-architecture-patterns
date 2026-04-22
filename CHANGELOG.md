@@ -556,3 +556,4 @@
 - [2026-04-21 23:07] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-04-22 09:23] feat(state): implement responsive state view component
 - [2026-04-22 09:35] refactor(perf): migrate perf controller to modern notifier syntax
+- [2026-04-22 11:16] perf(perf): optimize memory consumption in perf list viewport
