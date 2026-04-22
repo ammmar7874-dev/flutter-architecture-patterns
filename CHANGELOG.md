@@ -568,3 +568,4 @@
 - [2026-04-22 20:38] test(forms): add unit tests for forms business logic
 - [2026-04-22 20:49] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-04-22 21:02] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-04-22 21:59] perf(i18n): memoize expensive computations in i18n
