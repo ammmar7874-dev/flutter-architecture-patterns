@@ -577,3 +577,4 @@
 - [2026-04-23 09:56] feat(cache): implement shimmer loading skeleton in cache
 - [2026-04-23 10:07] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-04-23 10:11] feat(perf): integrate custom telemetry logger in perf
+- [2026-04-23 10:21] fix(navigation): correct layout constraints and overflow in navigation
