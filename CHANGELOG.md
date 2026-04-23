@@ -575,3 +575,4 @@
 - [2026-04-23 09:49] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-04-23 09:55] feat(auth): integrate custom telemetry logger in auth
 - [2026-04-23 09:56] feat(cache): implement shimmer loading skeleton in cache
+- [2026-04-23 10:07] chore(analytics): update dependencies and cleanup unused imports in analytics
