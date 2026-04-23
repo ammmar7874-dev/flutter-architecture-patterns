@@ -598,3 +598,4 @@
 - [2026-04-23 16:21] perf(theme): memoize expensive computations in theme
 - [2026-04-23 16:22] feat(theme): implement responsive theme view component
 - [2026-04-23 16:25] style(test): adjust design tokens, typography, and contrast in test
+- [2026-04-23 17:00] fix(auth): fix memory leak by cancelling auth subscription
