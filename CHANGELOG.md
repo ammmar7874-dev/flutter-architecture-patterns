@@ -615,3 +615,4 @@
 - [2026-04-23 20:45] refactor(network): decouple repository interface from concrete network service
 - [2026-04-23 20:50] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-04-23 21:02] feat(navigation): add async navigation stream provider
+- [2026-04-23 21:09] test(theme): implement widget integration tests for theme
