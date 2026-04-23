@@ -595,3 +595,4 @@
 - [2026-04-23 15:20] test(i18n): implement widget integration tests for i18n
 - [2026-04-23 15:52] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-04-23 16:16] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-04-23 16:21] perf(theme): memoize expensive computations in theme
