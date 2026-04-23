@@ -583,3 +583,4 @@
 - [2026-04-23 10:35] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-04-23 11:06] test(analytics): add unit tests for analytics business logic
 - [2026-04-23 11:19] feat(ui): add input validation and sanitization for ui
+- [2026-04-23 12:02] perf(storage): apply RepaintBoundary on animated storage widgets
