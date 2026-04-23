@@ -585,3 +585,4 @@
 - [2026-04-23 11:19] feat(ui): add input validation and sanitization for ui
 - [2026-04-23 12:02] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-04-23 12:03] perf(forms): memoize expensive computations in forms
+- [2026-04-23 12:22] docs(ui): update readme and API contracts for ui
