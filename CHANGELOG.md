@@ -619,3 +619,4 @@
 - [2026-04-23 21:09] style(auth): harmonize light and dark theme palette for auth
 - [2026-04-23 21:10] docs(core): update readme and API contracts for core
 - [2026-04-23 21:11] docs(network): update readme and API contracts for network
+- [2026-04-23 21:43] fix(ui): fix memory leak by cancelling ui subscription
