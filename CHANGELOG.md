@@ -621,3 +621,4 @@
 - [2026-04-23 21:11] docs(network): update readme and API contracts for network
 - [2026-04-23 21:43] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-04-23 22:11] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-04-23 22:14] perf(security): memoize expensive computations in security
