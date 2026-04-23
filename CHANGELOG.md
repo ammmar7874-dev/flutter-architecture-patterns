@@ -604,3 +604,4 @@
 - [2026-04-23 17:43] feat(forms): add bi-directional event bus handler for forms
 - [2026-04-23 18:15] feat(core): integrate custom telemetry logger in core
 - [2026-04-23 18:34] fix(analytics): handle null assertion failure in analytics parser
+- [2026-04-23 18:38] fix(auth): prevent double tap duplicate action in auth
