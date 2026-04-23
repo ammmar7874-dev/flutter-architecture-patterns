@@ -610,3 +610,4 @@
 - [2026-04-23 18:55] test(test): add unit tests for test business logic
 - [2026-04-23 19:10] feat(storage): add input validation and sanitization for storage
 - [2026-04-23 19:22] fix(core): correct layout constraints and overflow in core
+- [2026-04-23 20:13] feat(core): implement shimmer loading skeleton in core
