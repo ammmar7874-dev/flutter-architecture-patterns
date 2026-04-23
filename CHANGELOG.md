@@ -593,3 +593,4 @@
 - [2026-04-23 14:02] test(ui): add unit tests for ui business logic
 - [2026-04-23 14:07] fix(cache): resolve race condition during cache initialization
 - [2026-04-23 15:20] test(i18n): implement widget integration tests for i18n
+- [2026-04-23 15:52] refactor(analytics): migrate analytics controller to modern notifier syntax
