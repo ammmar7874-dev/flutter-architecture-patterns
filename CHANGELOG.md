@@ -571,3 +571,4 @@
 - [2026-04-22 21:59] perf(i18n): memoize expensive computations in i18n
 - [2026-04-22 22:08] refactor(core): optimize data flow between domain and data layers
 - [2026-04-22 23:22] perf(auth): apply RepaintBoundary on animated auth widgets
+- [2026-04-23 09:36] fix(forms): resolve race condition during forms initialization
