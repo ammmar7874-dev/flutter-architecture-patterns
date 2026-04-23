@@ -601,3 +601,4 @@
 - [2026-04-23 17:00] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-04-23 17:18] feat(analytics): add input validation and sanitization for analytics
 - [2026-04-23 17:26] refactor(perf): decouple repository interface from concrete perf service
+- [2026-04-23 17:43] feat(forms): add bi-directional event bus handler for forms
