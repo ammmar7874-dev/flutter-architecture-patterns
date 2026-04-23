@@ -617,3 +617,4 @@
 - [2026-04-23 21:02] feat(navigation): add async navigation stream provider
 - [2026-04-23 21:09] test(theme): implement widget integration tests for theme
 - [2026-04-23 21:09] style(auth): harmonize light and dark theme palette for auth
+- [2026-04-23 21:10] docs(core): update readme and API contracts for core
