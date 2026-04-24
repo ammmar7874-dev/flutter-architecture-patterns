@@ -644,3 +644,4 @@
 - [2026-04-24 17:20] fix(theme): correct layout constraints and overflow in theme
 - [2026-04-24 17:59] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-04-24 18:24] docs(i18n): update readme and API contracts for i18n
+- [2026-04-24 18:35] refactor(core): decouple repository interface from concrete core service
