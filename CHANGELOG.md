@@ -632,3 +632,4 @@
 - [2026-04-24 11:30] docs(perf): update readme and API contracts for perf
 - [2026-04-24 11:50] docs(state): add detailed code comments and architecture guide for state
 - [2026-04-24 12:25] perf(perf): optimize memory consumption in perf list viewport
+- [2026-04-24 12:46] refactor(i18n): migrate i18n controller to modern notifier syntax
