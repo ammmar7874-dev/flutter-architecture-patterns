@@ -640,3 +640,4 @@
 - [2026-04-24 15:15] style(core): harmonize light and dark theme palette for core
 - [2026-04-24 16:33] feat(navigation): implement responsive navigation view component
 - [2026-04-24 16:47] fix(analytics): prevent double tap duplicate action in analytics
+- [2026-04-24 16:53] fix(cache): correct layout constraints and overflow in cache
