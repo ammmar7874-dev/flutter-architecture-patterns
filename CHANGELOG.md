@@ -652,3 +652,4 @@
 - [2026-04-24 21:06] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-04-24 21:30] feat(test): add bi-directional event bus handler for test
 - [2026-04-24 21:54] perf(test): optimize memory consumption in test list viewport
+- [2026-04-24 22:56] refactor(cache): decouple repository interface from concrete cache service
