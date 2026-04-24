@@ -629,3 +629,4 @@
 - [2026-04-23 23:28] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-04-24 09:22] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-04-24 11:05] feat(perf): integrate custom telemetry logger in perf
+- [2026-04-24 11:30] docs(perf): update readme and API contracts for perf
