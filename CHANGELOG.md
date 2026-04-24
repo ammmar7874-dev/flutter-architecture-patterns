@@ -642,3 +642,4 @@
 - [2026-04-24 16:47] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-04-24 16:53] fix(cache): correct layout constraints and overflow in cache
 - [2026-04-24 17:20] fix(theme): correct layout constraints and overflow in theme
+- [2026-04-24 17:59] perf(perf): apply RepaintBoundary on animated perf widgets
