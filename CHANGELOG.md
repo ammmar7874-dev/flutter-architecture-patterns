@@ -643,3 +643,4 @@
 - [2026-04-24 16:53] fix(cache): correct layout constraints and overflow in cache
 - [2026-04-24 17:20] fix(theme): correct layout constraints and overflow in theme
 - [2026-04-24 17:59] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-04-24 18:24] docs(i18n): update readme and API contracts for i18n
