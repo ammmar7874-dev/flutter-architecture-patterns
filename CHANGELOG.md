@@ -635,3 +635,4 @@
 - [2026-04-24 12:46] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-04-24 12:49] feat(network): integrate offline caching for network state
 - [2026-04-24 12:51] feat(network): add async network stream provider
+- [2026-04-24 13:27] fix(security): resolve race condition during security initialization
