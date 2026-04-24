@@ -627,3 +627,4 @@
 - [2026-04-23 22:47] test(navigation): add unit tests for navigation business logic
 - [2026-04-23 23:17] refactor(theme): optimize data flow between domain and data layers
 - [2026-04-23 23:28] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-04-24 09:22] refactor(navigation): decouple repository interface from concrete navigation service
