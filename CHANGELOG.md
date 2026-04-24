@@ -630,3 +630,4 @@
 - [2026-04-24 09:22] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-04-24 11:05] feat(perf): integrate custom telemetry logger in perf
 - [2026-04-24 11:30] docs(perf): update readme and API contracts for perf
+- [2026-04-24 11:50] docs(state): add detailed code comments and architecture guide for state
