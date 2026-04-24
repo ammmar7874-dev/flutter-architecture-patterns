@@ -651,3 +651,4 @@
 - [2026-04-24 20:36] feat(cache): integrate custom telemetry logger in cache
 - [2026-04-24 21:06] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-04-24 21:30] feat(test): add bi-directional event bus handler for test
+- [2026-04-24 21:54] perf(test): optimize memory consumption in test list viewport
