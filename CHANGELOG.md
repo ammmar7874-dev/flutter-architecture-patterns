@@ -674,3 +674,4 @@
 - [2026-04-25 14:29] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-04-25 15:08] test(analytics): implement widget integration tests for analytics
 - [2026-04-25 15:57] feat(security): add bi-directional event bus handler for security
+- [2026-04-25 17:04] feat(perf): implement responsive perf view component
