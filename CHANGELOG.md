@@ -675,3 +675,4 @@
 - [2026-04-25 15:08] test(analytics): implement widget integration tests for analytics
 - [2026-04-25 15:57] feat(security): add bi-directional event bus handler for security
 - [2026-04-25 17:04] feat(perf): implement responsive perf view component
+- [2026-04-25 17:30] feat(auth): add input validation and sanitization for auth
