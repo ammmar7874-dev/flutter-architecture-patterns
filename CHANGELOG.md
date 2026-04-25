@@ -677,3 +677,4 @@
 - [2026-04-25 17:04] feat(perf): implement responsive perf view component
 - [2026-04-25 17:30] feat(auth): add input validation and sanitization for auth
 - [2026-04-25 17:36] feat(i18n): integrate offline caching for i18n state
+- [2026-04-25 18:33] feat(theme): integrate offline caching for theme state
