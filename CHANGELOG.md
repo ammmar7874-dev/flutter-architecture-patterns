@@ -682,3 +682,4 @@
 - [2026-04-25 18:37] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-04-25 18:49] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-04-25 19:19] test(state): implement widget integration tests for state
+- [2026-04-25 19:33] feat(forms): integrate offline caching for forms state
