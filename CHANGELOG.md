@@ -687,3 +687,4 @@
 - [2026-04-25 19:58] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-04-25 20:39] chore(navigation): update dependencies and cleanup unused imports in navigation
 - [2026-04-25 20:57] test(i18n): implement widget integration tests for i18n
+- [2026-04-25 21:01] refactor(navigation): extract reusable atomic widgets from navigation
