@@ -693,3 +693,4 @@
 - [2026-04-25 21:20] feat(security): add input validation and sanitization for security
 - [2026-04-25 21:24] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-04-25 21:53] perf(cache): apply RepaintBoundary on animated cache widgets
+- [2026-04-25 22:03] fix(core): fix memory leak by cancelling core subscription
