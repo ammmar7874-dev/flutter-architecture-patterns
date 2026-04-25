@@ -656,3 +656,4 @@
 - [2026-04-24 23:08] refactor(security): decouple repository interface from concrete security service
 - [2026-04-25 09:10] feat(security): integrate offline caching for security state
 - [2026-04-25 09:14] test(i18n): implement widget integration tests for i18n
+- [2026-04-25 10:16] refactor(security): migrate security controller to modern notifier syntax
