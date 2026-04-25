@@ -685,3 +685,4 @@
 - [2026-04-25 19:33] feat(forms): integrate offline caching for forms state
 - [2026-04-25 19:34] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-04-25 19:58] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-04-25 20:39] chore(navigation): update dependencies and cleanup unused imports in navigation
