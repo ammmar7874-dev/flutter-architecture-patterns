@@ -654,3 +654,4 @@
 - [2026-04-24 21:54] perf(test): optimize memory consumption in test list viewport
 - [2026-04-24 22:56] refactor(cache): decouple repository interface from concrete cache service
 - [2026-04-24 23:08] refactor(security): decouple repository interface from concrete security service
+- [2026-04-25 09:10] feat(security): integrate offline caching for security state
