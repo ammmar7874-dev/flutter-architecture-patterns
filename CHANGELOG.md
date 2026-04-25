@@ -695,3 +695,4 @@
 - [2026-04-25 21:53] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-04-25 22:03] fix(core): fix memory leak by cancelling core subscription
 - [2026-04-25 22:22] chore(i18n): update dependencies and cleanup unused imports in i18n
+- [2026-04-25 22:41] feat(auth): implement responsive auth view component
