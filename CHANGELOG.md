@@ -658,3 +658,4 @@
 - [2026-04-25 09:14] test(i18n): implement widget integration tests for i18n
 - [2026-04-25 10:16] refactor(security): migrate security controller to modern notifier syntax
 - [2026-04-25 10:42] fix(perf): correct layout constraints and overflow in perf
+- [2026-04-25 10:49] refactor(analytics): decouple repository interface from concrete analytics service
