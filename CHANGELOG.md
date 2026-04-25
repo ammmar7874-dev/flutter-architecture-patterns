@@ -697,3 +697,4 @@
 - [2026-04-25 22:22] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-04-25 22:41] feat(auth): implement responsive auth view component
 - [2026-04-25 22:48] feat(network): integrate custom telemetry logger in network
+- [2026-04-25 23:21] perf(auth): memoize expensive computations in auth
