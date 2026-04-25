@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-04-25 15:08:35
-// Commit: test(analytics): implement widget integration tests for analytics
+// Updated at: 2026-04-25 18:49:11
+// Commit: fix(analytics): fix memory leak by cancelling analytics subscription
 
 class analyticsComponentState {
-  final String commitRef = '671';
-  final String lastMessage = 'test(analytics): implement widget integration tests for analytics';
-  final DateTime timestamp = DateTime.parse('2026-04-25T15:08:35+05:00');
+  final String commitRef = '679';
+  final String lastMessage = 'fix(analytics): fix memory leak by cancelling analytics subscription';
+  final DateTime timestamp = DateTime.parse('2026-04-25T18:49:11+05:00');
 }

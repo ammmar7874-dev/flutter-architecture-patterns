@@ -680,3 +680,4 @@
 - [2026-04-25 18:33] feat(theme): integrate offline caching for theme state
 - [2026-04-25 18:34] refactor(theme): decouple repository interface from concrete theme service
 - [2026-04-25 18:37] refactor(navigation): extract reusable atomic widgets from navigation
+- [2026-04-25 18:49] fix(analytics): fix memory leak by cancelling analytics subscription
