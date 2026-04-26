@@ -713,3 +713,4 @@
 - [2026-04-26 15:16] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-04-26 15:17] feat(perf): implement shimmer loading skeleton in perf
 - [2026-04-26 15:49] perf(analytics): memoize expensive computations in analytics
+- [2026-04-26 16:06] fix(navigation): correct layout constraints and overflow in navigation
