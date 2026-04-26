@@ -733,3 +733,4 @@
 - [2026-04-26 21:07] fix(test): prevent double tap duplicate action in test
 - [2026-04-26 21:14] style(core): adjust design tokens, typography, and contrast in core
 - [2026-04-26 21:15] fix(forms): correct layout constraints and overflow in forms
+- [2026-04-26 21:29] perf(analytics): memoize expensive computations in analytics
