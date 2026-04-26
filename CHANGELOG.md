@@ -725,3 +725,4 @@
 - [2026-04-26 18:04] refactor(storage): extract reusable atomic widgets from storage
 - [2026-04-26 18:20] perf(perf): optimize memory consumption in perf list viewport
 - [2026-04-26 19:08] test(ui): add unit tests for ui business logic
+- [2026-04-26 19:37] perf(navigation): apply RepaintBoundary on animated navigation widgets
