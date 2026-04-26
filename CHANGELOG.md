@@ -722,3 +722,4 @@
 - [2026-04-26 17:40] style(ui): harmonize light and dark theme palette for ui
 - [2026-04-26 17:44] feat(theme): add async theme stream provider
 - [2026-04-26 17:45] fix(network): fix memory leak by cancelling network subscription
+- [2026-04-26 18:04] refactor(storage): extract reusable atomic widgets from storage
