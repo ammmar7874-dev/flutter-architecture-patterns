@@ -706,3 +706,4 @@
 - [2026-04-26 11:28] fix(core): prevent double tap duplicate action in core
 - [2026-04-26 12:21] test(navigation): implement widget integration tests for navigation
 - [2026-04-26 12:38] feat(network): add input validation and sanitization for network
+- [2026-04-26 13:04] style(storage): adjust design tokens, typography, and contrast in storage
