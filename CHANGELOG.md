@@ -721,3 +721,4 @@
 - [2026-04-26 17:32] test(i18n): add unit tests for i18n business logic
 - [2026-04-26 17:40] style(ui): harmonize light and dark theme palette for ui
 - [2026-04-26 17:44] feat(theme): add async theme stream provider
+- [2026-04-26 17:45] fix(network): fix memory leak by cancelling network subscription
