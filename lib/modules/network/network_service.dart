@@ -1,9 +1,9 @@
 ﻿// Module: network
-// Updated at: 2026-04-26 17:45:47
-// Commit: fix(network): fix memory leak by cancelling network subscription
+// Updated at: 2026-04-26 23:18:48
+// Commit: fix(network): handle null assertion failure in network parser
 
 class networkComponentState {
-  final String commitRef = '720';
-  final String lastMessage = 'fix(network): fix memory leak by cancelling network subscription';
-  final DateTime timestamp = DateTime.parse('2026-04-26T17:45:47+05:00');
+  final String commitRef = '735';
+  final String lastMessage = 'fix(network): handle null assertion failure in network parser';
+  final DateTime timestamp = DateTime.parse('2026-04-26T23:18:48+05:00');
 }

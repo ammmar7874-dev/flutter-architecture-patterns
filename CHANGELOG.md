@@ -736,3 +736,4 @@
 - [2026-04-26 21:29] perf(analytics): memoize expensive computations in analytics
 - [2026-04-26 21:32] feat(navigation): implement responsive navigation view component
 - [2026-04-26 22:38] docs(forms): update readme and API contracts for forms
+- [2026-04-26 23:18] fix(network): handle null assertion failure in network parser
