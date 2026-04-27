@@ -744,3 +744,4 @@
 - [2026-04-27 15:02] feat(network): integrate custom telemetry logger in network
 - [2026-04-27 18:00] fix(cache): resolve race condition during cache initialization
 - [2026-04-27 18:12] fix(security): prevent double tap duplicate action in security
+- [2026-04-27 18:18] fix(forms): resolve race condition during forms initialization
