@@ -738,3 +738,4 @@
 - [2026-04-26 22:38] docs(forms): update readme and API contracts for forms
 - [2026-04-26 23:18] fix(network): handle null assertion failure in network parser
 - [2026-04-27 09:30] refactor(perf): extract reusable atomic widgets from perf
+- [2026-04-27 10:44] refactor(navigation): migrate navigation controller to modern notifier syntax
