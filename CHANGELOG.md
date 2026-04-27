@@ -742,3 +742,4 @@
 - [2026-04-27 12:20] perf(storage): memoize expensive computations in storage
 - [2026-04-27 14:32] chore(state): update dependencies and cleanup unused imports in state
 - [2026-04-27 15:02] feat(network): integrate custom telemetry logger in network
+- [2026-04-27 18:00] fix(cache): resolve race condition during cache initialization
