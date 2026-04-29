@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-04-29 09:35:18
-// Commit: perf(navigation): optimize memory consumption in navigation list viewport
+// Updated at: 2026-04-29 09:40:26
+// Commit: fix(navigation): correct layout constraints and overflow in navigation
 
 class navigationComponentState {
-  final String commitRef = '745';
-  final String lastMessage = 'perf(navigation): optimize memory consumption in navigation list viewport';
-  final DateTime timestamp = DateTime.parse('2026-04-29T09:35:18+05:00');
+  final String commitRef = '746';
+  final String lastMessage = 'fix(navigation): correct layout constraints and overflow in navigation';
+  final DateTime timestamp = DateTime.parse('2026-04-29T09:40:26+05:00');
 }
