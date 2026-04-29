@@ -762,3 +762,4 @@
 - [2026-04-29 12:55] refactor(perf): extract reusable atomic widgets from perf
 - [2026-04-29 13:04] refactor(state): migrate state controller to modern notifier syntax
 - [2026-04-29 13:25] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-04-29 13:38] docs(navigation): update readme and API contracts for navigation
