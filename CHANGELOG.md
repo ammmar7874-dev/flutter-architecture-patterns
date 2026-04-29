@@ -754,3 +754,4 @@
 - [2026-04-29 11:17] perf(security): memoize expensive computations in security
 - [2026-04-29 11:21] test(test): add unit tests for test business logic
 - [2026-04-29 11:35] fix(navigation): handle null assertion failure in navigation parser
+- [2026-04-29 11:43] feat(core): integrate offline caching for core state
