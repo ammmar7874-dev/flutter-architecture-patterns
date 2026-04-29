@@ -751,3 +751,4 @@
 - [2026-04-29 10:03] feat(storage): integrate custom telemetry logger in storage
 - [2026-04-29 10:21] feat(theme): add async theme stream provider
 - [2026-04-29 10:30] feat(storage): add input validation and sanitization for storage
+- [2026-04-29 11:17] perf(security): memoize expensive computations in security
