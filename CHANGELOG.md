@@ -764,3 +764,4 @@
 - [2026-04-29 13:25] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-04-29 13:38] docs(navigation): update readme and API contracts for navigation
 - [2026-04-29 13:47] test(navigation): implement widget integration tests for navigation
+- [2026-04-29 15:42] chore(forms): update dependencies and cleanup unused imports in forms
