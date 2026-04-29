@@ -746,3 +746,4 @@
 - [2026-04-27 18:12] fix(security): prevent double tap duplicate action in security
 - [2026-04-27 18:18] fix(forms): resolve race condition during forms initialization
 - [2026-04-29 09:12] fix(core): prevent double tap duplicate action in core
+- [2026-04-29 09:35] perf(navigation): optimize memory consumption in navigation list viewport
