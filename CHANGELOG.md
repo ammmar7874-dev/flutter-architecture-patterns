@@ -760,3 +760,4 @@
 - [2026-04-29 12:07] fix(test): resolve race condition during test initialization
 - [2026-04-29 12:19] fix(i18n): handle null assertion failure in i18n parser
 - [2026-04-29 12:55] refactor(perf): extract reusable atomic widgets from perf
+- [2026-04-29 13:04] refactor(state): migrate state controller to modern notifier syntax
