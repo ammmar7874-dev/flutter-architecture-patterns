@@ -750,3 +750,4 @@
 - [2026-04-29 09:40] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-04-29 10:03] feat(storage): integrate custom telemetry logger in storage
 - [2026-04-29 10:21] feat(theme): add async theme stream provider
+- [2026-04-29 10:30] feat(storage): add input validation and sanitization for storage
