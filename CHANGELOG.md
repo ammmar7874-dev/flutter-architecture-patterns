@@ -771,3 +771,4 @@
 - [2026-04-29 17:27] fix(security): handle null assertion failure in security parser
 - [2026-04-29 18:24] perf(perf): memoize expensive computations in perf
 - [2026-04-29 18:36] feat(storage): add input validation and sanitization for storage
+- [2026-04-29 18:38] feat(analytics): add bi-directional event bus handler for analytics
