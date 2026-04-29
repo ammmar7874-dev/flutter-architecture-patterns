@@ -780,3 +780,4 @@
 - [2026-04-29 20:25] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-04-29 20:55] feat(analytics): integrate offline caching for analytics state
 - [2026-04-29 20:57] feat(i18n): implement shimmer loading skeleton in i18n
+- [2026-04-29 21:46] refactor(analytics): decouple repository interface from concrete analytics service
