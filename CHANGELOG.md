@@ -757,3 +757,4 @@
 - [2026-04-29 11:43] feat(core): integrate offline caching for core state
 - [2026-04-29 11:47] test(security): add unit tests for security business logic
 - [2026-04-29 12:02] style(theme): adjust design tokens, typography, and contrast in theme
+- [2026-04-29 12:07] fix(test): resolve race condition during test initialization
