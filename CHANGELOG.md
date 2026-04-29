@@ -748,3 +748,4 @@
 - [2026-04-29 09:12] fix(core): prevent double tap duplicate action in core
 - [2026-04-29 09:35] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-04-29 09:40] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-04-29 10:03] feat(storage): integrate custom telemetry logger in storage
