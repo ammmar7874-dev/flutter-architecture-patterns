@@ -778,3 +778,4 @@
 - [2026-04-29 19:37] feat(forms): integrate custom telemetry logger in forms
 - [2026-04-29 20:24] feat(core): add async core stream provider
 - [2026-04-29 20:25] refactor(cache): migrate cache controller to modern notifier syntax
+- [2026-04-29 20:55] feat(analytics): integrate offline caching for analytics state
