@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-04-29 09:40:26
-// Commit: fix(navigation): correct layout constraints and overflow in navigation
+// Updated at: 2026-04-29 11:35:32
+// Commit: fix(navigation): handle null assertion failure in navigation parser
 
 class navigationComponentState {
-  final String commitRef = '746';
-  final String lastMessage = 'fix(navigation): correct layout constraints and overflow in navigation';
-  final DateTime timestamp = DateTime.parse('2026-04-29T09:40:26+05:00');
+  final String commitRef = '752';
+  final String lastMessage = 'fix(navigation): handle null assertion failure in navigation parser';
+  final DateTime timestamp = DateTime.parse('2026-04-29T11:35:32+05:00');
 }

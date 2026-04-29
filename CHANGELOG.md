@@ -753,3 +753,4 @@
 - [2026-04-29 10:30] feat(storage): add input validation and sanitization for storage
 - [2026-04-29 11:17] perf(security): memoize expensive computations in security
 - [2026-04-29 11:21] test(test): add unit tests for test business logic
+- [2026-04-29 11:35] fix(navigation): handle null assertion failure in navigation parser
