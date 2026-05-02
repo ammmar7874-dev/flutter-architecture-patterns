@@ -800,3 +800,4 @@
 - [2026-05-02 19:28] feat(state): implement responsive state view component
 - [2026-05-02 19:40] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-05-02 19:54] refactor(network): decouple repository interface from concrete network service
+- [2026-05-02 20:40] style(i18n): adjust design tokens, typography, and contrast in i18n
