@@ -789,3 +789,4 @@
 - [2026-05-02 10:39] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-05-02 11:22] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-05-02 11:23] perf(auth): apply RepaintBoundary on animated auth widgets
+- [2026-05-02 13:10] style(navigation): adjust design tokens, typography, and contrast in navigation
