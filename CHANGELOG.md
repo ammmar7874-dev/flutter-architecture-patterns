@@ -799,3 +799,4 @@
 - [2026-05-02 17:58] refactor(security): optimize data flow between domain and data layers
 - [2026-05-02 19:28] feat(state): implement responsive state view component
 - [2026-05-02 19:40] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-05-02 19:54] refactor(network): decouple repository interface from concrete network service
