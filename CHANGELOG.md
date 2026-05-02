@@ -805,3 +805,4 @@
 - [2026-05-02 21:56] style(network): harmonize light and dark theme palette for network
 - [2026-05-02 22:13] test(forms): add unit tests for forms business logic
 - [2026-05-02 22:23] test(network): add unit tests for network business logic
+- [2026-05-02 22:38] test(auth): implement widget integration tests for auth
