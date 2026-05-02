@@ -786,3 +786,4 @@
 - [2026-04-29 23:19] feat(analytics): implement responsive analytics view component
 - [2026-05-02 09:20] style(security): harmonize light and dark theme palette for security
 - [2026-05-02 10:20] chore(state): update dependencies and cleanup unused imports in state
+- [2026-05-02 10:39] refactor(ui): migrate ui controller to modern notifier syntax
