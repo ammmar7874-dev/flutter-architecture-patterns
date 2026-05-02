@@ -803,3 +803,4 @@
 - [2026-05-02 20:40] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-05-02 20:56] perf(theme): optimize memory consumption in theme list viewport
 - [2026-05-02 21:56] style(network): harmonize light and dark theme palette for network
+- [2026-05-02 22:13] test(forms): add unit tests for forms business logic
