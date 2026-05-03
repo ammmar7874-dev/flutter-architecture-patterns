@@ -819,3 +819,4 @@
 - [2026-05-03 18:56] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-03 19:11] feat(core): implement shimmer loading skeleton in core
 - [2026-05-03 20:07] test(security): implement widget integration tests for security
+- [2026-05-03 22:06] fix(cache): correct layout constraints and overflow in cache
