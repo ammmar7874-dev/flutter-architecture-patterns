@@ -817,3 +817,4 @@
 - [2026-05-03 12:45] fix(perf): handle null assertion failure in perf parser
 - [2026-05-03 17:34] refactor(cache): extract reusable atomic widgets from cache
 - [2026-05-03 18:56] chore(i18n): update dependencies and cleanup unused imports in i18n
+- [2026-05-03 19:11] feat(core): implement shimmer loading skeleton in core
