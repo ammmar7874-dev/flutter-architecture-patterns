@@ -809,3 +809,4 @@
 - [2026-05-02 23:11] perf(theme): optimize memory consumption in theme list viewport
 - [2026-05-03 09:00] style(core): adjust design tokens, typography, and contrast in core
 - [2026-05-03 09:21] feat(storage): add input validation and sanitization for storage
+- [2026-05-03 11:12] fix(theme): prevent double tap duplicate action in theme
