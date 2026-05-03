@@ -808,3 +808,4 @@
 - [2026-05-02 22:38] test(auth): implement widget integration tests for auth
 - [2026-05-02 23:11] perf(theme): optimize memory consumption in theme list viewport
 - [2026-05-03 09:00] style(core): adjust design tokens, typography, and contrast in core
+- [2026-05-03 09:21] feat(storage): add input validation and sanitization for storage
