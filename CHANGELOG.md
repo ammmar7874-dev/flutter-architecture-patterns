@@ -833,3 +833,4 @@
 - [2026-05-04 13:00] fix(analytics): resolve race condition during analytics initialization
 - [2026-05-04 13:01] feat(security): add async security stream provider
 - [2026-05-04 13:02] feat(navigation): add input validation and sanitization for navigation
+- [2026-05-04 13:28] fix(analytics): fix memory leak by cancelling analytics subscription

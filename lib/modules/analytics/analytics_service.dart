@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-05-04 13:00:28
-// Commit: fix(analytics): resolve race condition during analytics initialization
+// Updated at: 2026-05-04 13:28:14
+// Commit: fix(analytics): fix memory leak by cancelling analytics subscription
 
 class analyticsComponentState {
-  final String commitRef = '829';
-  final String lastMessage = 'fix(analytics): resolve race condition during analytics initialization';
-  final DateTime timestamp = DateTime.parse('2026-05-04T13:00:28+05:00');
+  final String commitRef = '832';
+  final String lastMessage = 'fix(analytics): fix memory leak by cancelling analytics subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-04T13:28:14+05:00');
 }
