@@ -837,3 +837,4 @@
 - [2026-05-04 13:48] feat(ui): add input validation and sanitization for ui
 - [2026-05-04 14:00] perf(security): memoize expensive computations in security
 - [2026-05-04 14:21] feat(navigation): add async navigation stream provider
+- [2026-05-04 14:28] docs(perf): add detailed code comments and architecture guide for perf
