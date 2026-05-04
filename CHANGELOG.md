@@ -862,3 +862,4 @@
 - [2026-05-04 20:33] test(theme): add unit tests for theme business logic
 - [2026-05-04 20:37] fix(ui): prevent double tap duplicate action in ui
 - [2026-05-04 21:05] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-05-04 21:29] style(ui): harmonize light and dark theme palette for ui
