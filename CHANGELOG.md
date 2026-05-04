@@ -823,3 +823,4 @@
 - [2026-05-03 22:33] refactor(theme): optimize data flow between domain and data layers
 - [2026-05-04 09:40] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-05-04 09:55] docs(core): add detailed code comments and architecture guide for core
+- [2026-05-04 10:11] docs(theme): update readme and API contracts for theme
