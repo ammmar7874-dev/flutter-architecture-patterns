@@ -863,3 +863,4 @@
 - [2026-05-04 20:37] fix(ui): prevent double tap duplicate action in ui
 - [2026-05-04 21:05] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-05-04 21:29] style(ui): harmonize light and dark theme palette for ui
+- [2026-05-04 22:18] feat(storage): integrate offline caching for storage state
