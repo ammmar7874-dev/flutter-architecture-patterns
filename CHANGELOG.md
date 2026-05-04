@@ -858,3 +858,4 @@
 - [2026-05-04 19:51] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-05-04 20:24] test(core): implement widget integration tests for core
 - [2026-05-04 20:25] feat(forms): integrate offline caching for forms state
+- [2026-05-04 20:31] docs(cache): update readme and API contracts for cache
