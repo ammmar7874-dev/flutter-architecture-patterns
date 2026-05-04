@@ -860,3 +860,4 @@
 - [2026-05-04 20:25] feat(forms): integrate offline caching for forms state
 - [2026-05-04 20:31] docs(cache): update readme and API contracts for cache
 - [2026-05-04 20:33] test(theme): add unit tests for theme business logic
+- [2026-05-04 20:37] fix(ui): prevent double tap duplicate action in ui
