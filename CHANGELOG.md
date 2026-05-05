@@ -919,3 +919,4 @@
 - [2026-05-05 22:16] refactor(test): migrate test controller to modern notifier syntax
 - [2026-05-05 22:20] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-05-05 22:48] chore(security): update dependencies and cleanup unused imports in security
+- [2026-05-05 22:53] style(test): adjust design tokens, typography, and contrast in test
