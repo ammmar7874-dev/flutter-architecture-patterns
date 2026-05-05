@@ -902,3 +902,4 @@
 - [2026-05-05 17:49] perf(forms): optimize memory consumption in forms list viewport
 - [2026-05-05 18:08] test(perf): implement widget integration tests for perf
 - [2026-05-05 18:44] test(core): implement widget integration tests for core
+- [2026-05-05 18:50] fix(network): resolve race condition during network initialization
