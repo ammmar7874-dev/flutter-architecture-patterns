@@ -881,3 +881,4 @@
 - [2026-05-05 12:09] refactor(network): optimize data flow between domain and data layers
 - [2026-05-05 12:35] feat(i18n): implement responsive i18n view component
 - [2026-05-05 12:51] refactor(state): migrate state controller to modern notifier syntax
+- [2026-05-05 13:08] fix(test): fix memory leak by cancelling test subscription
