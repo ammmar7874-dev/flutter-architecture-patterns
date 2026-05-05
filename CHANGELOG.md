@@ -866,3 +866,4 @@
 - [2026-05-04 22:18] feat(storage): integrate offline caching for storage state
 - [2026-05-04 22:35] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-05 09:15] fix(forms): prevent double tap duplicate action in forms
+- [2026-05-05 09:28] feat(theme): integrate offline caching for theme state
