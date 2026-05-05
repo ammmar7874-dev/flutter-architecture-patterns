@@ -884,3 +884,4 @@
 - [2026-05-05 13:08] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-05 13:09] docs(storage): update readme and API contracts for storage
 - [2026-05-05 13:32] test(core): add unit tests for core business logic
+- [2026-05-05 13:38] fix(auth): resolve race condition during auth initialization
