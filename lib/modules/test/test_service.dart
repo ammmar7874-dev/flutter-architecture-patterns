@@ -1,9 +1,9 @@
 ﻿// Module: test
-// Updated at: 2026-05-05 16:02:32
-// Commit: refactor(test): decouple repository interface from concrete test service
+// Updated at: 2026-05-05 16:30:53
+// Commit: fix(test): fix memory leak by cancelling test subscription
 
 class testComponentState {
-  final String commitRef = '891';
-  final String lastMessage = 'refactor(test): decouple repository interface from concrete test service';
-  final DateTime timestamp = DateTime.parse('2026-05-05T16:02:32+05:00');
+  final String commitRef = '894';
+  final String lastMessage = 'fix(test): fix memory leak by cancelling test subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-05T16:30:53+05:00');
 }

@@ -895,3 +895,4 @@
 - [2026-05-05 16:02] refactor(test): decouple repository interface from concrete test service
 - [2026-05-05 16:14] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-05 16:14] perf(forms): optimize memory consumption in forms list viewport
+- [2026-05-05 16:30] fix(test): fix memory leak by cancelling test subscription
