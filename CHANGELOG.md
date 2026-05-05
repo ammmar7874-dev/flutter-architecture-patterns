@@ -917,3 +917,4 @@
 - [2026-05-05 21:58] refactor(i18n): optimize data flow between domain and data layers
 - [2026-05-05 22:07] perf(ui): optimize memory consumption in ui list viewport
 - [2026-05-05 22:16] refactor(test): migrate test controller to modern notifier syntax
+- [2026-05-05 22:20] perf(forms): apply RepaintBoundary on animated forms widgets
