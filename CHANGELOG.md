@@ -914,3 +914,4 @@
 - [2026-05-05 21:32] test(security): implement widget integration tests for security
 - [2026-05-05 21:41] style(perf): harmonize light and dark theme palette for perf
 - [2026-05-05 21:55] style(test): adjust design tokens, typography, and contrast in test
+- [2026-05-05 21:58] refactor(i18n): optimize data flow between domain and data layers
