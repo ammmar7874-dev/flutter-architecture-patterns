@@ -870,3 +870,4 @@
 - [2026-05-05 10:07] feat(theme): add bi-directional event bus handler for theme
 - [2026-05-05 10:16] fix(storage): prevent double tap duplicate action in storage
 - [2026-05-05 10:21] style(navigation): harmonize light and dark theme palette for navigation
+- [2026-05-05 10:33] docs(test): add detailed code comments and architecture guide for test
