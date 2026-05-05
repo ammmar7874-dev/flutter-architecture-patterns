@@ -898,3 +898,4 @@
 - [2026-05-05 16:30] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-05 16:57] refactor(ui): optimize data flow between domain and data layers
 - [2026-05-05 17:10] docs(network): update readme and API contracts for network
+- [2026-05-05 17:36] fix(ui): handle null assertion failure in ui parser
