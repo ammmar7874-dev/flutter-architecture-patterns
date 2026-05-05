@@ -868,3 +868,4 @@
 - [2026-05-05 09:15] fix(forms): prevent double tap duplicate action in forms
 - [2026-05-05 09:28] feat(theme): integrate offline caching for theme state
 - [2026-05-05 10:07] feat(theme): add bi-directional event bus handler for theme
+- [2026-05-05 10:16] fix(storage): prevent double tap duplicate action in storage
