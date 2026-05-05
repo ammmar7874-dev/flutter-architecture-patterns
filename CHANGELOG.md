@@ -896,3 +896,4 @@
 - [2026-05-05 16:14] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-05 16:14] perf(forms): optimize memory consumption in forms list viewport
 - [2026-05-05 16:30] fix(test): fix memory leak by cancelling test subscription
+- [2026-05-05 16:57] refactor(ui): optimize data flow between domain and data layers
