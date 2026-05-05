@@ -893,3 +893,4 @@
 - [2026-05-05 15:54] chore(test): update dependencies and cleanup unused imports in test
 - [2026-05-05 15:58] feat(forms): implement shimmer loading skeleton in forms
 - [2026-05-05 16:02] refactor(test): decouple repository interface from concrete test service
+- [2026-05-05 16:14] chore(i18n): update dependencies and cleanup unused imports in i18n
