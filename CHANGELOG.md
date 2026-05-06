@@ -923,3 +923,4 @@
 - [2026-05-05 23:13] perf(perf): memoize expensive computations in perf
 - [2026-05-06 09:02] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-05-06 09:18] docs(state): update readme and API contracts for state
+- [2026-05-06 09:20] style(theme): harmonize light and dark theme palette for theme
