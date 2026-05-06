@@ -962,3 +962,4 @@
 - [2026-05-06 20:49] feat(cache): add bi-directional event bus handler for cache
 - [2026-05-06 22:04] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-05-06 22:43] feat(state): implement responsive state view component
+- [2026-05-06 23:10] perf(core): memoize expensive computations in core
