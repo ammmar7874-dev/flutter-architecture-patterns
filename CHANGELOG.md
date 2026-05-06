@@ -941,3 +941,4 @@
 - [2026-05-06 14:04] fix(state): fix memory leak by cancelling state subscription
 - [2026-05-06 14:43] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-05-06 14:54] fix(security): fix memory leak by cancelling security subscription
+- [2026-05-06 14:57] style(ui): adjust design tokens, typography, and contrast in ui
