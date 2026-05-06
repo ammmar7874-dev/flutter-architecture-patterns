@@ -963,3 +963,4 @@
 - [2026-05-06 22:04] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-05-06 22:43] feat(state): implement responsive state view component
 - [2026-05-06 23:10] perf(core): memoize expensive computations in core
+- [2026-05-06 23:13] fix(i18n): correct layout constraints and overflow in i18n
