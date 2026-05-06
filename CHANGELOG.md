@@ -931,3 +931,4 @@
 - [2026-05-06 10:25] test(forms): add unit tests for forms business logic
 - [2026-05-06 10:25] perf(perf): memoize expensive computations in perf
 - [2026-05-06 10:31] fix(core): fix memory leak by cancelling core subscription
+- [2026-05-06 11:37] refactor(test): decouple repository interface from concrete test service
