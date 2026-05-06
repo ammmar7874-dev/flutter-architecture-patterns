@@ -955,3 +955,4 @@
 - [2026-05-06 18:17] feat(perf): integrate custom telemetry logger in perf
 - [2026-05-06 18:30] perf(perf): memoize expensive computations in perf
 - [2026-05-06 18:40] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-05-06 19:04] perf(ui): memoize expensive computations in ui
