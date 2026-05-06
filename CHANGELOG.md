@@ -956,3 +956,4 @@
 - [2026-05-06 18:30] perf(perf): memoize expensive computations in perf
 - [2026-05-06 18:40] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-05-06 19:04] perf(ui): memoize expensive computations in ui
+- [2026-05-06 19:17] test(navigation): implement widget integration tests for navigation
