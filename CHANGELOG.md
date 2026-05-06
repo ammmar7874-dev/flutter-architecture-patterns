@@ -922,3 +922,4 @@
 - [2026-05-05 22:53] style(test): adjust design tokens, typography, and contrast in test
 - [2026-05-05 23:13] perf(perf): memoize expensive computations in perf
 - [2026-05-06 09:02] refactor(navigation): decouple repository interface from concrete navigation service
+- [2026-05-06 09:18] docs(state): update readme and API contracts for state
