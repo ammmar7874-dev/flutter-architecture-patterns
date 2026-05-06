@@ -936,3 +936,4 @@
 - [2026-05-06 12:27] docs(analytics): add detailed code comments and architecture guide for analytics
 - [2026-05-06 12:46] feat(storage): integrate custom telemetry logger in storage
 - [2026-05-06 13:16] style(security): harmonize light and dark theme palette for security
+- [2026-05-06 13:24] docs(perf): update readme and API contracts for perf
