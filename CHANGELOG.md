@@ -938,3 +938,4 @@
 - [2026-05-06 13:16] style(security): harmonize light and dark theme palette for security
 - [2026-05-06 13:24] docs(perf): update readme and API contracts for perf
 - [2026-05-06 13:47] refactor(cache): migrate cache controller to modern notifier syntax
+- [2026-05-06 14:04] fix(state): fix memory leak by cancelling state subscription
