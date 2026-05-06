@@ -951,3 +951,4 @@
 - [2026-05-06 17:20] fix(core): fix memory leak by cancelling core subscription
 - [2026-05-06 17:28] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-05-06 17:48] fix(storage): resolve race condition during storage initialization
+- [2026-05-06 17:49] feat(storage): integrate offline caching for storage state
