@@ -942,3 +942,4 @@
 - [2026-05-06 14:43] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-05-06 14:54] fix(security): fix memory leak by cancelling security subscription
 - [2026-05-06 14:57] style(ui): adjust design tokens, typography, and contrast in ui
+- [2026-05-06 15:24] fix(i18n): prevent double tap duplicate action in i18n
