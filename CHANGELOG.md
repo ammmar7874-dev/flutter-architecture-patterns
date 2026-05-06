@@ -925,3 +925,4 @@
 - [2026-05-06 09:18] docs(state): update readme and API contracts for state
 - [2026-05-06 09:20] style(theme): harmonize light and dark theme palette for theme
 - [2026-05-06 09:21] feat(navigation): implement responsive navigation view component
+- [2026-05-06 10:05] perf(theme): apply RepaintBoundary on animated theme widgets
