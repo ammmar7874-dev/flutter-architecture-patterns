@@ -949,3 +949,4 @@
 - [2026-05-06 16:36] fix(ui): resolve race condition during ui initialization
 - [2026-05-06 16:53] feat(navigation): implement responsive navigation view component
 - [2026-05-06 17:20] fix(core): fix memory leak by cancelling core subscription
+- [2026-05-06 17:28] style(i18n): adjust design tokens, typography, and contrast in i18n
