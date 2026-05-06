@@ -930,3 +930,4 @@
 - [2026-05-06 10:22] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-05-06 10:25] test(forms): add unit tests for forms business logic
 - [2026-05-06 10:25] perf(perf): memoize expensive computations in perf
+- [2026-05-06 10:31] fix(core): fix memory leak by cancelling core subscription

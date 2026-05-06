@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-05-05 18:44:11
-// Commit: test(core): implement widget integration tests for core
+// Updated at: 2026-05-06 10:31:54
+// Commit: fix(core): fix memory leak by cancelling core subscription
 
 class coreComponentState {
-  final String commitRef = '900';
-  final String lastMessage = 'test(core): implement widget integration tests for core';
-  final DateTime timestamp = DateTime.parse('2026-05-05T18:44:11+05:00');
+  final String commitRef = '929';
+  final String lastMessage = 'fix(core): fix memory leak by cancelling core subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-06T10:31:54+05:00');
 }
