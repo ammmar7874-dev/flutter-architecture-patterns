@@ -944,3 +944,4 @@
 - [2026-05-06 14:57] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-05-06 15:24] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-05-06 15:33] style(storage): harmonize light and dark theme palette for storage
+- [2026-05-06 15:49] refactor(core): migrate core controller to modern notifier syntax
