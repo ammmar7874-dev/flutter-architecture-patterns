@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-05-05 19:45:26
-// Commit: feat(cache): implement shimmer loading skeleton in cache
+// Updated at: 2026-05-06 13:47:08
+// Commit: refactor(cache): migrate cache controller to modern notifier syntax
 
 class cacheComponentState {
-  final String commitRef = '903';
-  final String lastMessage = 'feat(cache): implement shimmer loading skeleton in cache';
-  final DateTime timestamp = DateTime.parse('2026-05-05T19:45:26+05:00');
+  final String commitRef = '936';
+  final String lastMessage = 'refactor(cache): migrate cache controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-06T13:47:08+05:00');
 }
