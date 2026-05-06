@@ -946,3 +946,4 @@
 - [2026-05-06 15:33] style(storage): harmonize light and dark theme palette for storage
 - [2026-05-06 15:49] refactor(core): migrate core controller to modern notifier syntax
 - [2026-05-06 15:52] fix(network): handle null assertion failure in network parser
+- [2026-05-06 16:36] fix(ui): resolve race condition during ui initialization
