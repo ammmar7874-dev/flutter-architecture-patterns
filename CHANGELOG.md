@@ -939,3 +939,4 @@
 - [2026-05-06 13:24] docs(perf): update readme and API contracts for perf
 - [2026-05-06 13:47] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-06 14:04] fix(state): fix memory leak by cancelling state subscription
+- [2026-05-06 14:43] perf(cache): apply RepaintBoundary on animated cache widgets
