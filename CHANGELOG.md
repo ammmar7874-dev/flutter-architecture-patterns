@@ -934,3 +934,4 @@
 - [2026-05-06 11:37] refactor(test): decouple repository interface from concrete test service
 - [2026-05-06 12:19] perf(perf): optimize memory consumption in perf list viewport
 - [2026-05-06 12:27] docs(analytics): add detailed code comments and architecture guide for analytics
+- [2026-05-06 12:46] feat(storage): integrate custom telemetry logger in storage
