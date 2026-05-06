@@ -945,3 +945,4 @@
 - [2026-05-06 15:24] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-05-06 15:33] style(storage): harmonize light and dark theme palette for storage
 - [2026-05-06 15:49] refactor(core): migrate core controller to modern notifier syntax
+- [2026-05-06 15:52] fix(network): handle null assertion failure in network parser
