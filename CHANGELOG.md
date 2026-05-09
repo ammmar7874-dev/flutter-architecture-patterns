@@ -982,3 +982,4 @@
 - [2026-05-09 19:31] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-05-09 19:52] perf(core): optimize memory consumption in core list viewport
 - [2026-05-09 19:59] refactor(cache): decouple repository interface from concrete cache service
+- [2026-05-09 20:20] feat(analytics): integrate offline caching for analytics state
