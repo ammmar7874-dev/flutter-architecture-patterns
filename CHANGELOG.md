@@ -967,3 +967,4 @@
 - [2026-05-09 09:19] perf(theme): memoize expensive computations in theme
 - [2026-05-09 09:29] refactor(cache): optimize data flow between domain and data layers
 - [2026-05-09 10:05] refactor(auth): optimize data flow between domain and data layers
+- [2026-05-09 10:13] test(cache): add unit tests for cache business logic
