@@ -980,3 +980,4 @@
 - [2026-05-09 18:53] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-05-09 18:56] fix(perf): resolve race condition during perf initialization
 - [2026-05-09 19:31] perf(cache): apply RepaintBoundary on animated cache widgets
+- [2026-05-09 19:52] perf(core): optimize memory consumption in core list viewport
