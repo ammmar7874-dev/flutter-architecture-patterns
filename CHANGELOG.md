@@ -965,3 +965,4 @@
 - [2026-05-06 23:10] perf(core): memoize expensive computations in core
 - [2026-05-06 23:13] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-05-09 09:19] perf(theme): memoize expensive computations in theme
+- [2026-05-09 09:29] refactor(cache): optimize data flow between domain and data layers
