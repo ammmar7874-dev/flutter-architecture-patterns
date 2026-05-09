@@ -969,3 +969,4 @@
 - [2026-05-09 10:05] refactor(auth): optimize data flow between domain and data layers
 - [2026-05-09 10:13] test(cache): add unit tests for cache business logic
 - [2026-05-09 10:26] perf(state): optimize memory consumption in state list viewport
+- [2026-05-09 10:47] docs(storage): update readme and API contracts for storage
