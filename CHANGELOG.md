@@ -978,3 +978,4 @@
 - [2026-05-09 18:27] feat(test): implement responsive test view component
 - [2026-05-09 18:51] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-05-09 18:53] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-05-09 18:56] fix(perf): resolve race condition during perf initialization
