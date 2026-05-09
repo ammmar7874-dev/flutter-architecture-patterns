@@ -986,3 +986,4 @@
 - [2026-05-09 20:42] fix(cache): handle null assertion failure in cache parser
 - [2026-05-09 21:00] feat(auth): integrate offline caching for auth state
 - [2026-05-09 21:27] fix(test): correct layout constraints and overflow in test
+- [2026-05-09 21:27] feat(navigation): implement shimmer loading skeleton in navigation
