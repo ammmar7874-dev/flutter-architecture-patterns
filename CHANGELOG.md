@@ -1006,3 +1006,4 @@
 - [2026-05-10 14:29] fix(security): handle null assertion failure in security parser
 - [2026-05-10 14:36] feat(storage): add input validation and sanitization for storage
 - [2026-05-10 14:44] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-05-10 14:45] perf(analytics): apply RepaintBoundary on animated analytics widgets
