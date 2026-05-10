@@ -1017,3 +1017,4 @@
 - [2026-05-10 16:45] fix(perf): handle null assertion failure in perf parser
 - [2026-05-10 17:30] feat(ui): implement shimmer loading skeleton in ui
 - [2026-05-10 17:39] perf(test): optimize memory consumption in test list viewport
+- [2026-05-10 17:53] chore(theme): update dependencies and cleanup unused imports in theme
