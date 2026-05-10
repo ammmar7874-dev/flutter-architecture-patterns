@@ -1014,3 +1014,4 @@
 - [2026-05-10 15:54] feat(storage): integrate offline caching for storage state
 - [2026-05-10 16:31] fix(auth): prevent double tap duplicate action in auth
 - [2026-05-10 16:34] feat(forms): implement shimmer loading skeleton in forms
+- [2026-05-10 16:45] fix(perf): handle null assertion failure in perf parser
