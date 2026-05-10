@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-05-10 18:39:07
-// Commit: refactor(theme): migrate theme controller to modern notifier syntax
+// Updated at: 2026-05-10 18:54:32
+// Commit: fix(theme): correct layout constraints and overflow in theme
 
 class themeComponentState {
-  final String commitRef = '1022';
-  final String lastMessage = 'refactor(theme): migrate theme controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-05-10T18:39:07+05:00');
+  final String commitRef = '1024';
+  final String lastMessage = 'fix(theme): correct layout constraints and overflow in theme';
+  final DateTime timestamp = DateTime.parse('2026-05-10T18:54:32+05:00');
 }
