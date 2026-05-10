@@ -996,3 +996,4 @@
 - [2026-05-10 11:45] feat(ui): add bi-directional event bus handler for ui
 - [2026-05-10 11:53] style(theme): harmonize light and dark theme palette for theme
 - [2026-05-10 12:09] feat(ui): add async ui stream provider
+- [2026-05-10 12:11] fix(i18n): correct layout constraints and overflow in i18n
