@@ -1003,3 +1003,4 @@
 - [2026-05-10 12:43] refactor(test): migrate test controller to modern notifier syntax
 - [2026-05-10 14:23] fix(state): fix memory leak by cancelling state subscription
 - [2026-05-10 14:28] refactor(core): decouple repository interface from concrete core service
+- [2026-05-10 14:29] fix(security): handle null assertion failure in security parser
