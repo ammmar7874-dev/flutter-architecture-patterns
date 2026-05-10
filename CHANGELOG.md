@@ -1023,3 +1023,4 @@
 - [2026-05-10 18:12] fix(i18n): resolve race condition during i18n initialization
 - [2026-05-10 18:21] feat(security): implement shimmer loading skeleton in security
 - [2026-05-10 18:29] chore(test): update dependencies and cleanup unused imports in test
+- [2026-05-10 18:39] refactor(theme): migrate theme controller to modern notifier syntax
