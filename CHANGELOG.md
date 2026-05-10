@@ -1036,3 +1036,4 @@
 - [2026-05-10 19:50] feat(forms): integrate offline caching for forms state
 - [2026-05-10 20:08] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-10 20:19] perf(ui): apply RepaintBoundary on animated ui widgets
+- [2026-05-10 20:36] test(state): add unit tests for state business logic
