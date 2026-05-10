@@ -1012,3 +1012,4 @@
 - [2026-05-10 15:22] refactor(theme): extract reusable atomic widgets from theme
 - [2026-05-10 15:33] test(storage): implement widget integration tests for storage
 - [2026-05-10 15:54] feat(storage): integrate offline caching for storage state
+- [2026-05-10 16:31] fix(auth): prevent double tap duplicate action in auth
