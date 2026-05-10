@@ -999,3 +999,4 @@
 - [2026-05-10 12:11] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-05-10 12:11] feat(security): implement shimmer loading skeleton in security
 - [2026-05-10 12:20] feat(storage): integrate offline caching for storage state
+- [2026-05-10 12:24] fix(analytics): fix memory leak by cancelling analytics subscription
