@@ -1034,3 +1034,4 @@
 - [2026-05-10 19:36] test(forms): add unit tests for forms business logic
 - [2026-05-10 19:40] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-05-10 19:50] feat(forms): integrate offline caching for forms state
+- [2026-05-10 20:08] fix(test): fix memory leak by cancelling test subscription
