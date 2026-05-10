@@ -988,3 +988,4 @@
 - [2026-05-09 21:27] fix(test): correct layout constraints and overflow in test
 - [2026-05-09 21:27] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-05-10 09:15] feat(navigation): implement shimmer loading skeleton in navigation
+- [2026-05-10 09:18] feat(i18n): add bi-directional event bus handler for i18n
