@@ -992,3 +992,4 @@
 - [2026-05-10 09:53] feat(security): implement responsive security view component
 - [2026-05-10 10:39] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-05-10 10:43] feat(i18n): implement shimmer loading skeleton in i18n
+- [2026-05-10 11:29] fix(cache): handle null assertion failure in cache parser
