@@ -1008,3 +1008,4 @@
 - [2026-05-10 14:44] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-05-10 14:45] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-05-10 15:09] perf(network): memoize expensive computations in network
+- [2026-05-10 15:13] refactor(perf): decouple repository interface from concrete perf service
