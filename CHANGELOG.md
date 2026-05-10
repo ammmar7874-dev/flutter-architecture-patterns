@@ -1029,3 +1029,4 @@
 - [2026-05-10 19:16] style(cache): harmonize light and dark theme palette for cache
 - [2026-05-10 19:19] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-05-10 19:27] perf(forms): apply RepaintBoundary on animated forms widgets
+- [2026-05-10 19:28] style(storage): adjust design tokens, typography, and contrast in storage
