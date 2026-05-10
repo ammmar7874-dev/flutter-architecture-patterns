@@ -995,3 +995,4 @@
 - [2026-05-10 11:29] fix(cache): handle null assertion failure in cache parser
 - [2026-05-10 11:45] feat(ui): add bi-directional event bus handler for ui
 - [2026-05-10 11:53] style(theme): harmonize light and dark theme palette for theme
+- [2026-05-10 12:09] feat(ui): add async ui stream provider
