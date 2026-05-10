@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-05-10 09:15:24
-// Commit: feat(navigation): implement shimmer loading skeleton in navigation
+// Updated at: 2026-05-10 19:40:51
+// Commit: fix(navigation): fix memory leak by cancelling navigation subscription
 
 class navigationComponentState {
-  final String commitRef = '986';
-  final String lastMessage = 'feat(navigation): implement shimmer loading skeleton in navigation';
-  final DateTime timestamp = DateTime.parse('2026-05-10T09:15:24+05:00');
+  final String commitRef = '1031';
+  final String lastMessage = 'fix(navigation): fix memory leak by cancelling navigation subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-10T19:40:51+05:00');
 }

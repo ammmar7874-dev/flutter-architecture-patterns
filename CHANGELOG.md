@@ -1032,3 +1032,4 @@
 - [2026-05-10 19:28] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-05-10 19:30] test(perf): implement widget integration tests for perf
 - [2026-05-10 19:36] test(forms): add unit tests for forms business logic
+- [2026-05-10 19:40] fix(navigation): fix memory leak by cancelling navigation subscription
