@@ -994,3 +994,4 @@
 - [2026-05-10 10:43] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-05-10 11:29] fix(cache): handle null assertion failure in cache parser
 - [2026-05-10 11:45] feat(ui): add bi-directional event bus handler for ui
+- [2026-05-10 11:53] style(theme): harmonize light and dark theme palette for theme
