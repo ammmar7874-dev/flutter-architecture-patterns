@@ -1037,3 +1037,4 @@
 - [2026-05-10 20:08] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-10 20:19] perf(ui): apply RepaintBoundary on animated ui widgets
 - [2026-05-10 20:36] test(state): add unit tests for state business logic
+- [2026-05-10 20:57] refactor(analytics): decouple repository interface from concrete analytics service
