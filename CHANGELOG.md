@@ -1015,3 +1015,4 @@
 - [2026-05-10 16:31] fix(auth): prevent double tap duplicate action in auth
 - [2026-05-10 16:34] feat(forms): implement shimmer loading skeleton in forms
 - [2026-05-10 16:45] fix(perf): handle null assertion failure in perf parser
+- [2026-05-10 17:30] feat(ui): implement shimmer loading skeleton in ui
