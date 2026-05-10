@@ -1011,3 +1011,4 @@
 - [2026-05-10 15:13] refactor(perf): decouple repository interface from concrete perf service
 - [2026-05-10 15:22] refactor(theme): extract reusable atomic widgets from theme
 - [2026-05-10 15:33] test(storage): implement widget integration tests for storage
+- [2026-05-10 15:54] feat(storage): integrate offline caching for storage state
