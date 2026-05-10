@@ -1026,3 +1026,4 @@
 - [2026-05-10 18:39] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-05-10 18:52] test(test): add unit tests for test business logic
 - [2026-05-10 18:54] fix(theme): correct layout constraints and overflow in theme
+- [2026-05-10 19:16] style(cache): harmonize light and dark theme palette for cache
