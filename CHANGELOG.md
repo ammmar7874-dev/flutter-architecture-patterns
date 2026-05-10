@@ -1001,3 +1001,4 @@
 - [2026-05-10 12:20] feat(storage): integrate offline caching for storage state
 - [2026-05-10 12:24] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-05-10 12:43] refactor(test): migrate test controller to modern notifier syntax
+- [2026-05-10 14:23] fix(state): fix memory leak by cancelling state subscription
