@@ -1054,3 +1054,4 @@
 - [2026-05-11 14:10] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-05-11 17:22] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-05-11 21:16] feat(perf): add bi-directional event bus handler for perf
+- [2026-05-11 21:18] docs(storage): add detailed code comments and architecture guide for storage
