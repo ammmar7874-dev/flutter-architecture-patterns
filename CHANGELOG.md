@@ -1051,3 +1051,4 @@
 - [2026-05-11 10:36] fix(theme): resolve race condition during theme initialization
 - [2026-05-11 12:47] fix(test): resolve race condition during test initialization
 - [2026-05-11 13:07] test(theme): implement widget integration tests for theme
+- [2026-05-11 14:10] refactor(ui): migrate ui controller to modern notifier syntax
