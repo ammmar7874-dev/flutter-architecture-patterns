@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-05-10 14:28:36
-// Commit: refactor(core): decouple repository interface from concrete core service
+// Updated at: 2026-05-12 11:22:27
+// Commit: docs(core): add detailed code comments and architecture guide for core
 
 class coreComponentState {
-  final String commitRef = '1001';
-  final String lastMessage = 'refactor(core): decouple repository interface from concrete core service';
-  final DateTime timestamp = DateTime.parse('2026-05-10T14:28:36+05:00');
+  final String commitRef = '1057';
+  final String lastMessage = 'docs(core): add detailed code comments and architecture guide for core';
+  final DateTime timestamp = DateTime.parse('2026-05-12T11:22:27+05:00');
 }
