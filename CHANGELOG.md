@@ -1089,3 +1089,4 @@
 - [2026-05-12 20:03] perf(perf): optimize memory consumption in perf list viewport
 - [2026-05-12 20:58] fix(perf): handle null assertion failure in perf parser
 - [2026-05-12 21:08] chore(analytics): update dependencies and cleanup unused imports in analytics
+- [2026-05-12 21:52] style(forms): adjust design tokens, typography, and contrast in forms
