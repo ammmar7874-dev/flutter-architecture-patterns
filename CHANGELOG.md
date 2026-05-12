@@ -1086,3 +1086,4 @@
 - [2026-05-12 19:27] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-05-12 19:39] refactor(test): decouple repository interface from concrete test service
 - [2026-05-12 19:42] fix(analytics): handle null assertion failure in analytics parser
+- [2026-05-12 20:03] perf(perf): optimize memory consumption in perf list viewport
