@@ -1075,3 +1075,4 @@
 - [2026-05-12 16:53] fix(test): handle null assertion failure in test parser
 - [2026-05-12 17:11] fix(perf): correct layout constraints and overflow in perf
 - [2026-05-12 17:26] style(security): harmonize light and dark theme palette for security
+- [2026-05-12 17:27] docs(cache): update readme and API contracts for cache
