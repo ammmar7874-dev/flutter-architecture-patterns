@@ -1092,3 +1092,4 @@
 - [2026-05-12 21:52] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-05-12 22:14] docs(core): add detailed code comments and architecture guide for core
 - [2026-05-12 22:40] fix(forms): handle null assertion failure in forms parser
+- [2026-05-12 23:16] docs(auth): add detailed code comments and architecture guide for auth
