@@ -1063,3 +1063,4 @@
 - [2026-05-12 11:58] test(analytics): add unit tests for analytics business logic
 - [2026-05-12 12:06] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-05-12 12:11] feat(state): integrate offline caching for state state
+- [2026-05-12 12:14] docs(theme): update readme and API contracts for theme
