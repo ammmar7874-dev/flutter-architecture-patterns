@@ -1077,3 +1077,4 @@
 - [2026-05-12 17:26] style(security): harmonize light and dark theme palette for security
 - [2026-05-12 17:27] docs(cache): update readme and API contracts for cache
 - [2026-05-12 17:30] chore(security): update dependencies and cleanup unused imports in security
+- [2026-05-12 17:35] feat(navigation): add input validation and sanitization for navigation
