@@ -1074,3 +1074,4 @@
 - [2026-05-12 16:47] fix(storage): correct layout constraints and overflow in storage
 - [2026-05-12 16:53] fix(test): handle null assertion failure in test parser
 - [2026-05-12 17:11] fix(perf): correct layout constraints and overflow in perf
+- [2026-05-12 17:26] style(security): harmonize light and dark theme palette for security
