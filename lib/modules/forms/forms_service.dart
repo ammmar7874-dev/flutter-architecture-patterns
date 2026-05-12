@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-05-12 21:52:05
-// Commit: style(forms): adjust design tokens, typography, and contrast in forms
+// Updated at: 2026-05-12 22:40:40
+// Commit: fix(forms): handle null assertion failure in forms parser
 
 class formsComponentState {
-  final String commitRef = '1088';
-  final String lastMessage = 'style(forms): adjust design tokens, typography, and contrast in forms';
-  final DateTime timestamp = DateTime.parse('2026-05-12T21:52:05+05:00');
+  final String commitRef = '1090';
+  final String lastMessage = 'fix(forms): handle null assertion failure in forms parser';
+  final DateTime timestamp = DateTime.parse('2026-05-12T22:40:40+05:00');
 }
