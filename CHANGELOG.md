@@ -1065,3 +1065,4 @@
 - [2026-05-12 12:11] feat(state): integrate offline caching for state state
 - [2026-05-12 12:14] docs(theme): update readme and API contracts for theme
 - [2026-05-12 12:59] fix(network): prevent double tap duplicate action in network
+- [2026-05-12 14:32] fix(test): fix memory leak by cancelling test subscription
