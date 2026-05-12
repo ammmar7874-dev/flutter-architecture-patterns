@@ -1071,3 +1071,4 @@
 - [2026-05-12 15:40] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-05-12 16:35] perf(i18n): optimize memory consumption in i18n list viewport
 - [2026-05-12 16:47] feat(navigation): add input validation and sanitization for navigation
+- [2026-05-12 16:47] fix(storage): correct layout constraints and overflow in storage
