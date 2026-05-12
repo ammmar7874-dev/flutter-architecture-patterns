@@ -1068,3 +1068,4 @@
 - [2026-05-12 14:32] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-12 14:49] refactor(security): decouple repository interface from concrete security service
 - [2026-05-12 15:02] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-05-12 15:40] perf(network): apply RepaintBoundary on animated network widgets
