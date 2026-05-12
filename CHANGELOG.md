@@ -1084,3 +1084,4 @@
 - [2026-05-12 18:41] fix(analytics): resolve race condition during analytics initialization
 - [2026-05-12 19:03] test(perf): add unit tests for perf business logic
 - [2026-05-12 19:27] chore(forms): update dependencies and cleanup unused imports in forms
+- [2026-05-12 19:39] refactor(test): decouple repository interface from concrete test service
