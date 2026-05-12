@@ -1073,3 +1073,4 @@
 - [2026-05-12 16:47] feat(navigation): add input validation and sanitization for navigation
 - [2026-05-12 16:47] fix(storage): correct layout constraints and overflow in storage
 - [2026-05-12 16:53] fix(test): handle null assertion failure in test parser
+- [2026-05-12 17:11] fix(perf): correct layout constraints and overflow in perf
