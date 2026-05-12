@@ -1083,3 +1083,4 @@
 - [2026-05-12 18:05] fix(cache): prevent double tap duplicate action in cache
 - [2026-05-12 18:41] fix(analytics): resolve race condition during analytics initialization
 - [2026-05-12 19:03] test(perf): add unit tests for perf business logic
+- [2026-05-12 19:27] chore(forms): update dependencies and cleanup unused imports in forms
