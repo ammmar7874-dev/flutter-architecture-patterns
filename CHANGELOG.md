@@ -1057,3 +1057,4 @@
 - [2026-05-11 21:18] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-05-11 23:03] refactor(cache): decouple repository interface from concrete cache service
 - [2026-05-12 09:32] fix(security): fix memory leak by cancelling security subscription
+- [2026-05-12 10:12] feat(ui): add input validation and sanitization for ui
