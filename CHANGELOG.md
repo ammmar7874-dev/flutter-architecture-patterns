@@ -1099,3 +1099,4 @@
 - [2026-05-13 11:06] feat(ui): integrate custom telemetry logger in ui
 - [2026-05-13 11:22] fix(i18n): resolve race condition during i18n initialization
 - [2026-05-13 11:41] fix(core): handle null assertion failure in core parser
+- [2026-05-13 12:11] feat(network): add async network stream provider
