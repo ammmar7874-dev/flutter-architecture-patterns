@@ -1108,3 +1108,4 @@
 - [2026-05-13 14:27] test(cache): implement widget integration tests for cache
 - [2026-05-13 14:32] feat(forms): add bi-directional event bus handler for forms
 - [2026-05-13 14:35] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-05-13 14:48] perf(forms): memoize expensive computations in forms
