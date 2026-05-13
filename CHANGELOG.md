@@ -1112,3 +1112,4 @@
 - [2026-05-13 15:43] fix(forms): handle null assertion failure in forms parser
 - [2026-05-13 16:09] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-05-13 16:16] feat(security): implement responsive security view component
+- [2026-05-13 16:20] test(theme): add unit tests for theme business logic
