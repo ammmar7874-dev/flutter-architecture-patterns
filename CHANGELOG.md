@@ -1098,3 +1098,4 @@
 - [2026-05-13 10:41] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-13 11:06] feat(ui): integrate custom telemetry logger in ui
 - [2026-05-13 11:22] fix(i18n): resolve race condition during i18n initialization
+- [2026-05-13 11:41] fix(core): handle null assertion failure in core parser
