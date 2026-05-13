@@ -1123,3 +1123,4 @@
 - [2026-05-13 19:17] refactor(auth): optimize data flow between domain and data layers
 - [2026-05-13 19:32] fix(ui): handle null assertion failure in ui parser
 - [2026-05-13 20:13] fix(storage): prevent double tap duplicate action in storage
+- [2026-05-13 20:16] docs(security): add detailed code comments and architecture guide for security
