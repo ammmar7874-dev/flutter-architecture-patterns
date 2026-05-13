@@ -1128,3 +1128,4 @@
 - [2026-05-13 22:23] style(auth): harmonize light and dark theme palette for auth
 - [2026-05-13 22:55] refactor(i18n): optimize data flow between domain and data layers
 - [2026-05-13 23:24] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-05-13 23:25] perf(perf): apply RepaintBoundary on animated perf widgets
