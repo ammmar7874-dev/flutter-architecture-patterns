@@ -1097,3 +1097,4 @@
 - [2026-05-13 10:18] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-05-13 10:41] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-13 11:06] feat(ui): integrate custom telemetry logger in ui
+- [2026-05-13 11:22] fix(i18n): resolve race condition during i18n initialization
