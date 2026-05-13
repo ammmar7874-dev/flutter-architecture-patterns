@@ -1093,3 +1093,4 @@
 - [2026-05-12 22:14] docs(core): add detailed code comments and architecture guide for core
 - [2026-05-12 22:40] fix(forms): handle null assertion failure in forms parser
 - [2026-05-12 23:16] docs(auth): add detailed code comments and architecture guide for auth
+- [2026-05-13 09:38] feat(perf): add bi-directional event bus handler for perf
