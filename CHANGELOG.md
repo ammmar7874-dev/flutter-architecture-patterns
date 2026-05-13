@@ -1126,3 +1126,4 @@
 - [2026-05-13 20:16] docs(security): add detailed code comments and architecture guide for security
 - [2026-05-13 22:22] feat(theme): add input validation and sanitization for theme
 - [2026-05-13 22:23] style(auth): harmonize light and dark theme palette for auth
+- [2026-05-13 22:55] refactor(i18n): optimize data flow between domain and data layers
