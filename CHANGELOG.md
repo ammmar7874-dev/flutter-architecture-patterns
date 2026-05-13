@@ -1115,3 +1115,4 @@
 - [2026-05-13 16:20] test(theme): add unit tests for theme business logic
 - [2026-05-13 16:28] fix(analytics): resolve race condition during analytics initialization
 - [2026-05-13 17:24] feat(cache): integrate offline caching for cache state
+- [2026-05-13 17:45] docs(state): update readme and API contracts for state
