@@ -1106,3 +1106,4 @@
 - [2026-05-13 13:42] fix(test): prevent double tap duplicate action in test
 - [2026-05-13 14:03] refactor(core): optimize data flow between domain and data layers
 - [2026-05-13 14:27] test(cache): implement widget integration tests for cache
+- [2026-05-13 14:32] feat(forms): add bi-directional event bus handler for forms
