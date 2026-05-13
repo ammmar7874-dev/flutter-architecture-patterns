@@ -1102,3 +1102,4 @@
 - [2026-05-13 12:11] feat(network): add async network stream provider
 - [2026-05-13 12:14] feat(perf): add input validation and sanitization for perf
 - [2026-05-13 13:08] feat(perf): implement responsive perf view component
+- [2026-05-13 13:15] chore(network): update dependencies and cleanup unused imports in network
