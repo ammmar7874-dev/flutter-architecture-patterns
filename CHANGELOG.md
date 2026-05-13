@@ -1095,3 +1095,4 @@
 - [2026-05-12 23:16] docs(auth): add detailed code comments and architecture guide for auth
 - [2026-05-13 09:38] feat(perf): add bi-directional event bus handler for perf
 - [2026-05-13 10:18] feat(i18n): implement shimmer loading skeleton in i18n
+- [2026-05-13 10:41] refactor(cache): migrate cache controller to modern notifier syntax
