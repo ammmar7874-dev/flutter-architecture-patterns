@@ -1121,3 +1121,4 @@
 - [2026-05-13 19:01] refactor(test): migrate test controller to modern notifier syntax
 - [2026-05-13 19:06] feat(security): add input validation and sanitization for security
 - [2026-05-13 19:17] refactor(auth): optimize data flow between domain and data layers
+- [2026-05-13 19:32] fix(ui): handle null assertion failure in ui parser
