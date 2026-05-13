@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-05-13 20:13:28
-// Commit: fix(storage): prevent double tap duplicate action in storage
+// Updated at: 2026-05-13 23:24:46
+// Commit: refactor(storage): migrate storage controller to modern notifier syntax
 
 class storageComponentState {
-  final String commitRef = '1121';
-  final String lastMessage = 'fix(storage): prevent double tap duplicate action in storage';
-  final DateTime timestamp = DateTime.parse('2026-05-13T20:13:28+05:00');
+  final String commitRef = '1126';
+  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-13T23:24:46+05:00');
 }
