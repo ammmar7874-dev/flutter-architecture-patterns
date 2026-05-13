@@ -1096,3 +1096,4 @@
 - [2026-05-13 09:38] feat(perf): add bi-directional event bus handler for perf
 - [2026-05-13 10:18] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-05-13 10:41] refactor(cache): migrate cache controller to modern notifier syntax
+- [2026-05-13 11:06] feat(ui): integrate custom telemetry logger in ui
