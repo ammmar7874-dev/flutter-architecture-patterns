@@ -1144,3 +1144,4 @@
 - [2026-05-14 13:59] feat(core): add bi-directional event bus handler for core
 - [2026-05-14 14:12] fix(network): fix memory leak by cancelling network subscription
 - [2026-05-14 14:33] chore(navigation): update dependencies and cleanup unused imports in navigation
+- [2026-05-14 14:42] feat(security): add bi-directional event bus handler for security
