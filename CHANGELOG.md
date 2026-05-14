@@ -1169,3 +1169,4 @@
 - [2026-05-14 20:28] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-14 21:05] docs(core): update readme and API contracts for core
 - [2026-05-14 21:13] docs(navigation): update readme and API contracts for navigation
+- [2026-05-14 22:07] docs(navigation): update readme and API contracts for navigation
