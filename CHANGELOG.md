@@ -1139,3 +1139,4 @@
 - [2026-05-14 12:13] fix(state): fix memory leak by cancelling state subscription
 - [2026-05-14 12:32] feat(security): implement shimmer loading skeleton in security
 - [2026-05-14 12:48] feat(auth): integrate offline caching for auth state
+- [2026-05-14 12:48] perf(perf): apply RepaintBoundary on animated perf widgets
