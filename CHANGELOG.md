@@ -1163,3 +1163,4 @@
 - [2026-05-14 19:18] feat(i18n): add async i18n stream provider
 - [2026-05-14 19:27] perf(navigation): memoize expensive computations in navigation
 - [2026-05-14 19:32] perf(security): apply RepaintBoundary on animated security widgets
+- [2026-05-14 19:36] style(analytics): adjust design tokens, typography, and contrast in analytics
