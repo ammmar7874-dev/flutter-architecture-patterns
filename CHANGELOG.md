@@ -1158,3 +1158,4 @@
 - [2026-05-14 17:39] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-05-14 17:40] feat(storage): implement responsive storage view component
 - [2026-05-14 18:30] feat(core): add async core stream provider
+- [2026-05-14 18:55] feat(core): implement responsive core view component
