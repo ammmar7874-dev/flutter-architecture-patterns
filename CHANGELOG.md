@@ -1136,3 +1136,4 @@
 - [2026-05-14 10:55] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-05-14 11:46] feat(state): add bi-directional event bus handler for state
 - [2026-05-14 12:05] feat(forms): add bi-directional event bus handler for forms
+- [2026-05-14 12:13] fix(state): fix memory leak by cancelling state subscription
