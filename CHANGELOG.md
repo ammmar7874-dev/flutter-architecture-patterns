@@ -1170,3 +1170,4 @@
 - [2026-05-14 21:05] docs(core): update readme and API contracts for core
 - [2026-05-14 21:13] docs(navigation): update readme and API contracts for navigation
 - [2026-05-14 22:07] docs(navigation): update readme and API contracts for navigation
+- [2026-05-14 22:18] feat(auth): implement responsive auth view component
