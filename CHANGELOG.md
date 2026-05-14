@@ -1142,3 +1142,4 @@
 - [2026-05-14 12:48] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-05-14 13:20] feat(storage): add async storage stream provider
 - [2026-05-14 13:59] feat(core): add bi-directional event bus handler for core
+- [2026-05-14 14:12] fix(network): fix memory leak by cancelling network subscription
