@@ -1162,3 +1162,4 @@
 - [2026-05-14 19:08] docs(network): add detailed code comments and architecture guide for network
 - [2026-05-14 19:18] feat(i18n): add async i18n stream provider
 - [2026-05-14 19:27] perf(navigation): memoize expensive computations in navigation
+- [2026-05-14 19:32] perf(security): apply RepaintBoundary on animated security widgets
