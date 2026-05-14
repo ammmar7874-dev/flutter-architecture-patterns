@@ -1143,3 +1143,4 @@
 - [2026-05-14 13:20] feat(storage): add async storage stream provider
 - [2026-05-14 13:59] feat(core): add bi-directional event bus handler for core
 - [2026-05-14 14:12] fix(network): fix memory leak by cancelling network subscription
+- [2026-05-14 14:33] chore(navigation): update dependencies and cleanup unused imports in navigation
