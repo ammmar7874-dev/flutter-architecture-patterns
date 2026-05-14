@@ -1167,3 +1167,4 @@
 - [2026-05-14 20:14] refactor(forms): decouple repository interface from concrete forms service
 - [2026-05-14 20:27] test(auth): add unit tests for auth business logic
 - [2026-05-14 20:28] fix(theme): correct layout constraints and overflow in theme
+- [2026-05-14 21:05] docs(core): update readme and API contracts for core
