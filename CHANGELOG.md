@@ -1172,3 +1172,4 @@
 - [2026-05-14 22:07] docs(navigation): update readme and API contracts for navigation
 - [2026-05-14 22:18] feat(auth): implement responsive auth view component
 - [2026-05-14 22:24] fix(i18n): correct layout constraints and overflow in i18n
+- [2026-05-14 23:14] chore(i18n): update dependencies and cleanup unused imports in i18n
