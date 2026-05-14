@@ -1145,3 +1145,4 @@
 - [2026-05-14 14:12] fix(network): fix memory leak by cancelling network subscription
 - [2026-05-14 14:33] chore(navigation): update dependencies and cleanup unused imports in navigation
 - [2026-05-14 14:42] feat(security): add bi-directional event bus handler for security
+- [2026-05-14 14:44] feat(auth): add async auth stream provider
