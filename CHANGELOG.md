@@ -1146,3 +1146,4 @@
 - [2026-05-14 14:33] chore(navigation): update dependencies and cleanup unused imports in navigation
 - [2026-05-14 14:42] feat(security): add bi-directional event bus handler for security
 - [2026-05-14 14:44] feat(auth): add async auth stream provider
+- [2026-05-14 15:09] refactor(i18n): migrate i18n controller to modern notifier syntax
