@@ -1164,3 +1164,4 @@
 - [2026-05-14 19:27] perf(navigation): memoize expensive computations in navigation
 - [2026-05-14 19:32] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-05-14 19:36] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-05-14 20:14] refactor(forms): decouple repository interface from concrete forms service
