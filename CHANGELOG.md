@@ -1129,3 +1129,4 @@
 - [2026-05-13 22:55] refactor(i18n): optimize data flow between domain and data layers
 - [2026-05-13 23:24] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-05-13 23:25] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-05-14 09:18] fix(cache): correct layout constraints and overflow in cache
