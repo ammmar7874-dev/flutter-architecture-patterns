@@ -1154,3 +1154,4 @@
 - [2026-05-14 16:49] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-05-14 17:15] fix(network): resolve race condition during network initialization
 - [2026-05-14 17:24] refactor(state): extract reusable atomic widgets from state
+- [2026-05-14 17:31] style(navigation): adjust design tokens, typography, and contrast in navigation
