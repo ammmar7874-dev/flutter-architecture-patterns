@@ -1132,3 +1132,4 @@
 - [2026-05-14 09:18] fix(cache): correct layout constraints and overflow in cache
 - [2026-05-14 09:19] feat(navigation): integrate offline caching for navigation state
 - [2026-05-14 10:35] refactor(storage): extract reusable atomic widgets from storage
+- [2026-05-14 10:51] feat(auth): add bi-directional event bus handler for auth
