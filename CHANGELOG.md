@@ -1165,3 +1165,4 @@
 - [2026-05-14 19:32] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-05-14 19:36] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-05-14 20:14] refactor(forms): decouple repository interface from concrete forms service
+- [2026-05-14 20:27] test(auth): add unit tests for auth business logic
