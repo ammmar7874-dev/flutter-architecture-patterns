@@ -1151,3 +1151,4 @@
 - [2026-05-14 15:52] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-05-14 16:21] fix(state): resolve race condition during state initialization
 - [2026-05-14 16:27] feat(i18n): implement shimmer loading skeleton in i18n
+- [2026-05-14 16:49] refactor(i18n): extract reusable atomic widgets from i18n
