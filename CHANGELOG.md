@@ -1190,3 +1190,4 @@
 - [2026-05-15 15:10] refactor(theme): optimize data flow between domain and data layers
 - [2026-05-15 15:48] feat(analytics): add input validation and sanitization for analytics
 - [2026-05-15 17:00] test(i18n): add unit tests for i18n business logic
+- [2026-05-15 17:42] style(auth): adjust design tokens, typography, and contrast in auth
