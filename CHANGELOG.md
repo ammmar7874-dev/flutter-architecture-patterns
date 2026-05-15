@@ -1195,3 +1195,4 @@
 - [2026-05-15 19:19] fix(network): correct layout constraints and overflow in network
 - [2026-05-15 19:37] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-05-15 20:16] feat(state): integrate offline caching for state state
+- [2026-05-15 20:24] style(ui): adjust design tokens, typography, and contrast in ui
