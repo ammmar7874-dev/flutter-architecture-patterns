@@ -1183,3 +1183,4 @@
 - [2026-05-15 12:11] fix(core): correct layout constraints and overflow in core
 - [2026-05-15 12:19] refactor(cache): optimize data flow between domain and data layers
 - [2026-05-15 12:25] test(test): implement widget integration tests for test
+- [2026-05-15 12:38] feat(test): add bi-directional event bus handler for test
