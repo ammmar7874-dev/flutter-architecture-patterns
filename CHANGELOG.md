@@ -1197,3 +1197,4 @@
 - [2026-05-15 20:16] feat(state): integrate offline caching for state state
 - [2026-05-15 20:24] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-05-15 20:31] feat(cache): add input validation and sanitization for cache
+- [2026-05-15 21:08] style(navigation): harmonize light and dark theme palette for navigation
