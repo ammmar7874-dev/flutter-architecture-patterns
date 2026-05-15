@@ -1174,3 +1174,4 @@
 - [2026-05-14 22:24] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-05-14 23:14] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-14 23:25] feat(theme): integrate custom telemetry logger in theme
+- [2026-05-15 09:23] feat(core): add bi-directional event bus handler for core
