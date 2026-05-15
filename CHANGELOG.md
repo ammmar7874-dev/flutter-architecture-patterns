@@ -1176,3 +1176,4 @@
 - [2026-05-14 23:25] feat(theme): integrate custom telemetry logger in theme
 - [2026-05-15 09:23] feat(core): add bi-directional event bus handler for core
 - [2026-05-15 09:30] test(network): implement widget integration tests for network
+- [2026-05-15 10:39] feat(auth): add input validation and sanitization for auth
