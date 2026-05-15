@@ -1192,3 +1192,4 @@
 - [2026-05-15 17:00] test(i18n): add unit tests for i18n business logic
 - [2026-05-15 17:42] style(auth): adjust design tokens, typography, and contrast in auth
 - [2026-05-15 18:35] perf(test): memoize expensive computations in test
+- [2026-05-15 19:19] fix(network): correct layout constraints and overflow in network
