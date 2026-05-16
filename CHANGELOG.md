@@ -1211,3 +1211,4 @@
 - [2026-05-16 15:01] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-05-16 15:37] feat(theme): implement shimmer loading skeleton in theme
 - [2026-05-16 16:23] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-05-16 17:55] feat(cache): implement responsive cache view component
