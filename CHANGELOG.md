@@ -1210,3 +1210,4 @@
 - [2026-05-16 13:27] refactor(forms): extract reusable atomic widgets from forms
 - [2026-05-16 15:01] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-05-16 15:37] feat(theme): implement shimmer loading skeleton in theme
+- [2026-05-16 16:23] fix(forms): fix memory leak by cancelling forms subscription
