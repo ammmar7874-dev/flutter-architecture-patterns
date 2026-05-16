@@ -1209,3 +1209,4 @@
 - [2026-05-16 12:53] fix(state): prevent double tap duplicate action in state
 - [2026-05-16 13:27] refactor(forms): extract reusable atomic widgets from forms
 - [2026-05-16 15:01] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-05-16 15:37] feat(theme): implement shimmer loading skeleton in theme
