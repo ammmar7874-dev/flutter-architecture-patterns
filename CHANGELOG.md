@@ -1217,3 +1217,4 @@
 - [2026-05-16 20:47] feat(network): integrate offline caching for network state
 - [2026-05-16 21:19] fix(storage): prevent double tap duplicate action in storage
 - [2026-05-16 22:10] feat(auth): integrate custom telemetry logger in auth
+- [2026-05-16 22:30] fix(cache): handle null assertion failure in cache parser
