@@ -1229,3 +1229,4 @@
 - [2026-05-17 16:06] docs(i18n): update readme and API contracts for i18n
 - [2026-05-17 18:55] fix(core): correct layout constraints and overflow in core
 - [2026-05-17 19:27] refactor(security): migrate security controller to modern notifier syntax
+- [2026-05-17 21:39] feat(theme): integrate custom telemetry logger in theme
