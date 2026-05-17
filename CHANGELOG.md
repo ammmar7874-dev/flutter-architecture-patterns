@@ -1221,3 +1221,4 @@
 - [2026-05-16 22:44] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-05-17 09:53] feat(perf): add input validation and sanitization for perf
 - [2026-05-17 09:53] docs(forms): update readme and API contracts for forms
+- [2026-05-17 10:22] refactor(i18n): extract reusable atomic widgets from i18n
