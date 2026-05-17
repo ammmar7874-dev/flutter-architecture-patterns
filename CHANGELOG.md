@@ -1225,3 +1225,4 @@
 - [2026-05-17 10:27] feat(cache): add async cache stream provider
 - [2026-05-17 14:19] refactor(navigation): optimize data flow between domain and data layers
 - [2026-05-17 14:46] feat(core): add bi-directional event bus handler for core
+- [2026-05-17 15:14] fix(security): fix memory leak by cancelling security subscription
