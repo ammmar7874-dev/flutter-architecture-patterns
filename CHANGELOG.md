@@ -1220,3 +1220,4 @@
 - [2026-05-16 22:30] fix(cache): handle null assertion failure in cache parser
 - [2026-05-16 22:44] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-05-17 09:53] feat(perf): add input validation and sanitization for perf
+- [2026-05-17 09:53] docs(forms): update readme and API contracts for forms
