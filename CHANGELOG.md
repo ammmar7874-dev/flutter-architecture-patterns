@@ -1219,3 +1219,4 @@
 - [2026-05-16 22:10] feat(auth): integrate custom telemetry logger in auth
 - [2026-05-16 22:30] fix(cache): handle null assertion failure in cache parser
 - [2026-05-16 22:44] perf(state): apply RepaintBoundary on animated state widgets
+- [2026-05-17 09:53] feat(perf): add input validation and sanitization for perf
