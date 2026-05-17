@@ -1223,3 +1223,4 @@
 - [2026-05-17 09:53] docs(forms): update readme and API contracts for forms
 - [2026-05-17 10:22] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-05-17 10:27] feat(cache): add async cache stream provider
+- [2026-05-17 14:19] refactor(navigation): optimize data flow between domain and data layers
