@@ -1243,3 +1243,4 @@
 - [2026-05-18 12:30] test(cache): implement widget integration tests for cache
 - [2026-05-18 12:36] chore(test): update dependencies and cleanup unused imports in test
 - [2026-05-18 13:07] fix(theme): correct layout constraints and overflow in theme
+- [2026-05-18 13:11] refactor(perf): decouple repository interface from concrete perf service
