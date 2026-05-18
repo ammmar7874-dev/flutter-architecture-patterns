@@ -1253,3 +1253,4 @@
 - [2026-05-18 14:40] feat(auth): add async auth stream provider
 - [2026-05-18 14:48] refactor(security): extract reusable atomic widgets from security
 - [2026-05-18 14:48] refactor(security): extract reusable atomic widgets from security
+- [2026-05-18 15:24] style(forms): harmonize light and dark theme palette for forms
