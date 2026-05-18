@@ -1231,3 +1231,4 @@
 - [2026-05-17 19:27] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-17 21:39] feat(theme): integrate custom telemetry logger in theme
 - [2026-05-17 22:46] feat(state): integrate custom telemetry logger in state
+- [2026-05-18 09:05] feat(ui): integrate offline caching for ui state
