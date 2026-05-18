@@ -1263,3 +1263,4 @@
 - [2026-05-18 16:08] feat(i18n): add input validation and sanitization for i18n
 - [2026-05-18 16:18] style(core): harmonize light and dark theme palette for core
 - [2026-05-18 16:20] refactor(ui): migrate ui controller to modern notifier syntax
+- [2026-05-18 17:03] fix(storage): fix memory leak by cancelling storage subscription

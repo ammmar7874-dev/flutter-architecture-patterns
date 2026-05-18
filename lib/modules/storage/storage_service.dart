@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-05-18 13:28:31
-// Commit: refactor(storage): migrate storage controller to modern notifier syntax
+// Updated at: 2026-05-18 17:03:51
+// Commit: fix(storage): fix memory leak by cancelling storage subscription
 
 class storageComponentState {
-  final String commitRef = '1246';
-  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-05-18T13:28:31+05:00');
+  final String commitRef = '1262';
+  final String lastMessage = 'fix(storage): fix memory leak by cancelling storage subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-18T17:03:51+05:00');
 }
