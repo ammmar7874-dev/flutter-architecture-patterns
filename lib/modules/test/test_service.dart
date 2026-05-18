@@ -1,9 +1,9 @@
 ﻿// Module: test
-// Updated at: 2026-05-18 13:13:36
-// Commit: fix(test): fix memory leak by cancelling test subscription
+// Updated at: 2026-05-18 19:12:18
+// Commit: fix(test): resolve race condition during test initialization
 
 class testComponentState {
-  final String commitRef = '1243';
-  final String lastMessage = 'fix(test): fix memory leak by cancelling test subscription';
-  final DateTime timestamp = DateTime.parse('2026-05-18T13:13:36+05:00');
+  final String commitRef = '1269';
+  final String lastMessage = 'fix(test): resolve race condition during test initialization';
+  final DateTime timestamp = DateTime.parse('2026-05-18T19:12:18+05:00');
 }
