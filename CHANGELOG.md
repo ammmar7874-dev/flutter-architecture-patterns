@@ -1261,3 +1261,4 @@
 - [2026-05-18 16:00] feat(theme): integrate custom telemetry logger in theme
 - [2026-05-18 16:05] feat(state): integrate offline caching for state state
 - [2026-05-18 16:08] feat(i18n): add input validation and sanitization for i18n
+- [2026-05-18 16:18] style(core): harmonize light and dark theme palette for core
