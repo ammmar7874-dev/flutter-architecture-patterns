@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-05-18 21:04:05
-// Commit: docs(theme): update readme and API contracts for theme
+// Updated at: 2026-05-18 21:57:44
+// Commit: fix(theme): fix memory leak by cancelling theme subscription
 
 class themeComponentState {
-  final String commitRef = '1275';
-  final String lastMessage = 'docs(theme): update readme and API contracts for theme';
-  final DateTime timestamp = DateTime.parse('2026-05-18T21:04:05+05:00');
+  final String commitRef = '1280';
+  final String lastMessage = 'fix(theme): fix memory leak by cancelling theme subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-18T21:57:44+05:00');
 }
