@@ -1276,3 +1276,4 @@
 - [2026-05-18 20:38] fix(state): resolve race condition during state initialization
 - [2026-05-18 20:49] refactor(state): optimize data flow between domain and data layers
 - [2026-05-18 20:54] docs(core): update readme and API contracts for core
+- [2026-05-18 21:04] docs(theme): update readme and API contracts for theme
