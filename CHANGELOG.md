@@ -1246,3 +1246,4 @@
 - [2026-05-18 13:11] refactor(perf): decouple repository interface from concrete perf service
 - [2026-05-18 13:13] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-18 13:16] docs(i18n): add detailed code comments and architecture guide for i18n
+- [2026-05-18 13:26] feat(perf): add bi-directional event bus handler for perf
