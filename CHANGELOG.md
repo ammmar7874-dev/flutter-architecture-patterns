@@ -1287,3 +1287,4 @@
 - [2026-05-18 22:28] feat(cache): implement responsive cache view component
 - [2026-05-18 22:39] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-05-18 22:51] test(network): add unit tests for network business logic
+- [2026-05-18 23:02] docs(perf): add detailed code comments and architecture guide for perf
