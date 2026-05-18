@@ -1280,3 +1280,4 @@
 - [2026-05-18 21:06] test(i18n): implement widget integration tests for i18n
 - [2026-05-18 21:23] feat(state): integrate custom telemetry logger in state
 - [2026-05-18 21:48] feat(network): integrate offline caching for network state
+- [2026-05-18 21:52] perf(forms): apply RepaintBoundary on animated forms widgets
