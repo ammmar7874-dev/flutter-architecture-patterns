@@ -1264,3 +1264,4 @@
 - [2026-05-18 16:18] style(core): harmonize light and dark theme palette for core
 - [2026-05-18 16:20] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-05-18 17:03] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-05-18 17:37] feat(auth): implement shimmer loading skeleton in auth
