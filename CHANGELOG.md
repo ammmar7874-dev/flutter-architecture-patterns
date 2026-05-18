@@ -1241,3 +1241,4 @@
 - [2026-05-18 12:03] feat(analytics): add async analytics stream provider
 - [2026-05-18 12:05] feat(auth): integrate custom telemetry logger in auth
 - [2026-05-18 12:30] test(cache): implement widget integration tests for cache
+- [2026-05-18 12:36] chore(test): update dependencies and cleanup unused imports in test
