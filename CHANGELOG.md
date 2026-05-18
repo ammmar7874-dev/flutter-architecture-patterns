@@ -1260,3 +1260,4 @@
 - [2026-05-18 15:53] feat(perf): implement shimmer loading skeleton in perf
 - [2026-05-18 16:00] feat(theme): integrate custom telemetry logger in theme
 - [2026-05-18 16:05] feat(state): integrate offline caching for state state
+- [2026-05-18 16:08] feat(i18n): add input validation and sanitization for i18n
