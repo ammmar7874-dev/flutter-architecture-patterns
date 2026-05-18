@@ -1250,3 +1250,4 @@
 - [2026-05-18 13:28] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-05-18 14:03] feat(perf): add input validation and sanitization for perf
 - [2026-05-18 14:36] refactor(cache): extract reusable atomic widgets from cache
+- [2026-05-18 14:40] feat(auth): add async auth stream provider
