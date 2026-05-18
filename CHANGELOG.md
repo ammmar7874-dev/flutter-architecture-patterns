@@ -1234,3 +1234,4 @@
 - [2026-05-18 09:05] feat(ui): integrate offline caching for ui state
 - [2026-05-18 09:13] perf(ui): optimize memory consumption in ui list viewport
 - [2026-05-18 09:24] fix(auth): resolve race condition during auth initialization
+- [2026-05-18 10:17] fix(security): handle null assertion failure in security parser
