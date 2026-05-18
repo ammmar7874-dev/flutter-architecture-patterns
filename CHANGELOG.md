@@ -1265,3 +1265,4 @@
 - [2026-05-18 16:20] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-05-18 17:03] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-05-18 17:37] feat(auth): implement shimmer loading skeleton in auth
+- [2026-05-18 17:57] refactor(i18n): optimize data flow between domain and data layers
