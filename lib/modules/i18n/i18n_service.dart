@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-05-18 22:28:19
-// Commit: chore(i18n): update dependencies and cleanup unused imports in i18n
+// Updated at: 2026-05-18 22:39:12
+// Commit: fix(i18n): fix memory leak by cancelling i18n subscription
 
 class i18nComponentState {
-  final String commitRef = '1282';
-  final String lastMessage = 'chore(i18n): update dependencies and cleanup unused imports in i18n';
-  final DateTime timestamp = DateTime.parse('2026-05-18T22:28:19+05:00');
+  final String commitRef = '1284';
+  final String lastMessage = 'fix(i18n): fix memory leak by cancelling i18n subscription';
+  final DateTime timestamp = DateTime.parse('2026-05-18T22:39:12+05:00');
 }

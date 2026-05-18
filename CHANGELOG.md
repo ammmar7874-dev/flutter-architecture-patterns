@@ -1285,3 +1285,4 @@
 - [2026-05-18 22:14] refactor(test): migrate test controller to modern notifier syntax
 - [2026-05-18 22:28] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-18 22:28] feat(cache): implement responsive cache view component
+- [2026-05-18 22:39] fix(i18n): fix memory leak by cancelling i18n subscription
