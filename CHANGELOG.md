@@ -1295,3 +1295,4 @@
 - [2026-05-20 12:07] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-05-20 13:15] perf(state): optimize memory consumption in state list viewport
 - [2026-05-20 14:09] refactor(network): decouple repository interface from concrete network service
+- [2026-05-20 14:11] test(cache): add unit tests for cache business logic
