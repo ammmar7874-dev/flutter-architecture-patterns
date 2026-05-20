@@ -1297,3 +1297,4 @@
 - [2026-05-20 14:09] refactor(network): decouple repository interface from concrete network service
 - [2026-05-20 14:11] test(cache): add unit tests for cache business logic
 - [2026-05-20 14:17] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-05-20 16:15] docs(perf): update readme and API contracts for perf
