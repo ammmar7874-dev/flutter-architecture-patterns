@@ -1294,3 +1294,4 @@
 - [2026-05-20 11:41] feat(state): integrate custom telemetry logger in state
 - [2026-05-20 12:07] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-05-20 13:15] perf(state): optimize memory consumption in state list viewport
+- [2026-05-20 14:09] refactor(network): decouple repository interface from concrete network service
