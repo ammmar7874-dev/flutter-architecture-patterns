@@ -1307,3 +1307,4 @@
 - [2026-05-20 19:48] feat(cache): implement responsive cache view component
 - [2026-05-20 20:20] feat(theme): add input validation and sanitization for theme
 - [2026-05-20 21:31] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-05-20 21:32] fix(navigation): fix memory leak by cancelling navigation subscription
