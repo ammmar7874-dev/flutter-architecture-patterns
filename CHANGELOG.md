@@ -1305,3 +1305,4 @@
 - [2026-05-20 18:32] refactor(cache): decouple repository interface from concrete cache service
 - [2026-05-20 19:08] style(forms): harmonize light and dark theme palette for forms
 - [2026-05-20 19:48] feat(cache): implement responsive cache view component
+- [2026-05-20 20:20] feat(theme): add input validation and sanitization for theme
