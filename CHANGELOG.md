@@ -1300,3 +1300,4 @@
 - [2026-05-20 16:15] docs(perf): update readme and API contracts for perf
 - [2026-05-20 16:29] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-05-20 16:50] feat(test): add async test stream provider
+- [2026-05-20 16:53] refactor(perf): extract reusable atomic widgets from perf
