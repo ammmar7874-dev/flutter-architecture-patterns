@@ -1292,3 +1292,4 @@
 - [2026-05-20 09:04] refactor(core): migrate core controller to modern notifier syntax
 - [2026-05-20 11:32] fix(perf): prevent double tap duplicate action in perf
 - [2026-05-20 11:41] feat(state): integrate custom telemetry logger in state
+- [2026-05-20 12:07] docs(perf): add detailed code comments and architecture guide for perf
