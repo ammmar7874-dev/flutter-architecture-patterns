@@ -1291,3 +1291,4 @@
 - [2026-05-18 23:19] feat(analytics): implement shimmer loading skeleton in analytics
 - [2026-05-20 09:04] refactor(core): migrate core controller to modern notifier syntax
 - [2026-05-20 11:32] fix(perf): prevent double tap duplicate action in perf
+- [2026-05-20 11:41] feat(state): integrate custom telemetry logger in state
