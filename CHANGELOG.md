@@ -1340,3 +1340,4 @@
 - [2026-05-22 20:48] test(state): implement widget integration tests for state
 - [2026-05-22 20:59] feat(ui): add bi-directional event bus handler for ui
 - [2026-05-22 20:59] feat(theme): add async theme stream provider
+- [2026-05-22 21:17] fix(cache): correct layout constraints and overflow in cache
