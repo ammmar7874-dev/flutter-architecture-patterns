@@ -1343,3 +1343,4 @@
 - [2026-05-22 21:17] fix(cache): correct layout constraints and overflow in cache
 - [2026-05-22 21:18] perf(storage): optimize memory consumption in storage list viewport
 - [2026-05-22 22:44] fix(network): prevent double tap duplicate action in network
+- [2026-05-22 23:10] chore(forms): update dependencies and cleanup unused imports in forms
