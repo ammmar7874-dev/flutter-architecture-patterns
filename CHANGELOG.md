@@ -1333,3 +1333,4 @@
 - [2026-05-22 18:39] fix(navigation): resolve race condition during navigation initialization
 - [2026-05-22 18:41] test(perf): implement widget integration tests for perf
 - [2026-05-22 19:10] fix(theme): prevent double tap duplicate action in theme
+- [2026-05-22 19:51] refactor(storage): decouple repository interface from concrete storage service
