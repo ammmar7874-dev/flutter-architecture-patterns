@@ -1325,3 +1325,4 @@
 - [2026-05-22 14:26] docs(state): add detailed code comments and architecture guide for state
 - [2026-05-22 14:29] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-05-22 14:32] perf(network): memoize expensive computations in network
+- [2026-05-22 15:33] test(theme): implement widget integration tests for theme
