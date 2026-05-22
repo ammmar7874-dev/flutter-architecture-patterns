@@ -1328,3 +1328,4 @@
 - [2026-05-22 15:33] test(theme): implement widget integration tests for theme
 - [2026-05-22 15:35] fix(ui): correct layout constraints and overflow in ui
 - [2026-05-22 16:25] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-05-22 17:25] fix(i18n): prevent double tap duplicate action in i18n
