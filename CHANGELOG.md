@@ -1337,3 +1337,4 @@
 - [2026-05-22 20:12] fix(core): correct layout constraints and overflow in core
 - [2026-05-22 20:26] docs(auth): update readme and API contracts for auth
 - [2026-05-22 20:32] refactor(state): migrate state controller to modern notifier syntax
+- [2026-05-22 20:48] test(state): implement widget integration tests for state
