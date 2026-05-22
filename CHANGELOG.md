@@ -1314,3 +1314,4 @@
 - [2026-05-22 10:44] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-22 11:27] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-05-22 11:32] perf(perf): optimize memory consumption in perf list viewport
+- [2026-05-22 11:33] perf(network): apply RepaintBoundary on animated network widgets
