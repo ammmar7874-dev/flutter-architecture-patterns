@@ -1320,3 +1320,4 @@
 - [2026-05-22 12:34] feat(ui): add async ui stream provider
 - [2026-05-22 13:11] test(ui): implement widget integration tests for ui
 - [2026-05-22 13:19] perf(auth): memoize expensive computations in auth
+- [2026-05-22 14:11] perf(perf): apply RepaintBoundary on animated perf widgets
