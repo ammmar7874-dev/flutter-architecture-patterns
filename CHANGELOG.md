@@ -1342,3 +1342,4 @@
 - [2026-05-22 20:59] feat(theme): add async theme stream provider
 - [2026-05-22 21:17] fix(cache): correct layout constraints and overflow in cache
 - [2026-05-22 21:18] perf(storage): optimize memory consumption in storage list viewport
+- [2026-05-22 22:44] fix(network): prevent double tap duplicate action in network
