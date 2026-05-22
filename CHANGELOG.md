@@ -1322,3 +1322,4 @@
 - [2026-05-22 13:19] perf(auth): memoize expensive computations in auth
 - [2026-05-22 14:11] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-05-22 14:12] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-05-22 14:26] docs(state): add detailed code comments and architecture guide for state
