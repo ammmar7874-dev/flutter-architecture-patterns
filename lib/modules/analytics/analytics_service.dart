@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-05-20 14:17:54
-// Commit: refactor(analytics): migrate analytics controller to modern notifier syntax
+// Updated at: 2026-05-22 10:41:54
+// Commit: chore(analytics): update dependencies and cleanup unused imports in analytics
 
 class analyticsComponentState {
-  final String commitRef = '1295';
-  final String lastMessage = 'refactor(analytics): migrate analytics controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-05-20T14:17:54+05:00');
+  final String commitRef = '1309';
+  final String lastMessage = 'chore(analytics): update dependencies and cleanup unused imports in analytics';
+  final DateTime timestamp = DateTime.parse('2026-05-22T10:41:54+05:00');
 }

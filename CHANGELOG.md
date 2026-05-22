@@ -1310,3 +1310,4 @@
 - [2026-05-20 21:32] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-05-20 22:06] feat(core): implement responsive core view component
 - [2026-05-22 10:32] chore(test): update dependencies and cleanup unused imports in test
+- [2026-05-22 10:41] chore(analytics): update dependencies and cleanup unused imports in analytics
