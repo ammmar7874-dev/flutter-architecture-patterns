@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-05-20 21:32:10
-// Commit: fix(navigation): fix memory leak by cancelling navigation subscription
+// Updated at: 2026-05-22 18:39:36
+// Commit: fix(navigation): resolve race condition during navigation initialization
 
 class navigationComponentState {
-  final String commitRef = '1306';
-  final String lastMessage = 'fix(navigation): fix memory leak by cancelling navigation subscription';
-  final DateTime timestamp = DateTime.parse('2026-05-20T21:32:10+05:00');
+  final String commitRef = '1329';
+  final String lastMessage = 'fix(navigation): resolve race condition during navigation initialization';
+  final DateTime timestamp = DateTime.parse('2026-05-22T18:39:36+05:00');
 }

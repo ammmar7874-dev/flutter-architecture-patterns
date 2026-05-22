@@ -1330,3 +1330,4 @@
 - [2026-05-22 16:25] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-05-22 17:25] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-05-22 18:30] fix(i18n): resolve race condition during i18n initialization
+- [2026-05-22 18:39] fix(navigation): resolve race condition during navigation initialization
