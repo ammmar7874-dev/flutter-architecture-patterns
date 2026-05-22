@@ -1335,3 +1335,4 @@
 - [2026-05-22 19:10] fix(theme): prevent double tap duplicate action in theme
 - [2026-05-22 19:51] refactor(storage): decouple repository interface from concrete storage service
 - [2026-05-22 20:12] fix(core): correct layout constraints and overflow in core
+- [2026-05-22 20:26] docs(auth): update readme and API contracts for auth
