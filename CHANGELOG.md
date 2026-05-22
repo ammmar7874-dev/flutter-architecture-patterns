@@ -1312,3 +1312,4 @@
 - [2026-05-22 10:32] chore(test): update dependencies and cleanup unused imports in test
 - [2026-05-22 10:41] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-05-22 10:44] refactor(security): migrate security controller to modern notifier syntax
+- [2026-05-22 11:27] refactor(storage): migrate storage controller to modern notifier syntax
