@@ -1316,3 +1316,4 @@
 - [2026-05-22 11:32] perf(perf): optimize memory consumption in perf list viewport
 - [2026-05-22 11:33] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-05-22 12:20] docs(i18n): update readme and API contracts for i18n
+- [2026-05-22 12:25] perf(security): optimize memory consumption in security list viewport
