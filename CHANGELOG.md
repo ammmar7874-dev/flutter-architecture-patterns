@@ -1347,3 +1347,4 @@
 - [2026-05-22 23:11] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-05-23 09:33] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-05-23 10:45] docs(cache): add detailed code comments and architecture guide for cache
+- [2026-05-23 11:35] perf(navigation): memoize expensive computations in navigation
