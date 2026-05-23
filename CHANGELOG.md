@@ -1354,3 +1354,4 @@
 - [2026-05-23 14:32] refactor(auth): optimize data flow between domain and data layers
 - [2026-05-23 15:50] style(test): adjust design tokens, typography, and contrast in test
 - [2026-05-23 16:09] refactor(ui): decouple repository interface from concrete ui service
+- [2026-05-23 16:13] chore(theme): update dependencies and cleanup unused imports in theme
