@@ -1361,3 +1361,4 @@
 - [2026-05-23 18:38] fix(network): handle null assertion failure in network parser
 - [2026-05-23 19:00] test(network): add unit tests for network business logic
 - [2026-05-23 19:02] feat(auth): implement responsive auth view component
+- [2026-05-23 19:05] style(navigation): adjust design tokens, typography, and contrast in navigation
