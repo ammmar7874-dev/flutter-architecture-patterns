@@ -1358,3 +1358,4 @@
 - [2026-05-23 17:11] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-23 17:25] style(state): harmonize light and dark theme palette for state
 - [2026-05-23 17:35] feat(network): integrate offline caching for network state
+- [2026-05-23 18:38] fix(network): handle null assertion failure in network parser
