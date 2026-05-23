@@ -1369,3 +1369,4 @@
 - [2026-05-23 19:36] refactor(security): decouple repository interface from concrete security service
 - [2026-05-23 20:09] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-05-23 20:21] refactor(i18n): migrate i18n controller to modern notifier syntax
+- [2026-05-23 20:30] style(state): harmonize light and dark theme palette for state
