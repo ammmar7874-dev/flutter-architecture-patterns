@@ -1365,3 +1365,4 @@
 - [2026-05-23 19:22] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-05-23 19:24] perf(theme): optimize memory consumption in theme list viewport
 - [2026-05-23 19:26] fix(theme): correct layout constraints and overflow in theme
+- [2026-05-23 19:35] perf(ui): optimize memory consumption in ui list viewport
