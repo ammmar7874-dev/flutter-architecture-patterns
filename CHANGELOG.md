@@ -1357,3 +1357,4 @@
 - [2026-05-23 16:13] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-05-23 17:11] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-23 17:25] style(state): harmonize light and dark theme palette for state
+- [2026-05-23 17:35] feat(network): integrate offline caching for network state
