@@ -1353,3 +1353,4 @@
 - [2026-05-23 14:00] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-05-23 14:32] refactor(auth): optimize data flow between domain and data layers
 - [2026-05-23 15:50] style(test): adjust design tokens, typography, and contrast in test
+- [2026-05-23 16:09] refactor(ui): decouple repository interface from concrete ui service
