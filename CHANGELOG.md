@@ -1371,3 +1371,4 @@
 - [2026-05-23 20:21] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-05-23 20:30] style(state): harmonize light and dark theme palette for state
 - [2026-05-23 21:04] style(theme): adjust design tokens, typography, and contrast in theme
+- [2026-05-23 22:21] feat(storage): add async storage stream provider
