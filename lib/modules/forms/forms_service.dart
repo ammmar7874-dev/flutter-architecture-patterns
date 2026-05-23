@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-05-22 23:10:42
-// Commit: chore(forms): update dependencies and cleanup unused imports in forms
+// Updated at: 2026-05-23 09:33:26
+// Commit: refactor(forms): migrate forms controller to modern notifier syntax
 
 class formsComponentState {
-  final String commitRef = '1342';
-  final String lastMessage = 'chore(forms): update dependencies and cleanup unused imports in forms';
-  final DateTime timestamp = DateTime.parse('2026-05-22T23:10:42+05:00');
+  final String commitRef = '1344';
+  final String lastMessage = 'refactor(forms): migrate forms controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-23T09:33:26+05:00');
 }

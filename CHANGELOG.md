@@ -1345,3 +1345,4 @@
 - [2026-05-22 22:44] fix(network): prevent double tap duplicate action in network
 - [2026-05-22 23:10] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-05-22 23:11] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-05-23 09:33] refactor(forms): migrate forms controller to modern notifier syntax
