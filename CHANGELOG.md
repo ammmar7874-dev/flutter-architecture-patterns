@@ -1351,3 +1351,4 @@
 - [2026-05-23 11:47] fix(auth): correct layout constraints and overflow in auth
 - [2026-05-23 11:54] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-05-23 14:00] perf(i18n): apply RepaintBoundary on animated i18n widgets
+- [2026-05-23 14:32] refactor(auth): optimize data flow between domain and data layers
