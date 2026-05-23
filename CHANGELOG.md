@@ -1367,3 +1367,4 @@
 - [2026-05-23 19:26] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-23 19:35] perf(ui): optimize memory consumption in ui list viewport
 - [2026-05-23 19:36] refactor(security): decouple repository interface from concrete security service
+- [2026-05-23 20:09] refactor(navigation): migrate navigation controller to modern notifier syntax

@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-05-23 19:05:47
-// Commit: style(navigation): adjust design tokens, typography, and contrast in navigation
+// Updated at: 2026-05-23 20:09:53
+// Commit: refactor(navigation): migrate navigation controller to modern notifier syntax
 
 class navigationComponentState {
-  final String commitRef = '1360';
-  final String lastMessage = 'style(navigation): adjust design tokens, typography, and contrast in navigation';
-  final DateTime timestamp = DateTime.parse('2026-05-23T19:05:47+05:00');
+  final String commitRef = '1366';
+  final String lastMessage = 'refactor(navigation): migrate navigation controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-23T20:09:53+05:00');
 }
