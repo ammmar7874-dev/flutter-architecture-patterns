@@ -1427,3 +1427,4 @@
 - [2026-05-24 22:16] refactor(network): migrate network controller to modern notifier syntax
 - [2026-05-24 22:55] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-05-24 23:09] perf(ui): apply RepaintBoundary on animated ui widgets
+- [2026-05-24 23:10] feat(navigation): integrate offline caching for navigation state
