@@ -1410,3 +1410,4 @@
 - [2026-05-24 17:44] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-24 17:52] refactor(forms): decouple repository interface from concrete forms service
 - [2026-05-24 17:58] feat(core): add input validation and sanitization for core
+- [2026-05-24 17:58] fix(i18n): prevent double tap duplicate action in i18n
