@@ -1417,3 +1417,4 @@
 - [2026-05-24 19:11] feat(test): implement shimmer loading skeleton in test
 - [2026-05-24 19:12] refactor(test): optimize data flow between domain and data layers
 - [2026-05-24 19:24] docs(perf): update readme and API contracts for perf
+- [2026-05-24 19:57] feat(i18n): add async i18n stream provider
