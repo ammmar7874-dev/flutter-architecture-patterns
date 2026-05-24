@@ -1386,3 +1386,4 @@
 - [2026-05-24 11:35] perf(network): optimize memory consumption in network list viewport
 - [2026-05-24 12:08] feat(forms): integrate offline caching for forms state
 - [2026-05-24 12:17] refactor(perf): optimize data flow between domain and data layers
+- [2026-05-24 12:33] refactor(auth): optimize data flow between domain and data layers
