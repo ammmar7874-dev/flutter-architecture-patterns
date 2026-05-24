@@ -1424,3 +1424,4 @@
 - [2026-05-24 21:37] perf(state): memoize expensive computations in state
 - [2026-05-24 21:46] fix(auth): resolve race condition during auth initialization
 - [2026-05-24 21:48] refactor(state): extract reusable atomic widgets from state
+- [2026-05-24 22:16] refactor(network): migrate network controller to modern notifier syntax
