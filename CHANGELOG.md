@@ -1393,3 +1393,4 @@
 - [2026-05-24 13:34] refactor(ui): optimize data flow between domain and data layers
 - [2026-05-24 13:37] feat(ui): add bi-directional event bus handler for ui
 - [2026-05-24 13:46] perf(security): memoize expensive computations in security
+- [2026-05-24 13:51] refactor(auth): decouple repository interface from concrete auth service
