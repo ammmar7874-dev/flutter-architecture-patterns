@@ -1391,3 +1391,4 @@
 - [2026-05-24 13:24] refactor(ui): optimize data flow between domain and data layers
 - [2026-05-24 13:28] feat(test): integrate custom telemetry logger in test
 - [2026-05-24 13:34] refactor(ui): optimize data flow between domain and data layers
+- [2026-05-24 13:37] feat(ui): add bi-directional event bus handler for ui
