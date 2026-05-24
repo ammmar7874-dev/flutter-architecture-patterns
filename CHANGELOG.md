@@ -1407,3 +1407,4 @@
 - [2026-05-24 17:09] feat(core): implement responsive core view component
 - [2026-05-24 17:28] perf(ui): optimize memory consumption in ui list viewport
 - [2026-05-24 17:38] fix(core): correct layout constraints and overflow in core
+- [2026-05-24 17:44] fix(theme): correct layout constraints and overflow in theme
