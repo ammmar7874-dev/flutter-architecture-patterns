@@ -1411,3 +1411,4 @@
 - [2026-05-24 17:52] refactor(forms): decouple repository interface from concrete forms service
 - [2026-05-24 17:58] feat(core): add input validation and sanitization for core
 - [2026-05-24 17:58] fix(i18n): prevent double tap duplicate action in i18n
+- [2026-05-24 18:02] feat(theme): add input validation and sanitization for theme
