@@ -1420,3 +1420,4 @@
 - [2026-05-24 19:57] feat(i18n): add async i18n stream provider
 - [2026-05-24 20:23] feat(analytics): add bi-directional event bus handler for analytics
 - [2026-05-24 21:10] fix(i18n): handle null assertion failure in i18n parser
+- [2026-05-24 21:11] style(forms): adjust design tokens, typography, and contrast in forms
