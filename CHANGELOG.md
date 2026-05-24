@@ -1395,3 +1395,4 @@
 - [2026-05-24 13:46] perf(security): memoize expensive computations in security
 - [2026-05-24 13:51] refactor(auth): decouple repository interface from concrete auth service
 - [2026-05-24 14:03] feat(perf): integrate offline caching for perf state
+- [2026-05-24 14:35] perf(forms): apply RepaintBoundary on animated forms widgets
