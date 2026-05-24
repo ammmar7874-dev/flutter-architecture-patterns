@@ -1375,3 +1375,4 @@
 - [2026-05-24 09:08] feat(forms): implement responsive forms view component
 - [2026-05-24 09:19] chore(network): update dependencies and cleanup unused imports in network
 - [2026-05-24 09:25] feat(cache): integrate offline caching for cache state
+- [2026-05-24 09:28] fix(storage): fix memory leak by cancelling storage subscription
