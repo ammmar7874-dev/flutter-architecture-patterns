@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-05-23 20:09:53
-// Commit: refactor(navigation): migrate navigation controller to modern notifier syntax
+// Updated at: 2026-05-24 09:55:08
+// Commit: chore(navigation): update dependencies and cleanup unused imports in navigation
 
 class navigationComponentState {
-  final String commitRef = '1366';
-  final String lastMessage = 'refactor(navigation): migrate navigation controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-05-23T20:09:53+05:00');
+  final String commitRef = '1376';
+  final String lastMessage = 'chore(navigation): update dependencies and cleanup unused imports in navigation';
+  final DateTime timestamp = DateTime.parse('2026-05-24T09:55:08+05:00');
 }
