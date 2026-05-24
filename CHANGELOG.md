@@ -1398,3 +1398,4 @@
 - [2026-05-24 14:35] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-05-24 14:42] fix(analytics): resolve race condition during analytics initialization
 - [2026-05-24 14:52] feat(cache): add input validation and sanitization for cache
+- [2026-05-24 14:54] refactor(auth): extract reusable atomic widgets from auth
