@@ -1425,3 +1425,4 @@
 - [2026-05-24 21:46] fix(auth): resolve race condition during auth initialization
 - [2026-05-24 21:48] refactor(state): extract reusable atomic widgets from state
 - [2026-05-24 22:16] refactor(network): migrate network controller to modern notifier syntax
+- [2026-05-24 22:55] perf(perf): apply RepaintBoundary on animated perf widgets
