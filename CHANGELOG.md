@@ -1408,3 +1408,4 @@
 - [2026-05-24 17:28] perf(ui): optimize memory consumption in ui list viewport
 - [2026-05-24 17:38] fix(core): correct layout constraints and overflow in core
 - [2026-05-24 17:44] fix(theme): correct layout constraints and overflow in theme
+- [2026-05-24 17:52] refactor(forms): decouple repository interface from concrete forms service
