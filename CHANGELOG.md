@@ -1418,3 +1418,4 @@
 - [2026-05-24 19:12] refactor(test): optimize data flow between domain and data layers
 - [2026-05-24 19:24] docs(perf): update readme and API contracts for perf
 - [2026-05-24 19:57] feat(i18n): add async i18n stream provider
+- [2026-05-24 20:23] feat(analytics): add bi-directional event bus handler for analytics
