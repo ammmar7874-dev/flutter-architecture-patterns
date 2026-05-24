@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-05-24 09:55:08
-// Commit: chore(navigation): update dependencies and cleanup unused imports in navigation
+// Updated at: 2026-05-24 16:35:53
+// Commit: fix(navigation): correct layout constraints and overflow in navigation
 
 class navigationComponentState {
-  final String commitRef = '1376';
-  final String lastMessage = 'chore(navigation): update dependencies and cleanup unused imports in navigation';
-  final DateTime timestamp = DateTime.parse('2026-05-24T09:55:08+05:00');
+  final String commitRef = '1402';
+  final String lastMessage = 'fix(navigation): correct layout constraints and overflow in navigation';
+  final DateTime timestamp = DateTime.parse('2026-05-24T16:35:53+05:00');
 }

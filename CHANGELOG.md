@@ -1403,3 +1403,4 @@
 - [2026-05-24 15:41] style(perf): harmonize light and dark theme palette for perf
 - [2026-05-24 16:13] feat(auth): add input validation and sanitization for auth
 - [2026-05-24 16:14] refactor(forms): decouple repository interface from concrete forms service
+- [2026-05-24 16:35] fix(navigation): correct layout constraints and overflow in navigation
