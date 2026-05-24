@@ -1382,3 +1382,4 @@
 - [2026-05-24 10:05] fix(state): handle null assertion failure in state parser
 - [2026-05-24 10:36] feat(auth): integrate custom telemetry logger in auth
 - [2026-05-24 10:55] feat(perf): implement responsive perf view component
+- [2026-05-24 11:29] chore(forms): update dependencies and cleanup unused imports in forms
