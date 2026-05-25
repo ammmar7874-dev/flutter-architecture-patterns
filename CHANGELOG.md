@@ -1430,3 +1430,4 @@
 - [2026-05-24 23:10] feat(navigation): integrate offline caching for navigation state
 - [2026-05-25 09:51] fix(theme): resolve race condition during theme initialization
 - [2026-05-25 12:29] refactor(perf): migrate perf controller to modern notifier syntax
+- [2026-05-25 14:26] feat(test): integrate custom telemetry logger in test
