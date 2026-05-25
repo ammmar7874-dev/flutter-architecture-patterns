@@ -1435,3 +1435,4 @@
 - [2026-05-25 16:01] refactor(cache): optimize data flow between domain and data layers
 - [2026-05-25 17:20] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-05-25 21:40] perf(theme): apply RepaintBoundary on animated theme widgets
+- [2026-05-25 22:40] perf(navigation): memoize expensive computations in navigation
