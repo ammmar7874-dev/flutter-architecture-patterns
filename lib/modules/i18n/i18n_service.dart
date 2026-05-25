@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-05-24 21:10:25
-// Commit: fix(i18n): handle null assertion failure in i18n parser
+// Updated at: 2026-05-25 17:20:55
+// Commit: refactor(i18n): migrate i18n controller to modern notifier syntax
 
 class i18nComponentState {
-  final String commitRef = '1418';
-  final String lastMessage = 'fix(i18n): handle null assertion failure in i18n parser';
-  final DateTime timestamp = DateTime.parse('2026-05-24T21:10:25+05:00');
+  final String commitRef = '1432';
+  final String lastMessage = 'refactor(i18n): migrate i18n controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-25T17:20:55+05:00');
 }

@@ -1433,3 +1433,4 @@
 - [2026-05-25 14:26] feat(test): integrate custom telemetry logger in test
 - [2026-05-25 15:04] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-25 16:01] refactor(cache): optimize data flow between domain and data layers
+- [2026-05-25 17:20] refactor(i18n): migrate i18n controller to modern notifier syntax
