@@ -1428,3 +1428,4 @@
 - [2026-05-24 22:55] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-05-24 23:09] perf(ui): apply RepaintBoundary on animated ui widgets
 - [2026-05-24 23:10] feat(navigation): integrate offline caching for navigation state
+- [2026-05-25 09:51] fix(theme): resolve race condition during theme initialization
