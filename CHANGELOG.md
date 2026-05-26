@@ -1470,3 +1470,4 @@
 - [2026-05-26 19:17] feat(network): add input validation and sanitization for network
 - [2026-05-26 19:34] style(auth): adjust design tokens, typography, and contrast in auth
 - [2026-05-26 19:57] feat(theme): implement responsive theme view component
+- [2026-05-26 20:16] perf(core): apply RepaintBoundary on animated core widgets
