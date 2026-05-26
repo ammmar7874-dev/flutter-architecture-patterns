@@ -1444,3 +1444,4 @@
 - [2026-05-26 11:09] refactor(test): migrate test controller to modern notifier syntax
 - [2026-05-26 11:47] refactor(security): optimize data flow between domain and data layers
 - [2026-05-26 12:01] fix(analytics): prevent double tap duplicate action in analytics
+- [2026-05-26 12:13] docs(storage): add detailed code comments and architecture guide for storage
