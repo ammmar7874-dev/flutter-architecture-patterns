@@ -1462,3 +1462,4 @@
 - [2026-05-26 17:43] feat(auth): add input validation and sanitization for auth
 - [2026-05-26 17:54] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-05-26 18:07] refactor(test): extract reusable atomic widgets from test
+- [2026-05-26 18:24] style(core): adjust design tokens, typography, and contrast in core
