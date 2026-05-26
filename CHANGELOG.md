@@ -1457,3 +1457,4 @@
 - [2026-05-26 15:28] feat(theme): add input validation and sanitization for theme
 - [2026-05-26 15:43] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-26 15:49] style(theme): harmonize light and dark theme palette for theme
+- [2026-05-26 16:36] perf(storage): apply RepaintBoundary on animated storage widgets
