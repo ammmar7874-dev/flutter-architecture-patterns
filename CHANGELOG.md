@@ -1468,3 +1468,4 @@
 - [2026-05-26 19:00] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-05-26 19:14] feat(navigation): add input validation and sanitization for navigation
 - [2026-05-26 19:17] feat(network): add input validation and sanitization for network
+- [2026-05-26 19:34] style(auth): adjust design tokens, typography, and contrast in auth
