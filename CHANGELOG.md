@@ -1451,3 +1451,4 @@
 - [2026-05-26 13:30] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-05-26 13:44] docs(i18n): update readme and API contracts for i18n
 - [2026-05-26 14:12] fix(ui): prevent double tap duplicate action in ui
+- [2026-05-26 14:49] perf(cache): apply RepaintBoundary on animated cache widgets
