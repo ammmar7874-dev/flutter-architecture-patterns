@@ -1472,3 +1472,4 @@
 - [2026-05-26 19:57] feat(theme): implement responsive theme view component
 - [2026-05-26 20:16] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-05-26 20:53] docs(test): add detailed code comments and architecture guide for test
+- [2026-05-26 20:58] perf(state): apply RepaintBoundary on animated state widgets
