@@ -1447,3 +1447,4 @@
 - [2026-05-26 12:13] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-05-26 12:47] style(state): adjust design tokens, typography, and contrast in state
 - [2026-05-26 12:48] feat(cache): add async cache stream provider
+- [2026-05-26 13:15] feat(perf): add input validation and sanitization for perf
