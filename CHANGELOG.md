@@ -1449,3 +1449,4 @@
 - [2026-05-26 12:48] feat(cache): add async cache stream provider
 - [2026-05-26 13:15] feat(perf): add input validation and sanitization for perf
 - [2026-05-26 13:30] style(i18n): adjust design tokens, typography, and contrast in i18n
+- [2026-05-26 13:44] docs(i18n): update readme and API contracts for i18n
