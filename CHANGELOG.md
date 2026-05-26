@@ -1480,3 +1480,4 @@
 - [2026-05-26 21:33] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-05-26 21:36] fix(security): prevent double tap duplicate action in security
 - [2026-05-26 21:43] test(theme): implement widget integration tests for theme
+- [2026-05-26 22:34] feat(network): add bi-directional event bus handler for network
