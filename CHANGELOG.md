@@ -1439,3 +1439,4 @@
 - [2026-05-25 23:06] perf(network): memoize expensive computations in network
 - [2026-05-25 23:15] feat(security): integrate custom telemetry logger in security
 - [2026-05-26 09:13] style(test): harmonize light and dark theme palette for test
+- [2026-05-26 10:19] fix(state): correct layout constraints and overflow in state
