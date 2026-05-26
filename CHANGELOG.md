@@ -1460,3 +1460,4 @@
 - [2026-05-26 16:36] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-05-26 16:41] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-05-26 17:43] feat(auth): add input validation and sanitization for auth
+- [2026-05-26 17:54] perf(theme): apply RepaintBoundary on animated theme widgets
