@@ -1458,3 +1458,4 @@
 - [2026-05-26 15:43] fix(theme): correct layout constraints and overflow in theme
 - [2026-05-26 15:49] style(theme): harmonize light and dark theme palette for theme
 - [2026-05-26 16:36] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-05-26 16:41] fix(cache): fix memory leak by cancelling cache subscription
