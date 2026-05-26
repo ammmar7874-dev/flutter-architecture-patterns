@@ -1453,3 +1453,4 @@
 - [2026-05-26 14:12] fix(ui): prevent double tap duplicate action in ui
 - [2026-05-26 14:49] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-05-26 14:54] feat(forms): integrate offline caching for forms state
+- [2026-05-26 15:27] fix(cache): fix memory leak by cancelling cache subscription
