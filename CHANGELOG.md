@@ -1513,3 +1513,4 @@
 - [2026-05-27 17:55] feat(core): implement shimmer loading skeleton in core
 - [2026-05-27 18:09] fix(storage): correct layout constraints and overflow in storage
 - [2026-05-27 18:23] refactor(auth): extract reusable atomic widgets from auth
+- [2026-05-27 18:23] fix(security): correct layout constraints and overflow in security
