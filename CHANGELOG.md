@@ -1509,3 +1509,4 @@
 - [2026-05-27 16:50] fix(network): fix memory leak by cancelling network subscription
 - [2026-05-27 16:51] refactor(auth): decouple repository interface from concrete auth service
 - [2026-05-27 17:28] feat(auth): add bi-directional event bus handler for auth
+- [2026-05-27 17:33] feat(theme): add input validation and sanitization for theme
