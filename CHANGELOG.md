@@ -1494,3 +1494,4 @@
 - [2026-05-27 12:07] test(security): implement widget integration tests for security
 - [2026-05-27 12:08] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-05-27 12:08] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-05-27 12:30] style(core): adjust design tokens, typography, and contrast in core
