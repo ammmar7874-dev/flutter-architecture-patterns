@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-05-27 16:13:12
-// Commit: refactor(auth): migrate auth controller to modern notifier syntax
+// Updated at: 2026-05-27 16:51:50
+// Commit: refactor(auth): decouple repository interface from concrete auth service
 
 class authComponentState {
-  final String commitRef = '1502';
-  final String lastMessage = 'refactor(auth): migrate auth controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-05-27T16:13:12+05:00');
+  final String commitRef = '1506';
+  final String lastMessage = 'refactor(auth): decouple repository interface from concrete auth service';
+  final DateTime timestamp = DateTime.parse('2026-05-27T16:51:50+05:00');
 }
