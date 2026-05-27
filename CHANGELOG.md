@@ -1517,3 +1517,4 @@
 - [2026-05-27 18:47] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-05-27 18:51] feat(state): add input validation and sanitization for state
 - [2026-05-27 19:11] fix(ui): prevent double tap duplicate action in ui
+- [2026-05-27 19:19] fix(forms): handle null assertion failure in forms parser
