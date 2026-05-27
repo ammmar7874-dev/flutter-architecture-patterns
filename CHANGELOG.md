@@ -1522,3 +1522,4 @@
 - [2026-05-27 19:23] fix(test): fix memory leak by cancelling test subscription
 - [2026-05-27 19:23] docs(perf): update readme and API contracts for perf
 - [2026-05-27 19:24] feat(security): add input validation and sanitization for security
+- [2026-05-27 19:31] feat(test): integrate offline caching for test state
