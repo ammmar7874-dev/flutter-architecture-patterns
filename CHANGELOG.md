@@ -1484,3 +1484,4 @@
 - [2026-05-26 22:37] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-05-27 09:40] test(perf): implement widget integration tests for perf
 - [2026-05-27 09:52] perf(cache): optimize memory consumption in cache list viewport
+- [2026-05-27 10:11] feat(perf): integrate offline caching for perf state
