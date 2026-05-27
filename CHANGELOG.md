@@ -1496,3 +1496,4 @@
 - [2026-05-27 12:08] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-05-27 12:30] style(core): adjust design tokens, typography, and contrast in core
 - [2026-05-27 13:20] test(perf): add unit tests for perf business logic
+- [2026-05-27 13:28] refactor(perf): optimize data flow between domain and data layers
