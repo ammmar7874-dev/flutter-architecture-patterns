@@ -1531,3 +1531,4 @@
 - [2026-05-27 20:33] feat(test): add bi-directional event bus handler for test
 - [2026-05-27 20:55] feat(test): add bi-directional event bus handler for test
 - [2026-05-27 20:55] feat(theme): add async theme stream provider
+- [2026-05-27 21:05] perf(cache): memoize expensive computations in cache
