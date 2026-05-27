@@ -1538,3 +1538,4 @@
 - [2026-05-27 22:31] fix(analytics): correct layout constraints and overflow in analytics
 - [2026-05-27 22:34] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-05-27 22:50] docs(test): add detailed code comments and architecture guide for test
+- [2026-05-27 23:22] fix(security): fix memory leak by cancelling security subscription
