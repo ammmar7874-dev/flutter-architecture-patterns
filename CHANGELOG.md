@@ -1486,3 +1486,4 @@
 - [2026-05-27 09:52] perf(cache): optimize memory consumption in cache list viewport
 - [2026-05-27 10:11] feat(perf): integrate offline caching for perf state
 - [2026-05-27 10:45] chore(network): update dependencies and cleanup unused imports in network
+- [2026-05-27 10:52] fix(forms): prevent double tap duplicate action in forms
