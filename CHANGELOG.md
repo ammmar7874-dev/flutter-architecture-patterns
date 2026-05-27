@@ -1500,3 +1500,4 @@
 - [2026-05-27 13:39] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-05-27 14:06] feat(storage): integrate custom telemetry logger in storage
 - [2026-05-27 14:26] refactor(analytics): decouple repository interface from concrete analytics service
+- [2026-05-27 14:30] fix(state): correct layout constraints and overflow in state
