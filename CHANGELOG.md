@@ -1526,3 +1526,4 @@
 - [2026-05-27 19:35] docs(network): add detailed code comments and architecture guide for network
 - [2026-05-27 19:38] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-05-27 19:51] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-05-27 20:19] test(state): add unit tests for state business logic
