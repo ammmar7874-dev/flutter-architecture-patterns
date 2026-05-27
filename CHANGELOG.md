@@ -1502,3 +1502,4 @@
 - [2026-05-27 14:26] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-05-27 14:30] fix(state): correct layout constraints and overflow in state
 - [2026-05-27 15:12] style(security): adjust design tokens, typography, and contrast in security
+- [2026-05-27 15:18] fix(security): fix memory leak by cancelling security subscription
