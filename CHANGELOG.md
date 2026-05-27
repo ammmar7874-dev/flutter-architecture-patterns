@@ -1530,3 +1530,4 @@
 - [2026-05-27 20:25] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-27 20:33] feat(test): add bi-directional event bus handler for test
 - [2026-05-27 20:55] feat(test): add bi-directional event bus handler for test
+- [2026-05-27 20:55] feat(theme): add async theme stream provider
