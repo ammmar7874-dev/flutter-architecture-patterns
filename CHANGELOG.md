@@ -1511,3 +1511,4 @@
 - [2026-05-27 17:28] feat(auth): add bi-directional event bus handler for auth
 - [2026-05-27 17:33] feat(theme): add input validation and sanitization for theme
 - [2026-05-27 17:55] feat(core): implement shimmer loading skeleton in core
+- [2026-05-27 18:09] fix(storage): correct layout constraints and overflow in storage
