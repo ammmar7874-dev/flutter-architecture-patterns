@@ -1482,3 +1482,4 @@
 - [2026-05-26 21:43] test(theme): implement widget integration tests for theme
 - [2026-05-26 22:34] feat(network): add bi-directional event bus handler for network
 - [2026-05-26 22:37] fix(perf): fix memory leak by cancelling perf subscription
+- [2026-05-27 09:40] test(perf): implement widget integration tests for perf
