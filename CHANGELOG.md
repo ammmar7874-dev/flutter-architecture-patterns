@@ -1520,3 +1520,4 @@
 - [2026-05-27 19:19] fix(forms): handle null assertion failure in forms parser
 - [2026-05-27 19:22] feat(ui): implement shimmer loading skeleton in ui
 - [2026-05-27 19:23] fix(test): fix memory leak by cancelling test subscription
+- [2026-05-27 19:23] docs(perf): update readme and API contracts for perf
