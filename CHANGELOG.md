@@ -1506,3 +1506,4 @@
 - [2026-05-27 16:13] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-05-27 16:28] feat(navigation): integrate offline caching for navigation state
 - [2026-05-27 16:39] refactor(core): optimize data flow between domain and data layers
+- [2026-05-27 16:50] fix(network): fix memory leak by cancelling network subscription
