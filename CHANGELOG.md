@@ -1488,3 +1488,4 @@
 - [2026-05-27 10:45] chore(network): update dependencies and cleanup unused imports in network
 - [2026-05-27 10:52] fix(forms): prevent double tap duplicate action in forms
 - [2026-05-27 11:11] feat(security): add async security stream provider
+- [2026-05-27 11:21] style(network): harmonize light and dark theme palette for network
