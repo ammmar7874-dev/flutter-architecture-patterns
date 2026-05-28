@@ -1547,3 +1547,4 @@
 - [2026-05-28 10:25] feat(ui): add bi-directional event bus handler for ui
 - [2026-05-28 11:04] refactor(theme): decouple repository interface from concrete theme service
 - [2026-05-28 12:38] style(core): adjust design tokens, typography, and contrast in core
+- [2026-05-28 14:34] fix(core): fix memory leak by cancelling core subscription
