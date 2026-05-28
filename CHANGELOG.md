@@ -1559,3 +1559,4 @@
 - [2026-05-28 18:41] style(state): harmonize light and dark theme palette for state
 - [2026-05-28 18:53] style(perf): adjust design tokens, typography, and contrast in perf
 - [2026-05-28 19:52] style(cache): adjust design tokens, typography, and contrast in cache
+- [2026-05-28 20:30] perf(perf): optimize memory consumption in perf list viewport
