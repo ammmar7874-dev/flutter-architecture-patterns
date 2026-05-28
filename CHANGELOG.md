@@ -1549,3 +1549,4 @@
 - [2026-05-28 12:38] style(core): adjust design tokens, typography, and contrast in core
 - [2026-05-28 14:34] fix(core): fix memory leak by cancelling core subscription
 - [2026-05-28 14:37] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-05-28 15:32] feat(cache): integrate offline caching for cache state
