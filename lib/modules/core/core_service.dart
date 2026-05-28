@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-05-28 14:34:11
-// Commit: fix(core): fix memory leak by cancelling core subscription
+// Updated at: 2026-05-28 18:33:30
+// Commit: docs(core): add detailed code comments and architecture guide for core
 
 class coreComponentState {
-  final String commitRef = '1546';
-  final String lastMessage = 'fix(core): fix memory leak by cancelling core subscription';
-  final DateTime timestamp = DateTime.parse('2026-05-28T14:34:11+05:00');
+  final String commitRef = '1554';
+  final String lastMessage = 'docs(core): add detailed code comments and architecture guide for core';
+  final DateTime timestamp = DateTime.parse('2026-05-28T18:33:30+05:00');
 }
