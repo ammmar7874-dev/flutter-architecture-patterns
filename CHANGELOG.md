@@ -1552,3 +1552,4 @@
 - [2026-05-28 15:32] feat(cache): integrate offline caching for cache state
 - [2026-05-28 15:38] fix(network): fix memory leak by cancelling network subscription
 - [2026-05-28 15:39] feat(perf): implement responsive perf view component
+- [2026-05-28 16:07] perf(navigation): optimize memory consumption in navigation list viewport
