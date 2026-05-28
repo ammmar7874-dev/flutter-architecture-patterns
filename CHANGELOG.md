@@ -1554,3 +1554,4 @@
 - [2026-05-28 15:39] feat(perf): implement responsive perf view component
 - [2026-05-28 16:07] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-05-28 16:25] feat(state): add bi-directional event bus handler for state
+- [2026-05-28 18:21] feat(storage): integrate custom telemetry logger in storage
