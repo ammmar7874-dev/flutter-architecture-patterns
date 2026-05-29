@@ -1601,3 +1601,4 @@
 - [2026-05-29 18:39] fix(test): correct layout constraints and overflow in test
 - [2026-05-29 18:55] feat(auth): add async auth stream provider
 - [2026-05-29 19:28] chore(security): update dependencies and cleanup unused imports in security
+- [2026-05-29 19:33] style(perf): harmonize light and dark theme palette for perf
