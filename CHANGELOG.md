@@ -1590,3 +1590,4 @@
 - [2026-05-29 15:41] style(ui): harmonize light and dark theme palette for ui
 - [2026-05-29 16:20] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-29 16:30] feat(test): integrate custom telemetry logger in test
+- [2026-05-29 16:41] refactor(security): migrate security controller to modern notifier syntax
