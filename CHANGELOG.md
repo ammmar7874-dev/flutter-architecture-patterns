@@ -1582,3 +1582,4 @@
 - [2026-05-29 13:22] feat(navigation): add async navigation stream provider
 - [2026-05-29 13:29] perf(cache): optimize memory consumption in cache list viewport
 - [2026-05-29 13:47] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-05-29 13:50] docs(test): update readme and API contracts for test
