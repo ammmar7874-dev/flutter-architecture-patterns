@@ -1578,3 +1578,4 @@
 - [2026-05-29 12:34] test(test): implement widget integration tests for test
 - [2026-05-29 12:46] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-05-29 13:07] test(network): implement widget integration tests for network
+- [2026-05-29 13:16] feat(navigation): implement shimmer loading skeleton in navigation
