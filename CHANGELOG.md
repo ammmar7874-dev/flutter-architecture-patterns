@@ -1599,3 +1599,4 @@
 - [2026-05-29 17:54] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-05-29 18:17] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-05-29 18:39] fix(test): correct layout constraints and overflow in test
+- [2026-05-29 18:55] feat(auth): add async auth stream provider
