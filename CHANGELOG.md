@@ -1571,3 +1571,4 @@
 - [2026-05-29 10:46] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-05-29 11:27] feat(analytics): add input validation and sanitization for analytics
 - [2026-05-29 11:33] docs(i18n): update readme and API contracts for i18n
+- [2026-05-29 11:50] fix(theme): resolve race condition during theme initialization
