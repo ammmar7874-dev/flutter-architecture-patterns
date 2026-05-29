@@ -1593,3 +1593,4 @@
 - [2026-05-29 16:41] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-29 16:54] feat(auth): integrate offline caching for auth state
 - [2026-05-29 16:59] test(forms): implement widget integration tests for forms
+- [2026-05-29 17:04] feat(forms): implement responsive forms view component
