@@ -1595,3 +1595,4 @@
 - [2026-05-29 16:59] test(forms): implement widget integration tests for forms
 - [2026-05-29 17:04] feat(forms): implement responsive forms view component
 - [2026-05-29 17:37] refactor(perf): optimize data flow between domain and data layers
+- [2026-05-29 17:41] docs(forms): update readme and API contracts for forms
