@@ -1591,3 +1591,4 @@
 - [2026-05-29 16:20] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-05-29 16:30] feat(test): integrate custom telemetry logger in test
 - [2026-05-29 16:41] refactor(security): migrate security controller to modern notifier syntax
+- [2026-05-29 16:54] feat(auth): integrate offline caching for auth state
