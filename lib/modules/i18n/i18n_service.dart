@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-05-29 12:46:45
-// Commit: feat(i18n): integrate custom telemetry logger in i18n
+// Updated at: 2026-05-29 18:17:42
+// Commit: refactor(i18n): migrate i18n controller to modern notifier syntax
 
 class i18nComponentState {
-  final String commitRef = '1575';
-  final String lastMessage = 'feat(i18n): integrate custom telemetry logger in i18n';
-  final DateTime timestamp = DateTime.parse('2026-05-29T12:46:45+05:00');
+  final String commitRef = '1596';
+  final String lastMessage = 'refactor(i18n): migrate i18n controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-29T18:17:42+05:00');
 }
