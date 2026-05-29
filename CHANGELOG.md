@@ -1592,3 +1592,4 @@
 - [2026-05-29 16:30] feat(test): integrate custom telemetry logger in test
 - [2026-05-29 16:41] refactor(security): migrate security controller to modern notifier syntax
 - [2026-05-29 16:54] feat(auth): integrate offline caching for auth state
+- [2026-05-29 16:59] test(forms): implement widget integration tests for forms
