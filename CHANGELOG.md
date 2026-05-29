@@ -1598,3 +1598,4 @@
 - [2026-05-29 17:41] docs(forms): update readme and API contracts for forms
 - [2026-05-29 17:54] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-05-29 18:17] refactor(i18n): migrate i18n controller to modern notifier syntax
+- [2026-05-29 18:39] fix(test): correct layout constraints and overflow in test
