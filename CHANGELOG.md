@@ -1587,3 +1587,4 @@
 - [2026-05-29 14:07] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-05-29 15:16] fix(theme): prevent double tap duplicate action in theme
 - [2026-05-29 15:29] style(perf): adjust design tokens, typography, and contrast in perf
+- [2026-05-29 15:41] style(ui): harmonize light and dark theme palette for ui
