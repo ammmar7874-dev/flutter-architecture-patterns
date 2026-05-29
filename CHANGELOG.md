@@ -1584,3 +1584,4 @@
 - [2026-05-29 13:47] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-05-29 13:50] docs(test): update readme and API contracts for test
 - [2026-05-29 13:51] fix(network): prevent double tap duplicate action in network
+- [2026-05-29 14:07] feat(navigation): implement shimmer loading skeleton in navigation
