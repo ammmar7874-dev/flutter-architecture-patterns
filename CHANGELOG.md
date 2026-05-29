@@ -1603,3 +1603,4 @@
 - [2026-05-29 19:28] chore(security): update dependencies and cleanup unused imports in security
 - [2026-05-29 19:33] style(perf): harmonize light and dark theme palette for perf
 - [2026-05-29 20:20] fix(perf): fix memory leak by cancelling perf subscription
+- [2026-05-29 22:10] test(i18n): implement widget integration tests for i18n
