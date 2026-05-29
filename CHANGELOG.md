@@ -1581,3 +1581,4 @@
 - [2026-05-29 13:16] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-05-29 13:22] feat(navigation): add async navigation stream provider
 - [2026-05-29 13:29] perf(cache): optimize memory consumption in cache list viewport
+- [2026-05-29 13:47] refactor(analytics): migrate analytics controller to modern notifier syntax
