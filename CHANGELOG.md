@@ -1614,3 +1614,4 @@
 - [2026-05-30 11:02] feat(forms): implement shimmer loading skeleton in forms
 - [2026-05-30 11:43] perf(theme): memoize expensive computations in theme
 - [2026-05-30 12:03] docs(theme): update readme and API contracts for theme
+- [2026-05-30 12:17] feat(theme): integrate custom telemetry logger in theme
