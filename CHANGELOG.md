@@ -1643,3 +1643,4 @@
 - [2026-05-30 19:51] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-05-30 20:07] feat(theme): implement shimmer loading skeleton in theme
 - [2026-05-30 20:21] style(state): adjust design tokens, typography, and contrast in state
+- [2026-05-30 20:48] fix(forms): correct layout constraints and overflow in forms
