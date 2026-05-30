@@ -1619,3 +1619,4 @@
 - [2026-05-30 12:50] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-05-30 12:54] fix(state): fix memory leak by cancelling state subscription
 - [2026-05-30 13:01] refactor(theme): decouple repository interface from concrete theme service
+- [2026-05-30 13:36] style(analytics): harmonize light and dark theme palette for analytics
