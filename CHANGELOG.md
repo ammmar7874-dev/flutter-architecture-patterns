@@ -1612,3 +1612,4 @@
 - [2026-05-30 10:23] feat(cache): implement shimmer loading skeleton in cache
 - [2026-05-30 10:34] fix(state): prevent double tap duplicate action in state
 - [2026-05-30 11:02] feat(forms): implement shimmer loading skeleton in forms
+- [2026-05-30 11:43] perf(theme): memoize expensive computations in theme
