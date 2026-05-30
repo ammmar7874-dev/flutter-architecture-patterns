@@ -1640,3 +1640,4 @@
 - [2026-05-30 19:20] style(ui): harmonize light and dark theme palette for ui
 - [2026-05-30 19:21] feat(ui): implement responsive ui view component
 - [2026-05-30 19:26] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-05-30 19:51] chore(i18n): update dependencies and cleanup unused imports in i18n
