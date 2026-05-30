@@ -1628,3 +1628,4 @@
 - [2026-05-30 15:22] chore(security): update dependencies and cleanup unused imports in security
 - [2026-05-30 15:38] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-05-30 16:21] docs(i18n): update readme and API contracts for i18n
+- [2026-05-30 16:34] test(i18n): implement widget integration tests for i18n
