@@ -1616,3 +1616,4 @@
 - [2026-05-30 12:03] docs(theme): update readme and API contracts for theme
 - [2026-05-30 12:17] feat(theme): integrate custom telemetry logger in theme
 - [2026-05-30 12:39] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-05-30 12:50] chore(theme): update dependencies and cleanup unused imports in theme
