@@ -1621,3 +1621,4 @@
 - [2026-05-30 13:01] refactor(theme): decouple repository interface from concrete theme service
 - [2026-05-30 13:36] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-05-30 13:44] feat(perf): add bi-directional event bus handler for perf
+- [2026-05-30 14:28] feat(storage): implement shimmer loading skeleton in storage
