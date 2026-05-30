@@ -1630,3 +1630,4 @@
 - [2026-05-30 16:21] docs(i18n): update readme and API contracts for i18n
 - [2026-05-30 16:34] test(i18n): implement widget integration tests for i18n
 - [2026-05-30 16:49] feat(auth): integrate offline caching for auth state
+- [2026-05-30 17:09] feat(forms): add async forms stream provider
