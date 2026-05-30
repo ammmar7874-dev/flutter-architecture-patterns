@@ -1605,3 +1605,4 @@
 - [2026-05-29 20:20] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-05-29 22:10] test(i18n): implement widget integration tests for i18n
 - [2026-05-29 22:54] feat(navigation): add input validation and sanitization for navigation
+- [2026-05-30 09:07] perf(core): apply RepaintBoundary on animated core widgets
