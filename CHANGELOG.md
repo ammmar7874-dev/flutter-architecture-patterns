@@ -1645,3 +1645,4 @@
 - [2026-05-30 20:21] style(state): adjust design tokens, typography, and contrast in state
 - [2026-05-30 20:48] fix(forms): correct layout constraints and overflow in forms
 - [2026-05-30 20:54] refactor(cache): optimize data flow between domain and data layers
+- [2026-05-30 21:25] refactor(core): extract reusable atomic widgets from core
