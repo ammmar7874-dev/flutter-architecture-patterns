@@ -1632,3 +1632,4 @@
 - [2026-05-30 16:49] feat(auth): integrate offline caching for auth state
 - [2026-05-30 17:09] feat(forms): add async forms stream provider
 - [2026-05-30 17:17] style(i18n): harmonize light and dark theme palette for i18n
+- [2026-05-30 17:54] fix(auth): handle null assertion failure in auth parser
