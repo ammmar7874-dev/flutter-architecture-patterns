@@ -1633,3 +1633,4 @@
 - [2026-05-30 17:09] feat(forms): add async forms stream provider
 - [2026-05-30 17:17] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-05-30 17:54] fix(auth): handle null assertion failure in auth parser
+- [2026-05-30 18:29] fix(network): fix memory leak by cancelling network subscription
