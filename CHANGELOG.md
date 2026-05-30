@@ -1639,3 +1639,4 @@
 - [2026-05-30 19:20] feat(network): implement shimmer loading skeleton in network
 - [2026-05-30 19:20] style(ui): harmonize light and dark theme palette for ui
 - [2026-05-30 19:21] feat(ui): implement responsive ui view component
+- [2026-05-30 19:26] refactor(analytics): migrate analytics controller to modern notifier syntax
