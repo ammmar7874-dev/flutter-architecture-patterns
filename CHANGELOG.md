@@ -1626,3 +1626,4 @@
 - [2026-05-30 14:42] fix(perf): resolve race condition during perf initialization
 - [2026-05-30 14:50] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-05-30 15:22] chore(security): update dependencies and cleanup unused imports in security
+- [2026-05-30 15:38] fix(i18n): fix memory leak by cancelling i18n subscription
