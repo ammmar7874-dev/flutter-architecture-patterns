@@ -1653,3 +1653,4 @@
 - [2026-05-31 09:38] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-05-31 13:03] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-05-31 14:31] refactor(network): migrate network controller to modern notifier syntax
+- [2026-05-31 15:13] test(auth): implement widget integration tests for auth
