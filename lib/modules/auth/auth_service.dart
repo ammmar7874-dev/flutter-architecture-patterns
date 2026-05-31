@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-05-31 15:13:21
-// Commit: test(auth): implement widget integration tests for auth
+// Updated at: 2026-05-31 20:49:27
+// Commit: refactor(auth): migrate auth controller to modern notifier syntax
 
 class authComponentState {
-  final String commitRef = '1652';
-  final String lastMessage = 'test(auth): implement widget integration tests for auth';
-  final DateTime timestamp = DateTime.parse('2026-05-31T15:13:21+05:00');
+  final String commitRef = '1659';
+  final String lastMessage = 'refactor(auth): migrate auth controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-05-31T20:49:27+05:00');
 }
