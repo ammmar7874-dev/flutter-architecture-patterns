@@ -1661,3 +1661,4 @@
 - [2026-05-31 19:00] feat(theme): add input validation and sanitization for theme
 - [2026-05-31 20:20] docs(network): update readme and API contracts for network
 - [2026-05-31 20:49] refactor(auth): migrate auth controller to modern notifier syntax
+- [2026-05-31 21:07] feat(i18n): integrate custom telemetry logger in i18n
