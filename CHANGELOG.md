@@ -1655,3 +1655,4 @@
 - [2026-05-31 14:31] refactor(network): migrate network controller to modern notifier syntax
 - [2026-05-31 15:13] test(auth): implement widget integration tests for auth
 - [2026-05-31 15:58] feat(storage): add bi-directional event bus handler for storage
+- [2026-05-31 16:04] refactor(theme): optimize data flow between domain and data layers
