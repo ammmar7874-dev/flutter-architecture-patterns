@@ -1668,3 +1668,4 @@
 - [2026-06-01 09:15] fix(test): correct layout constraints and overflow in test
 - [2026-06-01 10:03] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-06-01 10:31] refactor(analytics): optimize data flow between domain and data layers
+- [2026-06-01 11:02] perf(forms): apply RepaintBoundary on animated forms widgets
