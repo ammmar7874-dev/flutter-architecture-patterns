@@ -1675,3 +1675,4 @@
 - [2026-06-01 14:03] feat(cache): implement shimmer loading skeleton in cache
 - [2026-06-01 15:31] feat(storage): integrate offline caching for storage state
 - [2026-06-01 15:44] feat(test): integrate offline caching for test state
+- [2026-06-01 16:20] refactor(state): extract reusable atomic widgets from state
