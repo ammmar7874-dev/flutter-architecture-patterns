@@ -1671,3 +1671,4 @@
 - [2026-06-01 11:02] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-06-01 11:31] fix(security): prevent double tap duplicate action in security
 - [2026-06-01 12:44] feat(forms): implement responsive forms view component
+- [2026-06-01 13:47] docs(core): update readme and API contracts for core
