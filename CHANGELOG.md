@@ -1666,3 +1666,4 @@
 - [2026-06-01 09:04] feat(test): add input validation and sanitization for test
 - [2026-06-01 09:11] perf(test): apply RepaintBoundary on animated test widgets
 - [2026-06-01 09:15] fix(test): correct layout constraints and overflow in test
+- [2026-06-01 10:03] chore(analytics): update dependencies and cleanup unused imports in analytics
