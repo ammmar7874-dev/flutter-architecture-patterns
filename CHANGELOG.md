@@ -1679,3 +1679,4 @@
 - [2026-06-01 16:39] refactor(auth): extract reusable atomic widgets from auth
 - [2026-06-01 20:14] refactor(security): optimize data flow between domain and data layers
 - [2026-06-01 21:37] fix(ui): prevent double tap duplicate action in ui
+- [2026-06-01 21:42] perf(analytics): apply RepaintBoundary on animated analytics widgets
