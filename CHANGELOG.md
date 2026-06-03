@@ -1682,3 +1682,4 @@
 - [2026-06-01 21:42] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-06-01 22:17] perf(theme): optimize memory consumption in theme list viewport
 - [2026-06-01 22:56] feat(ui): add bi-directional event bus handler for ui
+- [2026-06-03 09:37] refactor(navigation): decouple repository interface from concrete navigation service
