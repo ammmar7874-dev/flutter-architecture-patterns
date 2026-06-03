@@ -1689,3 +1689,4 @@
 - [2026-06-03 11:14] style(storage): harmonize light and dark theme palette for storage
 - [2026-06-03 11:28] perf(core): memoize expensive computations in core
 - [2026-06-03 11:40] fix(i18n): fix memory leak by cancelling i18n subscription
+- [2026-06-03 11:43] fix(theme): correct layout constraints and overflow in theme
