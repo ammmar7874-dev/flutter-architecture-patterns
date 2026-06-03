@@ -1710,3 +1710,4 @@
 - [2026-06-03 15:38] refactor(perf): extract reusable atomic widgets from perf
 - [2026-06-03 15:45] docs(theme): update readme and API contracts for theme
 - [2026-06-03 15:45] perf(core): apply RepaintBoundary on animated core widgets
+- [2026-06-03 15:58] refactor(security): extract reusable atomic widgets from security
