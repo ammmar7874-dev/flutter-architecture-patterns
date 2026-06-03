@@ -1742,3 +1742,4 @@
 - [2026-06-03 22:23] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-06-03 22:51] feat(i18n): integrate offline caching for i18n state
 - [2026-06-03 23:00] test(auth): add unit tests for auth business logic
+- [2026-06-03 23:26] test(i18n): implement widget integration tests for i18n
