@@ -1707,3 +1707,4 @@
 - [2026-06-03 14:50] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-06-03 14:50] feat(security): implement responsive security view component
 - [2026-06-03 14:56] fix(storage): resolve race condition during storage initialization
+- [2026-06-03 15:38] refactor(perf): extract reusable atomic widgets from perf
