@@ -1724,3 +1724,4 @@
 - [2026-06-03 17:48] feat(forms): integrate custom telemetry logger in forms
 - [2026-06-03 18:12] fix(network): resolve race condition during network initialization
 - [2026-06-03 18:48] test(ui): add unit tests for ui business logic
+- [2026-06-03 19:30] refactor(storage): decouple repository interface from concrete storage service
