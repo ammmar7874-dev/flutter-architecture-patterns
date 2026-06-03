@@ -1699,3 +1699,4 @@
 - [2026-06-03 13:25] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-06-03 13:31] fix(cache): handle null assertion failure in cache parser
 - [2026-06-03 13:36] fix(cache): resolve race condition during cache initialization
+- [2026-06-03 13:39] chore(core): update dependencies and cleanup unused imports in core
