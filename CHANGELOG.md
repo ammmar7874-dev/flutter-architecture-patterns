@@ -1726,3 +1726,4 @@
 - [2026-06-03 18:48] test(ui): add unit tests for ui business logic
 - [2026-06-03 19:30] refactor(storage): decouple repository interface from concrete storage service
 - [2026-06-03 20:18] fix(perf): correct layout constraints and overflow in perf
+- [2026-06-03 20:23] feat(auth): integrate custom telemetry logger in auth
