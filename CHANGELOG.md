@@ -1693,3 +1693,4 @@
 - [2026-06-03 12:13] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-06-03 12:16] perf(state): memoize expensive computations in state
 - [2026-06-03 12:23] style(navigation): harmonize light and dark theme palette for navigation
+- [2026-06-03 12:46] feat(cache): add bi-directional event bus handler for cache
