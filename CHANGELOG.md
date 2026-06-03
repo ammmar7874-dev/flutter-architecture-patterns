@@ -1730,3 +1730,4 @@
 - [2026-06-03 20:35] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-06-03 20:38] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-06-03 20:46] feat(state): add input validation and sanitization for state
+- [2026-06-03 20:55] test(network): implement widget integration tests for network
