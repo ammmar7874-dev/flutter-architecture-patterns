@@ -1727,3 +1727,4 @@
 - [2026-06-03 19:30] refactor(storage): decouple repository interface from concrete storage service
 - [2026-06-03 20:18] fix(perf): correct layout constraints and overflow in perf
 - [2026-06-03 20:23] feat(auth): integrate custom telemetry logger in auth
+- [2026-06-03 20:35] fix(navigation): fix memory leak by cancelling navigation subscription
