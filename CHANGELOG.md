@@ -1713,3 +1713,4 @@
 - [2026-06-03 15:58] refactor(security): extract reusable atomic widgets from security
 - [2026-06-03 16:02] feat(network): add input validation and sanitization for network
 - [2026-06-03 16:25] refactor(cache): extract reusable atomic widgets from cache
+- [2026-06-03 16:27] docs(i18n): update readme and API contracts for i18n
