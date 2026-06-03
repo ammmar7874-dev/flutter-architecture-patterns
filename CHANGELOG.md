@@ -1729,3 +1729,4 @@
 - [2026-06-03 20:23] feat(auth): integrate custom telemetry logger in auth
 - [2026-06-03 20:35] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-06-03 20:38] fix(auth): fix memory leak by cancelling auth subscription
+- [2026-06-03 20:46] feat(state): add input validation and sanitization for state
