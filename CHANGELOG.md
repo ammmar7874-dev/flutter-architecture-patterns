@@ -1685,3 +1685,4 @@
 - [2026-06-03 09:37] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-06-03 09:53] perf(ui): optimize memory consumption in ui list viewport
 - [2026-06-03 10:08] perf(network): apply RepaintBoundary on animated network widgets
+- [2026-06-03 10:20] docs(cache): update readme and API contracts for cache
