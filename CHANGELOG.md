@@ -1740,3 +1740,4 @@
 - [2026-06-03 21:50] refactor(network): optimize data flow between domain and data layers
 - [2026-06-03 22:19] feat(test): add input validation and sanitization for test
 - [2026-06-03 22:23] perf(i18n): apply RepaintBoundary on animated i18n widgets
+- [2026-06-03 22:51] feat(i18n): integrate offline caching for i18n state
