@@ -1706,3 +1706,4 @@
 - [2026-06-03 14:44] feat(forms): implement shimmer loading skeleton in forms
 - [2026-06-03 14:50] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-06-03 14:50] feat(security): implement responsive security view component
+- [2026-06-03 14:56] fix(storage): resolve race condition during storage initialization
