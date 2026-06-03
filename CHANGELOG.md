@@ -1684,3 +1684,4 @@
 - [2026-06-01 22:56] feat(ui): add bi-directional event bus handler for ui
 - [2026-06-03 09:37] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-06-03 09:53] perf(ui): optimize memory consumption in ui list viewport
+- [2026-06-03 10:08] perf(network): apply RepaintBoundary on animated network widgets
