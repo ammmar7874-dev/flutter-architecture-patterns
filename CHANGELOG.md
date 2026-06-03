@@ -1690,3 +1690,4 @@
 - [2026-06-03 11:28] perf(core): memoize expensive computations in core
 - [2026-06-03 11:40] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-06-03 11:43] fix(theme): correct layout constraints and overflow in theme
+- [2026-06-03 12:13] feat(navigation): integrate custom telemetry logger in navigation
