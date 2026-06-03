@@ -1720,3 +1720,4 @@
 - [2026-06-03 16:55] refactor(auth): optimize data flow between domain and data layers
 - [2026-06-03 16:55] refactor(ui): optimize data flow between domain and data layers
 - [2026-06-03 17:08] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-06-03 17:12] perf(cache): optimize memory consumption in cache list viewport
