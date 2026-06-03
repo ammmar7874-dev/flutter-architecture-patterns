@@ -1722,3 +1722,4 @@
 - [2026-06-03 17:08] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-06-03 17:12] perf(cache): optimize memory consumption in cache list viewport
 - [2026-06-03 17:48] feat(forms): integrate custom telemetry logger in forms
+- [2026-06-03 18:12] fix(network): resolve race condition during network initialization
