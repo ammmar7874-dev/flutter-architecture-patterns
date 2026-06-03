@@ -1736,3 +1736,4 @@
 - [2026-06-03 21:33] feat(core): implement shimmer loading skeleton in core
 - [2026-06-03 21:35] fix(test): prevent double tap duplicate action in test
 - [2026-06-03 21:43] style(i18n): adjust design tokens, typography, and contrast in i18n
+- [2026-06-03 21:46] fix(storage): resolve race condition during storage initialization
