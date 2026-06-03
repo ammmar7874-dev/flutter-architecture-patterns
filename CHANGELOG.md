@@ -1702,3 +1702,4 @@
 - [2026-06-03 13:39] chore(core): update dependencies and cleanup unused imports in core
 - [2026-06-03 13:57] style(navigation): adjust design tokens, typography, and contrast in navigation
 - [2026-06-03 14:29] style(navigation): adjust design tokens, typography, and contrast in navigation
+- [2026-06-03 14:42] feat(analytics): add async analytics stream provider
