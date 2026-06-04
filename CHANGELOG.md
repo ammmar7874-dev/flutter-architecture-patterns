@@ -1750,3 +1750,4 @@
 - [2026-06-04 13:48] fix(auth): handle null assertion failure in auth parser
 - [2026-06-04 14:49] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-06-04 16:10] feat(analytics): implement shimmer loading skeleton in analytics
+- [2026-06-04 18:44] perf(i18n): memoize expensive computations in i18n
