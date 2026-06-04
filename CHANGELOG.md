@@ -1748,3 +1748,4 @@
 - [2026-06-04 12:19] feat(security): add bi-directional event bus handler for security
 - [2026-06-04 12:29] docs(ui): add detailed code comments and architecture guide for ui
 - [2026-06-04 13:48] fix(auth): handle null assertion failure in auth parser
+- [2026-06-04 14:49] refactor(ui): migrate ui controller to modern notifier syntax

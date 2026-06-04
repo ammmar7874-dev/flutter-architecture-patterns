@@ -1,9 +1,9 @@
 ﻿// Module: ui
-// Updated at: 2026-06-04 12:29:26
-// Commit: docs(ui): add detailed code comments and architecture guide for ui
+// Updated at: 2026-06-04 14:49:12
+// Commit: refactor(ui): migrate ui controller to modern notifier syntax
 
 class uiComponentState {
-  final String commitRef = '1745';
-  final String lastMessage = 'docs(ui): add detailed code comments and architecture guide for ui';
-  final DateTime timestamp = DateTime.parse('2026-06-04T12:29:26+05:00');
+  final String commitRef = '1747';
+  final String lastMessage = 'refactor(ui): migrate ui controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-04T14:49:12+05:00');
 }
