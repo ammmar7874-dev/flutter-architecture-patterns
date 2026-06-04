@@ -1747,3 +1747,4 @@
 - [2026-06-04 10:37] fix(perf): prevent double tap duplicate action in perf
 - [2026-06-04 12:19] feat(security): add bi-directional event bus handler for security
 - [2026-06-04 12:29] docs(ui): add detailed code comments and architecture guide for ui
+- [2026-06-04 13:48] fix(auth): handle null assertion failure in auth parser
