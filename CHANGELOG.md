@@ -1753,3 +1753,4 @@
 - [2026-06-04 18:44] perf(i18n): memoize expensive computations in i18n
 - [2026-06-04 21:09] refactor(storage): extract reusable atomic widgets from storage
 - [2026-06-04 22:08] fix(security): prevent double tap duplicate action in security
+- [2026-06-04 23:19] fix(i18n): prevent double tap duplicate action in i18n
