@@ -1774,3 +1774,4 @@
 - [2026-06-05 14:52] refactor(navigation): optimize data flow between domain and data layers
 - [2026-06-05 15:08] test(navigation): add unit tests for navigation business logic
 - [2026-06-05 15:44] fix(perf): handle null assertion failure in perf parser
+- [2026-06-05 16:10] fix(state): correct layout constraints and overflow in state
