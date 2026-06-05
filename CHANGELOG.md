@@ -1763,3 +1763,4 @@
 - [2026-06-05 12:40] feat(core): implement responsive core view component
 - [2026-06-05 12:41] fix(test): correct layout constraints and overflow in test
 - [2026-06-05 13:00] refactor(ui): migrate ui controller to modern notifier syntax
+- [2026-06-05 13:32] perf(forms): apply RepaintBoundary on animated forms widgets
