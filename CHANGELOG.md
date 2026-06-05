@@ -1786,3 +1786,4 @@
 - [2026-06-05 18:07] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-06-05 18:13] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-06-05 18:20] test(state): add unit tests for state business logic
+- [2026-06-05 18:23] feat(theme): add async theme stream provider
