@@ -1777,3 +1777,4 @@
 - [2026-06-05 16:10] fix(state): correct layout constraints and overflow in state
 - [2026-06-05 16:26] style(security): adjust design tokens, typography, and contrast in security
 - [2026-06-05 16:44] perf(state): memoize expensive computations in state
+- [2026-06-05 16:46] feat(theme): add async theme stream provider
