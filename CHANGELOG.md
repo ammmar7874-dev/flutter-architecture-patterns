@@ -1792,3 +1792,4 @@
 - [2026-06-05 20:13] feat(storage): implement shimmer loading skeleton in storage
 - [2026-06-05 21:07] feat(core): add bi-directional event bus handler for core
 - [2026-06-05 21:13] test(perf): implement widget integration tests for perf
+- [2026-06-05 21:13] style(navigation): adjust design tokens, typography, and contrast in navigation
