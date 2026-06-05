@@ -1788,3 +1788,4 @@
 - [2026-06-05 18:20] test(state): add unit tests for state business logic
 - [2026-06-05 18:23] feat(theme): add async theme stream provider
 - [2026-06-05 18:42] fix(auth): fix memory leak by cancelling auth subscription
+- [2026-06-05 19:35] perf(state): optimize memory consumption in state list viewport
