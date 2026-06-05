@@ -1765,3 +1765,4 @@
 - [2026-06-05 13:00] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-06-05 13:32] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-06-05 13:32] docs(theme): update readme and API contracts for theme
+- [2026-06-05 13:33] feat(state): integrate offline caching for state state
