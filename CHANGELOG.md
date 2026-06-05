@@ -1767,3 +1767,4 @@
 - [2026-06-05 13:32] docs(theme): update readme and API contracts for theme
 - [2026-06-05 13:33] feat(state): integrate offline caching for state state
 - [2026-06-05 14:02] fix(cache): handle null assertion failure in cache parser
+- [2026-06-05 14:04] fix(ui): resolve race condition during ui initialization
