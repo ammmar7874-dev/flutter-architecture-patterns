@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-06-05 10:32:26
-// Commit: docs(perf): update readme and API contracts for perf
+// Updated at: 2026-06-05 15:44:30
+// Commit: fix(perf): handle null assertion failure in perf parser
 
 class perfComponentState {
-  final String commitRef = '1753';
-  final String lastMessage = 'docs(perf): update readme and API contracts for perf';
-  final DateTime timestamp = DateTime.parse('2026-06-05T10:32:26+05:00');
+  final String commitRef = '1772';
+  final String lastMessage = 'fix(perf): handle null assertion failure in perf parser';
+  final DateTime timestamp = DateTime.parse('2026-06-05T15:44:30+05:00');
 }
