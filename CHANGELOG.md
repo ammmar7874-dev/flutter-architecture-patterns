@@ -1790,3 +1790,4 @@
 - [2026-06-05 18:42] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-06-05 19:35] perf(state): optimize memory consumption in state list viewport
 - [2026-06-05 20:13] feat(storage): implement shimmer loading skeleton in storage
+- [2026-06-05 21:07] feat(core): add bi-directional event bus handler for core
