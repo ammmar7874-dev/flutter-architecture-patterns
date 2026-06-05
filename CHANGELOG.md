@@ -1778,3 +1778,4 @@
 - [2026-06-05 16:26] style(security): adjust design tokens, typography, and contrast in security
 - [2026-06-05 16:44] perf(state): memoize expensive computations in state
 - [2026-06-05 16:46] feat(theme): add async theme stream provider
+- [2026-06-05 16:59] style(network): harmonize light and dark theme palette for network
