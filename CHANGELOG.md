@@ -1799,3 +1799,4 @@
 - [2026-06-05 22:10] feat(security): implement responsive security view component
 - [2026-06-05 22:44] refactor(perf): extract reusable atomic widgets from perf
 - [2026-06-05 22:57] docs(forms): update readme and API contracts for forms
+- [2026-06-05 23:09] feat(storage): integrate custom telemetry logger in storage
