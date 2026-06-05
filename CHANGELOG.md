@@ -1779,3 +1779,4 @@
 - [2026-06-05 16:44] perf(state): memoize expensive computations in state
 - [2026-06-05 16:46] feat(theme): add async theme stream provider
 - [2026-06-05 16:59] style(network): harmonize light and dark theme palette for network
+- [2026-06-05 17:00] refactor(state): migrate state controller to modern notifier syntax
