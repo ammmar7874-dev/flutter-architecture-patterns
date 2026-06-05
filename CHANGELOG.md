@@ -1787,3 +1787,4 @@
 - [2026-06-05 18:13] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-06-05 18:20] test(state): add unit tests for state business logic
 - [2026-06-05 18:23] feat(theme): add async theme stream provider
+- [2026-06-05 18:42] fix(auth): fix memory leak by cancelling auth subscription
