@@ -1780,3 +1780,4 @@
 - [2026-06-05 16:46] feat(theme): add async theme stream provider
 - [2026-06-05 16:59] style(network): harmonize light and dark theme palette for network
 - [2026-06-05 17:00] refactor(state): migrate state controller to modern notifier syntax
+- [2026-06-05 17:29] refactor(core): decouple repository interface from concrete core service
