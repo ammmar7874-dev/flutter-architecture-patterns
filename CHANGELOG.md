@@ -1761,3 +1761,4 @@
 - [2026-06-05 12:20] perf(i18n): memoize expensive computations in i18n
 - [2026-06-05 12:26] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-06-05 12:40] feat(core): implement responsive core view component
+- [2026-06-05 12:41] fix(test): correct layout constraints and overflow in test
