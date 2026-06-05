@@ -1,9 +1,9 @@
 ﻿// Module: security
-// Updated at: 2026-06-05 16:26:18
-// Commit: style(security): adjust design tokens, typography, and contrast in security
+// Updated at: 2026-06-05 17:31:10
+// Commit: fix(security): fix memory leak by cancelling security subscription
 
 class securityComponentState {
-  final String commitRef = '1774';
-  final String lastMessage = 'style(security): adjust design tokens, typography, and contrast in security';
-  final DateTime timestamp = DateTime.parse('2026-06-05T16:26:18+05:00');
+  final String commitRef = '1780';
+  final String lastMessage = 'fix(security): fix memory leak by cancelling security subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-05T17:31:10+05:00');
 }
