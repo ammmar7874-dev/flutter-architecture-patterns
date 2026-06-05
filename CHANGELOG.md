@@ -1771,3 +1771,4 @@
 - [2026-06-05 14:11] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-06-05 14:29] fix(cache): prevent double tap duplicate action in cache
 - [2026-06-05 14:51] feat(storage): add async storage stream provider
+- [2026-06-05 14:52] refactor(navigation): optimize data flow between domain and data layers
