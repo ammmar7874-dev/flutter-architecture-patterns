@@ -1822,3 +1822,4 @@
 - [2026-06-06 20:51] test(ui): add unit tests for ui business logic
 - [2026-06-06 20:56] style(state): harmonize light and dark theme palette for state
 - [2026-06-06 20:59] test(auth): implement widget integration tests for auth
+- [2026-06-06 21:10] feat(theme): add bi-directional event bus handler for theme
