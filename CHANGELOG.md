@@ -1817,3 +1817,4 @@
 - [2026-06-06 18:21] feat(cache): add async cache stream provider
 - [2026-06-06 19:24] style(test): harmonize light and dark theme palette for test
 - [2026-06-06 19:31] feat(forms): integrate custom telemetry logger in forms
+- [2026-06-06 20:04] perf(test): memoize expensive computations in test
