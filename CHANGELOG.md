@@ -1812,3 +1812,4 @@
 - [2026-06-06 15:30] refactor(storage): extract reusable atomic widgets from storage
 - [2026-06-06 16:54] docs(auth): update readme and API contracts for auth
 - [2026-06-06 17:14] perf(theme): optimize memory consumption in theme list viewport
+- [2026-06-06 17:46] fix(core): resolve race condition during core initialization
