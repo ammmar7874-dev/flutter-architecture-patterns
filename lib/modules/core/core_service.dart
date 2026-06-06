@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-06-06 17:46:50
-// Commit: fix(core): resolve race condition during core initialization
+// Updated at: 2026-06-06 21:48:40
+// Commit: refactor(core): migrate core controller to modern notifier syntax
 
 class coreComponentState {
-  final String commitRef = '1811';
-  final String lastMessage = 'fix(core): resolve race condition during core initialization';
-  final DateTime timestamp = DateTime.parse('2026-06-06T17:46:50+05:00');
+  final String commitRef = '1823';
+  final String lastMessage = 'refactor(core): migrate core controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-06T21:48:40+05:00');
 }
