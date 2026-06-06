@@ -1810,3 +1810,4 @@
 - [2026-06-06 13:46] refactor(test): extract reusable atomic widgets from test
 - [2026-06-06 15:09] feat(network): add bi-directional event bus handler for network
 - [2026-06-06 15:30] refactor(storage): extract reusable atomic widgets from storage
+- [2026-06-06 16:54] docs(auth): update readme and API contracts for auth
