@@ -1809,3 +1809,4 @@
 - [2026-06-06 12:23] feat(network): implement shimmer loading skeleton in network
 - [2026-06-06 13:46] refactor(test): extract reusable atomic widgets from test
 - [2026-06-06 15:09] feat(network): add bi-directional event bus handler for network
+- [2026-06-06 15:30] refactor(storage): extract reusable atomic widgets from storage
