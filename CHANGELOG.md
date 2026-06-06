@@ -1825,3 +1825,4 @@
 - [2026-06-06 21:10] feat(theme): add bi-directional event bus handler for theme
 - [2026-06-06 21:38] perf(security): memoize expensive computations in security
 - [2026-06-06 21:48] refactor(core): migrate core controller to modern notifier syntax
+- [2026-06-06 23:15] fix(auth): prevent double tap duplicate action in auth
