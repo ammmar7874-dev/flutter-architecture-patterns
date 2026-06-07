@@ -1826,3 +1826,4 @@
 - [2026-06-06 21:38] perf(security): memoize expensive computations in security
 - [2026-06-06 21:48] refactor(core): migrate core controller to modern notifier syntax
 - [2026-06-06 23:15] fix(auth): prevent double tap duplicate action in auth
+- [2026-06-07 09:46] feat(i18n): add bi-directional event bus handler for i18n
