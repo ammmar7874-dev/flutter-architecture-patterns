@@ -1830,3 +1830,4 @@
 - [2026-06-07 09:50] docs(auth): update readme and API contracts for auth
 - [2026-06-07 10:14] perf(i18n): optimize memory consumption in i18n list viewport
 - [2026-06-07 10:20] docs(perf): update readme and API contracts for perf
+- [2026-06-07 10:27] chore(ui): update dependencies and cleanup unused imports in ui
