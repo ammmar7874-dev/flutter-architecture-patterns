@@ -1846,3 +1846,4 @@
 - [2026-06-07 16:25] fix(security): fix memory leak by cancelling security subscription
 - [2026-06-07 16:47] fix(theme): resolve race condition during theme initialization
 - [2026-06-07 16:53] style(network): harmonize light and dark theme palette for network
+- [2026-06-07 17:18] fix(security): prevent double tap duplicate action in security
