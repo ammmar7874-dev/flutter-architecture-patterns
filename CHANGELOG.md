@@ -1832,3 +1832,4 @@
 - [2026-06-07 10:20] docs(perf): update readme and API contracts for perf
 - [2026-06-07 10:27] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-06-07 10:56] test(navigation): implement widget integration tests for navigation
+- [2026-06-07 11:54] chore(perf): update dependencies and cleanup unused imports in perf
