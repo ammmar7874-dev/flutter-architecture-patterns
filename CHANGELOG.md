@@ -1855,3 +1855,4 @@
 - [2026-06-07 18:18] docs(perf): update readme and API contracts for perf
 - [2026-06-07 18:50] fix(auth): resolve race condition during auth initialization
 - [2026-06-07 19:13] fix(cache): fix memory leak by cancelling cache subscription
+- [2026-06-07 20:26] perf(ui): optimize memory consumption in ui list viewport
