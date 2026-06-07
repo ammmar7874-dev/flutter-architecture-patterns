@@ -1838,3 +1838,4 @@
 - [2026-06-07 13:03] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-06-07 13:21] refactor(perf): decouple repository interface from concrete perf service
 - [2026-06-07 13:26] style(navigation): harmonize light and dark theme palette for navigation
+- [2026-06-07 14:25] refactor(perf): extract reusable atomic widgets from perf
