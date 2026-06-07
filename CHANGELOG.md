@@ -1854,3 +1854,4 @@
 - [2026-06-07 18:10] feat(test): add async test stream provider
 - [2026-06-07 18:18] docs(perf): update readme and API contracts for perf
 - [2026-06-07 18:50] fix(auth): resolve race condition during auth initialization
+- [2026-06-07 19:13] fix(cache): fix memory leak by cancelling cache subscription
