@@ -1847,3 +1847,4 @@
 - [2026-06-07 16:47] fix(theme): resolve race condition during theme initialization
 - [2026-06-07 16:53] style(network): harmonize light and dark theme palette for network
 - [2026-06-07 17:18] fix(security): prevent double tap duplicate action in security
+- [2026-06-07 17:27] chore(storage): update dependencies and cleanup unused imports in storage
