@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-06-07 12:04:48
-// Commit: fix(cache): resolve race condition during cache initialization
+// Updated at: 2026-06-07 14:32:16
+// Commit: refactor(cache): migrate cache controller to modern notifier syntax
 
 class cacheComponentState {
-  final String commitRef = '1832';
-  final String lastMessage = 'fix(cache): resolve race condition during cache initialization';
-  final DateTime timestamp = DateTime.parse('2026-06-07T12:04:48+05:00');
+  final String commitRef = '1838';
+  final String lastMessage = 'refactor(cache): migrate cache controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-07T14:32:16+05:00');
 }

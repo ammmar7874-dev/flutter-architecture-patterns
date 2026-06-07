@@ -1839,3 +1839,4 @@
 - [2026-06-07 13:21] refactor(perf): decouple repository interface from concrete perf service
 - [2026-06-07 13:26] style(navigation): harmonize light and dark theme palette for navigation
 - [2026-06-07 14:25] refactor(perf): extract reusable atomic widgets from perf
+- [2026-06-07 14:32] refactor(cache): migrate cache controller to modern notifier syntax
