@@ -1850,3 +1850,4 @@
 - [2026-06-07 17:27] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-06-07 17:34] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-06-07 17:45] refactor(forms): optimize data flow between domain and data layers
+- [2026-06-07 17:53] fix(ui): handle null assertion failure in ui parser
