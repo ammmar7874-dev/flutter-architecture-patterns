@@ -1862,3 +1862,4 @@
 - [2026-06-07 21:52] docs(cache): update readme and API contracts for cache
 - [2026-06-07 22:04] fix(core): handle null assertion failure in core parser
 - [2026-06-07 22:56] fix(state): handle null assertion failure in state parser
+- [2026-06-07 22:59] perf(network): optimize memory consumption in network list viewport
