@@ -1853,3 +1853,4 @@
 - [2026-06-07 17:53] fix(ui): handle null assertion failure in ui parser
 - [2026-06-07 18:10] feat(test): add async test stream provider
 - [2026-06-07 18:18] docs(perf): update readme and API contracts for perf
+- [2026-06-07 18:50] fix(auth): resolve race condition during auth initialization
