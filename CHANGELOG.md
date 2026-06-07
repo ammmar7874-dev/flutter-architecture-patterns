@@ -1833,3 +1833,4 @@
 - [2026-06-07 10:27] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-06-07 10:56] test(navigation): implement widget integration tests for navigation
 - [2026-06-07 11:54] chore(perf): update dependencies and cleanup unused imports in perf
+- [2026-06-07 12:04] fix(cache): resolve race condition during cache initialization
