@@ -1858,3 +1858,4 @@
 - [2026-06-07 20:26] perf(ui): optimize memory consumption in ui list viewport
 - [2026-06-07 20:31] perf(perf): memoize expensive computations in perf
 - [2026-06-07 20:45] feat(storage): integrate offline caching for storage state
+- [2026-06-07 21:43] feat(cache): add input validation and sanitization for cache
