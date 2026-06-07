@@ -1829,3 +1829,4 @@
 - [2026-06-07 09:46] feat(i18n): add bi-directional event bus handler for i18n
 - [2026-06-07 09:50] docs(auth): update readme and API contracts for auth
 - [2026-06-07 10:14] perf(i18n): optimize memory consumption in i18n list viewport
+- [2026-06-07 10:20] docs(perf): update readme and API contracts for perf
