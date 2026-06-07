@@ -1843,3 +1843,4 @@
 - [2026-06-07 15:01] refactor(security): migrate security controller to modern notifier syntax
 - [2026-06-07 15:24] test(security): implement widget integration tests for security
 - [2026-06-07 16:05] style(auth): adjust design tokens, typography, and contrast in auth
+- [2026-06-07 16:25] fix(security): fix memory leak by cancelling security subscription
