@@ -1852,3 +1852,4 @@
 - [2026-06-07 17:45] refactor(forms): optimize data flow between domain and data layers
 - [2026-06-07 17:53] fix(ui): handle null assertion failure in ui parser
 - [2026-06-07 18:10] feat(test): add async test stream provider
+- [2026-06-07 18:18] docs(perf): update readme and API contracts for perf
