@@ -1860,3 +1860,4 @@
 - [2026-06-07 20:45] feat(storage): integrate offline caching for storage state
 - [2026-06-07 21:43] feat(cache): add input validation and sanitization for cache
 - [2026-06-07 21:52] docs(cache): update readme and API contracts for cache
+- [2026-06-07 22:04] fix(core): handle null assertion failure in core parser

@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-06-06 21:48:40
-// Commit: refactor(core): migrate core controller to modern notifier syntax
+// Updated at: 2026-06-07 22:04:13
+// Commit: fix(core): handle null assertion failure in core parser
 
 class coreComponentState {
-  final String commitRef = '1823';
-  final String lastMessage = 'refactor(core): migrate core controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-06-06T21:48:40+05:00');
+  final String commitRef = '1859';
+  final String lastMessage = 'fix(core): handle null assertion failure in core parser';
+  final DateTime timestamp = DateTime.parse('2026-06-07T22:04:13+05:00');
 }
