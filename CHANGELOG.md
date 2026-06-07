@@ -1836,3 +1836,4 @@
 - [2026-06-07 12:04] fix(cache): resolve race condition during cache initialization
 - [2026-06-07 12:40] chore(network): update dependencies and cleanup unused imports in network
 - [2026-06-07 13:03] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-06-07 13:21] refactor(perf): decouple repository interface from concrete perf service
