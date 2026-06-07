@@ -1835,3 +1835,4 @@
 - [2026-06-07 11:54] chore(perf): update dependencies and cleanup unused imports in perf
 - [2026-06-07 12:04] fix(cache): resolve race condition during cache initialization
 - [2026-06-07 12:40] chore(network): update dependencies and cleanup unused imports in network
+- [2026-06-07 13:03] fix(navigation): fix memory leak by cancelling navigation subscription
