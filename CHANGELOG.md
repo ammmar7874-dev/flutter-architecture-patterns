@@ -1828,3 +1828,4 @@
 - [2026-06-06 23:15] fix(auth): prevent double tap duplicate action in auth
 - [2026-06-07 09:46] feat(i18n): add bi-directional event bus handler for i18n
 - [2026-06-07 09:50] docs(auth): update readme and API contracts for auth
+- [2026-06-07 10:14] perf(i18n): optimize memory consumption in i18n list viewport
