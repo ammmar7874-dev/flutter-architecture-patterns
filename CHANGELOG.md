@@ -1870,3 +1870,4 @@
 - [2026-06-10 11:07] style(test): harmonize light and dark theme palette for test
 - [2026-06-10 12:21] fix(core): correct layout constraints and overflow in core
 - [2026-06-10 12:26] feat(ui): add bi-directional event bus handler for ui
+- [2026-06-10 12:36] fix(network): handle null assertion failure in network parser
