@@ -1876,3 +1876,4 @@
 - [2026-06-10 14:24] test(test): implement widget integration tests for test
 - [2026-06-10 14:42] fix(state): resolve race condition during state initialization
 - [2026-06-10 14:54] test(analytics): implement widget integration tests for analytics
+- [2026-06-10 15:43] fix(auth): prevent double tap duplicate action in auth
