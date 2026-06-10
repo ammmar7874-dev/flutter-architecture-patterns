@@ -1888,3 +1888,4 @@
 - [2026-06-10 21:53] style(cache): harmonize light and dark theme palette for cache
 - [2026-06-10 22:18] fix(i18n): handle null assertion failure in i18n parser
 - [2026-06-10 22:36] feat(perf): add async perf stream provider
+- [2026-06-10 22:48] refactor(storage): migrate storage controller to modern notifier syntax
