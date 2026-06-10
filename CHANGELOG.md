@@ -1869,3 +1869,4 @@
 - [2026-06-10 11:05] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-06-10 11:07] style(test): harmonize light and dark theme palette for test
 - [2026-06-10 12:21] fix(core): correct layout constraints and overflow in core
+- [2026-06-10 12:26] feat(ui): add bi-directional event bus handler for ui
