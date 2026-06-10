@@ -1880,3 +1880,4 @@
 - [2026-06-10 17:58] feat(forms): add async forms stream provider
 - [2026-06-10 19:18] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-06-10 19:37] fix(theme): handle null assertion failure in theme parser
+- [2026-06-10 20:33] style(analytics): harmonize light and dark theme palette for analytics
