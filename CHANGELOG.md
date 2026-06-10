@@ -1866,3 +1866,4 @@
 - [2026-06-10 09:48] fix(security): handle null assertion failure in security parser
 - [2026-06-10 09:58] docs(ui): update readme and API contracts for ui
 - [2026-06-10 10:58] perf(network): optimize memory consumption in network list viewport
+- [2026-06-10 11:05] refactor(i18n): extract reusable atomic widgets from i18n
