@@ -1881,3 +1881,4 @@
 - [2026-06-10 19:18] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-06-10 19:37] fix(theme): handle null assertion failure in theme parser
 - [2026-06-10 20:33] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-06-10 20:37] feat(cache): integrate custom telemetry logger in cache
