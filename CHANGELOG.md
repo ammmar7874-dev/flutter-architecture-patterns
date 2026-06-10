@@ -1879,3 +1879,4 @@
 - [2026-06-10 15:43] fix(auth): prevent double tap duplicate action in auth
 - [2026-06-10 17:58] feat(forms): add async forms stream provider
 - [2026-06-10 19:18] fix(cache): fix memory leak by cancelling cache subscription
+- [2026-06-10 19:37] fix(theme): handle null assertion failure in theme parser
