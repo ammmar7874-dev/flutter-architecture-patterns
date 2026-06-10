@@ -1864,3 +1864,4 @@
 - [2026-06-07 22:56] fix(state): handle null assertion failure in state parser
 - [2026-06-07 22:59] perf(network): optimize memory consumption in network list viewport
 - [2026-06-10 09:48] fix(security): handle null assertion failure in security parser
+- [2026-06-10 09:58] docs(ui): update readme and API contracts for ui
