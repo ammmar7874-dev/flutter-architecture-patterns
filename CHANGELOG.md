@@ -1868,3 +1868,4 @@
 - [2026-06-10 10:58] perf(network): optimize memory consumption in network list viewport
 - [2026-06-10 11:05] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-06-10 11:07] style(test): harmonize light and dark theme palette for test
+- [2026-06-10 12:21] fix(core): correct layout constraints and overflow in core
