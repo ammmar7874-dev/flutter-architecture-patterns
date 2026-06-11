@@ -1895,3 +1895,4 @@
 - [2026-06-11 09:37] feat(i18n): add bi-directional event bus handler for i18n
 - [2026-06-11 09:39] feat(state): implement responsive state view component
 - [2026-06-11 10:10] test(storage): implement widget integration tests for storage
+- [2026-06-11 10:17] refactor(i18n): migrate i18n controller to modern notifier syntax
