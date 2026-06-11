@@ -1904,3 +1904,4 @@
 - [2026-06-11 12:52] fix(perf): prevent double tap duplicate action in perf
 - [2026-06-11 12:54] style(theme): harmonize light and dark theme palette for theme
 - [2026-06-11 13:01] test(cache): implement widget integration tests for cache
+- [2026-06-11 13:31] refactor(storage): migrate storage controller to modern notifier syntax
