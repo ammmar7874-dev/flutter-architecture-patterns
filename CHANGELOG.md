@@ -1897,3 +1897,4 @@
 - [2026-06-11 10:10] test(storage): implement widget integration tests for storage
 - [2026-06-11 10:17] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-06-11 11:23] fix(analytics): prevent double tap duplicate action in analytics
+- [2026-06-11 12:02] fix(security): handle null assertion failure in security parser
