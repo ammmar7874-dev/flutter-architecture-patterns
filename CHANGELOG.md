@@ -1926,3 +1926,4 @@
 - [2026-06-11 19:11] perf(cache): memoize expensive computations in cache
 - [2026-06-11 19:11] refactor(ui): extract reusable atomic widgets from ui
 - [2026-06-11 19:23] feat(test): implement shimmer loading skeleton in test
+- [2026-06-11 19:46] feat(security): add async security stream provider
