@@ -1891,3 +1891,4 @@
 - [2026-06-10 22:48] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-06-10 23:19] fix(network): handle null assertion failure in network parser
 - [2026-06-11 09:19] refactor(ui): extract reusable atomic widgets from ui
+- [2026-06-11 09:35] docs(network): add detailed code comments and architecture guide for network
