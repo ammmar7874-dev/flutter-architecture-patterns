@@ -1910,3 +1910,4 @@
 - [2026-06-11 14:18] docs(core): update readme and API contracts for core
 - [2026-06-11 14:24] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-06-11 14:40] fix(security): prevent double tap duplicate action in security
+- [2026-06-11 15:19] refactor(state): extract reusable atomic widgets from state
