@@ -1914,3 +1914,4 @@
 - [2026-06-11 16:15] feat(i18n): add bi-directional event bus handler for i18n
 - [2026-06-11 16:24] fix(state): prevent double tap duplicate action in state
 - [2026-06-11 16:26] feat(test): implement shimmer loading skeleton in test
+- [2026-06-11 16:27] feat(i18n): add async i18n stream provider
