@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-06-10 15:43:35
-// Commit: fix(auth): prevent double tap duplicate action in auth
+// Updated at: 2026-06-11 18:53:28
+// Commit: refactor(auth): migrate auth controller to modern notifier syntax
 
 class authComponentState {
-  final String commitRef = '1875';
-  final String lastMessage = 'fix(auth): prevent double tap duplicate action in auth';
-  final DateTime timestamp = DateTime.parse('2026-06-10T15:43:35+05:00');
+  final String commitRef = '1921';
+  final String lastMessage = 'refactor(auth): migrate auth controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-11T18:53:28+05:00');
 }
