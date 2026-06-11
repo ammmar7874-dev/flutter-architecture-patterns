@@ -1921,3 +1921,4 @@
 - [2026-06-11 17:17] feat(security): add async security stream provider
 - [2026-06-11 18:18] perf(security): optimize memory consumption in security list viewport
 - [2026-06-11 18:45] feat(cache): implement shimmer loading skeleton in cache
+- [2026-06-11 18:46] fix(cache): handle null assertion failure in cache parser
