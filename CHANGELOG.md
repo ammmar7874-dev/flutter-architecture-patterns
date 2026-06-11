@@ -1890,3 +1890,4 @@
 - [2026-06-10 22:36] feat(perf): add async perf stream provider
 - [2026-06-10 22:48] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-06-10 23:19] fix(network): handle null assertion failure in network parser
+- [2026-06-11 09:19] refactor(ui): extract reusable atomic widgets from ui
