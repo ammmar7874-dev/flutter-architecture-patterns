@@ -1908,3 +1908,4 @@
 - [2026-06-11 14:06] perf(i18n): optimize memory consumption in i18n list viewport
 - [2026-06-11 14:10] refactor(security): extract reusable atomic widgets from security
 - [2026-06-11 14:18] docs(core): update readme and API contracts for core
+- [2026-06-11 14:24] perf(state): apply RepaintBoundary on animated state widgets
