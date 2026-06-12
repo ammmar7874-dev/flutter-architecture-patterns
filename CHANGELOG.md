@@ -1932,3 +1932,4 @@
 - [2026-06-11 22:54] fix(network): fix memory leak by cancelling network subscription
 - [2026-06-11 23:07] perf(network): optimize memory consumption in network list viewport
 - [2026-06-12 10:04] docs(security): update readme and API contracts for security
+- [2026-06-12 10:10] perf(auth): memoize expensive computations in auth
