@@ -1937,3 +1937,4 @@
 - [2026-06-12 13:57] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-06-12 14:12] feat(perf): implement shimmer loading skeleton in perf
 - [2026-06-12 14:41] test(storage): implement widget integration tests for storage
+- [2026-06-12 14:46] chore(security): update dependencies and cleanup unused imports in security
