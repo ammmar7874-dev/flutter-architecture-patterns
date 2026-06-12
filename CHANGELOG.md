@@ -1936,3 +1936,4 @@
 - [2026-06-12 12:07] style(state): harmonize light and dark theme palette for state
 - [2026-06-12 13:57] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-06-12 14:12] feat(perf): implement shimmer loading skeleton in perf
+- [2026-06-12 14:41] test(storage): implement widget integration tests for storage
