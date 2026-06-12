@@ -1931,3 +1931,4 @@
 - [2026-06-11 21:46] style(state): adjust design tokens, typography, and contrast in state
 - [2026-06-11 22:54] fix(network): fix memory leak by cancelling network subscription
 - [2026-06-11 23:07] perf(network): optimize memory consumption in network list viewport
+- [2026-06-12 10:04] docs(security): update readme and API contracts for security
