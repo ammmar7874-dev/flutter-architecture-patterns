@@ -1946,3 +1946,4 @@
 - [2026-06-12 19:18] perf(auth): optimize memory consumption in auth list viewport
 - [2026-06-12 19:19] fix(security): handle null assertion failure in security parser
 - [2026-06-12 19:40] docs(security): update readme and API contracts for security
+- [2026-06-12 23:25] fix(storage): resolve race condition during storage initialization
