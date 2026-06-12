@@ -1934,3 +1934,4 @@
 - [2026-06-12 10:04] docs(security): update readme and API contracts for security
 - [2026-06-12 10:10] perf(auth): memoize expensive computations in auth
 - [2026-06-12 12:07] style(state): harmonize light and dark theme palette for state
+- [2026-06-12 13:57] refactor(navigation): decouple repository interface from concrete navigation service
