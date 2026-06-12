@@ -1945,3 +1945,4 @@
 - [2026-06-12 19:08] test(forms): add unit tests for forms business logic
 - [2026-06-12 19:18] perf(auth): optimize memory consumption in auth list viewport
 - [2026-06-12 19:19] fix(security): handle null assertion failure in security parser
+- [2026-06-12 19:40] docs(security): update readme and API contracts for security
