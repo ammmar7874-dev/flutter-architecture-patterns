@@ -1940,3 +1940,4 @@
 - [2026-06-12 14:46] chore(security): update dependencies and cleanup unused imports in security
 - [2026-06-12 16:15] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-06-12 16:18] chore(navigation): update dependencies and cleanup unused imports in navigation
+- [2026-06-12 17:18] style(perf): harmonize light and dark theme palette for perf
