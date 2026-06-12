@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-06-11 11:23:28
-// Commit: fix(analytics): prevent double tap duplicate action in analytics
+// Updated at: 2026-06-12 16:15:21
+// Commit: chore(analytics): update dependencies and cleanup unused imports in analytics
 
 class analyticsComponentState {
-  final String commitRef = '1895';
-  final String lastMessage = 'fix(analytics): prevent double tap duplicate action in analytics';
-  final DateTime timestamp = DateTime.parse('2026-06-11T11:23:28+05:00');
+  final String commitRef = '1937';
+  final String lastMessage = 'chore(analytics): update dependencies and cleanup unused imports in analytics';
+  final DateTime timestamp = DateTime.parse('2026-06-12T16:15:21+05:00');
 }
