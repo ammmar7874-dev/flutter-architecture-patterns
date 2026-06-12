@@ -1943,3 +1943,4 @@
 - [2026-06-12 17:18] style(perf): harmonize light and dark theme palette for perf
 - [2026-06-12 17:54] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-06-12 19:08] test(forms): add unit tests for forms business logic
+- [2026-06-12 19:18] perf(auth): optimize memory consumption in auth list viewport
