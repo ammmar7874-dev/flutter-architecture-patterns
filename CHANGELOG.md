@@ -1947,3 +1947,4 @@
 - [2026-06-12 19:19] fix(security): handle null assertion failure in security parser
 - [2026-06-12 19:40] docs(security): update readme and API contracts for security
 - [2026-06-12 23:25] fix(storage): resolve race condition during storage initialization
+- [2026-06-13 11:19] perf(auth): apply RepaintBoundary on animated auth widgets
