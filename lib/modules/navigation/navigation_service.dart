@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-06-12 16:18:10
-// Commit: chore(navigation): update dependencies and cleanup unused imports in navigation
+// Updated at: 2026-06-13 11:45:41
+// Commit: fix(navigation): handle null assertion failure in navigation parser
 
 class navigationComponentState {
-  final String commitRef = '1938';
-  final String lastMessage = 'chore(navigation): update dependencies and cleanup unused imports in navigation';
-  final DateTime timestamp = DateTime.parse('2026-06-12T16:18:10+05:00');
+  final String commitRef = '1947';
+  final String lastMessage = 'fix(navigation): handle null assertion failure in navigation parser';
+  final DateTime timestamp = DateTime.parse('2026-06-13T11:45:41+05:00');
 }
