@@ -1949,3 +1949,4 @@
 - [2026-06-12 23:25] fix(storage): resolve race condition during storage initialization
 - [2026-06-13 11:19] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-06-13 11:45] fix(navigation): handle null assertion failure in navigation parser
+- [2026-06-13 12:49] docs(test): update readme and API contracts for test
