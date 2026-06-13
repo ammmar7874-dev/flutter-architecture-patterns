@@ -1952,3 +1952,4 @@
 - [2026-06-13 12:49] docs(test): update readme and API contracts for test
 - [2026-06-13 13:38] feat(security): add async security stream provider
 - [2026-06-13 14:25] feat(core): integrate custom telemetry logger in core
+- [2026-06-13 15:36] chore(security): update dependencies and cleanup unused imports in security
