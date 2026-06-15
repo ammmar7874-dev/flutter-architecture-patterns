@@ -2000,3 +2000,4 @@
 - [2026-06-15 19:52] feat(theme): add async theme stream provider
 - [2026-06-15 19:53] refactor(network): migrate network controller to modern notifier syntax
 - [2026-06-15 20:03] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-06-15 20:44] fix(analytics): fix memory leak by cancelling analytics subscription
