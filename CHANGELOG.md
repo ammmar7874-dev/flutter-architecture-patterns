@@ -1986,3 +1986,4 @@
 - [2026-06-15 15:35] docs(core): add detailed code comments and architecture guide for core
 - [2026-06-15 15:59] refactor(security): migrate security controller to modern notifier syntax
 - [2026-06-15 16:04] feat(core): add bi-directional event bus handler for core
+- [2026-06-15 16:04] refactor(state): optimize data flow between domain and data layers
