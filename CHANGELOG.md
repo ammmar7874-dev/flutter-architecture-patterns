@@ -1967,3 +1967,4 @@
 - [2026-06-15 10:19] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-06-15 10:30] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-06-15 10:43] test(i18n): implement widget integration tests for i18n
+- [2026-06-15 10:59] fix(auth): fix memory leak by cancelling auth subscription
