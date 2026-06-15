@@ -1983,3 +1983,4 @@
 - [2026-06-15 14:51] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-06-15 15:04] refactor(ui): extract reusable atomic widgets from ui
 - [2026-06-15 15:06] refactor(perf): optimize data flow between domain and data layers
+- [2026-06-15 15:35] docs(core): add detailed code comments and architecture guide for core
