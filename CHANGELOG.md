@@ -1969,3 +1969,4 @@
 - [2026-06-15 10:43] test(i18n): implement widget integration tests for i18n
 - [2026-06-15 10:59] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-06-15 11:35] test(test): implement widget integration tests for test
+- [2026-06-15 11:44] docs(navigation): add detailed code comments and architecture guide for navigation
