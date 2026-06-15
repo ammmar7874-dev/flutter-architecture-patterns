@@ -1975,3 +1975,4 @@
 - [2026-06-15 12:06] style(forms): harmonize light and dark theme palette for forms
 - [2026-06-15 12:30] style(network): harmonize light and dark theme palette for network
 - [2026-06-15 12:38] fix(perf): resolve race condition during perf initialization
+- [2026-06-15 12:51] feat(security): add input validation and sanitization for security
