@@ -1959,3 +1959,4 @@
 - [2026-06-15 09:04] feat(security): add bi-directional event bus handler for security
 - [2026-06-15 09:12] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-06-15 09:25] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-06-15 09:26] perf(state): optimize memory consumption in state list viewport
