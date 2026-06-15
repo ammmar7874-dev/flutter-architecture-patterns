@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-06-15 16:04:14
-// Commit: feat(core): add bi-directional event bus handler for core
+// Updated at: 2026-06-15 20:56:54
+// Commit: refactor(core): migrate core controller to modern notifier syntax
 
 class coreComponentState {
-  final String commitRef = '1984';
-  final String lastMessage = 'feat(core): add bi-directional event bus handler for core';
-  final DateTime timestamp = DateTime.parse('2026-06-15T16:04:14+05:00');
+  final String commitRef = '2000';
+  final String lastMessage = 'refactor(core): migrate core controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-15T20:56:54+05:00');
 }
