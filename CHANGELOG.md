@@ -1962,3 +1962,4 @@
 - [2026-06-15 09:26] perf(state): optimize memory consumption in state list viewport
 - [2026-06-15 09:32] feat(security): add async security stream provider
 - [2026-06-15 09:35] feat(forms): implement responsive forms view component
+- [2026-06-15 09:55] feat(i18n): add async i18n stream provider
