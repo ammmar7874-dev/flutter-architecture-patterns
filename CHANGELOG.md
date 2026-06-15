@@ -1965,3 +1965,4 @@
 - [2026-06-15 09:55] feat(i18n): add async i18n stream provider
 - [2026-06-15 10:05] feat(ui): add input validation and sanitization for ui
 - [2026-06-15 10:19] style(ui): adjust design tokens, typography, and contrast in ui
+- [2026-06-15 10:30] refactor(cache): migrate cache controller to modern notifier syntax

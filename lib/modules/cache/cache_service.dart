@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-06-12 17:54:05
-// Commit: fix(cache): fix memory leak by cancelling cache subscription
+// Updated at: 2026-06-15 10:30:55
+// Commit: refactor(cache): migrate cache controller to modern notifier syntax
 
 class cacheComponentState {
-  final String commitRef = '1940';
-  final String lastMessage = 'fix(cache): fix memory leak by cancelling cache subscription';
-  final DateTime timestamp = DateTime.parse('2026-06-12T17:54:05+05:00');
+  final String commitRef = '1964';
+  final String lastMessage = 'refactor(cache): migrate cache controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-15T10:30:55+05:00');
 }
