@@ -1958,3 +1958,4 @@
 - [2026-06-13 22:47] refactor(security): extract reusable atomic widgets from security
 - [2026-06-15 09:04] feat(security): add bi-directional event bus handler for security
 - [2026-06-15 09:12] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-06-15 09:25] fix(navigation): correct layout constraints and overflow in navigation
