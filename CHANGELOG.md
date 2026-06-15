@@ -1988,3 +1988,4 @@
 - [2026-06-15 16:04] feat(core): add bi-directional event bus handler for core
 - [2026-06-15 16:04] refactor(state): optimize data flow between domain and data layers
 - [2026-06-15 16:19] fix(network): fix memory leak by cancelling network subscription
+- [2026-06-15 16:35] feat(forms): add async forms stream provider
