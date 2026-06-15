@@ -1980,3 +1980,4 @@
 - [2026-06-15 13:11] fix(analytics): correct layout constraints and overflow in analytics
 - [2026-06-15 14:04] fix(core): correct layout constraints and overflow in core
 - [2026-06-15 14:48] perf(state): optimize memory consumption in state list viewport
+- [2026-06-15 14:51] fix(i18n): correct layout constraints and overflow in i18n
