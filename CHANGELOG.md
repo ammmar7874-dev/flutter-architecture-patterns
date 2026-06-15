@@ -2002,3 +2002,4 @@
 - [2026-06-15 20:03] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-06-15 20:44] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-06-15 20:56] refactor(core): migrate core controller to modern notifier syntax
+- [2026-06-15 21:19] feat(theme): add bi-directional event bus handler for theme
