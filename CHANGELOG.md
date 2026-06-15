@@ -1990,3 +1990,4 @@
 - [2026-06-15 16:19] fix(network): fix memory leak by cancelling network subscription
 - [2026-06-15 16:35] feat(forms): add async forms stream provider
 - [2026-06-15 16:40] perf(cache): memoize expensive computations in cache
+- [2026-06-15 16:44] refactor(navigation): migrate navigation controller to modern notifier syntax
