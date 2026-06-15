@@ -2005,3 +2005,4 @@
 - [2026-06-15 21:19] feat(theme): add bi-directional event bus handler for theme
 - [2026-06-15 21:27] test(i18n): implement widget integration tests for i18n
 - [2026-06-15 21:41] perf(network): optimize memory consumption in network list viewport
+- [2026-06-15 21:50] refactor(network): decouple repository interface from concrete network service
