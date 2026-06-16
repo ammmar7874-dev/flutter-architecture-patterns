@@ -2055,3 +2055,4 @@
 - [2026-06-16 21:13] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-06-16 21:26] chore(network): update dependencies and cleanup unused imports in network
 - [2026-06-16 21:42] perf(network): optimize memory consumption in network list viewport
+- [2026-06-16 21:43] refactor(ui): decouple repository interface from concrete ui service
