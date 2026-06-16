@@ -2045,3 +2045,4 @@
 - [2026-06-16 19:49] feat(security): add async security stream provider
 - [2026-06-16 19:58] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-06-16 19:58] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-06-16 20:09] fix(auth): correct layout constraints and overflow in auth
