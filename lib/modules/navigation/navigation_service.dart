@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-06-16 16:39:35
-// Commit: fix(navigation): prevent double tap duplicate action in navigation
+// Updated at: 2026-06-16 19:03:18
+// Commit: fix(navigation): correct layout constraints and overflow in navigation
 
 class navigationComponentState {
-  final String commitRef = '2032';
-  final String lastMessage = 'fix(navigation): prevent double tap duplicate action in navigation';
-  final DateTime timestamp = DateTime.parse('2026-06-16T16:39:35+05:00');
+  final String commitRef = '2038';
+  final String lastMessage = 'fix(navigation): correct layout constraints and overflow in navigation';
+  final DateTime timestamp = DateTime.parse('2026-06-16T19:03:18+05:00');
 }

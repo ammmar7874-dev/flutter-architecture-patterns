@@ -2039,3 +2039,4 @@
 - [2026-06-16 16:58] feat(security): integrate custom telemetry logger in security
 - [2026-06-16 17:10] feat(network): add bi-directional event bus handler for network
 - [2026-06-16 17:13] perf(ui): apply RepaintBoundary on animated ui widgets
+- [2026-06-16 19:03] fix(navigation): correct layout constraints and overflow in navigation
