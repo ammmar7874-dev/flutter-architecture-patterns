@@ -2030,3 +2030,4 @@
 - [2026-06-16 14:10] fix(state): handle null assertion failure in state parser
 - [2026-06-16 14:17] perf(perf): optimize memory consumption in perf list viewport
 - [2026-06-16 14:56] refactor(test): optimize data flow between domain and data layers
+- [2026-06-16 15:00] docs(security): update readme and API contracts for security
