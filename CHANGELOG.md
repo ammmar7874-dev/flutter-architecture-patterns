@@ -2015,3 +2015,4 @@
 - [2026-06-15 23:28] style(theme): harmonize light and dark theme palette for theme
 - [2026-06-16 09:34] docs(analytics): update readme and API contracts for analytics
 - [2026-06-16 10:09] fix(perf): handle null assertion failure in perf parser
+- [2026-06-16 10:23] test(i18n): add unit tests for i18n business logic
