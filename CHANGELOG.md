@@ -2049,3 +2049,4 @@
 - [2026-06-16 20:16] fix(ui): correct layout constraints and overflow in ui
 - [2026-06-16 20:24] refactor(theme): extract reusable atomic widgets from theme
 - [2026-06-16 20:47] feat(i18n): add input validation and sanitization for i18n
+- [2026-06-16 20:51] docs(network): update readme and API contracts for network
