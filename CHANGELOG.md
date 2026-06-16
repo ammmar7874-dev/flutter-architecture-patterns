@@ -2052,3 +2052,4 @@
 - [2026-06-16 20:51] docs(network): update readme and API contracts for network
 - [2026-06-16 21:06] feat(auth): add bi-directional event bus handler for auth
 - [2026-06-16 21:08] refactor(cache): extract reusable atomic widgets from cache
+- [2026-06-16 21:13] chore(auth): update dependencies and cleanup unused imports in auth
