@@ -2047,3 +2047,4 @@
 - [2026-06-16 19:58] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-06-16 20:09] fix(auth): correct layout constraints and overflow in auth
 - [2026-06-16 20:16] fix(ui): correct layout constraints and overflow in ui
+- [2026-06-16 20:24] refactor(theme): extract reusable atomic widgets from theme
