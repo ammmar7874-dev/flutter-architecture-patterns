@@ -2025,3 +2025,4 @@
 - [2026-06-16 13:25] style(navigation): adjust design tokens, typography, and contrast in navigation
 - [2026-06-16 13:30] feat(security): add input validation and sanitization for security
 - [2026-06-16 13:30] refactor(auth): optimize data flow between domain and data layers
+- [2026-06-16 14:01] test(storage): implement widget integration tests for storage
