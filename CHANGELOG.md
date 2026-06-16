@@ -2044,3 +2044,4 @@
 - [2026-06-16 19:30] feat(i18n): implement responsive i18n view component
 - [2026-06-16 19:49] feat(security): add async security stream provider
 - [2026-06-16 19:58] style(forms): adjust design tokens, typography, and contrast in forms
+- [2026-06-16 19:58] refactor(theme): migrate theme controller to modern notifier syntax
