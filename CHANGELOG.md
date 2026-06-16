@@ -2042,3 +2042,4 @@
 - [2026-06-16 19:03] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-06-16 19:10] fix(core): correct layout constraints and overflow in core
 - [2026-06-16 19:30] feat(i18n): implement responsive i18n view component
+- [2026-06-16 19:49] feat(security): add async security stream provider
