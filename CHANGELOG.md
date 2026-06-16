@@ -2026,3 +2026,4 @@
 - [2026-06-16 13:30] feat(security): add input validation and sanitization for security
 - [2026-06-16 13:30] refactor(auth): optimize data flow between domain and data layers
 - [2026-06-16 14:01] test(storage): implement widget integration tests for storage
+- [2026-06-16 14:05] test(core): add unit tests for core business logic
