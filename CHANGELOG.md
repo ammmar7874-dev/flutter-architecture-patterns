@@ -2069,3 +2069,4 @@
 - [2026-06-17 10:56] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-06-17 11:11] style(state): harmonize light and dark theme palette for state
 - [2026-06-17 11:43] perf(state): optimize memory consumption in state list viewport
+- [2026-06-17 12:05] docs(navigation): update readme and API contracts for navigation
