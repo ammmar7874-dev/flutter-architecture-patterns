@@ -2075,3 +2075,4 @@
 - [2026-06-17 13:00] docs(perf): update readme and API contracts for perf
 - [2026-06-17 13:44] feat(storage): add bi-directional event bus handler for storage
 - [2026-06-17 14:48] perf(core): optimize memory consumption in core list viewport
+- [2026-06-17 15:04] refactor(analytics): optimize data flow between domain and data layers
