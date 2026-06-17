@@ -2066,3 +2066,4 @@
 - [2026-06-17 09:37] fix(state): correct layout constraints and overflow in state
 - [2026-06-17 10:09] docs(perf): update readme and API contracts for perf
 - [2026-06-17 10:45] fix(auth): handle null assertion failure in auth parser
+- [2026-06-17 10:56] perf(i18n): apply RepaintBoundary on animated i18n widgets
