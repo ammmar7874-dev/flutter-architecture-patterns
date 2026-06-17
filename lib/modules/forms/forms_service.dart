@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-06-17 12:55:39
-// Commit: feat(forms): add async forms stream provider
+// Updated at: 2026-06-17 21:39:19
+// Commit: refactor(forms): migrate forms controller to modern notifier syntax
 
 class formsComponentState {
-  final String commitRef = '2070';
-  final String lastMessage = 'feat(forms): add async forms stream provider';
-  final DateTime timestamp = DateTime.parse('2026-06-17T12:55:39+05:00');
+  final String commitRef = '2091';
+  final String lastMessage = 'refactor(forms): migrate forms controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-17T21:39:19+05:00');
 }
