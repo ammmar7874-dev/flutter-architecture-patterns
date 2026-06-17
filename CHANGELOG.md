@@ -2073,3 +2073,4 @@
 - [2026-06-17 12:31] feat(forms): integrate custom telemetry logger in forms
 - [2026-06-17 12:55] feat(forms): add async forms stream provider
 - [2026-06-17 13:00] docs(perf): update readme and API contracts for perf
+- [2026-06-17 13:44] feat(storage): add bi-directional event bus handler for storage
