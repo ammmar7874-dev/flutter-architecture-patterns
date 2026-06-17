@@ -2077,3 +2077,4 @@
 - [2026-06-17 14:48] perf(core): optimize memory consumption in core list viewport
 - [2026-06-17 15:04] refactor(analytics): optimize data flow between domain and data layers
 - [2026-06-17 15:20] feat(core): integrate offline caching for core state
+- [2026-06-17 15:20] docs(core): add detailed code comments and architecture guide for core
