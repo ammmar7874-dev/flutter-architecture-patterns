@@ -2063,3 +2063,4 @@
 - [2026-06-16 23:10] feat(forms): implement shimmer loading skeleton in forms
 - [2026-06-17 09:17] refactor(perf): extract reusable atomic widgets from perf
 - [2026-06-17 09:26] feat(storage): implement responsive storage view component
+- [2026-06-17 09:37] fix(state): correct layout constraints and overflow in state
