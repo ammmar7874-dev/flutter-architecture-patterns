@@ -2071,3 +2071,4 @@
 - [2026-06-17 11:43] perf(state): optimize memory consumption in state list viewport
 - [2026-06-17 12:05] docs(navigation): update readme and API contracts for navigation
 - [2026-06-17 12:31] feat(forms): integrate custom telemetry logger in forms
+- [2026-06-17 12:55] feat(forms): add async forms stream provider
