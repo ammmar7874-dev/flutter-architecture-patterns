@@ -2079,3 +2079,4 @@
 - [2026-06-17 15:20] feat(core): integrate offline caching for core state
 - [2026-06-17 15:20] docs(core): add detailed code comments and architecture guide for core
 - [2026-06-17 15:23] feat(state): implement shimmer loading skeleton in state
+- [2026-06-17 16:29] perf(navigation): apply RepaintBoundary on animated navigation widgets
