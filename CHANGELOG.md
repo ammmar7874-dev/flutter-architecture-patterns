@@ -2097,3 +2097,4 @@
 - [2026-06-17 22:30] refactor(analytics): extract reusable atomic widgets from analytics
 - [2026-06-17 22:54] perf(network): memoize expensive computations in network
 - [2026-06-17 23:00] perf(theme): apply RepaintBoundary on animated theme widgets
+- [2026-06-17 23:08] fix(state): fix memory leak by cancelling state subscription
