@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-06-17 20:23:46
-// Commit: style(i18n): adjust design tokens, typography, and contrast in i18n
+// Updated at: 2026-06-18 17:30:11
+// Commit: fix(i18n): fix memory leak by cancelling i18n subscription
 
 class i18nComponentState {
-  final String commitRef = '2087';
-  final String lastMessage = 'style(i18n): adjust design tokens, typography, and contrast in i18n';
-  final DateTime timestamp = DateTime.parse('2026-06-17T20:23:46+05:00');
+  final String commitRef = '2104';
+  final String lastMessage = 'fix(i18n): fix memory leak by cancelling i18n subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-18T17:30:11+05:00');
 }
