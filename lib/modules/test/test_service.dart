@@ -1,9 +1,9 @@
 ﻿// Module: test
-// Updated at: 2026-06-16 15:04:29
-// Commit: perf(test): apply RepaintBoundary on animated test widgets
+// Updated at: 2026-06-18 16:02:50
+// Commit: fix(test): fix memory leak by cancelling test subscription
 
 class testComponentState {
-  final String commitRef = '2030';
-  final String lastMessage = 'perf(test): apply RepaintBoundary on animated test widgets';
-  final DateTime timestamp = DateTime.parse('2026-06-16T15:04:29+05:00');
+  final String commitRef = '2102';
+  final String lastMessage = 'fix(test): fix memory leak by cancelling test subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-18T16:02:50+05:00');
 }
