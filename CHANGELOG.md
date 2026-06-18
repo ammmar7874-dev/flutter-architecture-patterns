@@ -2108,3 +2108,4 @@
 - [2026-06-18 17:30] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-06-18 17:45] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-06-18 19:06] perf(perf): memoize expensive computations in perf
+- [2026-06-18 19:34] chore(ui): update dependencies and cleanup unused imports in ui
