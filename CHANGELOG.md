@@ -2100,3 +2100,4 @@
 - [2026-06-17 23:08] fix(state): fix memory leak by cancelling state subscription
 - [2026-06-18 09:56] style(state): harmonize light and dark theme palette for state
 - [2026-06-18 12:19] refactor(perf): optimize data flow between domain and data layers
+- [2026-06-18 13:47] test(forms): implement widget integration tests for forms
