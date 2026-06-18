@@ -2110,3 +2110,4 @@
 - [2026-06-18 19:06] perf(perf): memoize expensive computations in perf
 - [2026-06-18 19:34] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-06-18 19:57] refactor(navigation): extract reusable atomic widgets from navigation
+- [2026-06-18 22:12] fix(network): handle null assertion failure in network parser
