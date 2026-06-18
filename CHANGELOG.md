@@ -2111,3 +2111,4 @@
 - [2026-06-18 19:34] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-06-18 19:57] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-06-18 22:12] fix(network): handle null assertion failure in network parser
+- [2026-06-18 22:14] docs(ui): update readme and API contracts for ui
