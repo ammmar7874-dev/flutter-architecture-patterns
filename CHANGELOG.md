@@ -2104,3 +2104,4 @@
 - [2026-06-18 13:57] refactor(core): optimize data flow between domain and data layers
 - [2026-06-18 14:33] docs(auth): update readme and API contracts for auth
 - [2026-06-18 16:02] fix(test): fix memory leak by cancelling test subscription
+- [2026-06-18 17:17] perf(state): optimize memory consumption in state list viewport
