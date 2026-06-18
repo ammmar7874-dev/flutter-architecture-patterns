@@ -2102,3 +2102,4 @@
 - [2026-06-18 12:19] refactor(perf): optimize data flow between domain and data layers
 - [2026-06-18 13:47] test(forms): implement widget integration tests for forms
 - [2026-06-18 13:57] refactor(core): optimize data flow between domain and data layers
+- [2026-06-18 14:33] docs(auth): update readme and API contracts for auth
