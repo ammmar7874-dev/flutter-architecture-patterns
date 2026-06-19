@@ -2161,3 +2161,4 @@
 - [2026-06-19 21:42] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-06-19 21:43] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-06-19 22:07] docs(forms): update readme and API contracts for forms
+- [2026-06-19 22:11] fix(i18n): correct layout constraints and overflow in i18n
