@@ -2164,3 +2164,4 @@
 - [2026-06-19 22:11] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-06-19 22:30] style(ui): harmonize light and dark theme palette for ui
 - [2026-06-19 22:51] refactor(storage): extract reusable atomic widgets from storage
+- [2026-06-19 22:56] perf(core): optimize memory consumption in core list viewport
