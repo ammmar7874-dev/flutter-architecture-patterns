@@ -2157,3 +2157,4 @@
 - [2026-06-19 19:53] feat(test): implement shimmer loading skeleton in test
 - [2026-06-19 20:07] test(navigation): implement widget integration tests for navigation
 - [2026-06-19 20:28] feat(analytics): integrate custom telemetry logger in analytics
+- [2026-06-19 20:53] fix(perf): resolve race condition during perf initialization
