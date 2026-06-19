@@ -2131,3 +2131,4 @@
 - [2026-06-19 13:47] perf(auth): optimize memory consumption in auth list viewport
 - [2026-06-19 14:15] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-06-19 14:33] perf(navigation): apply RepaintBoundary on animated navigation widgets
+- [2026-06-19 14:42] feat(i18n): add async i18n stream provider
