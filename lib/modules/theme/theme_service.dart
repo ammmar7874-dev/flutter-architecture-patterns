@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-06-19 12:59:12
-// Commit: fix(theme): fix memory leak by cancelling theme subscription
+// Updated at: 2026-06-19 15:06:23
+// Commit: fix(theme): correct layout constraints and overflow in theme
 
 class themeComponentState {
-  final String commitRef = '2124';
-  final String lastMessage = 'fix(theme): fix memory leak by cancelling theme subscription';
-  final DateTime timestamp = DateTime.parse('2026-06-19T12:59:12+05:00');
+  final String commitRef = '2133';
+  final String lastMessage = 'fix(theme): correct layout constraints and overflow in theme';
+  final DateTime timestamp = DateTime.parse('2026-06-19T15:06:23+05:00');
 }
