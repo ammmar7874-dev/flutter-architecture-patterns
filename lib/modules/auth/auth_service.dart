@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-06-19 19:46:27
-// Commit: feat(auth): add async auth stream provider
+// Updated at: 2026-06-19 21:42:36
+// Commit: refactor(auth): migrate auth controller to modern notifier syntax
 
 class authComponentState {
-  final String commitRef = '2151';
-  final String lastMessage = 'feat(auth): add async auth stream provider';
-  final DateTime timestamp = DateTime.parse('2026-06-19T19:46:27+05:00');
+  final String commitRef = '2157';
+  final String lastMessage = 'refactor(auth): migrate auth controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-19T21:42:36+05:00');
 }

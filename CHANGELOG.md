@@ -2158,3 +2158,4 @@
 - [2026-06-19 20:07] test(navigation): implement widget integration tests for navigation
 - [2026-06-19 20:28] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-06-19 20:53] fix(perf): resolve race condition during perf initialization
+- [2026-06-19 21:42] refactor(auth): migrate auth controller to modern notifier syntax
