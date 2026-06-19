@@ -2128,3 +2128,4 @@
 - [2026-06-19 12:59] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-06-19 13:10] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-06-19 13:36] fix(core): fix memory leak by cancelling core subscription
+- [2026-06-19 13:47] perf(auth): optimize memory consumption in auth list viewport
