@@ -2137,3 +2137,4 @@
 - [2026-06-19 15:06] fix(theme): correct layout constraints and overflow in theme
 - [2026-06-19 15:27] feat(network): integrate custom telemetry logger in network
 - [2026-06-19 15:43] fix(cache): handle null assertion failure in cache parser
+- [2026-06-19 16:06] docs(storage): update readme and API contracts for storage
