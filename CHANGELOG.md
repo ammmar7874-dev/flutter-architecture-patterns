@@ -2144,3 +2144,4 @@
 - [2026-06-19 16:46] fix(analytics): handle null assertion failure in analytics parser
 - [2026-06-19 17:21] style(core): harmonize light and dark theme palette for core
 - [2026-06-19 17:48] test(navigation): add unit tests for navigation business logic
+- [2026-06-19 18:20] feat(navigation): add input validation and sanitization for navigation
