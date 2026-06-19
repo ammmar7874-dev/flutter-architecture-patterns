@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-06-19 10:09:40
-// Commit: fix(navigation): handle null assertion failure in navigation parser
+// Updated at: 2026-06-19 14:15:36
+// Commit: fix(navigation): fix memory leak by cancelling navigation subscription
 
 class navigationComponentState {
-  final String commitRef = '2118';
-  final String lastMessage = 'fix(navigation): handle null assertion failure in navigation parser';
-  final DateTime timestamp = DateTime.parse('2026-06-19T10:09:40+05:00');
+  final String commitRef = '2128';
+  final String lastMessage = 'fix(navigation): fix memory leak by cancelling navigation subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-19T14:15:36+05:00');
 }
