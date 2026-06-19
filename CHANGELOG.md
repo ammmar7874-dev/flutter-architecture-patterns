@@ -2143,3 +2143,4 @@
 - [2026-06-19 16:19] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-06-19 16:46] fix(analytics): handle null assertion failure in analytics parser
 - [2026-06-19 17:21] style(core): harmonize light and dark theme palette for core
+- [2026-06-19 17:48] test(navigation): add unit tests for navigation business logic
