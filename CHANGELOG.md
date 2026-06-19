@@ -2125,3 +2125,4 @@
 - [2026-06-19 10:37] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-06-19 10:42] feat(forms): add bi-directional event bus handler for forms
 - [2026-06-19 12:26] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-06-19 12:59] fix(theme): fix memory leak by cancelling theme subscription
