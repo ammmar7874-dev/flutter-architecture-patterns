@@ -2127,3 +2127,4 @@
 - [2026-06-19 12:26] style(analytics): adjust design tokens, typography, and contrast in analytics
 - [2026-06-19 12:59] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-06-19 13:10] chore(analytics): update dependencies and cleanup unused imports in analytics
+- [2026-06-19 13:36] fix(core): fix memory leak by cancelling core subscription
