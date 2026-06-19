@@ -2165,3 +2165,4 @@
 - [2026-06-19 22:30] style(ui): harmonize light and dark theme palette for ui
 - [2026-06-19 22:51] refactor(storage): extract reusable atomic widgets from storage
 - [2026-06-19 22:56] perf(core): optimize memory consumption in core list viewport
+- [2026-06-19 23:04] chore(test): update dependencies and cleanup unused imports in test
