@@ -2119,3 +2119,4 @@
 - [2026-06-19 09:39] feat(ui): integrate offline caching for ui state
 - [2026-06-19 09:44] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-06-19 09:49] style(test): adjust design tokens, typography, and contrast in test
+- [2026-06-19 10:09] fix(navigation): handle null assertion failure in navigation parser
