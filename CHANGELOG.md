@@ -2130,3 +2130,4 @@
 - [2026-06-19 13:36] fix(core): fix memory leak by cancelling core subscription
 - [2026-06-19 13:47] perf(auth): optimize memory consumption in auth list viewport
 - [2026-06-19 14:15] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-06-19 14:33] perf(navigation): apply RepaintBoundary on animated navigation widgets
