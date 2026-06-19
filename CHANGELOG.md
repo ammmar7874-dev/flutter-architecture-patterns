@@ -2117,3 +2117,4 @@
 - [2026-06-19 09:22] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-06-19 09:37] feat(security): implement responsive security view component
 - [2026-06-19 09:39] feat(ui): integrate offline caching for ui state
+- [2026-06-19 09:44] fix(i18n): correct layout constraints and overflow in i18n
