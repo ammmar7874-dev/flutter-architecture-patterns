@@ -2138,3 +2138,4 @@
 - [2026-06-19 15:27] feat(network): integrate custom telemetry logger in network
 - [2026-06-19 15:43] fix(cache): handle null assertion failure in cache parser
 - [2026-06-19 16:06] docs(storage): update readme and API contracts for storage
+- [2026-06-19 16:10] feat(i18n): add input validation and sanitization for i18n
