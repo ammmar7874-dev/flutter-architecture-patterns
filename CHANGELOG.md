@@ -2113,3 +2113,4 @@
 - [2026-06-18 22:12] fix(network): handle null assertion failure in network parser
 - [2026-06-18 22:14] docs(ui): update readme and API contracts for ui
 - [2026-06-18 23:11] fix(cache): prevent double tap duplicate action in cache
+- [2026-06-19 09:05] chore(state): update dependencies and cleanup unused imports in state
