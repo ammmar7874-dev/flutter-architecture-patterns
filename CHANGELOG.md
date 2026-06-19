@@ -2153,3 +2153,4 @@
 - [2026-06-19 19:31] fix(test): correct layout constraints and overflow in test
 - [2026-06-19 19:34] test(analytics): implement widget integration tests for analytics
 - [2026-06-19 19:46] feat(auth): add async auth stream provider
+- [2026-06-19 19:50] fix(navigation): handle null assertion failure in navigation parser
