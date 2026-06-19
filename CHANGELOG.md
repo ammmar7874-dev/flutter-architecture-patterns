@@ -2150,3 +2150,4 @@
 - [2026-06-19 18:52] docs(test): add detailed code comments and architecture guide for test
 - [2026-06-19 18:54] feat(perf): integrate offline caching for perf state
 - [2026-06-19 19:13] chore(auth): update dependencies and cleanup unused imports in auth
+- [2026-06-19 19:31] fix(test): correct layout constraints and overflow in test
