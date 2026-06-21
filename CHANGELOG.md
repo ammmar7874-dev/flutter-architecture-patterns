@@ -2169,3 +2169,4 @@
 - [2026-06-19 23:28] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-06-19 23:29] fix(ui): prevent double tap duplicate action in ui
 - [2026-06-21 09:45] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-06-21 10:25] feat(theme): implement shimmer loading skeleton in theme
