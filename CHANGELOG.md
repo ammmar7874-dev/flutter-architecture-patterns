@@ -2175,3 +2175,4 @@
 - [2026-06-21 15:04] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-06-21 15:08] feat(ui): add async ui stream provider
 - [2026-06-21 16:01] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-06-21 19:11] refactor(state): optimize data flow between domain and data layers
