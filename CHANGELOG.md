@@ -2172,3 +2172,4 @@
 - [2026-06-21 10:25] feat(theme): implement shimmer loading skeleton in theme
 - [2026-06-21 10:55] feat(test): integrate custom telemetry logger in test
 - [2026-06-21 13:27] feat(analytics): integrate custom telemetry logger in analytics
+- [2026-06-21 15:04] chore(theme): update dependencies and cleanup unused imports in theme
