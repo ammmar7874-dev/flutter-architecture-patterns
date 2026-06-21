@@ -2174,3 +2174,4 @@
 - [2026-06-21 13:27] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-06-21 15:04] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-06-21 15:08] feat(ui): add async ui stream provider
+- [2026-06-21 16:01] perf(storage): apply RepaintBoundary on animated storage widgets
