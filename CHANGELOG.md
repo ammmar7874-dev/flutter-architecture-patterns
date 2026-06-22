@@ -2211,3 +2211,4 @@
 - [2026-06-22 19:56] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-06-22 20:07] feat(cache): integrate offline caching for cache state
 - [2026-06-22 20:32] feat(network): add async network stream provider
+- [2026-06-22 20:44] feat(i18n): add input validation and sanitization for i18n
