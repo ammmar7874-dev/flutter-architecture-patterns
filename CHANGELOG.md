@@ -2188,3 +2188,4 @@
 - [2026-06-22 10:31] style(test): adjust design tokens, typography, and contrast in test
 - [2026-06-22 10:37] docs(i18n): update readme and API contracts for i18n
 - [2026-06-22 11:41] feat(theme): implement shimmer loading skeleton in theme
+- [2026-06-22 12:01] perf(state): optimize memory consumption in state list viewport
