@@ -2200,3 +2200,4 @@
 - [2026-06-22 15:23] feat(auth): integrate custom telemetry logger in auth
 - [2026-06-22 15:27] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-06-22 15:30] fix(i18n): prevent double tap duplicate action in i18n
+- [2026-06-22 16:40] feat(i18n): add input validation and sanitization for i18n
