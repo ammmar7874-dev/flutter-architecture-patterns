@@ -2207,3 +2207,4 @@
 - [2026-06-22 17:54] docs(state): update readme and API contracts for state
 - [2026-06-22 18:10] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-06-22 18:55] feat(navigation): integrate offline caching for navigation state
+- [2026-06-22 19:41] style(i18n): adjust design tokens, typography, and contrast in i18n
