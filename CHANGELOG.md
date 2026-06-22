@@ -2180,3 +2180,4 @@
 - [2026-06-22 09:12] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-06-22 09:24] feat(ui): integrate offline caching for ui state
 - [2026-06-22 09:36] feat(auth): add bi-directional event bus handler for auth
+- [2026-06-22 09:46] feat(storage): add bi-directional event bus handler for storage
