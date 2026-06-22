@@ -2195,3 +2195,4 @@
 - [2026-06-22 13:57] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-06-22 14:03] refactor(core): optimize data flow between domain and data layers
 - [2026-06-22 14:05] refactor(test): optimize data flow between domain and data layers
+- [2026-06-22 14:55] docs(ui): update readme and API contracts for ui
