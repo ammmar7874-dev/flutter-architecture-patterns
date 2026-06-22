@@ -2179,3 +2179,4 @@
 - [2026-06-21 20:01] perf(ui): optimize memory consumption in ui list viewport
 - [2026-06-22 09:12] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-06-22 09:24] feat(ui): integrate offline caching for ui state
+- [2026-06-22 09:36] feat(auth): add bi-directional event bus handler for auth
