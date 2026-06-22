@@ -2181,3 +2181,4 @@
 - [2026-06-22 09:24] feat(ui): integrate offline caching for ui state
 - [2026-06-22 09:36] feat(auth): add bi-directional event bus handler for auth
 - [2026-06-22 09:46] feat(storage): add bi-directional event bus handler for storage
+- [2026-06-22 09:47] test(theme): add unit tests for theme business logic
