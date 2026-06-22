@@ -2177,3 +2177,4 @@
 - [2026-06-21 16:01] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-06-21 19:11] refactor(state): optimize data flow between domain and data layers
 - [2026-06-21 20:01] perf(ui): optimize memory consumption in ui list viewport
+- [2026-06-22 09:12] style(forms): adjust design tokens, typography, and contrast in forms
