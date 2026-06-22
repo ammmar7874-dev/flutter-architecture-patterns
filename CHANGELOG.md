@@ -2186,3 +2186,4 @@
 - [2026-06-22 10:06] test(navigation): add unit tests for navigation business logic
 - [2026-06-22 10:22] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-06-22 10:31] style(test): adjust design tokens, typography, and contrast in test
+- [2026-06-22 10:37] docs(i18n): update readme and API contracts for i18n
