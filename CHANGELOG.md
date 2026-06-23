@@ -2241,3 +2241,4 @@
 - [2026-06-23 19:20] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-06-23 20:46] perf(state): memoize expensive computations in state
 - [2026-06-23 20:59] style(cache): adjust design tokens, typography, and contrast in cache
+- [2026-06-23 21:32] perf(network): apply RepaintBoundary on animated network widgets
