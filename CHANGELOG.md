@@ -2226,3 +2226,4 @@
 - [2026-06-23 10:07] fix(perf): correct layout constraints and overflow in perf
 - [2026-06-23 10:51] feat(navigation): implement responsive navigation view component
 - [2026-06-23 11:06] docs(forms): update readme and API contracts for forms
+- [2026-06-23 14:18] perf(navigation): apply RepaintBoundary on animated navigation widgets
