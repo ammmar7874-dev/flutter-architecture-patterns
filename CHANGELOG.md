@@ -2223,3 +2223,4 @@
 - [2026-06-22 23:09] refactor(test): decouple repository interface from concrete test service
 - [2026-06-23 09:13] feat(theme): add async theme stream provider
 - [2026-06-23 09:20] feat(ui): implement responsive ui view component
+- [2026-06-23 10:07] fix(perf): correct layout constraints and overflow in perf
