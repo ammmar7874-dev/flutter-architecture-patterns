@@ -2228,3 +2228,4 @@
 - [2026-06-23 11:06] docs(forms): update readme and API contracts for forms
 - [2026-06-23 14:18] perf(navigation): apply RepaintBoundary on animated navigation widgets
 - [2026-06-23 14:32] fix(core): fix memory leak by cancelling core subscription
+- [2026-06-23 15:06] feat(test): add bi-directional event bus handler for test
