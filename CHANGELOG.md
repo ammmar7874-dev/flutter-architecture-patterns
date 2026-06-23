@@ -2229,3 +2229,4 @@
 - [2026-06-23 14:18] perf(navigation): apply RepaintBoundary on animated navigation widgets
 - [2026-06-23 14:32] fix(core): fix memory leak by cancelling core subscription
 - [2026-06-23 15:06] feat(test): add bi-directional event bus handler for test
+- [2026-06-23 15:08] fix(navigation): fix memory leak by cancelling navigation subscription
