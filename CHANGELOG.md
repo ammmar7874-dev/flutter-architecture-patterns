@@ -2238,3 +2238,4 @@
 - [2026-06-23 17:54] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-06-23 18:04] fix(storage): handle null assertion failure in storage parser
 - [2026-06-23 19:03] fix(state): resolve race condition during state initialization
+- [2026-06-23 19:20] refactor(navigation): extract reusable atomic widgets from navigation
