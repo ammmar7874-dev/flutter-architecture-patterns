@@ -2230,3 +2230,4 @@
 - [2026-06-23 14:32] fix(core): fix memory leak by cancelling core subscription
 - [2026-06-23 15:06] feat(test): add bi-directional event bus handler for test
 - [2026-06-23 15:08] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-06-23 15:33] perf(state): memoize expensive computations in state
