@@ -2273,3 +2273,4 @@
 - [2026-06-24 17:15] feat(network): implement responsive network view component
 - [2026-06-24 17:53] refactor(perf): decouple repository interface from concrete perf service
 - [2026-06-24 18:07] fix(theme): prevent double tap duplicate action in theme
+- [2026-06-24 18:12] fix(forms): fix memory leak by cancelling forms subscription
