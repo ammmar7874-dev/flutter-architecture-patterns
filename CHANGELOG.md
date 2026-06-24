@@ -2282,3 +2282,4 @@
 - [2026-06-24 19:38] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-06-24 21:13] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-06-24 21:18] refactor(forms): decouple repository interface from concrete forms service
+- [2026-06-24 21:52] style(i18n): harmonize light and dark theme palette for i18n
