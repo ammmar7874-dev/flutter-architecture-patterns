@@ -2267,3 +2267,4 @@
 - [2026-06-24 15:42] fix(analytics): handle null assertion failure in analytics parser
 - [2026-06-24 16:24] feat(analytics): implement responsive analytics view component
 - [2026-06-24 16:31] fix(core): handle null assertion failure in core parser
+- [2026-06-24 16:37] refactor(forms): extract reusable atomic widgets from forms
