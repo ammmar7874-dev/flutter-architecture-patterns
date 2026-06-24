@@ -2244,3 +2244,4 @@
 - [2026-06-23 21:32] perf(network): apply RepaintBoundary on animated network widgets
 - [2026-06-23 22:02] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-06-23 23:04] fix(test): prevent double tap duplicate action in test
+- [2026-06-24 09:46] fix(network): correct layout constraints and overflow in network
