@@ -2262,3 +2262,4 @@
 - [2026-06-24 14:35] refactor(forms): optimize data flow between domain and data layers
 - [2026-06-24 14:47] test(i18n): implement widget integration tests for i18n
 - [2026-06-24 14:55] chore(ui): update dependencies and cleanup unused imports in ui
+- [2026-06-24 14:57] feat(theme): add async theme stream provider
