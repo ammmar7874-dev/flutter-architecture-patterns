@@ -2257,3 +2257,4 @@
 - [2026-06-24 12:33] feat(analytics): add input validation and sanitization for analytics
 - [2026-06-24 13:02] refactor(auth): decouple repository interface from concrete auth service
 - [2026-06-24 13:53] feat(security): implement shimmer loading skeleton in security
+- [2026-06-24 14:15] fix(auth): prevent double tap duplicate action in auth
