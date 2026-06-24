@@ -2264,3 +2264,4 @@
 - [2026-06-24 14:55] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-06-24 14:57] feat(theme): add async theme stream provider
 - [2026-06-24 15:04] test(perf): implement widget integration tests for perf
+- [2026-06-24 15:42] fix(analytics): handle null assertion failure in analytics parser
