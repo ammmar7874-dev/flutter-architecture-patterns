@@ -2246,3 +2246,4 @@
 - [2026-06-23 23:04] fix(test): prevent double tap duplicate action in test
 - [2026-06-24 09:46] fix(network): correct layout constraints and overflow in network
 - [2026-06-24 09:48] refactor(theme): decouple repository interface from concrete theme service
+- [2026-06-24 10:04] fix(forms): prevent double tap duplicate action in forms
