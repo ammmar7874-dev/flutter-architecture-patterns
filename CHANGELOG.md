@@ -2281,3 +2281,4 @@
 - [2026-06-24 19:10] feat(state): add async state stream provider
 - [2026-06-24 19:38] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-06-24 21:13] refactor(ui): migrate ui controller to modern notifier syntax
+- [2026-06-24 21:18] refactor(forms): decouple repository interface from concrete forms service
