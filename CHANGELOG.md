@@ -2253,3 +2253,4 @@
 - [2026-06-24 10:51] fix(security): prevent double tap duplicate action in security
 - [2026-06-24 11:06] docs(state): update readme and API contracts for state
 - [2026-06-24 11:51] feat(forms): implement shimmer loading skeleton in forms
+- [2026-06-24 12:13] fix(navigation): prevent double tap duplicate action in navigation
