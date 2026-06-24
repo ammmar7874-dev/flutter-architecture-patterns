@@ -2255,3 +2255,4 @@
 - [2026-06-24 11:51] feat(forms): implement shimmer loading skeleton in forms
 - [2026-06-24 12:13] fix(navigation): prevent double tap duplicate action in navigation
 - [2026-06-24 12:33] feat(analytics): add input validation and sanitization for analytics
+- [2026-06-24 13:02] refactor(auth): decouple repository interface from concrete auth service
