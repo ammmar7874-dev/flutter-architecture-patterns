@@ -2284,3 +2284,4 @@
 - [2026-06-24 21:18] refactor(forms): decouple repository interface from concrete forms service
 - [2026-06-24 21:52] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-06-24 21:55] chore(cache): update dependencies and cleanup unused imports in cache
+- [2026-06-24 23:18] feat(network): add bi-directional event bus handler for network
