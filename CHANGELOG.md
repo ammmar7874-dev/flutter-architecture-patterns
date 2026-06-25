@@ -2327,3 +2327,4 @@
 - [2026-06-25 19:06] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-06-25 19:12] refactor(analytics): optimize data flow between domain and data layers
 - [2026-06-25 19:13] fix(i18n): correct layout constraints and overflow in i18n
+- [2026-06-25 19:14] fix(test): fix memory leak by cancelling test subscription
