@@ -2325,3 +2325,4 @@
 - [2026-06-25 18:54] fix(perf): resolve race condition during perf initialization
 - [2026-06-25 19:01] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-06-25 19:06] style(i18n): harmonize light and dark theme palette for i18n
+- [2026-06-25 19:12] refactor(analytics): optimize data flow between domain and data layers
