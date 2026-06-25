@@ -2300,3 +2300,4 @@
 - [2026-06-25 12:36] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-06-25 12:41] feat(analytics): implement responsive analytics view component
 - [2026-06-25 13:07] perf(network): optimize memory consumption in network list viewport
+- [2026-06-25 13:24] perf(auth): apply RepaintBoundary on animated auth widgets
