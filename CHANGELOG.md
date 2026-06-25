@@ -2321,3 +2321,4 @@
 - [2026-06-25 18:22] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-06-25 18:23] fix(network): fix memory leak by cancelling network subscription
 - [2026-06-25 18:28] feat(navigation): implement responsive navigation view component
+- [2026-06-25 18:40] chore(storage): update dependencies and cleanup unused imports in storage
