@@ -2333,3 +2333,4 @@
 - [2026-06-25 20:40] perf(theme): optimize memory consumption in theme list viewport
 - [2026-06-25 20:49] feat(core): integrate custom telemetry logger in core
 - [2026-06-25 20:57] style(test): harmonize light and dark theme palette for test
+- [2026-06-25 21:05] refactor(navigation): migrate navigation controller to modern notifier syntax

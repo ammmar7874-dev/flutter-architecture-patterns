@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-06-25 18:28:23
-// Commit: feat(navigation): implement responsive navigation view component
+// Updated at: 2026-06-25 21:05:56
+// Commit: refactor(navigation): migrate navigation controller to modern notifier syntax
 
 class navigationComponentState {
-  final String commitRef = '2319';
-  final String lastMessage = 'feat(navigation): implement responsive navigation view component';
-  final DateTime timestamp = DateTime.parse('2026-06-25T18:28:23+05:00');
+  final String commitRef = '2332';
+  final String lastMessage = 'refactor(navigation): migrate navigation controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-25T21:05:56+05:00');
 }
