@@ -2338,3 +2338,4 @@
 - [2026-06-25 21:25] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-06-25 21:28] style(auth): adjust design tokens, typography, and contrast in auth
 - [2026-06-25 21:31] fix(i18n): prevent double tap duplicate action in i18n
+- [2026-06-25 21:42] fix(i18n): correct layout constraints and overflow in i18n
