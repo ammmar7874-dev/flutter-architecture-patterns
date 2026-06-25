@@ -2304,3 +2304,4 @@
 - [2026-06-25 14:05] test(state): add unit tests for state business logic
 - [2026-06-25 14:32] perf(perf): optimize memory consumption in perf list viewport
 - [2026-06-25 14:34] perf(i18n): apply RepaintBoundary on animated i18n widgets
+- [2026-06-25 14:49] refactor(theme): extract reusable atomic widgets from theme
