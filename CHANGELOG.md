@@ -2313,3 +2313,4 @@
 - [2026-06-25 16:41] fix(i18n): handle null assertion failure in i18n parser
 - [2026-06-25 16:45] feat(navigation): add bi-directional event bus handler for navigation
 - [2026-06-25 16:57] docs(test): update readme and API contracts for test
+- [2026-06-25 17:02] feat(theme): implement shimmer loading skeleton in theme
