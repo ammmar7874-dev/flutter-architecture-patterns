@@ -2287,3 +2287,4 @@
 - [2026-06-24 23:18] feat(network): add bi-directional event bus handler for network
 - [2026-06-25 09:08] refactor(network): migrate network controller to modern notifier syntax
 - [2026-06-25 09:23] fix(i18n): prevent double tap duplicate action in i18n
+- [2026-06-25 09:23] feat(theme): implement shimmer loading skeleton in theme
