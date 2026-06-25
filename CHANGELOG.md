@@ -2308,3 +2308,4 @@
 - [2026-06-25 15:00] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-06-25 15:02] fix(security): prevent double tap duplicate action in security
 - [2026-06-25 15:08] fix(forms): prevent double tap duplicate action in forms
+- [2026-06-25 15:24] refactor(i18n): optimize data flow between domain and data layers
