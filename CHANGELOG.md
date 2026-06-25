@@ -2303,3 +2303,4 @@
 - [2026-06-25 13:24] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-06-25 14:05] test(state): add unit tests for state business logic
 - [2026-06-25 14:32] perf(perf): optimize memory consumption in perf list viewport
+- [2026-06-25 14:34] perf(i18n): apply RepaintBoundary on animated i18n widgets
