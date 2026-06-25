@@ -2335,3 +2335,4 @@
 - [2026-06-25 20:57] style(test): harmonize light and dark theme palette for test
 - [2026-06-25 21:05] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-06-25 21:15] fix(state): prevent double tap duplicate action in state
+- [2026-06-25 21:25] fix(analytics): prevent double tap duplicate action in analytics
