@@ -2315,3 +2315,4 @@
 - [2026-06-25 16:57] docs(test): update readme and API contracts for test
 - [2026-06-25 17:02] feat(theme): implement shimmer loading skeleton in theme
 - [2026-06-25 17:19] test(ui): implement widget integration tests for ui
+- [2026-06-25 17:26] chore(navigation): update dependencies and cleanup unused imports in navigation
