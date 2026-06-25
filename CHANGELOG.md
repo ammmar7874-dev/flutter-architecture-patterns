@@ -2311,3 +2311,4 @@
 - [2026-06-25 15:24] refactor(i18n): optimize data flow between domain and data layers
 - [2026-06-25 16:33] refactor(perf): decouple repository interface from concrete perf service
 - [2026-06-25 16:41] fix(i18n): handle null assertion failure in i18n parser
+- [2026-06-25 16:45] feat(navigation): add bi-directional event bus handler for navigation
