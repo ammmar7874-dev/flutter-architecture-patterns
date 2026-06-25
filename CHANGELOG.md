@@ -2342,3 +2342,4 @@
 - [2026-06-25 21:54] feat(security): integrate offline caching for security state
 - [2026-06-25 22:00] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-06-25 22:34] fix(security): correct layout constraints and overflow in security
+- [2026-06-25 22:53] docs(storage): update readme and API contracts for storage
