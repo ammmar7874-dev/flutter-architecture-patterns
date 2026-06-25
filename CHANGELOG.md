@@ -2297,3 +2297,4 @@
 - [2026-06-25 11:46] feat(test): add input validation and sanitization for test
 - [2026-06-25 11:50] style(auth): harmonize light and dark theme palette for auth
 - [2026-06-25 12:27] fix(i18n): correct layout constraints and overflow in i18n
+- [2026-06-25 12:36] chore(theme): update dependencies and cleanup unused imports in theme
