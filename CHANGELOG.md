@@ -2340,3 +2340,4 @@
 - [2026-06-25 21:31] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-06-25 21:42] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-06-25 21:54] feat(security): integrate offline caching for security state
+- [2026-06-25 22:00] perf(core): apply RepaintBoundary on animated core widgets
