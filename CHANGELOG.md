@@ -2323,3 +2323,4 @@
 - [2026-06-25 18:28] feat(navigation): implement responsive navigation view component
 - [2026-06-25 18:40] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-06-25 18:54] fix(perf): resolve race condition during perf initialization
+- [2026-06-25 19:01] perf(auth): apply RepaintBoundary on animated auth widgets
