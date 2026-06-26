@@ -2347,3 +2347,4 @@
 - [2026-06-25 23:14] fix(cache): prevent double tap duplicate action in cache
 - [2026-06-26 09:05] perf(i18n): optimize memory consumption in i18n list viewport
 - [2026-06-26 09:28] feat(state): add async state stream provider
+- [2026-06-26 09:33] feat(auth): add async auth stream provider
