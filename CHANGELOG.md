@@ -2389,3 +2389,4 @@
 - [2026-06-26 22:09] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-06-26 22:11] perf(auth): optimize memory consumption in auth list viewport
 - [2026-06-26 22:31] feat(storage): integrate custom telemetry logger in storage
+- [2026-06-26 22:40] refactor(test): migrate test controller to modern notifier syntax
