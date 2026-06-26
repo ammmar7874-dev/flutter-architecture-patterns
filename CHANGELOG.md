@@ -2368,3 +2368,4 @@
 - [2026-06-26 15:34] feat(theme): implement responsive theme view component
 - [2026-06-26 15:37] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-06-26 16:06] feat(theme): add async theme stream provider
+- [2026-06-26 16:12] docs(ui): update readme and API contracts for ui
