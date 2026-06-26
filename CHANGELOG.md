@@ -2355,3 +2355,4 @@
 - [2026-06-26 10:46] feat(state): integrate custom telemetry logger in state
 - [2026-06-26 11:17] fix(cache): handle null assertion failure in cache parser
 - [2026-06-26 12:02] fix(test): fix memory leak by cancelling test subscription
+- [2026-06-26 12:40] refactor(navigation): extract reusable atomic widgets from navigation
