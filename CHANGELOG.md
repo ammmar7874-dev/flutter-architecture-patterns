@@ -2384,3 +2384,4 @@
 - [2026-06-26 20:51] perf(state): optimize memory consumption in state list viewport
 - [2026-06-26 21:13] docs(forms): add detailed code comments and architecture guide for forms
 - [2026-06-26 21:22] feat(storage): integrate offline caching for storage state
+- [2026-06-26 21:26] fix(theme): correct layout constraints and overflow in theme
