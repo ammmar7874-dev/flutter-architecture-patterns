@@ -2353,3 +2353,4 @@
 - [2026-06-26 10:20] feat(network): implement shimmer loading skeleton in network
 - [2026-06-26 10:24] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-06-26 10:46] feat(state): integrate custom telemetry logger in state
+- [2026-06-26 11:17] fix(cache): handle null assertion failure in cache parser
