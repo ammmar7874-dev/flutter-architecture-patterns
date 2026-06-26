@@ -2354,3 +2354,4 @@
 - [2026-06-26 10:24] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-06-26 10:46] feat(state): integrate custom telemetry logger in state
 - [2026-06-26 11:17] fix(cache): handle null assertion failure in cache parser
+- [2026-06-26 12:02] fix(test): fix memory leak by cancelling test subscription
