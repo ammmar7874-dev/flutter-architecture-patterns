@@ -2380,3 +2380,4 @@
 - [2026-06-26 19:15] fix(storage): prevent double tap duplicate action in storage
 - [2026-06-26 19:16] feat(security): implement shimmer loading skeleton in security
 - [2026-06-26 19:29] fix(test): prevent double tap duplicate action in test
+- [2026-06-26 19:53] fix(analytics): fix memory leak by cancelling analytics subscription

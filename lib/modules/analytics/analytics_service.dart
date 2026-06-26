@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-06-26 16:59:26
-// Commit: fix(analytics): prevent double tap duplicate action in analytics
+// Updated at: 2026-06-26 19:53:27
+// Commit: fix(analytics): fix memory leak by cancelling analytics subscription
 
 class analyticsComponentState {
-  final String commitRef = '2371';
-  final String lastMessage = 'fix(analytics): prevent double tap duplicate action in analytics';
-  final DateTime timestamp = DateTime.parse('2026-06-26T16:59:26+05:00');
+  final String commitRef = '2379';
+  final String lastMessage = 'fix(analytics): fix memory leak by cancelling analytics subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-26T19:53:27+05:00');
 }
