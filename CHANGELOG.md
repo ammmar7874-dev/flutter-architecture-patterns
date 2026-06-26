@@ -2345,3 +2345,4 @@
 - [2026-06-25 22:53] docs(storage): update readme and API contracts for storage
 - [2026-06-25 23:01] perf(ui): apply RepaintBoundary on animated ui widgets
 - [2026-06-25 23:14] fix(cache): prevent double tap duplicate action in cache
+- [2026-06-26 09:05] perf(i18n): optimize memory consumption in i18n list viewport
