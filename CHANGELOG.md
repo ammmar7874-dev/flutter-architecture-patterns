@@ -2364,3 +2364,4 @@
 - [2026-06-26 14:41] fix(analytics): resolve race condition during analytics initialization
 - [2026-06-26 15:09] test(navigation): implement widget integration tests for navigation
 - [2026-06-26 15:12] refactor(network): decouple repository interface from concrete network service
+- [2026-06-26 15:28] perf(i18n): apply RepaintBoundary on animated i18n widgets
