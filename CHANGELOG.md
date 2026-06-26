@@ -2370,3 +2370,4 @@
 - [2026-06-26 16:06] feat(theme): add async theme stream provider
 - [2026-06-26 16:12] docs(ui): update readme and API contracts for ui
 - [2026-06-26 16:20] fix(test): resolve race condition during test initialization
+- [2026-06-26 16:27] style(analytics): adjust design tokens, typography, and contrast in analytics
