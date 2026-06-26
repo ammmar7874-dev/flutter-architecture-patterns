@@ -2359,3 +2359,4 @@
 - [2026-06-26 12:46] style(security): harmonize light and dark theme palette for security
 - [2026-06-26 12:47] test(navigation): implement widget integration tests for navigation
 - [2026-06-26 12:59] chore(storage): update dependencies and cleanup unused imports in storage
+- [2026-06-26 13:08] refactor(security): migrate security controller to modern notifier syntax
