@@ -2391,3 +2391,4 @@
 - [2026-06-26 22:31] feat(storage): integrate custom telemetry logger in storage
 - [2026-06-26 22:40] refactor(test): migrate test controller to modern notifier syntax
 - [2026-06-26 23:22] refactor(analytics): optimize data flow between domain and data layers
+- [2026-06-26 23:26] feat(theme): add async theme stream provider
