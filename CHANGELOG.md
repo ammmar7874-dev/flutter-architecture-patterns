@@ -2363,3 +2363,4 @@
 - [2026-06-26 14:27] test(perf): add unit tests for perf business logic
 - [2026-06-26 14:41] fix(analytics): resolve race condition during analytics initialization
 - [2026-06-26 15:09] test(navigation): implement widget integration tests for navigation
+- [2026-06-26 15:12] refactor(network): decouple repository interface from concrete network service
