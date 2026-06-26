@@ -2376,3 +2376,4 @@
 - [2026-06-26 17:13] feat(theme): implement responsive theme view component
 - [2026-06-26 17:18] feat(ui): implement shimmer loading skeleton in ui
 - [2026-06-26 17:20] refactor(navigation): optimize data flow between domain and data layers
+- [2026-06-26 19:07] perf(storage): apply RepaintBoundary on animated storage widgets
