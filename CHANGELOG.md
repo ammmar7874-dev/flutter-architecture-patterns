@@ -2393,3 +2393,4 @@
 - [2026-06-26 23:22] refactor(analytics): optimize data flow between domain and data layers
 - [2026-06-26 23:26] feat(theme): add async theme stream provider
 - [2026-06-28 12:24] feat(auth): add input validation and sanitization for auth
+- [2026-06-28 13:59] chore(theme): update dependencies and cleanup unused imports in theme
