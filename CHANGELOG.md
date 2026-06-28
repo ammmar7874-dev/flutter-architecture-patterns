@@ -2401,3 +2401,4 @@
 - [2026-06-28 19:19] refactor(analytics): optimize data flow between domain and data layers
 - [2026-06-28 19:22] feat(storage): add async storage stream provider
 - [2026-06-28 21:56] fix(theme): correct layout constraints and overflow in theme
+- [2026-06-28 22:27] refactor(auth): decouple repository interface from concrete auth service
