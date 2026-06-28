@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-06-26 22:31:37
-// Commit: feat(storage): integrate custom telemetry logger in storage
+// Updated at: 2026-06-28 18:05:43
+// Commit: refactor(storage): migrate storage controller to modern notifier syntax
 
 class storageComponentState {
-  final String commitRef = '2387';
-  final String lastMessage = 'feat(storage): integrate custom telemetry logger in storage';
-  final DateTime timestamp = DateTime.parse('2026-06-26T22:31:37+05:00');
+  final String commitRef = '2396';
+  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-06-28T18:05:43+05:00');
 }
