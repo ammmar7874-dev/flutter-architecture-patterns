@@ -2395,3 +2395,4 @@
 - [2026-06-28 12:24] feat(auth): add input validation and sanitization for auth
 - [2026-06-28 13:59] chore(theme): update dependencies and cleanup unused imports in theme
 - [2026-06-28 15:23] feat(forms): add input validation and sanitization for forms
+- [2026-06-28 15:46] feat(theme): add async theme stream provider
