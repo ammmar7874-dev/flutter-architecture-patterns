@@ -2400,3 +2400,4 @@
 - [2026-06-28 18:05] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-06-28 19:19] refactor(analytics): optimize data flow between domain and data layers
 - [2026-06-28 19:22] feat(storage): add async storage stream provider
+- [2026-06-28 21:56] fix(theme): correct layout constraints and overflow in theme
