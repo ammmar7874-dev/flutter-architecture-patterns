@@ -2398,3 +2398,4 @@
 - [2026-06-28 15:46] feat(theme): add async theme stream provider
 - [2026-06-28 16:58] refactor(security): optimize data flow between domain and data layers
 - [2026-06-28 18:05] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-06-28 19:19] refactor(analytics): optimize data flow between domain and data layers
