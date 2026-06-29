@@ -2405,3 +2405,4 @@
 - [2026-06-28 22:46] feat(i18n): add async i18n stream provider
 - [2026-06-29 09:18] feat(forms): implement shimmer loading skeleton in forms
 - [2026-06-29 09:29] perf(core): apply RepaintBoundary on animated core widgets
+- [2026-06-29 11:07] perf(auth): apply RepaintBoundary on animated auth widgets
