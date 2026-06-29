@@ -2415,3 +2415,4 @@
 - [2026-06-29 20:32] feat(ui): integrate offline caching for ui state
 - [2026-06-29 20:47] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-06-29 21:09] feat(state): add async state stream provider
+- [2026-06-29 21:10] test(auth): implement widget integration tests for auth
