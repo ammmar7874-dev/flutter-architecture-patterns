@@ -2410,3 +2410,4 @@
 - [2026-06-29 13:00] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-06-29 16:26] feat(test): add async test stream provider
 - [2026-06-29 16:35] test(storage): add unit tests for storage business logic
+- [2026-06-29 17:29] feat(theme): implement shimmer loading skeleton in theme
