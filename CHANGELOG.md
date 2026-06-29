@@ -2417,3 +2417,4 @@
 - [2026-06-29 21:09] feat(state): add async state stream provider
 - [2026-06-29 21:10] test(auth): implement widget integration tests for auth
 - [2026-06-29 21:52] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-06-29 22:18] feat(core): implement responsive core view component
