@@ -2404,3 +2404,4 @@
 - [2026-06-28 22:27] refactor(auth): decouple repository interface from concrete auth service
 - [2026-06-28 22:46] feat(i18n): add async i18n stream provider
 - [2026-06-29 09:18] feat(forms): implement shimmer loading skeleton in forms
+- [2026-06-29 09:29] perf(core): apply RepaintBoundary on animated core widgets
