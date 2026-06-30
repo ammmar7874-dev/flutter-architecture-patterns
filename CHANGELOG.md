@@ -2430,3 +2430,4 @@
 - [2026-06-30 11:59] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-06-30 13:02] refactor(perf): decouple repository interface from concrete perf service
 - [2026-06-30 14:19] test(perf): add unit tests for perf business logic
+- [2026-06-30 14:55] docs(storage): add detailed code comments and architecture guide for storage
