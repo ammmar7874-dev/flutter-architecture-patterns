@@ -2422,3 +2422,4 @@
 - [2026-06-29 23:14] docs(ui): update readme and API contracts for ui
 - [2026-06-30 09:15] feat(forms): implement shimmer loading skeleton in forms
 - [2026-06-30 09:56] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-06-30 10:34] feat(test): integrate custom telemetry logger in test
