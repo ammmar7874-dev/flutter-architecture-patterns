@@ -2420,3 +2420,4 @@
 - [2026-06-29 22:18] feat(core): implement responsive core view component
 - [2026-06-29 23:13] test(analytics): implement widget integration tests for analytics
 - [2026-06-29 23:14] docs(ui): update readme and API contracts for ui
+- [2026-06-30 09:15] feat(forms): implement shimmer loading skeleton in forms
