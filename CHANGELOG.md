@@ -2434,3 +2434,4 @@
 - [2026-06-30 16:35] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-06-30 17:01] test(state): add unit tests for state business logic
 - [2026-06-30 17:43] feat(perf): implement responsive perf view component
+- [2026-06-30 18:08] chore(perf): update dependencies and cleanup unused imports in perf
