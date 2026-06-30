@@ -2443,3 +2443,4 @@
 - [2026-06-30 22:03] feat(auth): add input validation and sanitization for auth
 - [2026-06-30 22:28] test(i18n): add unit tests for i18n business logic
 - [2026-06-30 23:10] fix(auth): fix memory leak by cancelling auth subscription
+- [2026-06-30 23:11] fix(forms): handle null assertion failure in forms parser
