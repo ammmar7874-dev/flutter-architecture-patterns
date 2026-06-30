@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-06-30 22:03:53
-// Commit: feat(auth): add input validation and sanitization for auth
+// Updated at: 2026-06-30 23:10:08
+// Commit: fix(auth): fix memory leak by cancelling auth subscription
 
 class authComponentState {
-  final String commitRef = '2439';
-  final String lastMessage = 'feat(auth): add input validation and sanitization for auth';
-  final DateTime timestamp = DateTime.parse('2026-06-30T22:03:53+05:00');
+  final String commitRef = '2441';
+  final String lastMessage = 'fix(auth): fix memory leak by cancelling auth subscription';
+  final DateTime timestamp = DateTime.parse('2026-06-30T23:10:08+05:00');
 }
