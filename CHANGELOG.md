@@ -2453,3 +2453,4 @@
 - [2026-07-01 15:18] style(forms): harmonize light and dark theme palette for forms
 - [2026-07-01 15:31] feat(test): implement shimmer loading skeleton in test
 - [2026-07-01 18:53] feat(ui): add bi-directional event bus handler for ui
+- [2026-07-01 19:50] refactor(auth): optimize data flow between domain and data layers
