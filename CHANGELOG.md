@@ -2466,3 +2466,4 @@
 - [2026-07-02 10:52] fix(network): correct layout constraints and overflow in network
 - [2026-07-02 11:32] test(network): add unit tests for network business logic
 - [2026-07-02 12:08] refactor(storage): decouple repository interface from concrete storage service
+- [2026-07-02 12:42] fix(state): fix memory leak by cancelling state subscription
