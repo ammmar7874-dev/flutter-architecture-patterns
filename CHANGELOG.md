@@ -2458,3 +2458,4 @@
 - [2026-07-02 09:02] style(state): harmonize light and dark theme palette for state
 - [2026-07-02 09:02] style(test): adjust design tokens, typography, and contrast in test
 - [2026-07-02 09:09] docs(security): add detailed code comments and architecture guide for security
+- [2026-07-02 09:24] refactor(core): decouple repository interface from concrete core service
