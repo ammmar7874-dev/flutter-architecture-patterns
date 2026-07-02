@@ -2481,3 +2481,4 @@
 - [2026-07-02 15:51] test(forms): add unit tests for forms business logic
 - [2026-07-02 15:59] fix(perf): prevent double tap duplicate action in perf
 - [2026-07-02 16:41] docs(cache): add detailed code comments and architecture guide for cache
+- [2026-07-02 17:15] docs(core): update readme and API contracts for core
