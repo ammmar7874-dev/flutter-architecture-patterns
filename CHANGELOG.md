@@ -2470,3 +2470,4 @@
 - [2026-07-02 13:07] perf(i18n): memoize expensive computations in i18n
 - [2026-07-02 13:17] style(network): harmonize light and dark theme palette for network
 - [2026-07-02 13:20] feat(state): implement responsive state view component
+- [2026-07-02 14:04] perf(navigation): memoize expensive computations in navigation
