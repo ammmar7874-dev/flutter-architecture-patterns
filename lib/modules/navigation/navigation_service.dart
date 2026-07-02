@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-07-02 14:04:48
-// Commit: feat(navigation): add input validation and sanitization for navigation
+// Updated at: 2026-07-02 15:34:56
+// Commit: refactor(navigation): migrate navigation controller to modern notifier syntax
 
 class navigationComponentState {
-  final String commitRef = '2470';
-  final String lastMessage = 'feat(navigation): add input validation and sanitization for navigation';
-  final DateTime timestamp = DateTime.parse('2026-07-02T14:04:48+05:00');
+  final String commitRef = '2476';
+  final String lastMessage = 'refactor(navigation): migrate navigation controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-02T15:34:56+05:00');
 }
