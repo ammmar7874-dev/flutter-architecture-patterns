@@ -2467,3 +2467,4 @@
 - [2026-07-02 11:32] test(network): add unit tests for network business logic
 - [2026-07-02 12:08] refactor(storage): decouple repository interface from concrete storage service
 - [2026-07-02 12:42] fix(state): fix memory leak by cancelling state subscription
+- [2026-07-02 13:07] perf(i18n): memoize expensive computations in i18n
