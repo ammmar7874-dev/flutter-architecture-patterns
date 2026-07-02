@@ -2494,3 +2494,4 @@
 - [2026-07-02 20:14] fix(cache): prevent double tap duplicate action in cache
 - [2026-07-02 20:44] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-07-02 20:45] refactor(analytics): optimize data flow between domain and data layers
+- [2026-07-02 20:57] refactor(state): migrate state controller to modern notifier syntax
