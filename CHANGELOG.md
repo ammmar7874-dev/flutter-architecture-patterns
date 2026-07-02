@@ -2483,3 +2483,4 @@
 - [2026-07-02 16:41] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-07-02 17:15] docs(core): update readme and API contracts for core
 - [2026-07-02 17:24] docs(ui): update readme and API contracts for ui
+- [2026-07-02 17:25] refactor(state): decouple repository interface from concrete state service
