@@ -2486,3 +2486,4 @@
 - [2026-07-02 17:25] refactor(state): decouple repository interface from concrete state service
 - [2026-07-02 18:02] fix(i18n): resolve race condition during i18n initialization
 - [2026-07-02 18:34] refactor(network): migrate network controller to modern notifier syntax
+- [2026-07-02 18:35] refactor(test): decouple repository interface from concrete test service
