@@ -2490,3 +2490,4 @@
 - [2026-07-02 18:50] refactor(analytics): extract reusable atomic widgets from analytics
 - [2026-07-02 18:52] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-07-02 19:47] perf(cache): apply RepaintBoundary on animated cache widgets
+- [2026-07-02 19:50] test(perf): add unit tests for perf business logic
