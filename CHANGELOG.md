@@ -2499,3 +2499,4 @@
 - [2026-07-02 21:03] refactor(ui): extract reusable atomic widgets from ui
 - [2026-07-02 21:29] docs(network): add detailed code comments and architecture guide for network
 - [2026-07-02 21:48] test(i18n): implement widget integration tests for i18n
+- [2026-07-02 21:49] fix(cache): fix memory leak by cancelling cache subscription

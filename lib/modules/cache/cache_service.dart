@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-07-02 20:14:36
-// Commit: fix(cache): prevent double tap duplicate action in cache
+// Updated at: 2026-07-02 21:49:22
+// Commit: fix(cache): fix memory leak by cancelling cache subscription
 
 class cacheComponentState {
-  final String commitRef = '2490';
-  final String lastMessage = 'fix(cache): prevent double tap duplicate action in cache';
-  final DateTime timestamp = DateTime.parse('2026-07-02T20:14:36+05:00');
+  final String commitRef = '2498';
+  final String lastMessage = 'fix(cache): fix memory leak by cancelling cache subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-02T21:49:22+05:00');
 }
