@@ -2476,3 +2476,4 @@
 - [2026-07-02 14:30] feat(core): implement shimmer loading skeleton in core
 - [2026-07-02 14:30] perf(network): optimize memory consumption in network list viewport
 - [2026-07-02 14:58] feat(theme): implement shimmer loading skeleton in theme
+- [2026-07-02 15:24] refactor(forms): optimize data flow between domain and data layers
