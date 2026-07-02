@@ -2469,3 +2469,4 @@
 - [2026-07-02 12:42] fix(state): fix memory leak by cancelling state subscription
 - [2026-07-02 13:07] perf(i18n): memoize expensive computations in i18n
 - [2026-07-02 13:17] style(network): harmonize light and dark theme palette for network
+- [2026-07-02 13:20] feat(state): implement responsive state view component
