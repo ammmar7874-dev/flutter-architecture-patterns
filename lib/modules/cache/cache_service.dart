@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-07-02 21:49:22
-// Commit: fix(cache): fix memory leak by cancelling cache subscription
+// Updated at: 2026-07-02 23:27:13
+// Commit: fix(cache): handle null assertion failure in cache parser
 
 class cacheComponentState {
-  final String commitRef = '2498';
-  final String lastMessage = 'fix(cache): fix memory leak by cancelling cache subscription';
-  final DateTime timestamp = DateTime.parse('2026-07-02T21:49:22+05:00');
+  final String commitRef = '2500';
+  final String lastMessage = 'fix(cache): handle null assertion failure in cache parser';
+  final DateTime timestamp = DateTime.parse('2026-07-02T23:27:13+05:00');
 }
