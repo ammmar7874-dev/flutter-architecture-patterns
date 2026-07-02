@@ -2475,3 +2475,4 @@
 - [2026-07-02 14:26] feat(forms): implement responsive forms view component
 - [2026-07-02 14:30] feat(core): implement shimmer loading skeleton in core
 - [2026-07-02 14:30] perf(network): optimize memory consumption in network list viewport
+- [2026-07-02 14:58] feat(theme): implement shimmer loading skeleton in theme
