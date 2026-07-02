@@ -2495,3 +2495,4 @@
 - [2026-07-02 20:44] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-07-02 20:45] refactor(analytics): optimize data flow between domain and data layers
 - [2026-07-02 20:57] refactor(state): migrate state controller to modern notifier syntax
+- [2026-07-02 21:02] perf(navigation): memoize expensive computations in navigation
