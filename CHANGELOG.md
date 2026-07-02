@@ -2461,3 +2461,4 @@
 - [2026-07-02 09:24] refactor(core): decouple repository interface from concrete core service
 - [2026-07-02 09:31] perf(forms): optimize memory consumption in forms list viewport
 - [2026-07-02 09:44] docs(theme): add detailed code comments and architecture guide for theme
+- [2026-07-02 10:10] feat(theme): implement shimmer loading skeleton in theme
