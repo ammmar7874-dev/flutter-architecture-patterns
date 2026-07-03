@@ -2522,3 +2522,4 @@
 - [2026-07-03 12:00] style(state): harmonize light and dark theme palette for state
 - [2026-07-03 12:02] fix(core): resolve race condition during core initialization
 - [2026-07-03 12:41] perf(test): optimize memory consumption in test list viewport
+- [2026-07-03 12:46] perf(theme): memoize expensive computations in theme
