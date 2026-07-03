@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-07-03 17:06:19
-// Commit: docs(forms): update readme and API contracts for forms
+// Updated at: 2026-07-03 21:06:32
+// Commit: fix(forms): fix memory leak by cancelling forms subscription
 
 class formsComponentState {
-  final String commitRef = '2541';
-  final String lastMessage = 'docs(forms): update readme and API contracts for forms';
-  final DateTime timestamp = DateTime.parse('2026-07-03T17:06:19+05:00');
+  final String commitRef = '2554';
+  final String lastMessage = 'fix(forms): fix memory leak by cancelling forms subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-03T21:06:32+05:00');
 }
