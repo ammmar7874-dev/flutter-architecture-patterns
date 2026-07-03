@@ -2562,3 +2562,4 @@
 - [2026-07-03 22:07] feat(storage): add bi-directional event bus handler for storage
 - [2026-07-03 22:36] style(test): harmonize light and dark theme palette for test
 - [2026-07-03 22:57] style(forms): harmonize light and dark theme palette for forms
+- [2026-07-03 23:00] refactor(perf): migrate perf controller to modern notifier syntax
