@@ -2550,3 +2550,4 @@
 - [2026-07-03 18:29] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-07-03 19:17] fix(storage): resolve race condition during storage initialization
 - [2026-07-03 19:46] style(test): adjust design tokens, typography, and contrast in test
+- [2026-07-03 19:47] style(state): harmonize light and dark theme palette for state
