@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-07-03 18:21:16
-// Commit: fix(analytics): handle null assertion failure in analytics parser
+// Updated at: 2026-07-03 21:27:46
+// Commit: refactor(analytics): migrate analytics controller to modern notifier syntax
 
 class analyticsComponentState {
-  final String commitRef = '2544';
-  final String lastMessage = 'fix(analytics): handle null assertion failure in analytics parser';
-  final DateTime timestamp = DateTime.parse('2026-07-03T18:21:16+05:00');
+  final String commitRef = '2556';
+  final String lastMessage = 'refactor(analytics): migrate analytics controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-03T21:27:46+05:00');
 }
