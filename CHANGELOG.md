@@ -2516,3 +2516,4 @@
 - [2026-07-03 11:05] chore(core): update dependencies and cleanup unused imports in core
 - [2026-07-03 11:11] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-07-03 11:19] fix(perf): prevent double tap duplicate action in perf
+- [2026-07-03 11:36] feat(storage): add input validation and sanitization for storage
