@@ -2530,3 +2530,4 @@
 - [2026-07-03 14:03] docs(i18n): add detailed code comments and architecture guide for i18n
 - [2026-07-03 14:09] feat(storage): implement responsive storage view component
 - [2026-07-03 14:10] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-07-03 14:18] fix(theme): handle null assertion failure in theme parser
