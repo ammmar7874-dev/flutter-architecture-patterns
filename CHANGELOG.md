@@ -2505,3 +2505,4 @@
 - [2026-07-03 09:03] feat(security): add async security stream provider
 - [2026-07-03 09:14] style(forms): harmonize light and dark theme palette for forms
 - [2026-07-03 09:20] chore(i18n): update dependencies and cleanup unused imports in i18n
+- [2026-07-03 09:22] feat(ui): integrate offline caching for ui state
