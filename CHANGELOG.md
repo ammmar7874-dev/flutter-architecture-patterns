@@ -2541,3 +2541,4 @@
 - [2026-07-03 15:45] feat(test): integrate offline caching for test state
 - [2026-07-03 15:54] perf(theme): memoize expensive computations in theme
 - [2026-07-03 16:10] feat(storage): implement responsive storage view component
+- [2026-07-03 16:28] style(cache): harmonize light and dark theme palette for cache
