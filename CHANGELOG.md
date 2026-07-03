@@ -2542,3 +2542,4 @@
 - [2026-07-03 15:54] perf(theme): memoize expensive computations in theme
 - [2026-07-03 16:10] feat(storage): implement responsive storage view component
 - [2026-07-03 16:28] style(cache): harmonize light and dark theme palette for cache
+- [2026-07-03 17:06] docs(forms): update readme and API contracts for forms
