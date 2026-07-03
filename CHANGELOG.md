@@ -2514,3 +2514,4 @@
 - [2026-07-03 10:58] docs(ui): update readme and API contracts for ui
 - [2026-07-03 11:02] feat(cache): add async cache stream provider
 - [2026-07-03 11:05] chore(core): update dependencies and cleanup unused imports in core
+- [2026-07-03 11:11] docs(storage): add detailed code comments and architecture guide for storage
