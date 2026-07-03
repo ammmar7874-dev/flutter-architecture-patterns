@@ -2527,3 +2527,4 @@
 - [2026-07-03 13:13] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-03 13:13] test(state): implement widget integration tests for state
 - [2026-07-03 13:39] fix(ui): prevent double tap duplicate action in ui
+- [2026-07-03 14:03] docs(i18n): add detailed code comments and architecture guide for i18n
