@@ -2520,3 +2520,4 @@
 - [2026-07-03 11:58] fix(test): handle null assertion failure in test parser
 - [2026-07-03 11:58] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-07-03 12:00] style(state): harmonize light and dark theme palette for state
+- [2026-07-03 12:02] fix(core): resolve race condition during core initialization
