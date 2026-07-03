@@ -2554,3 +2554,4 @@
 - [2026-07-03 20:15] docs(security): update readme and API contracts for security
 - [2026-07-03 20:22] test(core): implement widget integration tests for core
 - [2026-07-03 20:44] feat(network): add input validation and sanitization for network
+- [2026-07-03 20:57] fix(ui): fix memory leak by cancelling ui subscription
