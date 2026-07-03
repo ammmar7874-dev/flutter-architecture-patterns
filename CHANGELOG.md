@@ -2551,3 +2551,4 @@
 - [2026-07-03 19:17] fix(storage): resolve race condition during storage initialization
 - [2026-07-03 19:46] style(test): adjust design tokens, typography, and contrast in test
 - [2026-07-03 19:47] style(state): harmonize light and dark theme palette for state
+- [2026-07-03 20:15] docs(security): update readme and API contracts for security
