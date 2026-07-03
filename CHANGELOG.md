@@ -2536,3 +2536,4 @@
 - [2026-07-03 14:26] feat(state): add bi-directional event bus handler for state
 - [2026-07-03 14:31] test(security): add unit tests for security business logic
 - [2026-07-03 14:45] fix(perf): fix memory leak by cancelling perf subscription
+- [2026-07-03 14:50] feat(navigation): add bi-directional event bus handler for navigation
