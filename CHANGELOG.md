@@ -2534,3 +2534,4 @@
 - [2026-07-03 14:20] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-07-03 14:22] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-07-03 14:26] feat(state): add bi-directional event bus handler for state
+- [2026-07-03 14:31] test(security): add unit tests for security business logic
