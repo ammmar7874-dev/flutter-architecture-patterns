@@ -2511,3 +2511,4 @@
 - [2026-07-03 09:56] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-07-03 10:31] style(state): adjust design tokens, typography, and contrast in state
 - [2026-07-03 10:40] fix(auth): correct layout constraints and overflow in auth
+- [2026-07-03 10:58] docs(ui): update readme and API contracts for ui
