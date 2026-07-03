@@ -2518,3 +2518,4 @@
 - [2026-07-03 11:19] fix(perf): prevent double tap duplicate action in perf
 - [2026-07-03 11:36] feat(storage): add input validation and sanitization for storage
 - [2026-07-03 11:58] fix(test): handle null assertion failure in test parser
+- [2026-07-03 11:58] feat(navigation): integrate custom telemetry logger in navigation
