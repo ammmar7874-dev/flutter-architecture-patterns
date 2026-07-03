@@ -2532,3 +2532,4 @@
 - [2026-07-03 14:10] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-03 14:18] fix(theme): handle null assertion failure in theme parser
 - [2026-07-03 14:20] chore(forms): update dependencies and cleanup unused imports in forms
+- [2026-07-03 14:22] fix(cache): fix memory leak by cancelling cache subscription
