@@ -2556,3 +2556,4 @@
 - [2026-07-03 20:44] feat(network): add input validation and sanitization for network
 - [2026-07-03 20:57] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-07-03 21:06] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-07-03 21:20] fix(ui): correct layout constraints and overflow in ui
