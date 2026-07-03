@@ -2545,3 +2545,4 @@
 - [2026-07-03 17:06] docs(forms): update readme and API contracts for forms
 - [2026-07-03 17:06] perf(test): apply RepaintBoundary on animated test widgets
 - [2026-07-03 17:14] test(test): implement widget integration tests for test
+- [2026-07-03 18:21] fix(analytics): handle null assertion failure in analytics parser
