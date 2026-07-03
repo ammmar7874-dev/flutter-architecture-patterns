@@ -2503,3 +2503,4 @@
 - [2026-07-02 23:14] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-02 23:27] fix(cache): handle null assertion failure in cache parser
 - [2026-07-03 09:03] feat(security): add async security stream provider
+- [2026-07-03 09:14] style(forms): harmonize light and dark theme palette for forms
