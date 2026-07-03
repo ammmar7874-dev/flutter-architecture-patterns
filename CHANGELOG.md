@@ -2524,3 +2524,4 @@
 - [2026-07-03 12:41] perf(test): optimize memory consumption in test list viewport
 - [2026-07-03 12:46] perf(theme): memoize expensive computations in theme
 - [2026-07-03 12:46] refactor(security): decouple repository interface from concrete security service
+- [2026-07-03 13:13] refactor(theme): decouple repository interface from concrete theme service
