@@ -2583,3 +2583,4 @@
 - [2026-07-04 19:31] feat(analytics): add bi-directional event bus handler for analytics
 - [2026-07-04 20:15] feat(navigation): add input validation and sanitization for navigation
 - [2026-07-04 21:07] fix(analytics): correct layout constraints and overflow in analytics
+- [2026-07-04 21:44] fix(i18n): fix memory leak by cancelling i18n subscription
