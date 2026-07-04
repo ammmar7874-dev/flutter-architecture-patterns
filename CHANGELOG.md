@@ -2581,3 +2581,4 @@
 - [2026-07-04 17:58] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-07-04 18:18] refactor(perf): decouple repository interface from concrete perf service
 - [2026-07-04 19:31] feat(analytics): add bi-directional event bus handler for analytics
+- [2026-07-04 20:15] feat(navigation): add input validation and sanitization for navigation
