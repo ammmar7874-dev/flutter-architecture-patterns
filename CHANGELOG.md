@@ -2565,3 +2565,4 @@
 - [2026-07-03 23:00] refactor(perf): migrate perf controller to modern notifier syntax
 - [2026-07-03 23:08] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-07-04 09:58] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-07-04 10:17] perf(analytics): memoize expensive computations in analytics
