@@ -2577,3 +2577,4 @@
 - [2026-07-04 15:22] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-07-04 17:06] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-07-04 17:47] fix(perf): handle null assertion failure in perf parser
+- [2026-07-04 17:53] feat(i18n): add async i18n stream provider
