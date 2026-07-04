@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-07-03 23:00:51
-// Commit: refactor(perf): migrate perf controller to modern notifier syntax
+// Updated at: 2026-07-04 17:47:47
+// Commit: fix(perf): handle null assertion failure in perf parser
 
 class perfComponentState {
-  final String commitRef = '2561';
-  final String lastMessage = 'refactor(perf): migrate perf controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-07-03T23:00:51+05:00');
+  final String commitRef = '2575';
+  final String lastMessage = 'fix(perf): handle null assertion failure in perf parser';
+  final DateTime timestamp = DateTime.parse('2026-07-04T17:47:47+05:00');
 }
