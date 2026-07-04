@@ -2572,3 +2572,4 @@
 - [2026-07-04 12:52] docs(forms): update readme and API contracts for forms
 - [2026-07-04 13:56] refactor(analytics): optimize data flow between domain and data layers
 - [2026-07-04 14:24] style(test): adjust design tokens, typography, and contrast in test
+- [2026-07-04 14:49] refactor(state): decouple repository interface from concrete state service
