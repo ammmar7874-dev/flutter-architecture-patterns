@@ -2579,3 +2579,4 @@
 - [2026-07-04 17:47] fix(perf): handle null assertion failure in perf parser
 - [2026-07-04 17:53] feat(i18n): add async i18n stream provider
 - [2026-07-04 17:58] perf(i18n): apply RepaintBoundary on animated i18n widgets
+- [2026-07-04 18:18] refactor(perf): decouple repository interface from concrete perf service

@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-07-04 17:47:47
-// Commit: fix(perf): handle null assertion failure in perf parser
+// Updated at: 2026-07-04 18:18:42
+// Commit: refactor(perf): decouple repository interface from concrete perf service
 
 class perfComponentState {
-  final String commitRef = '2575';
-  final String lastMessage = 'fix(perf): handle null assertion failure in perf parser';
-  final DateTime timestamp = DateTime.parse('2026-07-04T17:47:47+05:00');
+  final String commitRef = '2578';
+  final String lastMessage = 'refactor(perf): decouple repository interface from concrete perf service';
+  final DateTime timestamp = DateTime.parse('2026-07-04T18:18:42+05:00');
 }
