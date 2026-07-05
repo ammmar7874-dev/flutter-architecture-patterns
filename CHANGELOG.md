@@ -2613,3 +2613,4 @@
 - [2026-07-05 16:46] test(perf): implement widget integration tests for perf
 - [2026-07-05 17:04] docs(auth): add detailed code comments and architecture guide for auth
 - [2026-07-05 17:39] refactor(theme): optimize data flow between domain and data layers
+- [2026-07-05 19:04] fix(analytics): fix memory leak by cancelling analytics subscription
