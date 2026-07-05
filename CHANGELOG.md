@@ -2598,3 +2598,4 @@
 - [2026-07-05 11:17] feat(storage): implement shimmer loading skeleton in storage
 - [2026-07-05 11:24] test(ui): implement widget integration tests for ui
 - [2026-07-05 11:37] perf(security): apply RepaintBoundary on animated security widgets
+- [2026-07-05 12:00] chore(analytics): update dependencies and cleanup unused imports in analytics
