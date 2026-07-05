@@ -2615,3 +2615,4 @@
 - [2026-07-05 17:39] refactor(theme): optimize data flow between domain and data layers
 - [2026-07-05 19:04] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-07-05 20:37] feat(storage): implement responsive storage view component
+- [2026-07-05 21:07] chore(theme): update dependencies and cleanup unused imports in theme
