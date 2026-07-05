@@ -2592,3 +2592,4 @@
 - [2026-07-05 09:09] docs(cache): update readme and API contracts for cache
 - [2026-07-05 09:24] feat(auth): implement responsive auth view component
 - [2026-07-05 09:44] refactor(test): migrate test controller to modern notifier syntax
+- [2026-07-05 09:52] refactor(state): decouple repository interface from concrete state service
