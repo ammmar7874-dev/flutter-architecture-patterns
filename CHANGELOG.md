@@ -2587,3 +2587,4 @@
 - [2026-07-04 21:56] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-04 22:20] perf(cache): memoize expensive computations in cache
 - [2026-07-04 22:27] feat(theme): add async theme stream provider
+- [2026-07-05 09:01] refactor(auth): optimize data flow between domain and data layers
