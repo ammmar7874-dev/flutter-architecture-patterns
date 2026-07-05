@@ -2610,3 +2610,4 @@
 - [2026-07-05 16:35] fix(state): prevent double tap duplicate action in state
 - [2026-07-05 16:41] refactor(perf): optimize data flow between domain and data layers
 - [2026-07-05 16:45] fix(storage): correct layout constraints and overflow in storage
+- [2026-07-05 16:46] test(perf): implement widget integration tests for perf
