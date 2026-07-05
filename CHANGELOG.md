@@ -2595,3 +2595,4 @@
 - [2026-07-05 09:52] refactor(state): decouple repository interface from concrete state service
 - [2026-07-05 09:53] docs(network): update readme and API contracts for network
 - [2026-07-05 10:20] fix(analytics): correct layout constraints and overflow in analytics
+- [2026-07-05 11:17] feat(storage): implement shimmer loading skeleton in storage
