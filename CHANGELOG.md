@@ -2603,3 +2603,4 @@
 - [2026-07-05 12:29] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-07-05 13:59] fix(test): correct layout constraints and overflow in test
 - [2026-07-05 14:14] fix(core): correct layout constraints and overflow in core
+- [2026-07-05 14:54] docs(auth): add detailed code comments and architecture guide for auth
