@@ -2593,3 +2593,4 @@
 - [2026-07-05 09:24] feat(auth): implement responsive auth view component
 - [2026-07-05 09:44] refactor(test): migrate test controller to modern notifier syntax
 - [2026-07-05 09:52] refactor(state): decouple repository interface from concrete state service
+- [2026-07-05 09:53] docs(network): update readme and API contracts for network
