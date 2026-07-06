@@ -2627,3 +2627,4 @@
 - [2026-07-06 09:55] fix(storage): correct layout constraints and overflow in storage
 - [2026-07-06 10:09] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-07-06 11:25] style(state): harmonize light and dark theme palette for state
+- [2026-07-06 11:33] refactor(state): migrate state controller to modern notifier syntax
