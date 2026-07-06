@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-07-05 21:07:11
-// Commit: chore(theme): update dependencies and cleanup unused imports in theme
+// Updated at: 2026-07-06 20:33:34
+// Commit: refactor(theme): migrate theme controller to modern notifier syntax
 
 class themeComponentState {
-  final String commitRef = '2614';
-  final String lastMessage = 'chore(theme): update dependencies and cleanup unused imports in theme';
-  final DateTime timestamp = DateTime.parse('2026-07-05T21:07:11+05:00');
+  final String commitRef = '2633';
+  final String lastMessage = 'refactor(theme): migrate theme controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-06T20:33:34+05:00');
 }

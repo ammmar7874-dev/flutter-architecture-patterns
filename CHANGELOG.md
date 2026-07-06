@@ -2634,3 +2634,4 @@
 - [2026-07-06 14:54] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-07-06 15:00] perf(security): memoize expensive computations in security
 - [2026-07-06 17:26] fix(ui): fix memory leak by cancelling ui subscription
+- [2026-07-06 20:33] refactor(theme): migrate theme controller to modern notifier syntax
