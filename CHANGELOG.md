@@ -2623,3 +2623,4 @@
 - [2026-07-05 22:26] refactor(i18n): decouple repository interface from concrete i18n service
 - [2026-07-05 23:11] feat(state): add bi-directional event bus handler for state
 - [2026-07-05 23:23] fix(cache): prevent double tap duplicate action in cache
+- [2026-07-06 09:39] perf(core): memoize expensive computations in core
