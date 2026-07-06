@@ -2628,3 +2628,4 @@
 - [2026-07-06 10:09] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-07-06 11:25] style(state): harmonize light and dark theme palette for state
 - [2026-07-06 11:33] refactor(state): migrate state controller to modern notifier syntax
+- [2026-07-06 13:40] feat(test): integrate offline caching for test state
