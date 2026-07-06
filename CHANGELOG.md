@@ -2631,3 +2631,4 @@
 - [2026-07-06 13:40] feat(test): integrate offline caching for test state
 - [2026-07-06 13:58] refactor(i18n): optimize data flow between domain and data layers
 - [2026-07-06 14:17] fix(auth): resolve race condition during auth initialization
+- [2026-07-06 14:54] chore(cache): update dependencies and cleanup unused imports in cache
