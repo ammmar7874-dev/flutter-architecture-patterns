@@ -2629,3 +2629,4 @@
 - [2026-07-06 11:25] style(state): harmonize light and dark theme palette for state
 - [2026-07-06 11:33] refactor(state): migrate state controller to modern notifier syntax
 - [2026-07-06 13:40] feat(test): integrate offline caching for test state
+- [2026-07-06 13:58] refactor(i18n): optimize data flow between domain and data layers
