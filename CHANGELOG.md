@@ -2649,3 +2649,4 @@
 - [2026-07-08 13:45] chore(test): update dependencies and cleanup unused imports in test
 - [2026-07-08 14:15] perf(storage): memoize expensive computations in storage
 - [2026-07-08 14:55] feat(theme): integrate custom telemetry logger in theme
+- [2026-07-08 15:35] perf(state): memoize expensive computations in state
