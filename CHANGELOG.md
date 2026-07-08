@@ -2646,3 +2646,4 @@
 - [2026-07-08 10:26] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-07-08 10:41] fix(i18n): resolve race condition during i18n initialization
 - [2026-07-08 12:03] refactor(i18n): optimize data flow between domain and data layers
+- [2026-07-08 13:45] chore(test): update dependencies and cleanup unused imports in test
