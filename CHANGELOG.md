@@ -2644,3 +2644,4 @@
 - [2026-07-06 23:02] docs(cache): update readme and API contracts for cache
 - [2026-07-08 09:20] feat(cache): implement responsive cache view component
 - [2026-07-08 10:26] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-07-08 10:41] fix(i18n): resolve race condition during i18n initialization
