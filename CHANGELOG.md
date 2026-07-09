@@ -2662,3 +2662,4 @@
 - [2026-07-09 11:53] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-07-09 11:59] docs(state): add detailed code comments and architecture guide for state
 - [2026-07-09 13:23] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-07-09 14:08] fix(security): fix memory leak by cancelling security subscription
