@@ -2676,3 +2676,4 @@
 - [2026-07-09 20:06] feat(cache): add async cache stream provider
 - [2026-07-09 20:24] feat(ui): integrate offline caching for ui state
 - [2026-07-09 21:34] feat(cache): integrate custom telemetry logger in cache
+- [2026-07-09 22:09] docs(analytics): update readme and API contracts for analytics
