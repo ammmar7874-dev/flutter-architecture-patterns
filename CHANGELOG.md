@@ -2672,3 +2672,4 @@
 - [2026-07-09 16:40] feat(ui): integrate offline caching for ui state
 - [2026-07-09 19:39] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-09 19:40] feat(ui): add bi-directional event bus handler for ui
+- [2026-07-09 19:42] fix(storage): prevent double tap duplicate action in storage
