@@ -2653,3 +2653,4 @@
 - [2026-07-08 21:11] style(state): adjust design tokens, typography, and contrast in state
 - [2026-07-08 22:32] test(auth): add unit tests for auth business logic
 - [2026-07-09 09:21] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-07-09 09:27] style(navigation): adjust design tokens, typography, and contrast in navigation
