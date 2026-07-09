@@ -2657,3 +2657,4 @@
 - [2026-07-09 10:06] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-07-09 10:06] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-09 10:35] fix(ui): prevent double tap duplicate action in ui
+- [2026-07-09 10:53] feat(state): add input validation and sanitization for state
