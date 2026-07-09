@@ -2675,3 +2675,4 @@
 - [2026-07-09 19:42] fix(storage): prevent double tap duplicate action in storage
 - [2026-07-09 20:06] feat(cache): add async cache stream provider
 - [2026-07-09 20:24] feat(ui): integrate offline caching for ui state
+- [2026-07-09 21:34] feat(cache): integrate custom telemetry logger in cache
