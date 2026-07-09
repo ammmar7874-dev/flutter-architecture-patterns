@@ -2664,3 +2664,4 @@
 - [2026-07-09 13:23] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-07-09 14:08] fix(security): fix memory leak by cancelling security subscription
 - [2026-07-09 14:22] feat(test): implement shimmer loading skeleton in test
+- [2026-07-09 14:33] feat(test): integrate offline caching for test state
