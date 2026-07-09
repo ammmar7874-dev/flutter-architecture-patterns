@@ -2655,3 +2655,4 @@
 - [2026-07-09 09:21] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-07-09 09:27] style(navigation): adjust design tokens, typography, and contrast in navigation
 - [2026-07-09 10:06] fix(i18n): fix memory leak by cancelling i18n subscription
+- [2026-07-09 10:06] style(analytics): harmonize light and dark theme palette for analytics
