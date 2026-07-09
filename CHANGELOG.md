@@ -2665,3 +2665,4 @@
 - [2026-07-09 14:08] fix(security): fix memory leak by cancelling security subscription
 - [2026-07-09 14:22] feat(test): implement shimmer loading skeleton in test
 - [2026-07-09 14:33] feat(test): integrate offline caching for test state
+- [2026-07-09 15:27] refactor(security): optimize data flow between domain and data layers
