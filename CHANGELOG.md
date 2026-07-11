@@ -2677,3 +2677,4 @@
 - [2026-07-09 20:24] feat(ui): integrate offline caching for ui state
 - [2026-07-09 21:34] feat(cache): integrate custom telemetry logger in cache
 - [2026-07-09 22:09] docs(analytics): update readme and API contracts for analytics
+- [2026-07-11 09:04] perf(i18n): optimize memory consumption in i18n list viewport
