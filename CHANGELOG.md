@@ -2687,3 +2687,4 @@
 - [2026-07-11 10:34] refactor(core): extract reusable atomic widgets from core
 - [2026-07-11 10:57] docs(i18n): update readme and API contracts for i18n
 - [2026-07-11 11:23] fix(navigation): prevent double tap duplicate action in navigation
+- [2026-07-11 11:24] style(analytics): harmonize light and dark theme palette for analytics
