@@ -2723,3 +2723,4 @@
 - [2026-07-11 22:13] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-07-11 22:20] refactor(perf): optimize data flow between domain and data layers
 - [2026-07-11 22:29] feat(test): add bi-directional event bus handler for test
+- [2026-07-11 22:37] refactor(i18n): extract reusable atomic widgets from i18n
