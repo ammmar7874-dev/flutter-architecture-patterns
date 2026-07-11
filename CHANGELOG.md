@@ -2704,3 +2704,4 @@
 - [2026-07-11 16:57] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-07-11 17:18] feat(state): implement responsive state view component
 - [2026-07-11 17:30] fix(security): resolve race condition during security initialization
+- [2026-07-11 17:43] refactor(analytics): decouple repository interface from concrete analytics service
