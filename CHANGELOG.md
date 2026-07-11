@@ -2693,3 +2693,4 @@
 - [2026-07-11 12:25] fix(auth): prevent double tap duplicate action in auth
 - [2026-07-11 12:46] fix(core): fix memory leak by cancelling core subscription
 - [2026-07-11 12:50] style(cache): harmonize light and dark theme palette for cache
+- [2026-07-11 13:22] chore(i18n): update dependencies and cleanup unused imports in i18n
