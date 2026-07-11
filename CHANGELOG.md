@@ -2720,3 +2720,4 @@
 - [2026-07-11 21:42] test(i18n): add unit tests for i18n business logic
 - [2026-07-11 22:04] feat(ui): add async ui stream provider
 - [2026-07-11 22:10] docs(security): update readme and API contracts for security
+- [2026-07-11 22:13] fix(analytics): fix memory leak by cancelling analytics subscription
