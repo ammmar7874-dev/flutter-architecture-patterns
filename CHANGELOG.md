@@ -2721,3 +2721,4 @@
 - [2026-07-11 22:04] feat(ui): add async ui stream provider
 - [2026-07-11 22:10] docs(security): update readme and API contracts for security
 - [2026-07-11 22:13] fix(analytics): fix memory leak by cancelling analytics subscription
+- [2026-07-11 22:20] refactor(perf): optimize data flow between domain and data layers
