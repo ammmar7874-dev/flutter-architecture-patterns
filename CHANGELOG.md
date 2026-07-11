@@ -2682,3 +2682,4 @@
 - [2026-07-11 09:32] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-07-11 09:58] fix(forms): correct layout constraints and overflow in forms
 - [2026-07-11 10:02] feat(network): integrate custom telemetry logger in network
+- [2026-07-11 10:09] fix(forms): resolve race condition during forms initialization
