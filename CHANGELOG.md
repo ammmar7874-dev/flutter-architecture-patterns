@@ -2710,3 +2710,4 @@
 - [2026-07-11 18:47] perf(perf): memoize expensive computations in perf
 - [2026-07-11 18:59] style(core): adjust design tokens, typography, and contrast in core
 - [2026-07-11 19:01] fix(perf): handle null assertion failure in perf parser
+- [2026-07-11 19:40] fix(perf): fix memory leak by cancelling perf subscription
