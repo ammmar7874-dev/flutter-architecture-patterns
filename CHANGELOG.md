@@ -2715,3 +2715,4 @@
 - [2026-07-11 19:41] refactor(network): extract reusable atomic widgets from network
 - [2026-07-11 19:52] fix(analytics): fix memory leak by cancelling analytics subscription
 - [2026-07-11 20:32] fix(ui): handle null assertion failure in ui parser
+- [2026-07-11 20:53] perf(state): optimize memory consumption in state list viewport
