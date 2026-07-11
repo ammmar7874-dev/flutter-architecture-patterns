@@ -2717,3 +2717,4 @@
 - [2026-07-11 20:32] fix(ui): handle null assertion failure in ui parser
 - [2026-07-11 20:53] perf(state): optimize memory consumption in state list viewport
 - [2026-07-11 20:58] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-07-11 21:42] test(i18n): add unit tests for i18n business logic
