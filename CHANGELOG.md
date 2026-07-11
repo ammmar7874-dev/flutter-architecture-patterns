@@ -2684,3 +2684,4 @@
 - [2026-07-11 10:02] feat(network): integrate custom telemetry logger in network
 - [2026-07-11 10:09] fix(forms): resolve race condition during forms initialization
 - [2026-07-11 10:14] feat(perf): implement responsive perf view component
+- [2026-07-11 10:34] refactor(core): extract reusable atomic widgets from core
