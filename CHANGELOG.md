@@ -2691,3 +2691,4 @@
 - [2026-07-11 11:27] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-07-11 12:12] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-07-11 12:25] fix(auth): prevent double tap duplicate action in auth
+- [2026-07-11 12:46] fix(core): fix memory leak by cancelling core subscription
