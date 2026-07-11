@@ -2699,3 +2699,4 @@
 - [2026-07-11 14:34] perf(i18n): memoize expensive computations in i18n
 - [2026-07-11 15:26] fix(storage): correct layout constraints and overflow in storage
 - [2026-07-11 16:17] feat(analytics): add input validation and sanitization for analytics
+- [2026-07-11 16:28] perf(state): optimize memory consumption in state list viewport
