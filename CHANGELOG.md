@@ -2690,3 +2690,4 @@
 - [2026-07-11 11:24] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-11 11:27] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-07-11 12:12] feat(navigation): integrate custom telemetry logger in navigation
+- [2026-07-11 12:25] fix(auth): prevent double tap duplicate action in auth
