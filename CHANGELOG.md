@@ -2771,3 +2771,4 @@
 - [2026-07-12 20:17] refactor(core): decouple repository interface from concrete core service
 - [2026-07-12 20:25] test(cache): add unit tests for cache business logic
 - [2026-07-12 20:31] fix(state): fix memory leak by cancelling state subscription
+- [2026-07-12 20:44] style(cache): adjust design tokens, typography, and contrast in cache
