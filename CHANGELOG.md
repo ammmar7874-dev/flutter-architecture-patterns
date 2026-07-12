@@ -2748,3 +2748,4 @@
 - [2026-07-12 13:58] style(auth): adjust design tokens, typography, and contrast in auth
 - [2026-07-12 14:00] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-07-12 14:21] refactor(theme): decouple repository interface from concrete theme service
+- [2026-07-12 14:24] style(forms): harmonize light and dark theme palette for forms
