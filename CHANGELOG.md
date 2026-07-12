@@ -2749,3 +2749,4 @@
 - [2026-07-12 14:00] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-07-12 14:21] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-12 14:24] style(forms): harmonize light and dark theme palette for forms
+- [2026-07-12 15:04] perf(test): optimize memory consumption in test list viewport
