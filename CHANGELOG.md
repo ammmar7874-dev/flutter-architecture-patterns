@@ -2727,3 +2727,4 @@
 - [2026-07-12 09:27] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-07-12 09:37] refactor(network): extract reusable atomic widgets from network
 - [2026-07-12 09:39] refactor(perf): optimize data flow between domain and data layers
+- [2026-07-12 10:01] chore(ui): update dependencies and cleanup unused imports in ui
