@@ -2752,3 +2752,4 @@
 - [2026-07-12 15:04] perf(test): optimize memory consumption in test list viewport
 - [2026-07-12 15:12] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-07-12 15:16] perf(perf): memoize expensive computations in perf
+- [2026-07-12 15:20] feat(test): add async test stream provider
