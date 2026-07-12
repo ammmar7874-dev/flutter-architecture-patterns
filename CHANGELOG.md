@@ -2770,3 +2770,4 @@
 - [2026-07-12 19:51] refactor(forms): extract reusable atomic widgets from forms
 - [2026-07-12 20:17] refactor(core): decouple repository interface from concrete core service
 - [2026-07-12 20:25] test(cache): add unit tests for cache business logic
+- [2026-07-12 20:31] fix(state): fix memory leak by cancelling state subscription
