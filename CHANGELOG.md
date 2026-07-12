@@ -2754,3 +2754,4 @@
 - [2026-07-12 15:16] perf(perf): memoize expensive computations in perf
 - [2026-07-12 15:20] feat(test): add async test stream provider
 - [2026-07-12 15:53] feat(theme): add async theme stream provider
+- [2026-07-12 16:08] feat(cache): integrate custom telemetry logger in cache
