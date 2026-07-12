@@ -2759,3 +2759,4 @@
 - [2026-07-12 16:13] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-07-12 16:30] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-07-12 17:01] perf(test): memoize expensive computations in test
+- [2026-07-12 17:29] refactor(theme): optimize data flow between domain and data layers
