@@ -2763,3 +2763,4 @@
 - [2026-07-12 18:00] perf(core): optimize memory consumption in core list viewport
 - [2026-07-12 18:30] feat(theme): implement responsive theme view component
 - [2026-07-12 18:40] fix(perf): handle null assertion failure in perf parser
+- [2026-07-12 18:54] feat(test): add async test stream provider
