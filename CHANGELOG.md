@@ -2766,3 +2766,4 @@
 - [2026-07-12 18:54] feat(test): add async test stream provider
 - [2026-07-12 19:17] style(navigation): harmonize light and dark theme palette for navigation
 - [2026-07-12 19:25] feat(cache): add input validation and sanitization for cache
+- [2026-07-12 19:29] refactor(forms): migrate forms controller to modern notifier syntax

@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-07-12 16:30:31
-// Commit: perf(forms): apply RepaintBoundary on animated forms widgets
+// Updated at: 2026-07-12 19:29:22
+// Commit: refactor(forms): migrate forms controller to modern notifier syntax
 
 class formsComponentState {
-  final String commitRef = '2756';
-  final String lastMessage = 'perf(forms): apply RepaintBoundary on animated forms widgets';
-  final DateTime timestamp = DateTime.parse('2026-07-12T16:30:31+05:00');
+  final String commitRef = '2765';
+  final String lastMessage = 'refactor(forms): migrate forms controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-12T19:29:22+05:00');
 }
