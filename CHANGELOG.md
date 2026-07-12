@@ -2756,3 +2756,4 @@
 - [2026-07-12 15:53] feat(theme): add async theme stream provider
 - [2026-07-12 16:08] feat(cache): integrate custom telemetry logger in cache
 - [2026-07-12 16:11] perf(state): apply RepaintBoundary on animated state widgets
+- [2026-07-12 16:13] fix(cache): fix memory leak by cancelling cache subscription
