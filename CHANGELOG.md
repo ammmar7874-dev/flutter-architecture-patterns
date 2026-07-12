@@ -2737,3 +2737,4 @@
 - [2026-07-12 11:34] docs(storage): add detailed code comments and architecture guide for storage
 - [2026-07-12 11:53] refactor(i18n): extract reusable atomic widgets from i18n
 - [2026-07-12 12:03] refactor(theme): optimize data flow between domain and data layers
+- [2026-07-12 12:07] fix(core): correct layout constraints and overflow in core
