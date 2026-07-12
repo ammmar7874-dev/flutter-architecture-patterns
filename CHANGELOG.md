@@ -2735,3 +2735,4 @@
 - [2026-07-12 10:55] docs(core): add detailed code comments and architecture guide for core
 - [2026-07-12 11:16] refactor(core): migrate core controller to modern notifier syntax
 - [2026-07-12 11:34] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-07-12 11:53] refactor(i18n): extract reusable atomic widgets from i18n
