@@ -2776,3 +2776,4 @@
 - [2026-07-12 21:03] fix(forms): handle null assertion failure in forms parser
 - [2026-07-12 21:38] refactor(network): extract reusable atomic widgets from network
 - [2026-07-12 23:11] fix(i18n): fix memory leak by cancelling i18n subscription
+- [2026-07-12 23:15] fix(i18n): prevent double tap duplicate action in i18n
