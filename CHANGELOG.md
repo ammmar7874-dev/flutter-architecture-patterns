@@ -2731,3 +2731,4 @@
 - [2026-07-12 10:10] feat(security): implement responsive security view component
 - [2026-07-12 10:34] fix(state): prevent double tap duplicate action in state
 - [2026-07-12 10:36] refactor(forms): decouple repository interface from concrete forms service
+- [2026-07-12 10:45] perf(state): apply RepaintBoundary on animated state widgets
