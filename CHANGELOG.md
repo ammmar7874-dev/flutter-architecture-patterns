@@ -2742,3 +2742,4 @@
 - [2026-07-12 12:22] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-07-12 12:31] refactor(storage): extract reusable atomic widgets from storage
 - [2026-07-12 12:32] feat(network): add async network stream provider
+- [2026-07-12 13:11] fix(forms): prevent double tap duplicate action in forms
