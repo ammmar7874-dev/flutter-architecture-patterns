@@ -2751,3 +2751,4 @@
 - [2026-07-12 14:24] style(forms): harmonize light and dark theme palette for forms
 - [2026-07-12 15:04] perf(test): optimize memory consumption in test list viewport
 - [2026-07-12 15:12] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-07-12 15:16] perf(perf): memoize expensive computations in perf
