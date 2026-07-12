@@ -2775,3 +2775,4 @@
 - [2026-07-12 21:03] docs(storage): update readme and API contracts for storage
 - [2026-07-12 21:03] fix(forms): handle null assertion failure in forms parser
 - [2026-07-12 21:38] refactor(network): extract reusable atomic widgets from network
+- [2026-07-12 23:11] fix(i18n): fix memory leak by cancelling i18n subscription
