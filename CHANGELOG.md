@@ -2745,3 +2745,4 @@
 - [2026-07-12 13:11] fix(forms): prevent double tap duplicate action in forms
 - [2026-07-12 13:43] fix(navigation): handle null assertion failure in navigation parser
 - [2026-07-12 13:56] test(state): add unit tests for state business logic
+- [2026-07-12 13:58] style(auth): adjust design tokens, typography, and contrast in auth
