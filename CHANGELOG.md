@@ -2768,3 +2768,4 @@
 - [2026-07-12 19:25] feat(cache): add input validation and sanitization for cache
 - [2026-07-12 19:29] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-07-12 19:51] refactor(forms): extract reusable atomic widgets from forms
+- [2026-07-12 20:17] refactor(core): decouple repository interface from concrete core service
