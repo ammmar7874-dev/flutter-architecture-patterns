@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-07-11 19:41:09
-// Commit: test(navigation): add unit tests for navigation business logic
+// Updated at: 2026-07-12 13:43:06
+// Commit: fix(navigation): handle null assertion failure in navigation parser
 
 class navigationComponentState {
-  final String commitRef = '2710';
-  final String lastMessage = 'test(navigation): add unit tests for navigation business logic';
-  final DateTime timestamp = DateTime.parse('2026-07-11T19:41:09+05:00');
+  final String commitRef = '2742';
+  final String lastMessage = 'fix(navigation): handle null assertion failure in navigation parser';
+  final DateTime timestamp = DateTime.parse('2026-07-12T13:43:06+05:00');
 }
