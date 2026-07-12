@@ -2758,3 +2758,4 @@
 - [2026-07-12 16:11] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-07-12 16:13] fix(cache): fix memory leak by cancelling cache subscription
 - [2026-07-12 16:30] perf(forms): apply RepaintBoundary on animated forms widgets
+- [2026-07-12 17:01] perf(test): memoize expensive computations in test
