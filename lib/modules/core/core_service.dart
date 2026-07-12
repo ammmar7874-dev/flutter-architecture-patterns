@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-07-12 10:55:15
-// Commit: docs(core): add detailed code comments and architecture guide for core
+// Updated at: 2026-07-12 11:16:21
+// Commit: refactor(core): migrate core controller to modern notifier syntax
 
 class coreComponentState {
-  final String commitRef = '2731';
-  final String lastMessage = 'docs(core): add detailed code comments and architecture guide for core';
-  final DateTime timestamp = DateTime.parse('2026-07-12T10:55:15+05:00');
+  final String commitRef = '2732';
+  final String lastMessage = 'refactor(core): migrate core controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-12T11:16:21+05:00');
 }
