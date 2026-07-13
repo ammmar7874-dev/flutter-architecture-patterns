@@ -2800,3 +2800,4 @@
 - [2026-07-13 14:55] test(navigation): implement widget integration tests for navigation
 - [2026-07-13 14:55] fix(security): fix memory leak by cancelling security subscription
 - [2026-07-13 15:08] fix(state): handle null assertion failure in state parser
+- [2026-07-13 15:14] feat(test): add async test stream provider
