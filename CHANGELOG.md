@@ -2811,3 +2811,4 @@
 - [2026-07-13 19:10] docs(state): update readme and API contracts for state
 - [2026-07-13 19:46] test(navigation): add unit tests for navigation business logic
 - [2026-07-13 19:47] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-07-13 20:20] feat(core): add bi-directional event bus handler for core
