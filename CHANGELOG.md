@@ -2808,3 +2808,4 @@
 - [2026-07-13 16:37] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-07-13 17:17] refactor(navigation): optimize data flow between domain and data layers
 - [2026-07-13 17:44] perf(forms): apply RepaintBoundary on animated forms widgets
+- [2026-07-13 19:10] docs(state): update readme and API contracts for state
