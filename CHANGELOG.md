@@ -2812,3 +2812,4 @@
 - [2026-07-13 19:46] test(navigation): add unit tests for navigation business logic
 - [2026-07-13 19:47] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-07-13 20:20] feat(core): add bi-directional event bus handler for core
+- [2026-07-13 20:38] feat(auth): add input validation and sanitization for auth
