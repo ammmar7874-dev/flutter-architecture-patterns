@@ -2779,3 +2779,4 @@
 - [2026-07-12 23:15] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-07-12 23:19] test(analytics): add unit tests for analytics business logic
 - [2026-07-12 23:27] feat(ui): implement shimmer loading skeleton in ui
+- [2026-07-13 09:19] test(core): implement widget integration tests for core
