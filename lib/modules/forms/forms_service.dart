@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-07-12 21:03:16
-// Commit: fix(forms): handle null assertion failure in forms parser
+// Updated at: 2026-07-13 12:57:31
+// Commit: refactor(forms): migrate forms controller to modern notifier syntax
 
 class formsComponentState {
-  final String commitRef = '2772';
-  final String lastMessage = 'fix(forms): handle null assertion failure in forms parser';
-  final DateTime timestamp = DateTime.parse('2026-07-12T21:03:16+05:00');
+  final String commitRef = '2791';
+  final String lastMessage = 'refactor(forms): migrate forms controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-13T12:57:31+05:00');
 }
