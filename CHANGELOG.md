@@ -2813,3 +2813,4 @@
 - [2026-07-13 19:47] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-07-13 20:20] feat(core): add bi-directional event bus handler for core
 - [2026-07-13 20:38] feat(auth): add input validation and sanitization for auth
+- [2026-07-13 20:56] docs(analytics): add detailed code comments and architecture guide for analytics
