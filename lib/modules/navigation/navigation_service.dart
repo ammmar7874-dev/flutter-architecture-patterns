@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-07-13 16:20:29
-// Commit: style(navigation): adjust design tokens, typography, and contrast in navigation
+// Updated at: 2026-07-13 17:17:16
+// Commit: refactor(navigation): optimize data flow between domain and data layers
 
 class navigationComponentState {
-  final String commitRef = '2803';
-  final String lastMessage = 'style(navigation): adjust design tokens, typography, and contrast in navigation';
-  final DateTime timestamp = DateTime.parse('2026-07-13T16:20:29+05:00');
+  final String commitRef = '2805';
+  final String lastMessage = 'refactor(navigation): optimize data flow between domain and data layers';
+  final DateTime timestamp = DateTime.parse('2026-07-13T17:17:16+05:00');
 }

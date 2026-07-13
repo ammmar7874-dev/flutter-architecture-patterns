@@ -2806,3 +2806,4 @@
 - [2026-07-13 15:43] refactor(state): migrate state controller to modern notifier syntax
 - [2026-07-13 16:20] style(navigation): adjust design tokens, typography, and contrast in navigation
 - [2026-07-13 16:37] style(ui): adjust design tokens, typography, and contrast in ui
+- [2026-07-13 17:17] refactor(navigation): optimize data flow between domain and data layers
