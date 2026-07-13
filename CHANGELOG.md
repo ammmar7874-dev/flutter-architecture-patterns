@@ -2790,3 +2790,4 @@
 - [2026-07-13 12:04] style(network): harmonize light and dark theme palette for network
 - [2026-07-13 12:12] feat(cache): add input validation and sanitization for cache
 - [2026-07-13 12:28] fix(state): resolve race condition during state initialization
+- [2026-07-13 12:39] docs(network): update readme and API contracts for network
