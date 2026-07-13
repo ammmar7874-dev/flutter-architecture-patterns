@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-07-12 21:03:23
-// Commit: docs(storage): update readme and API contracts for storage
+// Updated at: 2026-07-13 10:54:40
+// Commit: fix(storage): fix memory leak by cancelling storage subscription
 
 class storageComponentState {
-  final String commitRef = '2771';
-  final String lastMessage = 'docs(storage): update readme and API contracts for storage';
-  final DateTime timestamp = DateTime.parse('2026-07-12T21:03:23+05:00');
+  final String commitRef = '2783';
+  final String lastMessage = 'fix(storage): fix memory leak by cancelling storage subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-13T10:54:40+05:00');
 }
