@@ -2785,3 +2785,4 @@
 - [2026-07-13 10:22] fix(network): prevent double tap duplicate action in network
 - [2026-07-13 10:32] fix(core): handle null assertion failure in core parser
 - [2026-07-13 10:54] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-07-13 11:35] chore(network): update dependencies and cleanup unused imports in network
