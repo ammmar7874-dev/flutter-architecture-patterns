@@ -2796,3 +2796,4 @@
 - [2026-07-13 13:32] fix(network): handle null assertion failure in network parser
 - [2026-07-13 13:41] refactor(cache): optimize data flow between domain and data layers
 - [2026-07-13 14:14] docs(core): add detailed code comments and architecture guide for core
+- [2026-07-13 14:39] refactor(cache): decouple repository interface from concrete cache service
