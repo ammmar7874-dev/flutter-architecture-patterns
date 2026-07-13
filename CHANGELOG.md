@@ -2803,3 +2803,4 @@
 - [2026-07-13 15:14] feat(test): add async test stream provider
 - [2026-07-13 15:18] perf(navigation): apply RepaintBoundary on animated navigation widgets
 - [2026-07-13 15:26] test(ui): implement widget integration tests for ui
+- [2026-07-13 15:43] refactor(state): migrate state controller to modern notifier syntax
