@@ -2805,3 +2805,4 @@
 - [2026-07-13 15:26] test(ui): implement widget integration tests for ui
 - [2026-07-13 15:43] refactor(state): migrate state controller to modern notifier syntax
 - [2026-07-13 16:20] style(navigation): adjust design tokens, typography, and contrast in navigation
+- [2026-07-13 16:37] style(ui): adjust design tokens, typography, and contrast in ui
