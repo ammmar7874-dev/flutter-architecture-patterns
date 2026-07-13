@@ -2799,3 +2799,4 @@
 - [2026-07-13 14:39] refactor(cache): decouple repository interface from concrete cache service
 - [2026-07-13 14:55] test(navigation): implement widget integration tests for navigation
 - [2026-07-13 14:55] fix(security): fix memory leak by cancelling security subscription
+- [2026-07-13 15:08] fix(state): handle null assertion failure in state parser
