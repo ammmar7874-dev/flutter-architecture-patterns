@@ -2798,3 +2798,4 @@
 - [2026-07-13 14:14] docs(core): add detailed code comments and architecture guide for core
 - [2026-07-13 14:39] refactor(cache): decouple repository interface from concrete cache service
 - [2026-07-13 14:55] test(navigation): implement widget integration tests for navigation
+- [2026-07-13 14:55] fix(security): fix memory leak by cancelling security subscription
