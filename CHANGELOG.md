@@ -2794,3 +2794,4 @@
 - [2026-07-13 12:49] fix(storage): correct layout constraints and overflow in storage
 - [2026-07-13 12:57] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-07-13 13:32] fix(network): handle null assertion failure in network parser
+- [2026-07-13 13:41] refactor(cache): optimize data flow between domain and data layers
