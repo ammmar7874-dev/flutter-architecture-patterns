@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-07-12 23:15:50
-// Commit: fix(i18n): prevent double tap duplicate action in i18n
+// Updated at: 2026-07-13 10:21:34
+// Commit: refactor(i18n): migrate i18n controller to modern notifier syntax
 
 class i18nComponentState {
-  final String commitRef = '2775';
-  final String lastMessage = 'fix(i18n): prevent double tap duplicate action in i18n';
-  final DateTime timestamp = DateTime.parse('2026-07-12T23:15:50+05:00');
+  final String commitRef = '2780';
+  final String lastMessage = 'refactor(i18n): migrate i18n controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-13T10:21:34+05:00');
 }
