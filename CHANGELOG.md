@@ -2793,3 +2793,4 @@
 - [2026-07-13 12:39] docs(network): update readme and API contracts for network
 - [2026-07-13 12:49] fix(storage): correct layout constraints and overflow in storage
 - [2026-07-13 12:57] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-07-13 13:32] fix(network): handle null assertion failure in network parser
