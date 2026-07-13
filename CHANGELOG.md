@@ -2810,3 +2810,4 @@
 - [2026-07-13 17:44] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-07-13 19:10] docs(state): update readme and API contracts for state
 - [2026-07-13 19:46] test(navigation): add unit tests for navigation business logic
+- [2026-07-13 19:47] refactor(forms): migrate forms controller to modern notifier syntax
