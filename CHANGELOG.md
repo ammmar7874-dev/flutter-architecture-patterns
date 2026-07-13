@@ -2783,3 +2783,4 @@
 - [2026-07-13 09:51] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-13 10:21] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-07-13 10:22] fix(network): prevent double tap duplicate action in network
+- [2026-07-13 10:32] fix(core): handle null assertion failure in core parser
