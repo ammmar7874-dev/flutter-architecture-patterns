@@ -2787,3 +2787,4 @@
 - [2026-07-13 10:54] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-07-13 11:35] chore(network): update dependencies and cleanup unused imports in network
 - [2026-07-13 11:39] style(test): adjust design tokens, typography, and contrast in test
+- [2026-07-13 12:04] style(network): harmonize light and dark theme palette for network
