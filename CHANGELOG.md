@@ -2820,3 +2820,4 @@
 - [2026-07-13 23:16] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-14 09:03] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-07-14 09:30] fix(ui): handle null assertion failure in ui parser
+- [2026-07-14 09:33] docs(state): update readme and API contracts for state
