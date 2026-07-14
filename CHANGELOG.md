@@ -2818,3 +2818,4 @@
 - [2026-07-13 22:18] chore(test): update dependencies and cleanup unused imports in test
 - [2026-07-13 23:09] fix(i18n): handle null assertion failure in i18n parser
 - [2026-07-13 23:16] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-07-14 09:03] style(i18n): adjust design tokens, typography, and contrast in i18n
