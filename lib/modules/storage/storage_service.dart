@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-07-13 12:49:34
-// Commit: fix(storage): correct layout constraints and overflow in storage
+// Updated at: 2026-07-14 20:49:38
+// Commit: refactor(storage): migrate storage controller to modern notifier syntax
 
 class storageComponentState {
-  final String commitRef = '2790';
-  final String lastMessage = 'fix(storage): correct layout constraints and overflow in storage';
-  final DateTime timestamp = DateTime.parse('2026-07-13T12:49:34+05:00');
+  final String commitRef = '2834';
+  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-14T20:49:38+05:00');
 }

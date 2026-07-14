@@ -2835,3 +2835,4 @@
 - [2026-07-14 18:07] feat(perf): add bi-directional event bus handler for perf
 - [2026-07-14 19:37] fix(security): handle null assertion failure in security parser
 - [2026-07-14 19:54] perf(i18n): apply RepaintBoundary on animated i18n widgets
+- [2026-07-14 20:49] refactor(storage): migrate storage controller to modern notifier syntax
