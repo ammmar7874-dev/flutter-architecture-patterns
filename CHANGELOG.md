@@ -2827,3 +2827,4 @@
 - [2026-07-14 12:35] test(analytics): add unit tests for analytics business logic
 - [2026-07-14 13:03] feat(auth): add async auth stream provider
 - [2026-07-14 14:52] test(forms): add unit tests for forms business logic
+- [2026-07-14 15:23] refactor(forms): extract reusable atomic widgets from forms
