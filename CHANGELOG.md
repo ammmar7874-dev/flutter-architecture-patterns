@@ -2821,3 +2821,4 @@
 - [2026-07-14 09:03] style(i18n): adjust design tokens, typography, and contrast in i18n
 - [2026-07-14 09:30] fix(ui): handle null assertion failure in ui parser
 - [2026-07-14 09:33] docs(state): update readme and API contracts for state
+- [2026-07-14 10:11] refactor(analytics): optimize data flow between domain and data layers
