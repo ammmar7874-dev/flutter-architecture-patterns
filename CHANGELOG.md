@@ -2833,3 +2833,4 @@
 - [2026-07-14 16:54] feat(theme): implement shimmer loading skeleton in theme
 - [2026-07-14 17:05] feat(perf): implement responsive perf view component
 - [2026-07-14 18:07] feat(perf): add bi-directional event bus handler for perf
+- [2026-07-14 19:37] fix(security): handle null assertion failure in security parser
