@@ -2870,3 +2870,4 @@
 - [2026-07-15 18:52] fix(storage): resolve race condition during storage initialization
 - [2026-07-15 19:06] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-07-15 19:17] docs(state): update readme and API contracts for state
+- [2026-07-15 19:21] test(auth): implement widget integration tests for auth
