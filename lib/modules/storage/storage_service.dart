@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-07-15 20:57:50
-// Commit: fix(storage): handle null assertion failure in storage parser
+// Updated at: 2026-07-15 21:18:30
+// Commit: refactor(storage): migrate storage controller to modern notifier syntax
 
 class storageComponentState {
-  final String commitRef = '2875';
-  final String lastMessage = 'fix(storage): handle null assertion failure in storage parser';
-  final DateTime timestamp = DateTime.parse('2026-07-15T20:57:50+05:00');
+  final String commitRef = '2876';
+  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-07-15T21:18:30+05:00');
 }
