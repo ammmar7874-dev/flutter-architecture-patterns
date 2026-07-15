@@ -2847,3 +2847,4 @@
 - [2026-07-15 12:30] feat(network): add async network stream provider
 - [2026-07-15 12:34] fix(cache): handle null assertion failure in cache parser
 - [2026-07-15 12:37] refactor(analytics): decouple repository interface from concrete analytics service
+- [2026-07-15 12:42] feat(network): integrate offline caching for network state
