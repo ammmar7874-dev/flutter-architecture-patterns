@@ -2850,3 +2850,4 @@
 - [2026-07-15 12:42] feat(network): integrate offline caching for network state
 - [2026-07-15 12:47] fix(forms): correct layout constraints and overflow in forms
 - [2026-07-15 13:30] test(i18n): implement widget integration tests for i18n
+- [2026-07-15 13:32] test(core): add unit tests for core business logic
