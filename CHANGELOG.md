@@ -2857,3 +2857,4 @@
 - [2026-07-15 15:03] perf(i18n): memoize expensive computations in i18n
 - [2026-07-15 15:24] feat(test): add bi-directional event bus handler for test
 - [2026-07-15 15:54] fix(security): resolve race condition during security initialization
+- [2026-07-15 15:58] docs(cache): update readme and API contracts for cache
