@@ -2848,3 +2848,4 @@
 - [2026-07-15 12:34] fix(cache): handle null assertion failure in cache parser
 - [2026-07-15 12:37] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-07-15 12:42] feat(network): integrate offline caching for network state
+- [2026-07-15 12:47] fix(forms): correct layout constraints and overflow in forms
