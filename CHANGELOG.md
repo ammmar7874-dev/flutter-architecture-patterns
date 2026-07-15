@@ -2842,3 +2842,4 @@
 - [2026-07-15 10:44] docs(security): add detailed code comments and architecture guide for security
 - [2026-07-15 10:58] docs(network): update readme and API contracts for network
 - [2026-07-15 11:16] refactor(analytics): optimize data flow between domain and data layers
+- [2026-07-15 12:14] refactor(theme): decouple repository interface from concrete theme service
