@@ -2879,3 +2879,4 @@
 - [2026-07-15 20:57] fix(storage): handle null assertion failure in storage parser
 - [2026-07-15 21:18] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-07-15 21:30] perf(test): apply RepaintBoundary on animated test widgets
+- [2026-07-15 21:32] feat(auth): add async auth stream provider
