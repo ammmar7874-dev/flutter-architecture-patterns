@@ -2839,3 +2839,4 @@
 - [2026-07-14 22:10] perf(network): optimize memory consumption in network list viewport
 - [2026-07-15 09:06] docs(security): update readme and API contracts for security
 - [2026-07-15 09:18] docs(i18n): update readme and API contracts for i18n
+- [2026-07-15 10:44] docs(security): add detailed code comments and architecture guide for security
