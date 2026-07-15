@@ -2860,3 +2860,4 @@
 - [2026-07-15 15:58] docs(cache): update readme and API contracts for cache
 - [2026-07-15 16:01] chore(test): update dependencies and cleanup unused imports in test
 - [2026-07-15 16:31] docs(analytics): add detailed code comments and architecture guide for analytics
+- [2026-07-15 16:48] docs(auth): update readme and API contracts for auth
