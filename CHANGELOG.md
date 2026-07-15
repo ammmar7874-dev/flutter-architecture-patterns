@@ -2872,3 +2872,4 @@
 - [2026-07-15 19:17] docs(state): update readme and API contracts for state
 - [2026-07-15 19:21] test(auth): implement widget integration tests for auth
 - [2026-07-15 19:32] refactor(i18n): optimize data flow between domain and data layers
+- [2026-07-15 19:42] test(core): add unit tests for core business logic
