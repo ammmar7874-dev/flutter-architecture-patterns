@@ -2868,3 +2868,4 @@
 - [2026-07-15 17:27] refactor(theme): extract reusable atomic widgets from theme
 - [2026-07-15 18:41] perf(auth): optimize memory consumption in auth list viewport
 - [2026-07-15 18:52] fix(storage): resolve race condition during storage initialization
+- [2026-07-15 19:06] fix(perf): fix memory leak by cancelling perf subscription

@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-07-15 17:14:29
-// Commit: fix(perf): correct layout constraints and overflow in perf
+// Updated at: 2026-07-15 19:06:38
+// Commit: fix(perf): fix memory leak by cancelling perf subscription
 
 class perfComponentState {
-  final String commitRef = '2861';
-  final String lastMessage = 'fix(perf): correct layout constraints and overflow in perf';
-  final DateTime timestamp = DateTime.parse('2026-07-15T17:14:29+05:00');
+  final String commitRef = '2867';
+  final String lastMessage = 'fix(perf): fix memory leak by cancelling perf subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-15T19:06:38+05:00');
 }
