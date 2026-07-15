@@ -2863,3 +2863,4 @@
 - [2026-07-15 16:48] docs(auth): update readme and API contracts for auth
 - [2026-07-15 16:59] test(perf): implement widget integration tests for perf
 - [2026-07-15 17:14] fix(perf): correct layout constraints and overflow in perf
+- [2026-07-15 17:15] feat(storage): implement responsive storage view component
