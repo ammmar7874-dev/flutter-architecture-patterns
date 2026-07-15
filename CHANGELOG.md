@@ -2858,3 +2858,4 @@
 - [2026-07-15 15:24] feat(test): add bi-directional event bus handler for test
 - [2026-07-15 15:54] fix(security): resolve race condition during security initialization
 - [2026-07-15 15:58] docs(cache): update readme and API contracts for cache
+- [2026-07-15 16:01] chore(test): update dependencies and cleanup unused imports in test
