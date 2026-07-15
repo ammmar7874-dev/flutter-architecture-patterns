@@ -2849,3 +2849,4 @@
 - [2026-07-15 12:37] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-07-15 12:42] feat(network): integrate offline caching for network state
 - [2026-07-15 12:47] fix(forms): correct layout constraints and overflow in forms
+- [2026-07-15 13:30] test(i18n): implement widget integration tests for i18n
