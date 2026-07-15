@@ -2881,3 +2881,4 @@
 - [2026-07-15 21:30] perf(test): apply RepaintBoundary on animated test widgets
 - [2026-07-15 21:32] feat(auth): add async auth stream provider
 - [2026-07-15 22:30] perf(security): apply RepaintBoundary on animated security widgets
+- [2026-07-15 22:41] feat(auth): add bi-directional event bus handler for auth
