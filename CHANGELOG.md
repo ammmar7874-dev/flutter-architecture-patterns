@@ -2883,3 +2883,4 @@
 - [2026-07-15 22:30] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-07-15 22:41] feat(auth): add bi-directional event bus handler for auth
 - [2026-07-15 23:14] docs(state): add detailed code comments and architecture guide for state
+- [2026-07-15 23:21] perf(state): optimize memory consumption in state list viewport
