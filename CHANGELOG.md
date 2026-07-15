@@ -2845,3 +2845,4 @@
 - [2026-07-15 12:14] refactor(theme): decouple repository interface from concrete theme service
 - [2026-07-15 12:27] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-07-15 12:30] feat(network): add async network stream provider
+- [2026-07-15 12:34] fix(cache): handle null assertion failure in cache parser
