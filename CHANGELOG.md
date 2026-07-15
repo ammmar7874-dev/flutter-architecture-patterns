@@ -2856,3 +2856,4 @@
 - [2026-07-15 14:47] perf(analytics): memoize expensive computations in analytics
 - [2026-07-15 15:03] perf(i18n): memoize expensive computations in i18n
 - [2026-07-15 15:24] feat(test): add bi-directional event bus handler for test
+- [2026-07-15 15:54] fix(security): resolve race condition during security initialization
