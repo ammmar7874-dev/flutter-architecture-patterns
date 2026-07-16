@@ -2894,3 +2894,4 @@
 - [2026-07-16 12:51] fix(test): prevent double tap duplicate action in test
 - [2026-07-16 13:21] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-07-16 14:15] style(test): harmonize light and dark theme palette for test
+- [2026-07-16 14:53] chore(theme): update dependencies and cleanup unused imports in theme
