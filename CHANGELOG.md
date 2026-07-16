@@ -2898,3 +2898,4 @@
 - [2026-07-16 14:55] docs(state): update readme and API contracts for state
 - [2026-07-16 15:29] fix(state): prevent double tap duplicate action in state
 - [2026-07-16 16:01] style(i18n): harmonize light and dark theme palette for i18n
+- [2026-07-16 16:37] feat(state): add bi-directional event bus handler for state
