@@ -2895,3 +2895,4 @@
 - [2026-07-16 13:21] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-07-16 14:15] style(test): harmonize light and dark theme palette for test
 - [2026-07-16 14:53] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-07-16 14:55] docs(state): update readme and API contracts for state
