@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-07-15 19:06:38
-// Commit: fix(perf): fix memory leak by cancelling perf subscription
+// Updated at: 2026-07-16 17:28:18
+// Commit: fix(perf): resolve race condition during perf initialization
 
 class perfComponentState {
-  final String commitRef = '2867';
-  final String lastMessage = 'fix(perf): fix memory leak by cancelling perf subscription';
-  final DateTime timestamp = DateTime.parse('2026-07-15T19:06:38+05:00');
+  final String commitRef = '2899';
+  final String lastMessage = 'fix(perf): resolve race condition during perf initialization';
+  final DateTime timestamp = DateTime.parse('2026-07-16T17:28:18+05:00');
 }
