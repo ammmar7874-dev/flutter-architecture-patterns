@@ -2886,3 +2886,4 @@
 - [2026-07-15 23:21] perf(state): optimize memory consumption in state list viewport
 - [2026-07-16 09:34] chore(network): update dependencies and cleanup unused imports in network
 - [2026-07-16 09:35] feat(ui): add async ui stream provider
+- [2026-07-16 10:00] refactor(ui): decouple repository interface from concrete ui service
