@@ -2925,3 +2925,4 @@
 - [2026-07-17 18:26] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-07-17 19:10] docs(perf): update readme and API contracts for perf
 - [2026-07-17 21:04] feat(forms): add async forms stream provider
+- [2026-07-17 22:21] docs(cache): update readme and API contracts for cache
