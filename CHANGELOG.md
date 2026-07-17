@@ -2922,3 +2922,4 @@
 - [2026-07-17 18:04] perf(ui): memoize expensive computations in ui
 - [2026-07-17 18:20] fix(theme): resolve race condition during theme initialization
 - [2026-07-17 18:23] chore(security): update dependencies and cleanup unused imports in security
+- [2026-07-17 18:26] perf(core): apply RepaintBoundary on animated core widgets
