@@ -2909,3 +2909,4 @@
 - [2026-07-16 21:32] fix(security): correct layout constraints and overflow in security
 - [2026-07-16 21:52] refactor(storage): extract reusable atomic widgets from storage
 - [2026-07-16 22:23] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-07-17 09:13] chore(navigation): update dependencies and cleanup unused imports in navigation
