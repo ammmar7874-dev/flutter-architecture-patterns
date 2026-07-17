@@ -2916,3 +2916,4 @@
 - [2026-07-17 14:08] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-07-17 14:46] feat(theme): add input validation and sanitization for theme
 - [2026-07-17 16:02] chore(storage): update dependencies and cleanup unused imports in storage
+- [2026-07-17 16:32] fix(navigation): prevent double tap duplicate action in navigation
