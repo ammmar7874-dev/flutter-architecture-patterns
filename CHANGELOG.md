@@ -2920,3 +2920,4 @@
 - [2026-07-17 16:42] perf(storage): optimize memory consumption in storage list viewport
 - [2026-07-17 17:38] test(storage): add unit tests for storage business logic
 - [2026-07-17 18:04] perf(ui): memoize expensive computations in ui
+- [2026-07-17 18:20] fix(theme): resolve race condition during theme initialization
