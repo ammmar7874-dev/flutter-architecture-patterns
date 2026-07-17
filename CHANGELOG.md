@@ -2923,3 +2923,4 @@
 - [2026-07-17 18:20] fix(theme): resolve race condition during theme initialization
 - [2026-07-17 18:23] chore(security): update dependencies and cleanup unused imports in security
 - [2026-07-17 18:26] perf(core): apply RepaintBoundary on animated core widgets
+- [2026-07-17 19:10] docs(perf): update readme and API contracts for perf
