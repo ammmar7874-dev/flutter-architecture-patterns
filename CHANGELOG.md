@@ -2912,3 +2912,4 @@
 - [2026-07-17 09:13] chore(navigation): update dependencies and cleanup unused imports in navigation
 - [2026-07-17 10:22] feat(ui): add async ui stream provider
 - [2026-07-17 10:51] feat(perf): integrate offline caching for perf state
+- [2026-07-17 12:32] refactor(cache): migrate cache controller to modern notifier syntax
