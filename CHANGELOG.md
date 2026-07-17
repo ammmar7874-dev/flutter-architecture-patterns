@@ -2914,3 +2914,4 @@
 - [2026-07-17 10:51] feat(perf): integrate offline caching for perf state
 - [2026-07-17 12:32] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-07-17 14:08] fix(navigation): fix memory leak by cancelling navigation subscription
+- [2026-07-17 14:46] feat(theme): add input validation and sanitization for theme
