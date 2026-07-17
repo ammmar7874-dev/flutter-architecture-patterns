@@ -2918,3 +2918,4 @@
 - [2026-07-17 16:02] chore(storage): update dependencies and cleanup unused imports in storage
 - [2026-07-17 16:32] fix(navigation): prevent double tap duplicate action in navigation
 - [2026-07-17 16:42] perf(storage): optimize memory consumption in storage list viewport
+- [2026-07-17 17:38] test(storage): add unit tests for storage business logic
