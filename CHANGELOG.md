@@ -2928,3 +2928,4 @@
 - [2026-07-17 22:21] docs(cache): update readme and API contracts for cache
 - [2026-07-17 22:57] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-07-18 09:00] feat(cache): implement shimmer loading skeleton in cache
+- [2026-07-18 09:33] docs(navigation): update readme and API contracts for navigation
