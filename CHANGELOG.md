@@ -2957,3 +2957,4 @@
 - [2026-07-20 17:23] feat(forms): integrate custom telemetry logger in forms
 - [2026-07-20 17:41] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-07-20 17:49] feat(analytics): implement shimmer loading skeleton in analytics
+- [2026-07-20 17:56] feat(core): implement shimmer loading skeleton in core
