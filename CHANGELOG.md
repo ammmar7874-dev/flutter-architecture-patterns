@@ -2952,3 +2952,4 @@
 - [2026-07-20 14:14] docs(storage): update readme and API contracts for storage
 - [2026-07-20 14:24] fix(security): fix memory leak by cancelling security subscription
 - [2026-07-20 15:08] perf(security): memoize expensive computations in security
+- [2026-07-20 15:46] feat(navigation): integrate custom telemetry logger in navigation
