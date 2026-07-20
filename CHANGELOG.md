@@ -2940,3 +2940,4 @@
 - [2026-07-20 10:30] refactor(state): decouple repository interface from concrete state service
 - [2026-07-20 10:31] perf(ui): optimize memory consumption in ui list viewport
 - [2026-07-20 10:34] style(navigation): adjust design tokens, typography, and contrast in navigation
+- [2026-07-20 10:50] feat(security): integrate offline caching for security state
