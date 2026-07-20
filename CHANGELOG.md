@@ -2960,3 +2960,4 @@
 - [2026-07-20 17:56] feat(core): implement shimmer loading skeleton in core
 - [2026-07-20 18:37] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-07-20 18:49] style(forms): harmonize light and dark theme palette for forms
+- [2026-07-20 18:58] fix(auth): prevent double tap duplicate action in auth
