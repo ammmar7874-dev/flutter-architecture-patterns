@@ -2938,3 +2938,4 @@
 - [2026-07-20 10:01] test(perf): add unit tests for perf business logic
 - [2026-07-20 10:06] feat(ui): implement shimmer loading skeleton in ui
 - [2026-07-20 10:30] refactor(state): decouple repository interface from concrete state service
+- [2026-07-20 10:31] perf(ui): optimize memory consumption in ui list viewport
