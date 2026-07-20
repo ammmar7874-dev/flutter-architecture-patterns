@@ -2966,3 +2966,4 @@
 - [2026-07-20 19:34] refactor(test): migrate test controller to modern notifier syntax
 - [2026-07-20 19:44] refactor(core): optimize data flow between domain and data layers
 - [2026-07-20 21:07] refactor(i18n): migrate i18n controller to modern notifier syntax
+- [2026-07-20 21:09] style(auth): harmonize light and dark theme palette for auth
