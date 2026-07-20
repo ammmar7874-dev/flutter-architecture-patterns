@@ -2943,3 +2943,4 @@
 - [2026-07-20 10:50] feat(security): integrate offline caching for security state
 - [2026-07-20 11:17] style(storage): harmonize light and dark theme palette for storage
 - [2026-07-20 11:22] feat(i18n): implement responsive i18n view component
+- [2026-07-20 12:05] perf(perf): optimize memory consumption in perf list viewport
