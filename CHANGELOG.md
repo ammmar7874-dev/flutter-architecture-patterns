@@ -2955,3 +2955,4 @@
 - [2026-07-20 15:46] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-07-20 16:07] feat(theme): integrate offline caching for theme state
 - [2026-07-20 17:23] feat(forms): integrate custom telemetry logger in forms
+- [2026-07-20 17:41] perf(forms): apply RepaintBoundary on animated forms widgets
