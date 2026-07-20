@@ -2963,3 +2963,4 @@
 - [2026-07-20 18:58] fix(auth): prevent double tap duplicate action in auth
 - [2026-07-20 19:07] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-07-20 19:30] feat(navigation): add async navigation stream provider
+- [2026-07-20 19:34] refactor(test): migrate test controller to modern notifier syntax
