@@ -2950,3 +2950,4 @@
 - [2026-07-20 13:36] refactor(network): migrate network controller to modern notifier syntax
 - [2026-07-20 13:43] feat(cache): add bi-directional event bus handler for cache
 - [2026-07-20 14:14] docs(storage): update readme and API contracts for storage
+- [2026-07-20 14:24] fix(security): fix memory leak by cancelling security subscription
