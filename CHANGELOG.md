@@ -2948,3 +2948,4 @@
 - [2026-07-20 13:16] feat(core): implement shimmer loading skeleton in core
 - [2026-07-20 13:25] fix(state): fix memory leak by cancelling state subscription
 - [2026-07-20 13:36] refactor(network): migrate network controller to modern notifier syntax
+- [2026-07-20 13:43] feat(cache): add bi-directional event bus handler for cache
