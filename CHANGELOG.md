@@ -2941,3 +2941,4 @@
 - [2026-07-20 10:31] perf(ui): optimize memory consumption in ui list viewport
 - [2026-07-20 10:34] style(navigation): adjust design tokens, typography, and contrast in navigation
 - [2026-07-20 10:50] feat(security): integrate offline caching for security state
+- [2026-07-20 11:17] style(storage): harmonize light and dark theme palette for storage
