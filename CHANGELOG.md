@@ -2961,3 +2961,4 @@
 - [2026-07-20 18:37] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-07-20 18:49] style(forms): harmonize light and dark theme palette for forms
 - [2026-07-20 18:58] fix(auth): prevent double tap duplicate action in auth
+- [2026-07-20 19:07] fix(storage): fix memory leak by cancelling storage subscription
