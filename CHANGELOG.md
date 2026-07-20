@@ -2946,3 +2946,4 @@
 - [2026-07-20 12:05] perf(perf): optimize memory consumption in perf list viewport
 - [2026-07-20 12:22] feat(cache): add bi-directional event bus handler for cache
 - [2026-07-20 13:16] feat(core): implement shimmer loading skeleton in core
+- [2026-07-20 13:25] fix(state): fix memory leak by cancelling state subscription
