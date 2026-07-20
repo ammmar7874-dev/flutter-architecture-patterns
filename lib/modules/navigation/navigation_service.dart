@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-07-18 17:14:37
-// Commit: fix(navigation): resolve race condition during navigation initialization
+// Updated at: 2026-07-20 10:34:49
+// Commit: style(navigation): adjust design tokens, typography, and contrast in navigation
 
 class navigationComponentState {
-  final String commitRef = '2930';
-  final String lastMessage = 'fix(navigation): resolve race condition during navigation initialization';
-  final DateTime timestamp = DateTime.parse('2026-07-18T17:14:37+05:00');
+  final String commitRef = '2938';
+  final String lastMessage = 'style(navigation): adjust design tokens, typography, and contrast in navigation';
+  final DateTime timestamp = DateTime.parse('2026-07-20T10:34:49+05:00');
 }
