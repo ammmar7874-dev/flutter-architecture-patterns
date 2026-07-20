@@ -2969,3 +2969,4 @@
 - [2026-07-20 21:09] style(auth): harmonize light and dark theme palette for auth
 - [2026-07-20 21:10] style(ui): harmonize light and dark theme palette for ui
 - [2026-07-20 21:31] refactor(perf): migrate perf controller to modern notifier syntax
+- [2026-07-20 22:52] docs(test): add detailed code comments and architecture guide for test
