@@ -3009,3 +3009,4 @@
 - [2026-07-21 17:28] refactor(core): decouple repository interface from concrete core service
 - [2026-07-21 17:38] feat(storage): integrate custom telemetry logger in storage
 - [2026-07-21 17:53] feat(state): add bi-directional event bus handler for state
+- [2026-07-21 18:01] fix(forms): prevent double tap duplicate action in forms
