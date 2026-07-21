@@ -3022,3 +3022,4 @@
 - [2026-07-21 20:45] test(forms): add unit tests for forms business logic
 - [2026-07-21 20:49] feat(security): add async security stream provider
 - [2026-07-21 21:18] feat(navigation): integrate offline caching for navigation state
+- [2026-07-21 21:21] refactor(storage): extract reusable atomic widgets from storage
