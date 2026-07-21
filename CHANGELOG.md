@@ -2979,3 +2979,4 @@
 - [2026-07-21 09:29] perf(auth): apply RepaintBoundary on animated auth widgets
 - [2026-07-21 09:30] fix(security): resolve race condition during security initialization
 - [2026-07-21 09:49] refactor(analytics): migrate analytics controller to modern notifier syntax
+- [2026-07-21 10:01] chore(security): update dependencies and cleanup unused imports in security
