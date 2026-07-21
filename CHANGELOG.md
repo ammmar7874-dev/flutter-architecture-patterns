@@ -2996,3 +2996,4 @@
 - [2026-07-21 14:14] perf(storage): memoize expensive computations in storage
 - [2026-07-21 14:35] fix(ui): correct layout constraints and overflow in ui
 - [2026-07-21 14:50] feat(test): add bi-directional event bus handler for test
+- [2026-07-21 15:03] refactor(cache): migrate cache controller to modern notifier syntax
