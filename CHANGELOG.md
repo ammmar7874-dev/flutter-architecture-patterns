@@ -3025,3 +3025,4 @@
 - [2026-07-21 21:21] refactor(storage): extract reusable atomic widgets from storage
 - [2026-07-21 21:22] fix(state): correct layout constraints and overflow in state
 - [2026-07-21 21:34] fix(state): resolve race condition during state initialization
+- [2026-07-21 22:15] refactor(forms): migrate forms controller to modern notifier syntax
