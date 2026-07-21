@@ -2994,3 +2994,4 @@
 - [2026-07-21 13:10] fix(test): resolve race condition during test initialization
 - [2026-07-21 13:57] feat(network): implement responsive network view component
 - [2026-07-21 14:14] perf(storage): memoize expensive computations in storage
+- [2026-07-21 14:35] fix(ui): correct layout constraints and overflow in ui
