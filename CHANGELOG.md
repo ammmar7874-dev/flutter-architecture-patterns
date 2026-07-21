@@ -2977,3 +2977,4 @@
 - [2026-07-21 09:19] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-07-21 09:26] style(core): adjust design tokens, typography, and contrast in core
 - [2026-07-21 09:29] perf(auth): apply RepaintBoundary on animated auth widgets
+- [2026-07-21 09:30] fix(security): resolve race condition during security initialization
