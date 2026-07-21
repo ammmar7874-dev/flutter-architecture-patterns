@@ -3018,3 +3018,4 @@
 - [2026-07-21 19:06] refactor(core): migrate core controller to modern notifier syntax
 - [2026-07-21 19:27] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-07-21 19:28] refactor(analytics): extract reusable atomic widgets from analytics
+- [2026-07-21 20:32] fix(navigation): resolve race condition during navigation initialization
