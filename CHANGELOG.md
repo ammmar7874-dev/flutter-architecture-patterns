@@ -2995,3 +2995,4 @@
 - [2026-07-21 13:57] feat(network): implement responsive network view component
 - [2026-07-21 14:14] perf(storage): memoize expensive computations in storage
 - [2026-07-21 14:35] fix(ui): correct layout constraints and overflow in ui
+- [2026-07-21 14:50] feat(test): add bi-directional event bus handler for test
