@@ -3000,3 +3000,4 @@
 - [2026-07-21 15:05] feat(core): integrate custom telemetry logger in core
 - [2026-07-21 15:22] feat(analytics): add async analytics stream provider
 - [2026-07-21 15:25] test(security): implement widget integration tests for security
+- [2026-07-21 15:35] refactor(analytics): migrate analytics controller to modern notifier syntax
