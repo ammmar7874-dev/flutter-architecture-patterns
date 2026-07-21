@@ -2981,3 +2981,4 @@
 - [2026-07-21 09:49] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-07-21 10:01] chore(security): update dependencies and cleanup unused imports in security
 - [2026-07-21 10:22] chore(test): update dependencies and cleanup unused imports in test
+- [2026-07-21 10:25] docs(analytics): add detailed code comments and architecture guide for analytics
