@@ -3016,3 +3016,4 @@
 - [2026-07-21 18:46] feat(theme): integrate custom telemetry logger in theme
 - [2026-07-21 18:54] fix(i18n): handle null assertion failure in i18n parser
 - [2026-07-21 19:06] refactor(core): migrate core controller to modern notifier syntax
+- [2026-07-21 19:27] chore(i18n): update dependencies and cleanup unused imports in i18n
