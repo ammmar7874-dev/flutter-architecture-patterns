@@ -3011,3 +3011,4 @@
 - [2026-07-21 17:53] feat(state): add bi-directional event bus handler for state
 - [2026-07-21 18:01] fix(forms): prevent double tap duplicate action in forms
 - [2026-07-21 18:25] docs(ui): add detailed code comments and architecture guide for ui
+- [2026-07-21 18:25] style(core): adjust design tokens, typography, and contrast in core
