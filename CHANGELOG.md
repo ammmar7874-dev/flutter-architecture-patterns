@@ -3007,3 +3007,4 @@
 - [2026-07-21 17:19] docs(navigation): add detailed code comments and architecture guide for navigation
 - [2026-07-21 17:20] docs(analytics): add detailed code comments and architecture guide for analytics
 - [2026-07-21 17:28] refactor(core): decouple repository interface from concrete core service
+- [2026-07-21 17:38] feat(storage): integrate custom telemetry logger in storage
