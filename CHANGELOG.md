@@ -2997,3 +2997,4 @@
 - [2026-07-21 14:35] fix(ui): correct layout constraints and overflow in ui
 - [2026-07-21 14:50] feat(test): add bi-directional event bus handler for test
 - [2026-07-21 15:03] refactor(cache): migrate cache controller to modern notifier syntax
+- [2026-07-21 15:05] feat(core): integrate custom telemetry logger in core
