@@ -3023,3 +3023,4 @@
 - [2026-07-21 20:49] feat(security): add async security stream provider
 - [2026-07-21 21:18] feat(navigation): integrate offline caching for navigation state
 - [2026-07-21 21:21] refactor(storage): extract reusable atomic widgets from storage
+- [2026-07-21 21:22] fix(state): correct layout constraints and overflow in state
