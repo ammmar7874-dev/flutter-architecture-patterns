@@ -3033,3 +3033,4 @@
 - [2026-07-21 22:44] fix(core): prevent double tap duplicate action in core
 - [2026-07-21 23:13] feat(analytics): add bi-directional event bus handler for analytics
 - [2026-07-21 23:21] fix(ui): fix memory leak by cancelling ui subscription
+- [2026-07-22 09:09] fix(i18n): handle null assertion failure in i18n parser
