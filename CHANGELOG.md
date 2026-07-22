@@ -3038,3 +3038,4 @@
 - [2026-07-22 12:31] fix(ui): correct layout constraints and overflow in ui
 - [2026-07-22 13:42] refactor(cache): decouple repository interface from concrete cache service
 - [2026-07-22 14:42] perf(test): memoize expensive computations in test
+- [2026-07-22 14:49] style(test): harmonize light and dark theme palette for test
