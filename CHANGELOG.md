@@ -3041,3 +3041,4 @@
 - [2026-07-22 14:49] style(test): harmonize light and dark theme palette for test
 - [2026-07-22 17:20] feat(auth): add bi-directional event bus handler for auth
 - [2026-07-22 17:38] perf(state): apply RepaintBoundary on animated state widgets
+- [2026-07-22 18:00] perf(forms): optimize memory consumption in forms list viewport
