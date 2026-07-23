@@ -3096,3 +3096,4 @@
 - [2026-07-23 21:36] style(forms): harmonize light and dark theme palette for forms
 - [2026-07-23 21:40] test(forms): add unit tests for forms business logic
 - [2026-07-23 22:06] feat(forms): add input validation and sanitization for forms
+- [2026-07-23 22:06] feat(storage): add async storage stream provider
