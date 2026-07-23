@@ -3044,3 +3044,4 @@
 - [2026-07-22 18:00] perf(forms): optimize memory consumption in forms list viewport
 - [2026-07-22 20:51] docs(navigation): add detailed code comments and architecture guide for navigation
 - [2026-07-22 23:14] feat(state): implement shimmer loading skeleton in state
+- [2026-07-23 09:18] refactor(analytics): migrate analytics controller to modern notifier syntax
