@@ -3071,3 +3071,4 @@
 - [2026-07-23 16:40] fix(perf): prevent double tap duplicate action in perf
 - [2026-07-23 16:49] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-07-23 17:06] fix(navigation): handle null assertion failure in navigation parser
+- [2026-07-23 17:17] feat(forms): add bi-directional event bus handler for forms
