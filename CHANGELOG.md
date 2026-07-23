@@ -3074,3 +3074,4 @@
 - [2026-07-23 17:17] feat(forms): add bi-directional event bus handler for forms
 - [2026-07-23 17:30] perf(perf): apply RepaintBoundary on animated perf widgets
 - [2026-07-23 17:35] refactor(auth): extract reusable atomic widgets from auth
+- [2026-07-23 18:04] fix(analytics): correct layout constraints and overflow in analytics
