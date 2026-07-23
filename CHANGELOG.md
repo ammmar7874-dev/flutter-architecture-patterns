@@ -3059,3 +3059,4 @@
 - [2026-07-23 11:38] docs(navigation): update readme and API contracts for navigation
 - [2026-07-23 11:54] feat(i18n): add async i18n stream provider
 - [2026-07-23 12:00] refactor(network): extract reusable atomic widgets from network
+- [2026-07-23 12:21] refactor(i18n): extract reusable atomic widgets from i18n
