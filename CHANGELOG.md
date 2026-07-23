@@ -3051,3 +3051,4 @@
 - [2026-07-23 09:49] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-07-23 09:56] refactor(storage): extract reusable atomic widgets from storage
 - [2026-07-23 10:01] fix(network): fix memory leak by cancelling network subscription
+- [2026-07-23 10:38] fix(network): resolve race condition during network initialization
