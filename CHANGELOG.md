@@ -3099,3 +3099,4 @@
 - [2026-07-23 22:06] feat(storage): add async storage stream provider
 - [2026-07-23 22:23] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-07-23 22:35] docs(theme): update readme and API contracts for theme
+- [2026-07-23 22:53] docs(state): add detailed code comments and architecture guide for state
