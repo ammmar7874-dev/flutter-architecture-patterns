@@ -3084,3 +3084,4 @@
 - [2026-07-23 19:00] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-07-23 19:15] feat(security): integrate offline caching for security state
 - [2026-07-23 19:15] refactor(storage): decouple repository interface from concrete storage service
+- [2026-07-23 19:16] chore(navigation): update dependencies and cleanup unused imports in navigation
