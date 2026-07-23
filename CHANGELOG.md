@@ -3048,3 +3048,4 @@
 - [2026-07-23 09:21] fix(i18n): resolve race condition during i18n initialization
 - [2026-07-23 09:31] fix(state): fix memory leak by cancelling state subscription
 - [2026-07-23 09:33] docs(state): add detailed code comments and architecture guide for state
+- [2026-07-23 09:49] refactor(analytics): migrate analytics controller to modern notifier syntax
