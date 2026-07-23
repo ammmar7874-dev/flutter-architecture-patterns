@@ -3057,3 +3057,4 @@
 - [2026-07-23 10:53] refactor(test): extract reusable atomic widgets from test
 - [2026-07-23 11:01] refactor(i18n): optimize data flow between domain and data layers
 - [2026-07-23 11:38] docs(navigation): update readme and API contracts for navigation
+- [2026-07-23 11:54] feat(i18n): add async i18n stream provider
