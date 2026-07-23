@@ -3093,3 +3093,4 @@
 - [2026-07-23 20:49] docs(test): add detailed code comments and architecture guide for test
 - [2026-07-23 21:11] refactor(test): decouple repository interface from concrete test service
 - [2026-07-23 21:13] feat(test): implement shimmer loading skeleton in test
+- [2026-07-23 21:36] style(forms): harmonize light and dark theme palette for forms
