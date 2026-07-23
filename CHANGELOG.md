@@ -3046,3 +3046,4 @@
 - [2026-07-22 23:14] feat(state): implement shimmer loading skeleton in state
 - [2026-07-23 09:18] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-07-23 09:21] fix(i18n): resolve race condition during i18n initialization
+- [2026-07-23 09:31] fix(state): fix memory leak by cancelling state subscription
