@@ -3101,3 +3101,4 @@
 - [2026-07-23 22:35] docs(theme): update readme and API contracts for theme
 - [2026-07-23 22:53] docs(state): add detailed code comments and architecture guide for state
 - [2026-07-23 22:57] test(perf): add unit tests for perf business logic
+- [2026-07-23 22:58] fix(auth): correct layout constraints and overflow in auth
