@@ -3073,3 +3073,4 @@
 - [2026-07-23 17:06] fix(navigation): handle null assertion failure in navigation parser
 - [2026-07-23 17:17] feat(forms): add bi-directional event bus handler for forms
 - [2026-07-23 17:30] perf(perf): apply RepaintBoundary on animated perf widgets
+- [2026-07-23 17:35] refactor(auth): extract reusable atomic widgets from auth
