@@ -3066,3 +3066,4 @@
 - [2026-07-23 13:41] style(test): adjust design tokens, typography, and contrast in test
 - [2026-07-23 14:06] fix(i18n): resolve race condition during i18n initialization
 - [2026-07-23 14:39] feat(security): add bi-directional event bus handler for security
+- [2026-07-23 15:06] docs(auth): add detailed code comments and architecture guide for auth
