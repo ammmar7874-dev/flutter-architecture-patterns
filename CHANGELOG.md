@@ -3129,3 +3129,4 @@
 - [2026-07-24 19:41] refactor(test): migrate test controller to modern notifier syntax
 - [2026-07-24 19:58] feat(forms): integrate offline caching for forms state
 - [2026-07-24 20:09] refactor(perf): migrate perf controller to modern notifier syntax
+- [2026-07-24 20:12] docs(network): update readme and API contracts for network
