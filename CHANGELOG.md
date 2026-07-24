@@ -3138,3 +3138,4 @@
 - [2026-07-24 21:33] feat(auth): integrate offline caching for auth state
 - [2026-07-24 21:36] style(test): adjust design tokens, typography, and contrast in test
 - [2026-07-24 21:40] feat(ui): integrate offline caching for ui state
+- [2026-07-24 21:52] fix(core): prevent double tap duplicate action in core
