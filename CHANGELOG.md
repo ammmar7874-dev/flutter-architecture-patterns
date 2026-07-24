@@ -3122,3 +3122,4 @@
 - [2026-07-24 16:25] feat(auth): integrate custom telemetry logger in auth
 - [2026-07-24 16:47] fix(ui): correct layout constraints and overflow in ui
 - [2026-07-24 18:54] perf(ui): optimize memory consumption in ui list viewport
+- [2026-07-24 19:07] fix(auth): fix memory leak by cancelling auth subscription
