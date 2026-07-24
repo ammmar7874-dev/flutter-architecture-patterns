@@ -3127,3 +3127,4 @@
 - [2026-07-24 19:36] perf(core): optimize memory consumption in core list viewport
 - [2026-07-24 19:39] perf(core): optimize memory consumption in core list viewport
 - [2026-07-24 19:41] refactor(test): migrate test controller to modern notifier syntax
+- [2026-07-24 19:58] feat(forms): integrate offline caching for forms state
