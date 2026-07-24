@@ -3141,3 +3141,4 @@
 - [2026-07-24 21:52] fix(core): prevent double tap duplicate action in core
 - [2026-07-24 21:57] fix(network): resolve race condition during network initialization
 - [2026-07-24 22:00] docs(storage): add detailed code comments and architecture guide for storage
+- [2026-07-24 22:05] fix(core): prevent double tap duplicate action in core
