@@ -3119,3 +3119,4 @@
 - [2026-07-24 14:34] refactor(theme): optimize data flow between domain and data layers
 - [2026-07-24 15:13] fix(test): fix memory leak by cancelling test subscription
 - [2026-07-24 15:18] feat(forms): add input validation and sanitization for forms
+- [2026-07-24 16:25] feat(auth): integrate custom telemetry logger in auth
