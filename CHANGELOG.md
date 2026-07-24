@@ -3109,3 +3109,4 @@
 - [2026-07-24 13:39] feat(auth): implement responsive auth view component
 - [2026-07-24 13:49] test(state): add unit tests for state business logic
 - [2026-07-24 13:50] test(theme): add unit tests for theme business logic
+- [2026-07-24 13:54] feat(forms): implement shimmer loading skeleton in forms
