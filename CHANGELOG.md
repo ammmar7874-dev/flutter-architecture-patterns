@@ -3132,3 +3132,4 @@
 - [2026-07-24 20:12] docs(network): update readme and API contracts for network
 - [2026-07-24 20:19] fix(state): correct layout constraints and overflow in state
 - [2026-07-24 20:37] feat(i18n): implement shimmer loading skeleton in i18n
+- [2026-07-24 20:39] fix(core): handle null assertion failure in core parser
