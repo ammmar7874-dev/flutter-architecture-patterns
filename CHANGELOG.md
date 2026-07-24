@@ -3134,3 +3134,4 @@
 - [2026-07-24 20:37] feat(i18n): implement shimmer loading skeleton in i18n
 - [2026-07-24 20:39] fix(core): handle null assertion failure in core parser
 - [2026-07-24 20:54] feat(auth): add async auth stream provider
+- [2026-07-24 21:30] chore(cache): update dependencies and cleanup unused imports in cache
