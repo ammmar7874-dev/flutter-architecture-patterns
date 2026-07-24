@@ -3126,3 +3126,4 @@
 - [2026-07-24 19:19] perf(theme): memoize expensive computations in theme
 - [2026-07-24 19:36] perf(core): optimize memory consumption in core list viewport
 - [2026-07-24 19:39] perf(core): optimize memory consumption in core list viewport
+- [2026-07-24 19:41] refactor(test): migrate test controller to modern notifier syntax
