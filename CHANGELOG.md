@@ -3114,3 +3114,4 @@
 - [2026-07-24 14:08] test(analytics): implement widget integration tests for analytics
 - [2026-07-24 14:20] refactor(security): migrate security controller to modern notifier syntax
 - [2026-07-24 14:24] feat(storage): integrate custom telemetry logger in storage
+- [2026-07-24 14:29] refactor(security): decouple repository interface from concrete security service
