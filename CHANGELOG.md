@@ -3124,3 +3124,4 @@
 - [2026-07-24 18:54] perf(ui): optimize memory consumption in ui list viewport
 - [2026-07-24 19:07] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-07-24 19:19] perf(theme): memoize expensive computations in theme
+- [2026-07-24 19:36] perf(core): optimize memory consumption in core list viewport
