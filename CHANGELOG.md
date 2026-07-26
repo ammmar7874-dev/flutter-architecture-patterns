@@ -3155,3 +3155,4 @@
 - [2026-07-26 12:28] feat(forms): integrate custom telemetry logger in forms
 - [2026-07-26 13:21] fix(storage): handle null assertion failure in storage parser
 - [2026-07-26 14:49] feat(i18n): integrate custom telemetry logger in i18n
+- [2026-07-26 15:09] refactor(navigation): migrate navigation controller to modern notifier syntax
