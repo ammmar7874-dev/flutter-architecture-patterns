@@ -3161,3 +3161,4 @@
 - [2026-07-26 15:51] fix(security): prevent double tap duplicate action in security
 - [2026-07-26 16:34] fix(network): correct layout constraints and overflow in network
 - [2026-07-26 17:02] feat(security): add input validation and sanitization for security
+- [2026-07-26 17:27] docs(core): update readme and API contracts for core
