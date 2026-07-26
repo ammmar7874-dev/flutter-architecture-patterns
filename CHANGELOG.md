@@ -3152,3 +3152,4 @@
 - [2026-07-26 10:34] refactor(analytics): extract reusable atomic widgets from analytics
 - [2026-07-26 11:22] refactor(perf): decouple repository interface from concrete perf service
 - [2026-07-26 12:14] fix(security): fix memory leak by cancelling security subscription
+- [2026-07-26 12:28] feat(forms): integrate custom telemetry logger in forms
