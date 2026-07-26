@@ -3164,3 +3164,4 @@
 - [2026-07-26 17:27] docs(core): update readme and API contracts for core
 - [2026-07-26 18:32] feat(theme): integrate custom telemetry logger in theme
 - [2026-07-26 18:45] feat(i18n): add input validation and sanitization for i18n
+- [2026-07-26 18:49] style(navigation): harmonize light and dark theme palette for navigation
