@@ -3151,3 +3151,4 @@
 - [2026-07-26 10:32] feat(cache): integrate custom telemetry logger in cache
 - [2026-07-26 10:34] refactor(analytics): extract reusable atomic widgets from analytics
 - [2026-07-26 11:22] refactor(perf): decouple repository interface from concrete perf service
+- [2026-07-26 12:14] fix(security): fix memory leak by cancelling security subscription

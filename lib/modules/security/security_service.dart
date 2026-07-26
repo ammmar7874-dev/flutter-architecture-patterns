@@ -1,9 +1,9 @@
 ﻿// Module: security
-// Updated at: 2026-07-24 22:36:26
-// Commit: test(security): implement widget integration tests for security
+// Updated at: 2026-07-26 12:14:26
+// Commit: fix(security): fix memory leak by cancelling security subscription
 
 class securityComponentState {
-  final String commitRef = '3143';
-  final String lastMessage = 'test(security): implement widget integration tests for security';
-  final DateTime timestamp = DateTime.parse('2026-07-24T22:36:26+05:00');
+  final String commitRef = '3150';
+  final String lastMessage = 'fix(security): fix memory leak by cancelling security subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-26T12:14:26+05:00');
 }
