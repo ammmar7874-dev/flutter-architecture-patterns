@@ -3150,3 +3150,4 @@
 - [2026-07-26 09:57] feat(theme): implement shimmer loading skeleton in theme
 - [2026-07-26 10:32] feat(cache): integrate custom telemetry logger in cache
 - [2026-07-26 10:34] refactor(analytics): extract reusable atomic widgets from analytics
+- [2026-07-26 11:22] refactor(perf): decouple repository interface from concrete perf service
