@@ -3183,3 +3183,4 @@
 - [2026-07-27 13:22] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-07-27 14:06] feat(network): implement shimmer loading skeleton in network
 - [2026-07-27 14:22] refactor(test): extract reusable atomic widgets from test
+- [2026-07-27 14:28] perf(auth): memoize expensive computations in auth
