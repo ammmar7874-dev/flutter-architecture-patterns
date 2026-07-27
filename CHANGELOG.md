@@ -3178,3 +3178,4 @@
 - [2026-07-27 12:01] feat(cache): integrate offline caching for cache state
 - [2026-07-27 12:20] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-07-27 12:55] refactor(storage): decouple repository interface from concrete storage service
+- [2026-07-27 12:56] refactor(ui): decouple repository interface from concrete ui service
