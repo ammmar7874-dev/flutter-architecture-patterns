@@ -3177,3 +3177,4 @@
 - [2026-07-27 11:40] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-07-27 12:01] feat(cache): integrate offline caching for cache state
 - [2026-07-27 12:20] fix(ui): fix memory leak by cancelling ui subscription
+- [2026-07-27 12:55] refactor(storage): decouple repository interface from concrete storage service
