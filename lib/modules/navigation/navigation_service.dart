@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-07-27 11:40:17
-// Commit: perf(navigation): optimize memory consumption in navigation list viewport
+// Updated at: 2026-07-27 17:30:50
+// Commit: fix(navigation): fix memory leak by cancelling navigation subscription
 
 class navigationComponentState {
-  final String commitRef = '3173';
-  final String lastMessage = 'perf(navigation): optimize memory consumption in navigation list viewport';
-  final DateTime timestamp = DateTime.parse('2026-07-27T11:40:17+05:00');
+  final String commitRef = '3187';
+  final String lastMessage = 'fix(navigation): fix memory leak by cancelling navigation subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-27T17:30:50+05:00');
 }
