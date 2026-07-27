@@ -3172,3 +3172,4 @@
 - [2026-07-26 21:34] test(auth): implement widget integration tests for auth
 - [2026-07-27 09:12] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-07-27 11:16] feat(core): add bi-directional event bus handler for core
+- [2026-07-27 11:31] refactor(test): optimize data flow between domain and data layers
