@@ -3190,3 +3190,4 @@
 - [2026-07-27 17:27] feat(cache): implement shimmer loading skeleton in cache
 - [2026-07-27 17:30] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-07-27 17:33] style(security): adjust design tokens, typography, and contrast in security
+- [2026-07-27 17:38] perf(auth): apply RepaintBoundary on animated auth widgets
