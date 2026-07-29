@@ -3214,3 +3214,4 @@
 - [2026-07-29 11:47] fix(state): fix memory leak by cancelling state subscription
 - [2026-07-29 11:58] refactor(perf): migrate perf controller to modern notifier syntax
 - [2026-07-29 12:55] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-07-29 13:50] perf(ui): memoize expensive computations in ui
