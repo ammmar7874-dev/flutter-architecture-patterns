@@ -3212,3 +3212,4 @@
 - [2026-07-29 10:46] refactor(core): extract reusable atomic widgets from core
 - [2026-07-29 10:47] refactor(state): optimize data flow between domain and data layers
 - [2026-07-29 11:47] fix(state): fix memory leak by cancelling state subscription
+- [2026-07-29 11:58] refactor(perf): migrate perf controller to modern notifier syntax
