@@ -3223,3 +3223,4 @@
 - [2026-07-29 16:28] docs(forms): update readme and API contracts for forms
 - [2026-07-29 18:28] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-07-29 18:35] test(analytics): add unit tests for analytics business logic
+- [2026-07-29 19:02] refactor(navigation): extract reusable atomic widgets from navigation
