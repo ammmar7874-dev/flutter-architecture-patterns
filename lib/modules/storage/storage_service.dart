@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-07-29 09:22:53
-// Commit: feat(storage): add async storage stream provider
+// Updated at: 2026-07-29 15:06:05
+// Commit: fix(storage): fix memory leak by cancelling storage subscription
 
 class storageComponentState {
-  final String commitRef = '3204';
-  final String lastMessage = 'feat(storage): add async storage stream provider';
-  final DateTime timestamp = DateTime.parse('2026-07-29T09:22:53+05:00');
+  final String commitRef = '3216';
+  final String lastMessage = 'fix(storage): fix memory leak by cancelling storage subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-29T15:06:05+05:00');
 }
