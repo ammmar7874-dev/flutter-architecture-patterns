@@ -3224,3 +3224,4 @@
 - [2026-07-29 18:28] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-07-29 18:35] test(analytics): add unit tests for analytics business logic
 - [2026-07-29 19:02] refactor(navigation): extract reusable atomic widgets from navigation
+- [2026-07-29 19:19] fix(network): correct layout constraints and overflow in network
