@@ -3225,3 +3225,4 @@
 - [2026-07-29 18:35] test(analytics): add unit tests for analytics business logic
 - [2026-07-29 19:02] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-07-29 19:19] fix(network): correct layout constraints and overflow in network
+- [2026-07-29 20:11] refactor(network): migrate network controller to modern notifier syntax
