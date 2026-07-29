@@ -3215,3 +3215,4 @@
 - [2026-07-29 11:58] refactor(perf): migrate perf controller to modern notifier syntax
 - [2026-07-29 12:55] style(analytics): harmonize light and dark theme palette for analytics
 - [2026-07-29 13:50] perf(ui): memoize expensive computations in ui
+- [2026-07-29 14:01] fix(ui): handle null assertion failure in ui parser
