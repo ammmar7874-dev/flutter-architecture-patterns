@@ -3218,3 +3218,4 @@
 - [2026-07-29 14:01] fix(ui): handle null assertion failure in ui parser
 - [2026-07-29 14:38] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-07-29 15:06] fix(storage): fix memory leak by cancelling storage subscription
+- [2026-07-29 15:49] refactor(navigation): migrate navigation controller to modern notifier syntax
