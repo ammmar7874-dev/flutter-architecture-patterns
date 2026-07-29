@@ -3226,3 +3226,4 @@
 - [2026-07-29 19:02] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-07-29 19:19] fix(network): correct layout constraints and overflow in network
 - [2026-07-29 20:11] refactor(network): migrate network controller to modern notifier syntax
+- [2026-07-29 20:48] perf(storage): memoize expensive computations in storage

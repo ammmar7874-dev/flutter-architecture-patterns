@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-07-29 15:06:05
-// Commit: fix(storage): fix memory leak by cancelling storage subscription
+// Updated at: 2026-07-29 20:48:30
+// Commit: perf(storage): memoize expensive computations in storage
 
 class storageComponentState {
-  final String commitRef = '3216';
-  final String lastMessage = 'fix(storage): fix memory leak by cancelling storage subscription';
-  final DateTime timestamp = DateTime.parse('2026-07-29T15:06:05+05:00');
+  final String commitRef = '3225';
+  final String lastMessage = 'perf(storage): memoize expensive computations in storage';
+  final DateTime timestamp = DateTime.parse('2026-07-29T20:48:30+05:00');
 }
