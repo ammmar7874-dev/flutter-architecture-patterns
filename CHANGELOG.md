@@ -3220,3 +3220,4 @@
 - [2026-07-29 15:06] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-07-29 15:49] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-07-29 16:27] style(auth): harmonize light and dark theme palette for auth
+- [2026-07-29 16:28] docs(forms): update readme and API contracts for forms
