@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-07-30 21:00:42
-// Commit: feat(theme): add input validation and sanitization for theme
+// Updated at: 2026-07-30 21:14:09
+// Commit: fix(theme): fix memory leak by cancelling theme subscription
 
 class themeComponentState {
-  final String commitRef = '3263';
-  final String lastMessage = 'feat(theme): add input validation and sanitization for theme';
-  final DateTime timestamp = DateTime.parse('2026-07-30T21:00:42+05:00');
+  final String commitRef = '3266';
+  final String lastMessage = 'fix(theme): fix memory leak by cancelling theme subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-30T21:14:09+05:00');
 }
