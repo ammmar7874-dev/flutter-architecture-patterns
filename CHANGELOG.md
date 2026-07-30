@@ -3244,3 +3244,4 @@
 - [2026-07-30 14:07] feat(navigation): add input validation and sanitization for navigation
 - [2026-07-30 15:01] feat(perf): integrate offline caching for perf state
 - [2026-07-30 15:05] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-07-30 15:16] perf(ui): memoize expensive computations in ui
