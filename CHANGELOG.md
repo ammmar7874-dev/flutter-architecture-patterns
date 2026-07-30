@@ -3252,3 +3252,4 @@
 - [2026-07-30 16:00] style(forms): adjust design tokens, typography, and contrast in forms
 - [2026-07-30 16:14] test(cache): add unit tests for cache business logic
 - [2026-07-30 16:59] fix(i18n): fix memory leak by cancelling i18n subscription
+- [2026-07-30 17:41] feat(forms): integrate custom telemetry logger in forms
