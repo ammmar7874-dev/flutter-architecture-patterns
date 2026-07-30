@@ -3229,3 +3229,4 @@
 - [2026-07-29 20:48] perf(storage): memoize expensive computations in storage
 - [2026-07-30 09:04] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-07-30 09:29] refactor(storage): extract reusable atomic widgets from storage
+- [2026-07-30 10:26] feat(state): add bi-directional event bus handler for state
