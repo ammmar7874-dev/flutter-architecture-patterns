@@ -3239,3 +3239,4 @@
 - [2026-07-30 11:57] fix(security): resolve race condition during security initialization
 - [2026-07-30 12:01] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-07-30 12:19] fix(test): correct layout constraints and overflow in test
+- [2026-07-30 12:32] perf(forms): optimize memory consumption in forms list viewport
