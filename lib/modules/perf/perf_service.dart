@@ -1,9 +1,9 @@
 ﻿// Module: perf
-// Updated at: 2026-07-30 19:13:30
-// Commit: refactor(perf): migrate perf controller to modern notifier syntax
+// Updated at: 2026-07-30 20:18:36
+// Commit: fix(perf): fix memory leak by cancelling perf subscription
 
 class perfComponentState {
-  final String commitRef = '3256';
-  final String lastMessage = 'refactor(perf): migrate perf controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-07-30T19:13:30+05:00');
+  final String commitRef = '3261';
+  final String lastMessage = 'fix(perf): fix memory leak by cancelling perf subscription';
+  final DateTime timestamp = DateTime.parse('2026-07-30T20:18:36+05:00');
 }

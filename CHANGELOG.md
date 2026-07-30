@@ -3262,3 +3262,4 @@
 - [2026-07-30 20:02] fix(forms): resolve race condition during forms initialization
 - [2026-07-30 20:08] feat(cache): integrate offline caching for cache state
 - [2026-07-30 20:08] feat(navigation): implement shimmer loading skeleton in navigation
+- [2026-07-30 20:18] fix(perf): fix memory leak by cancelling perf subscription
