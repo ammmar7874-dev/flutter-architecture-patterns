@@ -3259,3 +3259,4 @@
 - [2026-07-30 19:08] feat(storage): implement shimmer loading skeleton in storage
 - [2026-07-30 19:13] refactor(perf): migrate perf controller to modern notifier syntax
 - [2026-07-30 19:24] refactor(i18n): migrate i18n controller to modern notifier syntax
+- [2026-07-30 20:02] fix(forms): resolve race condition during forms initialization
