@@ -3246,3 +3246,4 @@
 - [2026-07-30 15:05] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-07-30 15:16] perf(ui): memoize expensive computations in ui
 - [2026-07-30 15:23] test(perf): implement widget integration tests for perf
+- [2026-07-30 15:29] feat(state): add bi-directional event bus handler for state
