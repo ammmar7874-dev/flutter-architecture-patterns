@@ -3230,3 +3230,4 @@
 - [2026-07-30 09:04] fix(analytics): prevent double tap duplicate action in analytics
 - [2026-07-30 09:29] refactor(storage): extract reusable atomic widgets from storage
 - [2026-07-30 10:26] feat(state): add bi-directional event bus handler for state
+- [2026-07-30 10:31] fix(storage): handle null assertion failure in storage parser
