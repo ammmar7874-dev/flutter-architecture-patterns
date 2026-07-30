@@ -3255,3 +3255,4 @@
 - [2026-07-30 17:41] feat(forms): integrate custom telemetry logger in forms
 - [2026-07-30 17:44] fix(ui): resolve race condition during ui initialization
 - [2026-07-30 18:14] style(theme): adjust design tokens, typography, and contrast in theme
+- [2026-07-30 18:38] feat(i18n): add async i18n stream provider
