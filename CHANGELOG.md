@@ -3266,3 +3266,4 @@
 - [2026-07-30 20:41] feat(i18n): integrate offline caching for i18n state
 - [2026-07-30 21:00] feat(theme): add input validation and sanitization for theme
 - [2026-07-30 21:00] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-07-30 21:12] fix(ui): fix memory leak by cancelling ui subscription
