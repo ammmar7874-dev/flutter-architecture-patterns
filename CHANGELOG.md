@@ -3263,3 +3263,4 @@
 - [2026-07-30 20:08] feat(cache): integrate offline caching for cache state
 - [2026-07-30 20:08] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-07-30 20:18] fix(perf): fix memory leak by cancelling perf subscription
+- [2026-07-30 20:41] feat(i18n): integrate offline caching for i18n state
