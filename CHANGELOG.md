@@ -3269,3 +3269,4 @@
 - [2026-07-30 21:12] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-07-30 21:14] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-07-30 21:15] perf(navigation): optimize memory consumption in navigation list viewport
+- [2026-07-30 21:24] chore(theme): update dependencies and cleanup unused imports in theme
