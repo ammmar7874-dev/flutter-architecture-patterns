@@ -3227,3 +3227,4 @@
 - [2026-07-29 19:19] fix(network): correct layout constraints and overflow in network
 - [2026-07-29 20:11] refactor(network): migrate network controller to modern notifier syntax
 - [2026-07-29 20:48] perf(storage): memoize expensive computations in storage
+- [2026-07-30 09:04] fix(analytics): prevent double tap duplicate action in analytics
