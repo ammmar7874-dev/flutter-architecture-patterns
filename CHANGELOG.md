@@ -3264,3 +3264,4 @@
 - [2026-07-30 20:08] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-07-30 20:18] fix(perf): fix memory leak by cancelling perf subscription
 - [2026-07-30 20:41] feat(i18n): integrate offline caching for i18n state
+- [2026-07-30 21:00] feat(theme): add input validation and sanitization for theme
