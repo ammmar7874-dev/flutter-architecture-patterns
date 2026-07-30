@@ -3270,3 +3270,4 @@
 - [2026-07-30 21:14] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-07-30 21:15] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-07-30 21:24] chore(theme): update dependencies and cleanup unused imports in theme
+- [2026-07-30 22:14] feat(network): add async network stream provider
