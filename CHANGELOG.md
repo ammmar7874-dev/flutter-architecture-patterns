@@ -3277,3 +3277,4 @@
 - [2026-08-02 10:34] style(forms): harmonize light and dark theme palette for forms
 - [2026-08-02 12:04] feat(cache): implement shimmer loading skeleton in cache
 - [2026-08-02 13:47] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-08-02 14:31] style(auth): adjust design tokens, typography, and contrast in auth
