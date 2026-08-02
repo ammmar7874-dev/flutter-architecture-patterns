@@ -3282,3 +3282,4 @@
 - [2026-08-02 16:49] fix(network): correct layout constraints and overflow in network
 - [2026-08-02 17:01] fix(security): correct layout constraints and overflow in security
 - [2026-08-02 17:24] fix(perf): prevent double tap duplicate action in perf
+- [2026-08-02 19:12] feat(cache): implement responsive cache view component
