@@ -3276,3 +3276,4 @@
 - [2026-07-30 23:14] test(network): add unit tests for network business logic
 - [2026-08-02 10:34] style(forms): harmonize light and dark theme palette for forms
 - [2026-08-02 12:04] feat(cache): implement shimmer loading skeleton in cache
+- [2026-08-02 13:47] fix(navigation): correct layout constraints and overflow in navigation
