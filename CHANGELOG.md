@@ -3284,3 +3284,4 @@
 - [2026-08-02 17:24] fix(perf): prevent double tap duplicate action in perf
 - [2026-08-02 19:12] feat(cache): implement responsive cache view component
 - [2026-08-02 19:56] docs(cache): update readme and API contracts for cache
+- [2026-08-02 20:15] feat(cache): add async cache stream provider
