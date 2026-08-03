@@ -3332,3 +3332,4 @@
 - [2026-08-03 21:31] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-08-03 21:34] perf(network): optimize memory consumption in network list viewport
 - [2026-08-03 21:47] perf(perf): memoize expensive computations in perf
+- [2026-08-03 21:52] feat(cache): add async cache stream provider
