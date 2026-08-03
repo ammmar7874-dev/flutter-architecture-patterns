@@ -3304,3 +3304,4 @@
 - [2026-08-03 14:11] fix(navigation): handle null assertion failure in navigation parser
 - [2026-08-03 14:11] fix(security): resolve race condition during security initialization
 - [2026-08-03 14:19] test(ui): add unit tests for ui business logic
+- [2026-08-03 15:34] refactor(state): migrate state controller to modern notifier syntax
