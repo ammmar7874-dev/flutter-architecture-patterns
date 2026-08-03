@@ -3313,3 +3313,4 @@
 - [2026-08-03 16:41] fix(perf): correct layout constraints and overflow in perf
 - [2026-08-03 16:47] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-08-03 16:55] feat(forms): add input validation and sanitization for forms
+- [2026-08-03 17:19] style(storage): harmonize light and dark theme palette for storage
