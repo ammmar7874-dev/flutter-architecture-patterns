@@ -3335,3 +3335,4 @@
 - [2026-08-03 21:52] feat(cache): add async cache stream provider
 - [2026-08-03 22:12] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-03 22:12] feat(state): implement shimmer loading skeleton in state
+- [2026-08-03 22:18] refactor(storage): extract reusable atomic widgets from storage
