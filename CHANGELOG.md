@@ -3306,3 +3306,4 @@
 - [2026-08-03 14:19] test(ui): add unit tests for ui business logic
 - [2026-08-03 15:34] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-03 15:36] refactor(core): decouple repository interface from concrete core service
+- [2026-08-03 16:09] feat(theme): add bi-directional event bus handler for theme
