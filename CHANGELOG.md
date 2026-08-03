@@ -3297,3 +3297,4 @@
 - [2026-08-03 10:31] test(cache): add unit tests for cache business logic
 - [2026-08-03 10:53] fix(network): correct layout constraints and overflow in network
 - [2026-08-03 11:03] feat(forms): add input validation and sanitization for forms
+- [2026-08-03 12:03] perf(network): apply RepaintBoundary on animated network widgets
