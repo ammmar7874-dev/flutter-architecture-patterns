@@ -3310,3 +3310,4 @@
 - [2026-08-03 16:34] docs(forms): update readme and API contracts for forms
 - [2026-08-03 16:39] perf(navigation): memoize expensive computations in navigation
 - [2026-08-03 16:39] perf(auth): apply RepaintBoundary on animated auth widgets
+- [2026-08-03 16:41] fix(perf): correct layout constraints and overflow in perf
