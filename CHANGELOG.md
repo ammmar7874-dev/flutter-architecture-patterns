@@ -3291,3 +3291,4 @@
 - [2026-08-03 09:01] docs(cache): add detailed code comments and architecture guide for cache
 - [2026-08-03 09:05] fix(analytics): handle null assertion failure in analytics parser
 - [2026-08-03 09:26] refactor(core): decouple repository interface from concrete core service
+- [2026-08-03 09:48] refactor(perf): optimize data flow between domain and data layers
