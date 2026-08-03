@@ -3295,3 +3295,4 @@
 - [2026-08-03 09:51] fix(theme): prevent double tap duplicate action in theme
 - [2026-08-03 10:10] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-08-03 10:31] test(cache): add unit tests for cache business logic
+- [2026-08-03 10:53] fix(network): correct layout constraints and overflow in network
