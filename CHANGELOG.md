@@ -3330,3 +3330,4 @@
 - [2026-08-03 21:22] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-08-03 21:27] docs(cache): update readme and API contracts for cache
 - [2026-08-03 21:31] refactor(cache): migrate cache controller to modern notifier syntax
+- [2026-08-03 21:34] perf(network): optimize memory consumption in network list viewport
