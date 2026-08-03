@@ -3334,3 +3334,4 @@
 - [2026-08-03 21:47] perf(perf): memoize expensive computations in perf
 - [2026-08-03 21:52] feat(cache): add async cache stream provider
 - [2026-08-03 22:12] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-08-03 22:12] feat(state): implement shimmer loading skeleton in state
