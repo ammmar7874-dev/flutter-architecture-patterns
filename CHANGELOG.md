@@ -3336,3 +3336,4 @@
 - [2026-08-03 22:12] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-03 22:12] feat(state): implement shimmer loading skeleton in state
 - [2026-08-03 22:18] refactor(storage): extract reusable atomic widgets from storage
+- [2026-08-03 22:48] chore(core): update dependencies and cleanup unused imports in core
