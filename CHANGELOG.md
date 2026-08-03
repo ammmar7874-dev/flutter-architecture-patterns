@@ -3307,3 +3307,4 @@
 - [2026-08-03 15:34] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-03 15:36] refactor(core): decouple repository interface from concrete core service
 - [2026-08-03 16:09] feat(theme): add bi-directional event bus handler for theme
+- [2026-08-03 16:34] docs(forms): update readme and API contracts for forms
