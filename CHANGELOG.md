@@ -3314,3 +3314,4 @@
 - [2026-08-03 16:47] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-08-03 16:55] feat(forms): add input validation and sanitization for forms
 - [2026-08-03 17:19] style(storage): harmonize light and dark theme palette for storage
+- [2026-08-03 17:30] refactor(network): decouple repository interface from concrete network service
