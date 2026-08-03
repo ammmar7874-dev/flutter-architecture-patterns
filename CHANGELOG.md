@@ -3289,3 +3289,4 @@
 - [2026-08-02 22:19] feat(storage): add async storage stream provider
 - [2026-08-02 23:23] fix(forms): handle null assertion failure in forms parser
 - [2026-08-03 09:01] docs(cache): add detailed code comments and architecture guide for cache
+- [2026-08-03 09:05] fix(analytics): handle null assertion failure in analytics parser
