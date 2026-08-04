@@ -3361,3 +3361,4 @@
 - [2026-08-04 16:07] perf(theme): memoize expensive computations in theme
 - [2026-08-04 16:27] fix(core): correct layout constraints and overflow in core
 - [2026-08-04 17:01] test(ui): implement widget integration tests for ui
+- [2026-08-04 17:07] style(navigation): harmonize light and dark theme palette for navigation
