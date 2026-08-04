@@ -3371,3 +3371,4 @@
 - [2026-08-04 19:13] docs(forms): update readme and API contracts for forms
 - [2026-08-04 20:08] style(auth): adjust design tokens, typography, and contrast in auth
 - [2026-08-04 20:15] docs(forms): update readme and API contracts for forms
+- [2026-08-04 21:37] feat(auth): implement shimmer loading skeleton in auth
