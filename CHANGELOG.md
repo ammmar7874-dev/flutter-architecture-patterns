@@ -3346,3 +3346,4 @@
 - [2026-08-04 12:40] feat(network): implement responsive network view component
 - [2026-08-04 12:55] feat(forms): implement shimmer loading skeleton in forms
 - [2026-08-04 13:01] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-08-04 13:14] chore(navigation): update dependencies and cleanup unused imports in navigation
