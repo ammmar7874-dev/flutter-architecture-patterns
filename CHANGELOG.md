@@ -3373,3 +3373,4 @@
 - [2026-08-04 20:15] docs(forms): update readme and API contracts for forms
 - [2026-08-04 21:37] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-04 22:03] fix(core): resolve race condition during core initialization
+- [2026-08-04 22:31] feat(storage): add async storage stream provider
