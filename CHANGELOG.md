@@ -3359,3 +3359,4 @@
 - [2026-08-04 14:50] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-08-04 15:54] feat(analytics): implement responsive analytics view component
 - [2026-08-04 16:07] perf(theme): memoize expensive computations in theme
+- [2026-08-04 16:27] fix(core): correct layout constraints and overflow in core
