@@ -3374,3 +3374,4 @@
 - [2026-08-04 21:37] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-04 22:03] fix(core): resolve race condition during core initialization
 - [2026-08-04 22:31] feat(storage): add async storage stream provider
+- [2026-08-04 22:45] feat(navigation): implement shimmer loading skeleton in navigation
