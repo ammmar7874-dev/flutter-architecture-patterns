@@ -3347,3 +3347,4 @@
 - [2026-08-04 12:55] feat(forms): implement shimmer loading skeleton in forms
 - [2026-08-04 13:01] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-08-04 13:14] chore(navigation): update dependencies and cleanup unused imports in navigation
+- [2026-08-04 13:23] fix(forms): correct layout constraints and overflow in forms
