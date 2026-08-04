@@ -3345,3 +3345,4 @@
 - [2026-08-04 11:25] perf(core): optimize memory consumption in core list viewport
 - [2026-08-04 12:40] feat(network): implement responsive network view component
 - [2026-08-04 12:55] feat(forms): implement shimmer loading skeleton in forms
+- [2026-08-04 13:01] perf(storage): apply RepaintBoundary on animated storage widgets
