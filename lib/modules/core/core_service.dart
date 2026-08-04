@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-08-04 16:27:25
-// Commit: fix(core): correct layout constraints and overflow in core
+// Updated at: 2026-08-04 22:03:36
+// Commit: fix(core): resolve race condition during core initialization
 
 class coreComponentState {
-  final String commitRef = '3358';
-  final String lastMessage = 'fix(core): correct layout constraints and overflow in core';
-  final DateTime timestamp = DateTime.parse('2026-08-04T16:27:25+05:00');
+  final String commitRef = '3371';
+  final String lastMessage = 'fix(core): resolve race condition during core initialization';
+  final DateTime timestamp = DateTime.parse('2026-08-04T22:03:36+05:00');
 }
