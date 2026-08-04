@@ -3354,3 +3354,4 @@
 - [2026-08-04 14:20] fix(navigation): handle null assertion failure in navigation parser
 - [2026-08-04 14:35] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-04 14:37] refactor(network): migrate network controller to modern notifier syntax
+- [2026-08-04 14:40] fix(theme): resolve race condition during theme initialization
