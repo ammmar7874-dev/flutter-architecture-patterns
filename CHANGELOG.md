@@ -3356,3 +3356,4 @@
 - [2026-08-04 14:37] refactor(network): migrate network controller to modern notifier syntax
 - [2026-08-04 14:40] fix(theme): resolve race condition during theme initialization
 - [2026-08-04 14:44] feat(perf): implement responsive perf view component
+- [2026-08-04 14:50] fix(navigation): correct layout constraints and overflow in navigation
