@@ -3355,3 +3355,4 @@
 - [2026-08-04 14:35] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-04 14:37] refactor(network): migrate network controller to modern notifier syntax
 - [2026-08-04 14:40] fix(theme): resolve race condition during theme initialization
+- [2026-08-04 14:44] feat(perf): implement responsive perf view component
