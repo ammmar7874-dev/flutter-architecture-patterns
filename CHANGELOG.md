@@ -3418,3 +3418,4 @@
 - [2026-08-06 18:42] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-08-06 19:00] feat(storage): implement shimmer loading skeleton in storage
 - [2026-08-06 19:06] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-08-06 19:08] feat(analytics): integrate custom telemetry logger in analytics
