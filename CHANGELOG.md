@@ -3399,3 +3399,4 @@
 - [2026-08-06 14:08] perf(network): optimize memory consumption in network list viewport
 - [2026-08-06 14:22] docs(auth): add detailed code comments and architecture guide for auth
 - [2026-08-06 14:27] feat(network): integrate offline caching for network state
+- [2026-08-06 14:27] fix(navigation): fix memory leak by cancelling navigation subscription

@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-08-06 10:16:07
-// Commit: docs(navigation): add detailed code comments and architecture guide for navigation
+// Updated at: 2026-08-06 14:27:43
+// Commit: fix(navigation): fix memory leak by cancelling navigation subscription
 
 class navigationComponentState {
-  final String commitRef = '3379';
-  final String lastMessage = 'docs(navigation): add detailed code comments and architecture guide for navigation';
-  final DateTime timestamp = DateTime.parse('2026-08-06T10:16:07+05:00');
+  final String commitRef = '3398';
+  final String lastMessage = 'fix(navigation): fix memory leak by cancelling navigation subscription';
+  final DateTime timestamp = DateTime.parse('2026-08-06T14:27:43+05:00');
 }
