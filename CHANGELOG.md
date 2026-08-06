@@ -3436,3 +3436,4 @@
 - [2026-08-06 21:55] test(auth): add unit tests for auth business logic
 - [2026-08-06 22:32] refactor(perf): decouple repository interface from concrete perf service
 - [2026-08-06 22:49] fix(perf): correct layout constraints and overflow in perf
+- [2026-08-06 23:06] perf(storage): memoize expensive computations in storage
