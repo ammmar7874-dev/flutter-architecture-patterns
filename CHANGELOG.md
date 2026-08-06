@@ -3415,3 +3415,4 @@
 - [2026-08-06 18:14] feat(core): add bi-directional event bus handler for core
 - [2026-08-06 18:18] feat(forms): add async forms stream provider
 - [2026-08-06 18:21] perf(i18n): optimize memory consumption in i18n list viewport
+- [2026-08-06 18:42] refactor(storage): migrate storage controller to modern notifier syntax
