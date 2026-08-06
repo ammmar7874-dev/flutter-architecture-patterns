@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-08-06 18:18:40
-// Commit: feat(forms): add async forms stream provider
+// Updated at: 2026-08-06 19:06:24
+// Commit: fix(forms): fix memory leak by cancelling forms subscription
 
 class formsComponentState {
-  final String commitRef = '3412';
-  final String lastMessage = 'feat(forms): add async forms stream provider';
-  final DateTime timestamp = DateTime.parse('2026-08-06T18:18:40+05:00');
+  final String commitRef = '3416';
+  final String lastMessage = 'fix(forms): fix memory leak by cancelling forms subscription';
+  final DateTime timestamp = DateTime.parse('2026-08-06T19:06:24+05:00');
 }
