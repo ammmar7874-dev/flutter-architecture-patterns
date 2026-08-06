@@ -3383,3 +3383,4 @@
 - [2026-08-06 10:16] docs(navigation): add detailed code comments and architecture guide for navigation
 - [2026-08-06 10:41] feat(theme): add async theme stream provider
 - [2026-08-06 10:51] feat(auth): add input validation and sanitization for auth
+- [2026-08-06 11:18] feat(core): add bi-directional event bus handler for core
