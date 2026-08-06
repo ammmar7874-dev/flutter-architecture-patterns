@@ -3379,3 +3379,4 @@
 - [2026-08-06 09:08] chore(test): update dependencies and cleanup unused imports in test
 - [2026-08-06 09:35] fix(cache): handle null assertion failure in cache parser
 - [2026-08-06 09:40] feat(core): integrate custom telemetry logger in core
+- [2026-08-06 09:47] feat(ui): integrate offline caching for ui state
