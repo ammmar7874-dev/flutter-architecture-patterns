@@ -3429,3 +3429,4 @@
 - [2026-08-06 20:58] fix(security): prevent double tap duplicate action in security
 - [2026-08-06 21:04] docs(core): update readme and API contracts for core
 - [2026-08-06 21:13] fix(test): prevent double tap duplicate action in test
+- [2026-08-06 21:24] perf(network): apply RepaintBoundary on animated network widgets
