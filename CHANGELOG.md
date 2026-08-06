@@ -3412,3 +3412,4 @@
 - [2026-08-06 17:42] docs(state): add detailed code comments and architecture guide for state
 - [2026-08-06 17:45] fix(state): handle null assertion failure in state parser
 - [2026-08-06 18:13] chore(network): update dependencies and cleanup unused imports in network
+- [2026-08-06 18:14] feat(core): add bi-directional event bus handler for core
