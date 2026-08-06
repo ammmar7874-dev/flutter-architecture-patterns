@@ -3424,3 +3424,4 @@
 - [2026-08-06 19:49] fix(forms): fix memory leak by cancelling forms subscription
 - [2026-08-06 19:51] fix(security): handle null assertion failure in security parser
 - [2026-08-06 19:56] feat(forms): implement shimmer loading skeleton in forms
+- [2026-08-06 20:00] fix(storage): resolve race condition during storage initialization
