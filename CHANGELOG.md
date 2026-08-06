@@ -3397,3 +3397,4 @@
 - [2026-08-06 13:31] feat(cache): integrate offline caching for cache state
 - [2026-08-06 13:41] test(network): add unit tests for network business logic
 - [2026-08-06 14:08] perf(network): optimize memory consumption in network list viewport
+- [2026-08-06 14:22] docs(auth): add detailed code comments and architecture guide for auth
