@@ -3416,3 +3416,4 @@
 - [2026-08-06 18:18] feat(forms): add async forms stream provider
 - [2026-08-06 18:21] perf(i18n): optimize memory consumption in i18n list viewport
 - [2026-08-06 18:42] refactor(storage): migrate storage controller to modern notifier syntax
+- [2026-08-06 19:00] feat(storage): implement shimmer loading skeleton in storage
