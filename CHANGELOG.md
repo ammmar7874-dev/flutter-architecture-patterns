@@ -3390,3 +3390,4 @@
 - [2026-08-06 11:50] feat(storage): integrate offline caching for storage state
 - [2026-08-06 12:09] feat(storage): add bi-directional event bus handler for storage
 - [2026-08-06 12:10] fix(perf): handle null assertion failure in perf parser
+- [2026-08-06 12:12] feat(security): integrate offline caching for security state
