@@ -3377,3 +3377,4 @@
 - [2026-08-04 22:45] feat(navigation): implement shimmer loading skeleton in navigation
 - [2026-08-04 22:55] perf(security): memoize expensive computations in security
 - [2026-08-06 09:08] chore(test): update dependencies and cleanup unused imports in test
+- [2026-08-06 09:35] fix(cache): handle null assertion failure in cache parser
