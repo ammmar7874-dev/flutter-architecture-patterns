@@ -3402,3 +3402,4 @@
 - [2026-08-06 14:27] fix(navigation): fix memory leak by cancelling navigation subscription
 - [2026-08-06 14:51] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-06 14:53] fix(storage): correct layout constraints and overflow in storage
+- [2026-08-06 16:03] refactor(state): migrate state controller to modern notifier syntax
