@@ -3411,3 +3411,4 @@
 - [2026-08-06 17:37] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-08-06 17:42] docs(state): add detailed code comments and architecture guide for state
 - [2026-08-06 17:45] fix(state): handle null assertion failure in state parser
+- [2026-08-06 18:13] chore(network): update dependencies and cleanup unused imports in network
