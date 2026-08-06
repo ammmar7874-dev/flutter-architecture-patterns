@@ -3426,3 +3426,4 @@
 - [2026-08-06 19:56] feat(forms): implement shimmer loading skeleton in forms
 - [2026-08-06 20:00] fix(storage): resolve race condition during storage initialization
 - [2026-08-06 20:34] style(core): adjust design tokens, typography, and contrast in core
+- [2026-08-06 20:58] fix(security): prevent double tap duplicate action in security
