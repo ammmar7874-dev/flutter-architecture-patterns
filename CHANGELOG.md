@@ -3381,3 +3381,4 @@
 - [2026-08-06 09:40] feat(core): integrate custom telemetry logger in core
 - [2026-08-06 09:47] feat(ui): integrate offline caching for ui state
 - [2026-08-06 10:16] docs(navigation): add detailed code comments and architecture guide for navigation
+- [2026-08-06 10:41] feat(theme): add async theme stream provider
