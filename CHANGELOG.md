@@ -3420,3 +3420,4 @@
 - [2026-08-06 19:06] fix(forms): fix memory leak by cancelling forms subscription
 - [2026-08-06 19:08] feat(analytics): integrate custom telemetry logger in analytics
 - [2026-08-06 19:20] refactor(state): optimize data flow between domain and data layers
+- [2026-08-06 19:30] chore(perf): update dependencies and cleanup unused imports in perf
