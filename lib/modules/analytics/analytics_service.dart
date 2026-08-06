@@ -1,9 +1,9 @@
 ﻿// Module: analytics
-// Updated at: 2026-08-06 11:29:43
-// Commit: refactor(analytics): extract reusable atomic widgets from analytics
+// Updated at: 2026-08-06 16:14:07
+// Commit: refactor(analytics): migrate analytics controller to modern notifier syntax
 
 class analyticsComponentState {
-  final String commitRef = '3383';
-  final String lastMessage = 'refactor(analytics): extract reusable atomic widgets from analytics';
-  final DateTime timestamp = DateTime.parse('2026-08-06T11:29:43+05:00');
+  final String commitRef = '3402';
+  final String lastMessage = 'refactor(analytics): migrate analytics controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-08-06T16:14:07+05:00');
 }
