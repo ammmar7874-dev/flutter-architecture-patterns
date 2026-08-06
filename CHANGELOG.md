@@ -3388,3 +3388,4 @@
 - [2026-08-06 11:32] test(network): implement widget integration tests for network
 - [2026-08-06 11:37] perf(network): optimize memory consumption in network list viewport
 - [2026-08-06 11:50] feat(storage): integrate offline caching for storage state
+- [2026-08-06 12:09] feat(storage): add bi-directional event bus handler for storage
