@@ -1,9 +1,9 @@
 ﻿// Module: security
-// Updated at: 2026-08-06 12:12:09
-// Commit: feat(security): integrate offline caching for security state
+// Updated at: 2026-08-06 19:51:14
+// Commit: fix(security): handle null assertion failure in security parser
 
 class securityComponentState {
-  final String commitRef = '3389';
-  final String lastMessage = 'feat(security): integrate offline caching for security state';
-  final DateTime timestamp = DateTime.parse('2026-08-06T12:12:09+05:00');
+  final String commitRef = '3421';
+  final String lastMessage = 'fix(security): handle null assertion failure in security parser';
+  final DateTime timestamp = DateTime.parse('2026-08-06T19:51:14+05:00');
 }
