@@ -3408,3 +3408,4 @@
 - [2026-08-06 16:48] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-08-06 16:52] feat(auth): add async auth stream provider
 - [2026-08-06 17:23] refactor(cache): optimize data flow between domain and data layers
+- [2026-08-06 17:37] fix(i18n): correct layout constraints and overflow in i18n
