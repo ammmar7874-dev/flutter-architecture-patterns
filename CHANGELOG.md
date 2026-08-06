@@ -3405,3 +3405,4 @@
 - [2026-08-06 16:03] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-06 16:14] refactor(analytics): migrate analytics controller to modern notifier syntax
 - [2026-08-06 16:31] refactor(analytics): extract reusable atomic widgets from analytics
+- [2026-08-06 16:48] style(ui): adjust design tokens, typography, and contrast in ui
