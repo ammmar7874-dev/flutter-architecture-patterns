@@ -3449,3 +3449,4 @@
 - [2026-08-07 19:52] fix(storage): correct layout constraints and overflow in storage
 - [2026-08-07 20:46] refactor(forms): optimize data flow between domain and data layers
 - [2026-08-07 21:23] refactor(analytics): optimize data flow between domain and data layers
+- [2026-08-07 21:59] perf(i18n): apply RepaintBoundary on animated i18n widgets
