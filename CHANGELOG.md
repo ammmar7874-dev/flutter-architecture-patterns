@@ -3445,3 +3445,4 @@
 - [2026-08-07 11:47] test(auth): add unit tests for auth business logic
 - [2026-08-07 16:25] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-07 18:24] refactor(auth): migrate auth controller to modern notifier syntax
+- [2026-08-07 19:30] feat(auth): implement responsive auth view component
