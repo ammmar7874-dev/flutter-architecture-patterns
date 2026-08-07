@@ -3441,3 +3441,4 @@
 - [2026-08-07 10:12] test(navigation): add unit tests for navigation business logic
 - [2026-08-07 10:21] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-07 10:37] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-08-07 11:38] perf(storage): apply RepaintBoundary on animated storage widgets
