@@ -3447,3 +3447,4 @@
 - [2026-08-07 18:24] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-08-07 19:30] feat(auth): implement responsive auth view component
 - [2026-08-07 19:52] fix(storage): correct layout constraints and overflow in storage
+- [2026-08-07 20:46] refactor(forms): optimize data flow between domain and data layers
