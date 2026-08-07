@@ -3446,3 +3446,4 @@
 - [2026-08-07 16:25] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-07 18:24] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-08-07 19:30] feat(auth): implement responsive auth view component
+- [2026-08-07 19:52] fix(storage): correct layout constraints and overflow in storage
