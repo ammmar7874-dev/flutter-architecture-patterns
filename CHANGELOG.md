@@ -3442,3 +3442,4 @@
 - [2026-08-07 10:21] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-07 10:37] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-08-07 11:38] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-08-07 11:47] test(auth): add unit tests for auth business logic
