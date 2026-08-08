@@ -3475,3 +3475,4 @@
 - [2026-08-08 15:02] docs(state): add detailed code comments and architecture guide for state
 - [2026-08-08 15:14] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-08-08 16:00] refactor(forms): optimize data flow between domain and data layers
+- [2026-08-08 17:09] feat(core): add input validation and sanitization for core
