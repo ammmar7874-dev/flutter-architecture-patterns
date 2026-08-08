@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-08-08 14:23:17
-// Commit: fix(auth): correct layout constraints and overflow in auth
+// Updated at: 2026-08-08 21:34:42
+// Commit: fix(auth): handle null assertion failure in auth parser
 
 class authComponentState {
-  final String commitRef = '3467';
-  final String lastMessage = 'fix(auth): correct layout constraints and overflow in auth';
-  final DateTime timestamp = DateTime.parse('2026-08-08T14:23:17+05:00');
+  final String commitRef = '3487';
+  final String lastMessage = 'fix(auth): handle null assertion failure in auth parser';
+  final DateTime timestamp = DateTime.parse('2026-08-08T21:34:42+05:00');
 }
