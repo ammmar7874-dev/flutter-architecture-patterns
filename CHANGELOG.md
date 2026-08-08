@@ -3469,3 +3469,4 @@
 - [2026-08-08 13:52] docs(ui): add detailed code comments and architecture guide for ui
 - [2026-08-08 14:20] feat(network): add async network stream provider
 - [2026-08-08 14:23] fix(auth): correct layout constraints and overflow in auth
+- [2026-08-08 14:25] fix(test): fix memory leak by cancelling test subscription
