@@ -3482,3 +3482,4 @@
 - [2026-08-08 17:56] docs(state): add detailed code comments and architecture guide for state
 - [2026-08-08 18:00] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-08-08 18:02] perf(analytics): memoize expensive computations in analytics
+- [2026-08-08 18:09] fix(navigation): prevent double tap duplicate action in navigation
