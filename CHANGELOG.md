@@ -3455,3 +3455,4 @@
 - [2026-08-08 09:59] test(cache): add unit tests for cache business logic
 - [2026-08-08 10:29] feat(navigation): add input validation and sanitization for navigation
 - [2026-08-08 10:35] fix(forms): resolve race condition during forms initialization
+- [2026-08-08 11:38] fix(i18n): fix memory leak by cancelling i18n subscription
