@@ -3490,3 +3490,4 @@
 - [2026-08-08 21:08] perf(network): optimize memory consumption in network list viewport
 - [2026-08-08 21:34] fix(auth): handle null assertion failure in auth parser
 - [2026-08-08 22:12] chore(forms): update dependencies and cleanup unused imports in forms
+- [2026-08-08 23:04] chore(perf): update dependencies and cleanup unused imports in perf
