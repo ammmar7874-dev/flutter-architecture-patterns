@@ -3463,3 +3463,4 @@
 - [2026-08-08 12:13] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-08-08 12:25] feat(perf): add bi-directional event bus handler for perf
 - [2026-08-08 12:34] style(navigation): adjust design tokens, typography, and contrast in navigation
+- [2026-08-08 13:07] fix(ui): fix memory leak by cancelling ui subscription
