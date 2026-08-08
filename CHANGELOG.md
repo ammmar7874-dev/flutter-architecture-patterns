@@ -3489,3 +3489,4 @@
 - [2026-08-08 20:52] feat(core): integrate offline caching for core state
 - [2026-08-08 21:08] perf(network): optimize memory consumption in network list viewport
 - [2026-08-08 21:34] fix(auth): handle null assertion failure in auth parser
+- [2026-08-08 22:12] chore(forms): update dependencies and cleanup unused imports in forms
