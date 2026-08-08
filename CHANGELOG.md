@@ -3471,3 +3471,4 @@
 - [2026-08-08 14:23] fix(auth): correct layout constraints and overflow in auth
 - [2026-08-08 14:25] fix(test): fix memory leak by cancelling test subscription
 - [2026-08-08 14:33] style(security): harmonize light and dark theme palette for security
+- [2026-08-08 14:43] perf(state): apply RepaintBoundary on animated state widgets
