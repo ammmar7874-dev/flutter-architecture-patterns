@@ -3457,3 +3457,4 @@
 - [2026-08-08 10:35] fix(forms): resolve race condition during forms initialization
 - [2026-08-08 11:38] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-08-08 11:42] perf(theme): optimize memory consumption in theme list viewport
+- [2026-08-08 11:48] feat(i18n): add input validation and sanitization for i18n
