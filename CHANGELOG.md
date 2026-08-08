@@ -3480,3 +3480,4 @@
 - [2026-08-08 17:35] refactor(state): decouple repository interface from concrete state service
 - [2026-08-08 17:52] refactor(state): extract reusable atomic widgets from state
 - [2026-08-08 17:56] docs(state): add detailed code comments and architecture guide for state
+- [2026-08-08 18:00] fix(theme): fix memory leak by cancelling theme subscription
