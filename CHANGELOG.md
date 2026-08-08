@@ -3473,3 +3473,4 @@
 - [2026-08-08 14:33] style(security): harmonize light and dark theme palette for security
 - [2026-08-08 14:43] perf(state): apply RepaintBoundary on animated state widgets
 - [2026-08-08 15:02] docs(state): add detailed code comments and architecture guide for state
+- [2026-08-08 15:14] fix(i18n): prevent double tap duplicate action in i18n
