@@ -3460,3 +3460,4 @@
 - [2026-08-08 11:48] feat(i18n): add input validation and sanitization for i18n
 - [2026-08-08 11:55] refactor(navigation): optimize data flow between domain and data layers
 - [2026-08-08 12:02] feat(forms): implement responsive forms view component
+- [2026-08-08 12:13] perf(forms): apply RepaintBoundary on animated forms widgets
