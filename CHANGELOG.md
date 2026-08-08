@@ -3487,3 +3487,4 @@
 - [2026-08-08 19:36] fix(perf): handle null assertion failure in perf parser
 - [2026-08-08 20:47] refactor(security): optimize data flow between domain and data layers
 - [2026-08-08 20:52] feat(core): integrate offline caching for core state
+- [2026-08-08 21:08] perf(network): optimize memory consumption in network list viewport
