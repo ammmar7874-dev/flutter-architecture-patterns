@@ -3483,3 +3483,4 @@
 - [2026-08-08 18:00] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-08-08 18:02] perf(analytics): memoize expensive computations in analytics
 - [2026-08-08 18:09] fix(navigation): prevent double tap duplicate action in navigation
+- [2026-08-08 18:48] refactor(cache): optimize data flow between domain and data layers
