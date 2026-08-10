@@ -3499,3 +3499,4 @@
 - [2026-08-10 11:44] refactor(cache): optimize data flow between domain and data layers
 - [2026-08-10 12:29] perf(analytics): memoize expensive computations in analytics
 - [2026-08-10 12:30] perf(core): memoize expensive computations in core
+- [2026-08-10 12:33] chore(auth): update dependencies and cleanup unused imports in auth
