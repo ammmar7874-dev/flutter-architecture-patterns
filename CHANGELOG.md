@@ -3503,3 +3503,4 @@
 - [2026-08-10 12:56] fix(state): handle null assertion failure in state parser
 - [2026-08-10 13:39] feat(forms): integrate custom telemetry logger in forms
 - [2026-08-10 13:40] fix(theme): prevent double tap duplicate action in theme
+- [2026-08-10 16:08] perf(cache): memoize expensive computations in cache
