@@ -3491,3 +3491,4 @@
 - [2026-08-08 21:34] fix(auth): handle null assertion failure in auth parser
 - [2026-08-08 22:12] chore(forms): update dependencies and cleanup unused imports in forms
 - [2026-08-08 23:04] chore(perf): update dependencies and cleanup unused imports in perf
+- [2026-08-10 10:11] perf(theme): apply RepaintBoundary on animated theme widgets
