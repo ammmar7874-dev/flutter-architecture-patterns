@@ -3495,3 +3495,4 @@
 - [2026-08-10 10:14] fix(storage): handle null assertion failure in storage parser
 - [2026-08-10 10:21] fix(cache): correct layout constraints and overflow in cache
 - [2026-08-10 10:25] style(analytics): harmonize light and dark theme palette for analytics
+- [2026-08-10 10:38] fix(network): handle null assertion failure in network parser
