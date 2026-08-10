@@ -3512,3 +3512,4 @@
 - [2026-08-10 20:33] style(cache): adjust design tokens, typography, and contrast in cache
 - [2026-08-10 20:37] fix(i18n): resolve race condition during i18n initialization
 - [2026-08-10 21:58] fix(i18n): resolve race condition during i18n initialization
+- [2026-08-10 22:35] docs(test): add detailed code comments and architecture guide for test
