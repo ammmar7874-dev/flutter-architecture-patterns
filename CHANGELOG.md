@@ -3501,3 +3501,4 @@
 - [2026-08-10 12:30] perf(core): memoize expensive computations in core
 - [2026-08-10 12:33] chore(auth): update dependencies and cleanup unused imports in auth
 - [2026-08-10 12:56] fix(state): handle null assertion failure in state parser
+- [2026-08-10 13:39] feat(forms): integrate custom telemetry logger in forms
