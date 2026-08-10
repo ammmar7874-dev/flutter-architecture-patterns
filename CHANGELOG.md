@@ -3506,3 +3506,4 @@
 - [2026-08-10 16:08] perf(cache): memoize expensive computations in cache
 - [2026-08-10 16:44] feat(perf): add bi-directional event bus handler for perf
 - [2026-08-10 18:42] refactor(ui): migrate ui controller to modern notifier syntax
+- [2026-08-10 19:41] feat(perf): implement responsive perf view component
