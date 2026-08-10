@@ -3508,3 +3508,4 @@
 - [2026-08-10 18:42] refactor(ui): migrate ui controller to modern notifier syntax
 - [2026-08-10 19:41] feat(perf): implement responsive perf view component
 - [2026-08-10 20:18] fix(theme): correct layout constraints and overflow in theme
+- [2026-08-10 20:31] feat(state): implement shimmer loading skeleton in state
