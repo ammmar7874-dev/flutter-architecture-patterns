@@ -3493,3 +3493,4 @@
 - [2026-08-08 23:04] chore(perf): update dependencies and cleanup unused imports in perf
 - [2026-08-10 10:11] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-08-10 10:14] fix(storage): handle null assertion failure in storage parser
+- [2026-08-10 10:21] fix(cache): correct layout constraints and overflow in cache
