@@ -3505,3 +3505,4 @@
 - [2026-08-10 13:40] fix(theme): prevent double tap duplicate action in theme
 - [2026-08-10 16:08] perf(cache): memoize expensive computations in cache
 - [2026-08-10 16:44] feat(perf): add bi-directional event bus handler for perf
+- [2026-08-10 18:42] refactor(ui): migrate ui controller to modern notifier syntax
