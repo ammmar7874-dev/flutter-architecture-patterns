@@ -3520,3 +3520,4 @@
 - [2026-08-11 10:19] feat(state): integrate offline caching for state state
 - [2026-08-11 10:26] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-08-11 10:46] fix(cache): fix memory leak by cancelling cache subscription
+- [2026-08-11 11:02] refactor(security): optimize data flow between domain and data layers
