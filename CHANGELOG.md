@@ -3550,3 +3550,4 @@
 - [2026-08-11 20:11] refactor(navigation): optimize data flow between domain and data layers
 - [2026-08-11 20:49] test(network): implement widget integration tests for network
 - [2026-08-11 21:24] chore(state): update dependencies and cleanup unused imports in state
+- [2026-08-11 21:45] refactor(theme): migrate theme controller to modern notifier syntax
