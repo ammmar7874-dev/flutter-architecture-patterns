@@ -3524,3 +3524,4 @@
 - [2026-08-11 11:16] docs(analytics): add detailed code comments and architecture guide for analytics
 - [2026-08-11 11:17] refactor(security): optimize data flow between domain and data layers
 - [2026-08-11 11:33] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-08-11 11:36] refactor(i18n): migrate i18n controller to modern notifier syntax
