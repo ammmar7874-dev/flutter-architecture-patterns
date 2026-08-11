@@ -3526,3 +3526,4 @@
 - [2026-08-11 11:33] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-08-11 11:36] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-08-11 13:40] perf(state): optimize memory consumption in state list viewport
+- [2026-08-11 13:50] refactor(state): optimize data flow between domain and data layers
