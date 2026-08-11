@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-08-10 10:14:35
-// Commit: fix(storage): handle null assertion failure in storage parser
+// Updated at: 2026-08-11 15:03:53
+// Commit: chore(storage): update dependencies and cleanup unused imports in storage
 
 class storageComponentState {
-  final String commitRef = '3491';
-  final String lastMessage = 'fix(storage): handle null assertion failure in storage parser';
-  final DateTime timestamp = DateTime.parse('2026-08-10T10:14:35+05:00');
+  final String commitRef = '3528';
+  final String lastMessage = 'chore(storage): update dependencies and cleanup unused imports in storage';
+  final DateTime timestamp = DateTime.parse('2026-08-11T15:03:53+05:00');
 }

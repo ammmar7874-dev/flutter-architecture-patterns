@@ -3529,3 +3529,4 @@
 - [2026-08-11 13:50] refactor(state): optimize data flow between domain and data layers
 - [2026-08-11 14:25] fix(navigation): correct layout constraints and overflow in navigation
 - [2026-08-11 14:44] fix(core): prevent double tap duplicate action in core
+- [2026-08-11 15:03] chore(storage): update dependencies and cleanup unused imports in storage
