@@ -3544,3 +3544,4 @@
 - [2026-08-11 17:53] style(core): harmonize light and dark theme palette for core
 - [2026-08-11 18:00] refactor(i18n): migrate i18n controller to modern notifier syntax
 - [2026-08-11 18:46] feat(forms): integrate offline caching for forms state
+- [2026-08-11 19:04] chore(state): update dependencies and cleanup unused imports in state
