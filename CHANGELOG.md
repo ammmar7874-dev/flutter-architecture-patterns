@@ -3555,3 +3555,4 @@
 - [2026-08-11 22:12] fix(theme): prevent double tap duplicate action in theme
 - [2026-08-11 22:18] test(theme): implement widget integration tests for theme
 - [2026-08-11 22:33] feat(analytics): add async analytics stream provider
+- [2026-08-11 22:44] perf(test): optimize memory consumption in test list viewport
