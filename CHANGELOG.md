@@ -3518,3 +3518,4 @@
 - [2026-08-11 10:11] style(state): adjust design tokens, typography, and contrast in state
 - [2026-08-11 10:13] perf(security): optimize memory consumption in security list viewport
 - [2026-08-11 10:19] feat(state): integrate offline caching for state state
+- [2026-08-11 10:26] refactor(theme): migrate theme controller to modern notifier syntax
