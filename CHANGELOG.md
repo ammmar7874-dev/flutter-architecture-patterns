@@ -3541,3 +3541,4 @@
 - [2026-08-11 17:15] feat(storage): add async storage stream provider
 - [2026-08-11 17:45] perf(analytics): memoize expensive computations in analytics
 - [2026-08-11 17:49] feat(theme): add input validation and sanitization for theme
+- [2026-08-11 17:53] style(core): harmonize light and dark theme palette for core
