@@ -3528,3 +3528,4 @@
 - [2026-08-11 13:40] perf(state): optimize memory consumption in state list viewport
 - [2026-08-11 13:50] refactor(state): optimize data flow between domain and data layers
 - [2026-08-11 14:25] fix(navigation): correct layout constraints and overflow in navigation
+- [2026-08-11 14:44] fix(core): prevent double tap duplicate action in core
