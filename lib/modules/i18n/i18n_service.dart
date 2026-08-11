@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-08-11 16:40:35
-// Commit: fix(i18n): correct layout constraints and overflow in i18n
+// Updated at: 2026-08-11 18:00:34
+// Commit: refactor(i18n): migrate i18n controller to modern notifier syntax
 
 class i18nComponentState {
-  final String commitRef = '3535';
-  final String lastMessage = 'fix(i18n): correct layout constraints and overflow in i18n';
-  final DateTime timestamp = DateTime.parse('2026-08-11T16:40:35+05:00');
+  final String commitRef = '3541';
+  final String lastMessage = 'refactor(i18n): migrate i18n controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-08-11T18:00:34+05:00');
 }
