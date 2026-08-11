@@ -3539,3 +3539,4 @@
 - [2026-08-11 16:40] fix(i18n): correct layout constraints and overflow in i18n
 - [2026-08-11 17:04] fix(core): handle null assertion failure in core parser
 - [2026-08-11 17:15] feat(storage): add async storage stream provider
+- [2026-08-11 17:45] perf(analytics): memoize expensive computations in analytics
