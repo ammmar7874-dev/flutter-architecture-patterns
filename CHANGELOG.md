@@ -3556,3 +3556,4 @@
 - [2026-08-11 22:18] test(theme): implement widget integration tests for theme
 - [2026-08-11 22:33] feat(analytics): add async analytics stream provider
 - [2026-08-11 22:44] perf(test): optimize memory consumption in test list viewport
+- [2026-08-11 22:51] feat(auth): integrate offline caching for auth state
