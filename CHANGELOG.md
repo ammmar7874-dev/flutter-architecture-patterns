@@ -3514,3 +3514,4 @@
 - [2026-08-10 21:58] fix(i18n): resolve race condition during i18n initialization
 - [2026-08-10 22:35] docs(test): add detailed code comments and architecture guide for test
 - [2026-08-10 23:18] refactor(forms): decouple repository interface from concrete forms service
+- [2026-08-11 09:25] fix(navigation): fix memory leak by cancelling navigation subscription
