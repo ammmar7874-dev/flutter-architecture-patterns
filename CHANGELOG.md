@@ -3579,3 +3579,4 @@
 - [2026-08-13 13:48] fix(core): prevent double tap duplicate action in core
 - [2026-08-13 14:22] docs(security): update readme and API contracts for security
 - [2026-08-13 14:42] perf(theme): apply RepaintBoundary on animated theme widgets
+- [2026-08-13 14:52] feat(perf): add input validation and sanitization for perf
