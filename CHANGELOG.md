@@ -3600,3 +3600,4 @@
 - [2026-08-13 20:23] chore(i18n): update dependencies and cleanup unused imports in i18n
 - [2026-08-13 20:33] feat(cache): implement shimmer loading skeleton in cache
 - [2026-08-13 21:42] test(storage): add unit tests for storage business logic
+- [2026-08-13 22:13] feat(core): add input validation and sanitization for core
