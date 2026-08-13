@@ -3601,3 +3601,4 @@
 - [2026-08-13 20:33] feat(cache): implement shimmer loading skeleton in cache
 - [2026-08-13 21:42] test(storage): add unit tests for storage business logic
 - [2026-08-13 22:13] feat(core): add input validation and sanitization for core
+- [2026-08-13 22:48] docs(test): add detailed code comments and architecture guide for test
