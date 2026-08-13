@@ -3582,3 +3582,4 @@
 - [2026-08-13 14:52] feat(perf): add input validation and sanitization for perf
 - [2026-08-13 16:09] refactor(core): optimize data flow between domain and data layers
 - [2026-08-13 16:28] feat(cache): integrate offline caching for cache state
+- [2026-08-13 16:35] feat(navigation): add bi-directional event bus handler for navigation
