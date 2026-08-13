@@ -3591,3 +3591,4 @@
 - [2026-08-13 17:33] feat(theme): add input validation and sanitization for theme
 - [2026-08-13 17:40] style(network): adjust design tokens, typography, and contrast in network
 - [2026-08-13 18:22] refactor(storage): decouple repository interface from concrete storage service
+- [2026-08-13 19:02] test(auth): add unit tests for auth business logic
