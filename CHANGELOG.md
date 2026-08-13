@@ -3565,3 +3565,4 @@
 - [2026-08-13 10:09] style(ui): adjust design tokens, typography, and contrast in ui
 - [2026-08-13 10:25] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-08-13 10:33] feat(theme): integrate offline caching for theme state
+- [2026-08-13 10:33] test(navigation): implement widget integration tests for navigation
