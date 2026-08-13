@@ -3580,3 +3580,4 @@
 - [2026-08-13 14:22] docs(security): update readme and API contracts for security
 - [2026-08-13 14:42] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-08-13 14:52] feat(perf): add input validation and sanitization for perf
+- [2026-08-13 16:09] refactor(core): optimize data flow between domain and data layers
