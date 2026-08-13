@@ -3594,3 +3594,4 @@
 - [2026-08-13 19:02] test(auth): add unit tests for auth business logic
 - [2026-08-13 19:02] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-08-13 19:23] refactor(theme): migrate theme controller to modern notifier syntax
+- [2026-08-13 19:26] docs(i18n): add detailed code comments and architecture guide for i18n
