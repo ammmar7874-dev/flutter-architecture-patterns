@@ -3596,3 +3596,4 @@
 - [2026-08-13 19:23] refactor(theme): migrate theme controller to modern notifier syntax
 - [2026-08-13 19:26] docs(i18n): add detailed code comments and architecture guide for i18n
 - [2026-08-13 19:45] perf(ui): optimize memory consumption in ui list viewport
+- [2026-08-13 20:07] refactor(test): decouple repository interface from concrete test service
