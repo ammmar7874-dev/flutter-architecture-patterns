@@ -3572,3 +3572,4 @@
 - [2026-08-13 12:12] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-13 12:25] fix(analytics): handle null assertion failure in analytics parser
 - [2026-08-13 12:26] test(navigation): add unit tests for navigation business logic
+- [2026-08-13 12:53] perf(security): apply RepaintBoundary on animated security widgets
