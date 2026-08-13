@@ -3588,3 +3588,4 @@
 - [2026-08-13 17:01] refactor(auth): decouple repository interface from concrete auth service
 - [2026-08-13 17:08] feat(core): add input validation and sanitization for core
 - [2026-08-13 17:09] refactor(forms): optimize data flow between domain and data layers
+- [2026-08-13 17:33] feat(theme): add input validation and sanitization for theme
