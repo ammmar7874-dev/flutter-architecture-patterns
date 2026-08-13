@@ -3570,3 +3570,4 @@
 - [2026-08-13 11:09] fix(perf): correct layout constraints and overflow in perf
 - [2026-08-13 11:49] style(test): adjust design tokens, typography, and contrast in test
 - [2026-08-13 12:12] fix(cache): prevent double tap duplicate action in cache
+- [2026-08-13 12:25] fix(analytics): handle null assertion failure in analytics parser
