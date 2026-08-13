@@ -3576,3 +3576,4 @@
 - [2026-08-13 12:57] feat(i18n): implement responsive i18n view component
 - [2026-08-13 13:22] refactor(network): extract reusable atomic widgets from network
 - [2026-08-13 13:38] style(perf): adjust design tokens, typography, and contrast in perf
+- [2026-08-13 13:48] fix(core): prevent double tap duplicate action in core
