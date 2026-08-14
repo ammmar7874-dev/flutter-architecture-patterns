@@ -3606,3 +3606,4 @@
 - [2026-08-13 23:29] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-14 11:17] fix(perf): correct layout constraints and overflow in perf
 - [2026-08-14 11:32] feat(navigation): add async navigation stream provider
+- [2026-08-14 12:30] feat(test): integrate custom telemetry logger in test
