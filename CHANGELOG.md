@@ -3616,3 +3616,4 @@
 - [2026-08-14 16:27] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-08-14 16:28] perf(state): memoize expensive computations in state
 - [2026-08-14 16:34] feat(state): add async state stream provider
+- [2026-08-14 16:48] feat(cache): integrate custom telemetry logger in cache
