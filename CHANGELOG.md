@@ -3619,3 +3619,4 @@
 - [2026-08-14 16:48] feat(cache): integrate custom telemetry logger in cache
 - [2026-08-14 18:03] style(state): harmonize light and dark theme palette for state
 - [2026-08-14 18:08] fix(network): fix memory leak by cancelling network subscription
+- [2026-08-14 19:48] chore(i18n): update dependencies and cleanup unused imports in i18n
