@@ -3611,3 +3611,4 @@
 - [2026-08-14 14:51] feat(state): implement shimmer loading skeleton in state
 - [2026-08-14 15:25] fix(forms): correct layout constraints and overflow in forms
 - [2026-08-14 15:28] feat(network): integrate custom telemetry logger in network
+- [2026-08-14 15:38] refactor(navigation): decouple repository interface from concrete navigation service
