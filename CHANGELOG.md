@@ -3614,3 +3614,4 @@
 - [2026-08-14 15:38] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-08-14 16:18] fix(core): resolve race condition during core initialization
 - [2026-08-14 16:27] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-08-14 16:28] perf(state): memoize expensive computations in state
