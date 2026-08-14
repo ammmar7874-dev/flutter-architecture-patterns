@@ -3618,3 +3618,4 @@
 - [2026-08-14 16:34] feat(state): add async state stream provider
 - [2026-08-14 16:48] feat(cache): integrate custom telemetry logger in cache
 - [2026-08-14 18:03] style(state): harmonize light and dark theme palette for state
+- [2026-08-14 18:08] fix(network): fix memory leak by cancelling network subscription
