@@ -3613,3 +3613,4 @@
 - [2026-08-14 15:28] feat(network): integrate custom telemetry logger in network
 - [2026-08-14 15:38] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-08-14 16:18] fix(core): resolve race condition during core initialization
+- [2026-08-14 16:27] perf(storage): apply RepaintBoundary on animated storage widgets
