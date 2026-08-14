@@ -3604,3 +3604,4 @@
 - [2026-08-13 22:48] docs(test): add detailed code comments and architecture guide for test
 - [2026-08-13 23:20] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-08-13 23:29] fix(cache): prevent double tap duplicate action in cache
+- [2026-08-14 11:17] fix(perf): correct layout constraints and overflow in perf
