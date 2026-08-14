@@ -3608,3 +3608,4 @@
 - [2026-08-14 11:32] feat(navigation): add async navigation stream provider
 - [2026-08-14 12:30] feat(test): integrate custom telemetry logger in test
 - [2026-08-14 12:32] feat(auth): add bi-directional event bus handler for auth
+- [2026-08-14 14:51] feat(state): implement shimmer loading skeleton in state
