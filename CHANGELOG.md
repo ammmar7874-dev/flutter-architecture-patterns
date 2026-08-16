@@ -3651,3 +3651,4 @@
 - [2026-08-16 17:57] style(forms): harmonize light and dark theme palette for forms
 - [2026-08-16 18:19] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-16 18:35] feat(navigation): integrate offline caching for navigation state
+- [2026-08-16 18:38] docs(auth): update readme and API contracts for auth
