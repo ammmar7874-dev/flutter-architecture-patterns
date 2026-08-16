@@ -3638,3 +3638,4 @@
 - [2026-08-16 11:07] perf(security): memoize expensive computations in security
 - [2026-08-16 11:16] test(test): implement widget integration tests for test
 - [2026-08-16 11:51] docs(state): update readme and API contracts for state
+- [2026-08-16 12:08] feat(network): integrate offline caching for network state
