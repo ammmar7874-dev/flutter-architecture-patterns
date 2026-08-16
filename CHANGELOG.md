@@ -3624,3 +3624,4 @@
 - [2026-08-14 21:20] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-08-14 21:39] refactor(navigation): extract reusable atomic widgets from navigation
 - [2026-08-14 22:31] refactor(theme): extract reusable atomic widgets from theme
+- [2026-08-16 09:54] chore(security): update dependencies and cleanup unused imports in security
