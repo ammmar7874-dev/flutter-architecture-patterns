@@ -3626,3 +3626,4 @@
 - [2026-08-14 22:31] refactor(theme): extract reusable atomic widgets from theme
 - [2026-08-16 09:54] chore(security): update dependencies and cleanup unused imports in security
 - [2026-08-16 10:09] perf(state): optimize memory consumption in state list viewport
+- [2026-08-16 10:17] fix(perf): correct layout constraints and overflow in perf
