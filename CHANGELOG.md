@@ -3646,3 +3646,4 @@
 - [2026-08-16 16:02] fix(network): handle null assertion failure in network parser
 - [2026-08-16 16:12] style(theme): adjust design tokens, typography, and contrast in theme
 - [2026-08-16 16:58] perf(navigation): optimize memory consumption in navigation list viewport
+- [2026-08-16 17:14] style(core): adjust design tokens, typography, and contrast in core
