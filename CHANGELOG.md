@@ -3662,3 +3662,4 @@
 - [2026-08-16 21:35] feat(core): implement shimmer loading skeleton in core
 - [2026-08-16 21:40] perf(auth): optimize memory consumption in auth list viewport
 - [2026-08-16 22:05] test(theme): implement widget integration tests for theme
+- [2026-08-16 23:21] refactor(forms): decouple repository interface from concrete forms service
