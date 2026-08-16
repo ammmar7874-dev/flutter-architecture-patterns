@@ -3660,3 +3660,4 @@
 - [2026-08-16 20:32] docs(core): update readme and API contracts for core
 - [2026-08-16 20:45] feat(theme): add async theme stream provider
 - [2026-08-16 21:35] feat(core): implement shimmer loading skeleton in core
+- [2026-08-16 21:40] perf(auth): optimize memory consumption in auth list viewport
