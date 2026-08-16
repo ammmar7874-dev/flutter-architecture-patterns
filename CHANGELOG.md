@@ -3641,3 +3641,4 @@
 - [2026-08-16 12:08] feat(network): integrate offline caching for network state
 - [2026-08-16 13:34] perf(forms): apply RepaintBoundary on animated forms widgets
 - [2026-08-16 13:38] chore(state): update dependencies and cleanup unused imports in state
+- [2026-08-16 14:15] feat(core): implement shimmer loading skeleton in core
