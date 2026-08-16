@@ -3644,3 +3644,4 @@
 - [2026-08-16 14:15] feat(core): implement shimmer loading skeleton in core
 - [2026-08-16 15:29] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-08-16 16:02] fix(network): handle null assertion failure in network parser
+- [2026-08-16 16:12] style(theme): adjust design tokens, typography, and contrast in theme
