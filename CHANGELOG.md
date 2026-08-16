@@ -3632,3 +3632,4 @@
 - [2026-08-16 10:52] refactor(state): decouple repository interface from concrete state service
 - [2026-08-16 10:53] feat(test): implement shimmer loading skeleton in test
 - [2026-08-16 10:54] feat(security): add bi-directional event bus handler for security
+- [2026-08-16 10:57] fix(perf): handle null assertion failure in perf parser
