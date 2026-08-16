@@ -3630,3 +3630,4 @@
 - [2026-08-16 10:23] fix(forms): handle null assertion failure in forms parser
 - [2026-08-16 10:39] fix(network): correct layout constraints and overflow in network
 - [2026-08-16 10:52] refactor(state): decouple repository interface from concrete state service
+- [2026-08-16 10:53] feat(test): implement shimmer loading skeleton in test
