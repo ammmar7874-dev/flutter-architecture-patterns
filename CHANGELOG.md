@@ -3657,3 +3657,4 @@
 - [2026-08-16 20:05] perf(analytics): optimize memory consumption in analytics list viewport
 - [2026-08-16 20:08] refactor(forms): optimize data flow between domain and data layers
 - [2026-08-16 20:10] docs(network): update readme and API contracts for network
+- [2026-08-16 20:32] docs(core): update readme and API contracts for core
