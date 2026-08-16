@@ -3648,3 +3648,4 @@
 - [2026-08-16 16:58] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-08-16 17:14] style(core): adjust design tokens, typography, and contrast in core
 - [2026-08-16 17:51] feat(ui): add bi-directional event bus handler for ui
+- [2026-08-16 17:57] style(forms): harmonize light and dark theme palette for forms
