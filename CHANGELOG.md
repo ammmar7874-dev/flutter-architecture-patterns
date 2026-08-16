@@ -3652,3 +3652,4 @@
 - [2026-08-16 18:19] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-16 18:35] feat(navigation): integrate offline caching for navigation state
 - [2026-08-16 18:38] docs(auth): update readme and API contracts for auth
+- [2026-08-16 18:39] feat(i18n): integrate offline caching for i18n state
