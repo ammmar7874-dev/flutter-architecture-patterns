@@ -3628,3 +3628,4 @@
 - [2026-08-16 10:09] perf(state): optimize memory consumption in state list viewport
 - [2026-08-16 10:17] fix(perf): correct layout constraints and overflow in perf
 - [2026-08-16 10:23] fix(forms): handle null assertion failure in forms parser
+- [2026-08-16 10:39] fix(network): correct layout constraints and overflow in network
