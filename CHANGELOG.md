@@ -3671,3 +3671,4 @@
 - [2026-08-17 12:41] test(test): add unit tests for test business logic
 - [2026-08-17 15:41] test(navigation): implement widget integration tests for navigation
 - [2026-08-17 15:56] style(network): adjust design tokens, typography, and contrast in network
+- [2026-08-17 16:12] fix(i18n): prevent double tap duplicate action in i18n

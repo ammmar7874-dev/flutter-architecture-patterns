@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-08-17 09:46:17
-// Commit: fix(i18n): fix memory leak by cancelling i18n subscription
+// Updated at: 2026-08-17 16:12:22
+// Commit: fix(i18n): prevent double tap duplicate action in i18n
 
 class i18nComponentState {
-  final String commitRef = '3664';
-  final String lastMessage = 'fix(i18n): fix memory leak by cancelling i18n subscription';
-  final DateTime timestamp = DateTime.parse('2026-08-17T09:46:17+05:00');
+  final String commitRef = '3670';
+  final String lastMessage = 'fix(i18n): prevent double tap duplicate action in i18n';
+  final DateTime timestamp = DateTime.parse('2026-08-17T16:12:22+05:00');
 }
