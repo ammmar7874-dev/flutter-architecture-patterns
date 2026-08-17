@@ -3674,3 +3674,4 @@
 - [2026-08-17 16:12] fix(i18n): prevent double tap duplicate action in i18n
 - [2026-08-17 16:58] refactor(auth): optimize data flow between domain and data layers
 - [2026-08-17 17:08] docs(storage): update readme and API contracts for storage
+- [2026-08-17 17:51] docs(ui): add detailed code comments and architecture guide for ui
