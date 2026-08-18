@@ -3717,3 +3717,4 @@
 - [2026-08-18 18:42] feat(i18n): add async i18n stream provider
 - [2026-08-18 18:48] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-08-18 19:19] feat(storage): integrate offline caching for storage state
+- [2026-08-18 19:24] chore(cache): update dependencies and cleanup unused imports in cache
