@@ -3690,3 +3690,4 @@
 - [2026-08-18 10:29] style(network): harmonize light and dark theme palette for network
 - [2026-08-18 10:40] feat(cache): implement responsive cache view component
 - [2026-08-18 11:39] perf(network): optimize memory consumption in network list viewport
+- [2026-08-18 11:48] test(i18n): implement widget integration tests for i18n
