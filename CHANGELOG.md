@@ -3696,3 +3696,4 @@
 - [2026-08-18 13:09] test(core): implement widget integration tests for core
 - [2026-08-18 13:33] test(theme): add unit tests for theme business logic
 - [2026-08-18 13:34] feat(network): add async network stream provider
+- [2026-08-18 13:37] feat(test): add bi-directional event bus handler for test
