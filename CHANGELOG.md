@@ -3731,3 +3731,4 @@
 - [2026-08-18 22:25] feat(navigation): integrate offline caching for navigation state
 - [2026-08-18 22:45] feat(core): implement shimmer loading skeleton in core
 - [2026-08-18 22:48] test(core): add unit tests for core business logic
+- [2026-08-18 23:27] docs(forms): update readme and API contracts for forms
