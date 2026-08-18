@@ -3693,3 +3693,4 @@
 - [2026-08-18 11:48] test(i18n): implement widget integration tests for i18n
 - [2026-08-18 12:13] test(ui): add unit tests for ui business logic
 - [2026-08-18 12:50] feat(network): implement shimmer loading skeleton in network
+- [2026-08-18 13:09] test(core): implement widget integration tests for core
