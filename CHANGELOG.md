@@ -3722,3 +3722,4 @@
 - [2026-08-18 20:48] perf(storage): apply RepaintBoundary on animated storage widgets
 - [2026-08-18 20:50] perf(forms): optimize memory consumption in forms list viewport
 - [2026-08-18 20:57] fix(state): fix memory leak by cancelling state subscription
+- [2026-08-18 20:59] feat(analytics): add input validation and sanitization for analytics
