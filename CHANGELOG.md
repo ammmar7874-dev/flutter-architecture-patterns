@@ -3727,3 +3727,4 @@
 - [2026-08-18 21:12] style(security): adjust design tokens, typography, and contrast in security
 - [2026-08-18 21:33] refactor(state): optimize data flow between domain and data layers
 - [2026-08-18 22:09] perf(analytics): memoize expensive computations in analytics
+- [2026-08-18 22:17] fix(test): handle null assertion failure in test parser
