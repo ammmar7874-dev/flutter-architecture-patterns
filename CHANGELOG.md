@@ -3679,3 +3679,4 @@
 - [2026-08-18 09:01] fix(network): correct layout constraints and overflow in network
 - [2026-08-18 09:02] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-08-18 09:03] refactor(forms): extract reusable atomic widgets from forms
+- [2026-08-18 09:20] perf(cache): apply RepaintBoundary on animated cache widgets
