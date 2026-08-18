@@ -3724,3 +3724,4 @@
 - [2026-08-18 20:57] fix(state): fix memory leak by cancelling state subscription
 - [2026-08-18 20:59] feat(analytics): add input validation and sanitization for analytics
 - [2026-08-18 21:11] fix(test): prevent double tap duplicate action in test
+- [2026-08-18 21:12] style(security): adjust design tokens, typography, and contrast in security
