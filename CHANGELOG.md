@@ -3676,3 +3676,4 @@
 - [2026-08-17 17:08] docs(storage): update readme and API contracts for storage
 - [2026-08-17 17:51] docs(ui): add detailed code comments and architecture guide for ui
 - [2026-08-17 21:13] test(navigation): add unit tests for navigation business logic
+- [2026-08-18 09:01] fix(network): correct layout constraints and overflow in network
