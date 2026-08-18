@@ -3681,3 +3681,4 @@
 - [2026-08-18 09:03] refactor(forms): extract reusable atomic widgets from forms
 - [2026-08-18 09:20] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-08-18 09:21] feat(storage): integrate offline caching for storage state
+- [2026-08-18 09:25] fix(forms): correct layout constraints and overflow in forms
