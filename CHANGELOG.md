@@ -3712,3 +3712,4 @@
 - [2026-08-18 17:47] fix(theme): fix memory leak by cancelling theme subscription
 - [2026-08-18 18:20] test(analytics): implement widget integration tests for analytics
 - [2026-08-18 18:23] refactor(analytics): decouple repository interface from concrete analytics service
+- [2026-08-18 18:34] chore(network): update dependencies and cleanup unused imports in network
