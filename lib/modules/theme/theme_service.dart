@@ -1,9 +1,9 @@
 ﻿// Module: theme
-// Updated at: 2026-08-18 16:32:16
-// Commit: refactor(theme): decouple repository interface from concrete theme service
+// Updated at: 2026-08-18 17:47:44
+// Commit: fix(theme): fix memory leak by cancelling theme subscription
 
 class themeComponentState {
-  final String commitRef = '3704';
-  final String lastMessage = 'refactor(theme): decouple repository interface from concrete theme service';
-  final DateTime timestamp = DateTime.parse('2026-08-18T16:32:16+05:00');
+  final String commitRef = '3708';
+  final String lastMessage = 'fix(theme): fix memory leak by cancelling theme subscription';
+  final DateTime timestamp = DateTime.parse('2026-08-18T17:47:44+05:00');
 }
