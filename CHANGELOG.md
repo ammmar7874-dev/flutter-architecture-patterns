@@ -3701,3 +3701,4 @@
 - [2026-08-18 13:47] feat(i18n): add async i18n stream provider
 - [2026-08-18 14:11] feat(storage): integrate custom telemetry logger in storage
 - [2026-08-18 14:30] perf(storage): apply RepaintBoundary on animated storage widgets
+- [2026-08-18 14:54] refactor(forms): migrate forms controller to modern notifier syntax
