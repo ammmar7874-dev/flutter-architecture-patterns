@@ -3687,3 +3687,4 @@
 - [2026-08-18 09:49] docs(navigation): update readme and API contracts for navigation
 - [2026-08-18 09:54] perf(cache): apply RepaintBoundary on animated cache widgets
 - [2026-08-18 10:13] feat(storage): add input validation and sanitization for storage
+- [2026-08-18 10:29] style(network): harmonize light and dark theme palette for network
