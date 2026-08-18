@@ -3685,3 +3685,4 @@
 - [2026-08-18 09:37] refactor(test): migrate test controller to modern notifier syntax
 - [2026-08-18 09:47] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-08-18 09:49] docs(navigation): update readme and API contracts for navigation
+- [2026-08-18 09:54] perf(cache): apply RepaintBoundary on animated cache widgets
