@@ -3706,3 +3706,4 @@
 - [2026-08-18 15:07] fix(test): resolve race condition during test initialization
 - [2026-08-18 15:23] fix(forms): correct layout constraints and overflow in forms
 - [2026-08-18 16:32] refactor(theme): decouple repository interface from concrete theme service
+- [2026-08-18 17:09] feat(storage): integrate custom telemetry logger in storage
