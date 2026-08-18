@@ -3714,3 +3714,4 @@
 - [2026-08-18 18:23] refactor(analytics): decouple repository interface from concrete analytics service
 - [2026-08-18 18:34] chore(network): update dependencies and cleanup unused imports in network
 - [2026-08-18 18:41] test(analytics): add unit tests for analytics business logic
+- [2026-08-18 18:42] feat(i18n): add async i18n stream provider
