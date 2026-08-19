@@ -3747,3 +3747,4 @@
 - [2026-08-19 18:18] feat(network): integrate offline caching for network state
 - [2026-08-19 18:30] fix(i18n): resolve race condition during i18n initialization
 - [2026-08-19 18:42] fix(analytics): resolve race condition during analytics initialization
+- [2026-08-19 18:58] chore(cache): update dependencies and cleanup unused imports in cache
