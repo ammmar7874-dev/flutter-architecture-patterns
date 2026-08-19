@@ -3734,3 +3734,4 @@
 - [2026-08-18 23:27] docs(forms): update readme and API contracts for forms
 - [2026-08-19 09:18] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-19 09:38] test(forms): implement widget integration tests for forms
+- [2026-08-19 10:25] refactor(ui): migrate ui controller to modern notifier syntax
