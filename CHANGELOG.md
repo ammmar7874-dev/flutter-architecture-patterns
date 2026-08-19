@@ -3745,3 +3745,4 @@
 - [2026-08-19 15:18] feat(theme): integrate offline caching for theme state
 - [2026-08-19 17:21] docs(storage): update readme and API contracts for storage
 - [2026-08-19 18:18] feat(network): integrate offline caching for network state
+- [2026-08-19 18:30] fix(i18n): resolve race condition during i18n initialization
