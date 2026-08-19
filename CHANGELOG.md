@@ -3743,3 +3743,4 @@
 - [2026-08-19 14:16] test(network): implement widget integration tests for network
 - [2026-08-19 14:39] feat(forms): implement shimmer loading skeleton in forms
 - [2026-08-19 15:18] feat(theme): integrate offline caching for theme state
+- [2026-08-19 17:21] docs(storage): update readme and API contracts for storage
