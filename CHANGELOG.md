@@ -3739,3 +3739,4 @@
 - [2026-08-19 11:08] test(network): add unit tests for network business logic
 - [2026-08-19 11:37] docs(auth): update readme and API contracts for auth
 - [2026-08-19 12:10] test(auth): implement widget integration tests for auth
+- [2026-08-19 12:22] feat(security): integrate offline caching for security state
