@@ -3746,3 +3746,4 @@
 - [2026-08-19 17:21] docs(storage): update readme and API contracts for storage
 - [2026-08-19 18:18] feat(network): integrate offline caching for network state
 - [2026-08-19 18:30] fix(i18n): resolve race condition during i18n initialization
+- [2026-08-19 18:42] fix(analytics): resolve race condition during analytics initialization
