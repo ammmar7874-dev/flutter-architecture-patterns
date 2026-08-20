@@ -3777,3 +3777,4 @@
 - [2026-08-20 17:38] chore(test): update dependencies and cleanup unused imports in test
 - [2026-08-20 17:58] perf(test): optimize memory consumption in test list viewport
 - [2026-08-20 18:23] feat(state): implement shimmer loading skeleton in state
+- [2026-08-20 18:47] fix(analytics): handle null assertion failure in analytics parser
