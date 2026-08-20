@@ -3784,3 +3784,4 @@
 - [2026-08-20 20:26] feat(state): integrate offline caching for state state
 - [2026-08-20 20:36] perf(test): apply RepaintBoundary on animated test widgets
 - [2026-08-20 20:37] fix(cache): fix memory leak by cancelling cache subscription
+- [2026-08-20 20:38] docs(auth): add detailed code comments and architecture guide for auth
