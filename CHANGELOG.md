@@ -3774,3 +3774,4 @@
 - [2026-08-20 16:03] feat(test): add async test stream provider
 - [2026-08-20 16:26] test(cache): implement widget integration tests for cache
 - [2026-08-20 16:30] fix(forms): resolve race condition during forms initialization
+- [2026-08-20 17:38] chore(test): update dependencies and cleanup unused imports in test
