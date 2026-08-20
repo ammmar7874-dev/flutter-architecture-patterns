@@ -1,9 +1,9 @@
 ﻿// Module: cache
-// Updated at: 2026-08-20 19:25:26
-// Commit: refactor(cache): optimize data flow between domain and data layers
+// Updated at: 2026-08-20 20:37:50
+// Commit: fix(cache): fix memory leak by cancelling cache subscription
 
 class cacheComponentState {
-  final String commitRef = '3777';
-  final String lastMessage = 'refactor(cache): optimize data flow between domain and data layers';
-  final DateTime timestamp = DateTime.parse('2026-08-20T19:25:26+05:00');
+  final String commitRef = '3782';
+  final String lastMessage = 'fix(cache): fix memory leak by cancelling cache subscription';
+  final DateTime timestamp = DateTime.parse('2026-08-20T20:37:50+05:00');
 }
