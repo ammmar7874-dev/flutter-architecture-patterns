@@ -3779,3 +3779,4 @@
 - [2026-08-20 18:23] feat(state): implement shimmer loading skeleton in state
 - [2026-08-20 18:47] fix(analytics): handle null assertion failure in analytics parser
 - [2026-08-20 19:25] refactor(cache): optimize data flow between domain and data layers
+- [2026-08-20 19:31] fix(forms): prevent double tap duplicate action in forms
