@@ -3782,3 +3782,4 @@
 - [2026-08-20 19:31] fix(forms): prevent double tap duplicate action in forms
 - [2026-08-20 20:02] fix(i18n): resolve race condition during i18n initialization
 - [2026-08-20 20:26] feat(state): integrate offline caching for state state
+- [2026-08-20 20:36] perf(test): apply RepaintBoundary on animated test widgets
