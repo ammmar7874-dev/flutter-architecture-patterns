@@ -3764,3 +3764,4 @@
 - [2026-08-20 12:34] docs(analytics): update readme and API contracts for analytics
 - [2026-08-20 12:39] feat(state): add input validation and sanitization for state
 - [2026-08-20 13:16] perf(i18n): optimize memory consumption in i18n list viewport
+- [2026-08-20 13:57] test(theme): implement widget integration tests for theme
