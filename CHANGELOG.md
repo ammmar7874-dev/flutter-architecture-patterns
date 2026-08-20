@@ -3769,3 +3769,4 @@
 - [2026-08-20 14:11] perf(analytics): memoize expensive computations in analytics
 - [2026-08-20 14:34] refactor(core): decouple repository interface from concrete core service
 - [2026-08-20 15:22] docs(ui): update readme and API contracts for ui
+- [2026-08-20 15:48] feat(perf): add input validation and sanitization for perf
