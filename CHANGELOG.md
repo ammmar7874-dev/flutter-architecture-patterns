@@ -3761,3 +3761,4 @@
 - [2026-08-20 10:47] fix(auth): fix memory leak by cancelling auth subscription
 - [2026-08-20 11:04] feat(core): implement responsive core view component
 - [2026-08-20 11:26] feat(security): implement responsive security view component
+- [2026-08-20 12:34] docs(analytics): update readme and API contracts for analytics
