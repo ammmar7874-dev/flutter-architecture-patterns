@@ -3789,3 +3789,4 @@
 - [2026-08-20 22:12] feat(auth): add input validation and sanitization for auth
 - [2026-08-20 22:16] perf(state): optimize memory consumption in state list viewport
 - [2026-08-20 22:50] feat(state): add async state stream provider
+- [2026-08-20 23:13] refactor(auth): extract reusable atomic widgets from auth
