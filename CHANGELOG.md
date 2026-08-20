@@ -3771,3 +3771,4 @@
 - [2026-08-20 15:22] docs(ui): update readme and API contracts for ui
 - [2026-08-20 15:48] feat(perf): add input validation and sanitization for perf
 - [2026-08-20 15:51] test(theme): add unit tests for theme business logic
+- [2026-08-20 16:03] feat(test): add async test stream provider
