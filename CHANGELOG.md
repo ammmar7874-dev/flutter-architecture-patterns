@@ -3795,3 +3795,4 @@
 - [2026-08-21 09:47] refactor(theme): optimize data flow between domain and data layers
 - [2026-08-21 11:55] feat(auth): implement responsive auth view component
 - [2026-08-21 14:39] feat(test): implement shimmer loading skeleton in test
+- [2026-08-21 15:53] refactor(core): decouple repository interface from concrete core service
