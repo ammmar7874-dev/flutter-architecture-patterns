@@ -1,9 +1,9 @@
 ﻿// Module: forms
-// Updated at: 2026-08-20 19:31:28
-// Commit: fix(forms): prevent double tap duplicate action in forms
+// Updated at: 2026-08-21 09:18:50
+// Commit: fix(forms): handle null assertion failure in forms parser
 
 class formsComponentState {
-  final String commitRef = '3778';
-  final String lastMessage = 'fix(forms): prevent double tap duplicate action in forms';
-  final DateTime timestamp = DateTime.parse('2026-08-20T19:31:28+05:00');
+  final String commitRef = '3790';
+  final String lastMessage = 'fix(forms): handle null assertion failure in forms parser';
+  final DateTime timestamp = DateTime.parse('2026-08-21T09:18:50+05:00');
 }
