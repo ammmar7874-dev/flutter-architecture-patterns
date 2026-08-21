@@ -3801,3 +3801,4 @@
 - [2026-08-21 16:47] feat(auth): add input validation and sanitization for auth
 - [2026-08-21 17:30] feat(i18n): integrate offline caching for i18n state
 - [2026-08-21 17:59] refactor(state): migrate state controller to modern notifier syntax
+- [2026-08-21 18:12] fix(test): correct layout constraints and overflow in test
