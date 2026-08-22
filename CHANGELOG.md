@@ -3819,3 +3819,4 @@
 - [2026-08-22 20:08] fix(analytics): resolve race condition during analytics initialization
 - [2026-08-22 20:54] chore(security): update dependencies and cleanup unused imports in security
 - [2026-08-22 21:27] chore(cache): update dependencies and cleanup unused imports in cache
+- [2026-08-22 21:58] fix(core): fix memory leak by cancelling core subscription
