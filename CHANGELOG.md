@@ -3810,3 +3810,4 @@
 - [2026-08-21 22:53] feat(state): add async state stream provider
 - [2026-08-21 23:17] docs(i18n): add detailed code comments and architecture guide for i18n
 - [2026-08-22 09:46] refactor(i18n): optimize data flow between domain and data layers
+- [2026-08-22 11:12] refactor(cache): decouple repository interface from concrete cache service
