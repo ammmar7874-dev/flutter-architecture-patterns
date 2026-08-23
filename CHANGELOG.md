@@ -3846,3 +3846,4 @@
 - [2026-08-23 15:55] feat(state): add bi-directional event bus handler for state
 - [2026-08-23 15:57] feat(navigation): add input validation and sanitization for navigation
 - [2026-08-23 15:58] fix(auth): resolve race condition during auth initialization
+- [2026-08-23 16:02] style(forms): adjust design tokens, typography, and contrast in forms
