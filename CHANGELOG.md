@@ -3825,3 +3825,4 @@
 - [2026-08-23 09:46] fix(storage): resolve race condition during storage initialization
 - [2026-08-23 09:52] feat(test): add bi-directional event bus handler for test
 - [2026-08-23 10:14] chore(analytics): update dependencies and cleanup unused imports in analytics
+- [2026-08-23 10:21] test(core): implement widget integration tests for core
