@@ -3851,3 +3851,4 @@
 - [2026-08-23 16:23] fix(test): fix memory leak by cancelling test subscription
 - [2026-08-23 17:00] fix(forms): handle null assertion failure in forms parser
 - [2026-08-23 17:40] chore(security): update dependencies and cleanup unused imports in security
+- [2026-08-23 17:46] feat(i18n): implement responsive i18n view component
