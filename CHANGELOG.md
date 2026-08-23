@@ -3839,3 +3839,4 @@
 - [2026-08-23 13:31] perf(theme): optimize memory consumption in theme list viewport
 - [2026-08-23 13:38] refactor(test): extract reusable atomic widgets from test
 - [2026-08-23 13:38] docs(perf): update readme and API contracts for perf
+- [2026-08-23 13:43] refactor(theme): optimize data flow between domain and data layers
