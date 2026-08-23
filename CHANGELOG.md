@@ -3821,3 +3821,4 @@
 - [2026-08-22 21:27] chore(cache): update dependencies and cleanup unused imports in cache
 - [2026-08-22 21:58] fix(core): fix memory leak by cancelling core subscription
 - [2026-08-23 09:31] fix(core): correct layout constraints and overflow in core
+- [2026-08-23 09:43] fix(core): handle null assertion failure in core parser
