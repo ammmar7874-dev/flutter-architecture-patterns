@@ -3829,3 +3829,4 @@
 - [2026-08-23 10:22] docs(theme): add detailed code comments and architecture guide for theme
 - [2026-08-23 10:25] fix(auth): prevent double tap duplicate action in auth
 - [2026-08-23 10:27] refactor(navigation): decouple repository interface from concrete navigation service
+- [2026-08-23 10:42] test(core): add unit tests for core business logic
