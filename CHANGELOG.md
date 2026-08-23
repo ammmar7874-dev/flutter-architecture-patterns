@@ -3823,3 +3823,4 @@
 - [2026-08-23 09:31] fix(core): correct layout constraints and overflow in core
 - [2026-08-23 09:43] fix(core): handle null assertion failure in core parser
 - [2026-08-23 09:46] fix(storage): resolve race condition during storage initialization
+- [2026-08-23 09:52] feat(test): add bi-directional event bus handler for test
