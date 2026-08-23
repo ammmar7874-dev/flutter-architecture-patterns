@@ -1,9 +1,9 @@
 ﻿// Module: navigation
-// Updated at: 2026-08-22 16:52:45
-// Commit: chore(navigation): update dependencies and cleanup unused imports in navigation
+// Updated at: 2026-08-23 10:27:46
+// Commit: refactor(navigation): decouple repository interface from concrete navigation service
 
 class navigationComponentState {
-  final String commitRef = '3813';
-  final String lastMessage = 'chore(navigation): update dependencies and cleanup unused imports in navigation';
-  final DateTime timestamp = DateTime.parse('2026-08-22T16:52:45+05:00');
+  final String commitRef = '3827';
+  final String lastMessage = 'refactor(navigation): decouple repository interface from concrete navigation service';
+  final DateTime timestamp = DateTime.parse('2026-08-23T10:27:46+05:00');
 }
