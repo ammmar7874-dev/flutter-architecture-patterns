@@ -1,9 +1,9 @@
 ﻿// Module: test
-// Updated at: 2026-08-23 14:38:09
-// Commit: fix(test): correct layout constraints and overflow in test
+// Updated at: 2026-08-23 16:23:13
+// Commit: fix(test): fix memory leak by cancelling test subscription
 
 class testComponentState {
-  final String commitRef = '3841';
-  final String lastMessage = 'fix(test): correct layout constraints and overflow in test';
-  final DateTime timestamp = DateTime.parse('2026-08-23T14:38:09+05:00');
+  final String commitRef = '3847';
+  final String lastMessage = 'fix(test): fix memory leak by cancelling test subscription';
+  final DateTime timestamp = DateTime.parse('2026-08-23T16:23:13+05:00');
 }
