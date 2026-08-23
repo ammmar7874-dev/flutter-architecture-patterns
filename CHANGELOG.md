@@ -3859,3 +3859,4 @@
 - [2026-08-23 19:49] docs(perf): add detailed code comments and architecture guide for perf
 - [2026-08-23 19:54] test(theme): implement widget integration tests for theme
 - [2026-08-23 20:24] fix(core): correct layout constraints and overflow in core
+- [2026-08-23 20:27] chore(network): update dependencies and cleanup unused imports in network
