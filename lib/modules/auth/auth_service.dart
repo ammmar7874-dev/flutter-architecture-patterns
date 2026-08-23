@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-08-23 10:25:10
-// Commit: fix(auth): prevent double tap duplicate action in auth
+// Updated at: 2026-08-23 15:58:40
+// Commit: fix(auth): resolve race condition during auth initialization
 
 class authComponentState {
-  final String commitRef = '3826';
-  final String lastMessage = 'fix(auth): prevent double tap duplicate action in auth';
-  final DateTime timestamp = DateTime.parse('2026-08-23T10:25:10+05:00');
+  final String commitRef = '3844';
+  final String lastMessage = 'fix(auth): resolve race condition during auth initialization';
+  final DateTime timestamp = DateTime.parse('2026-08-23T15:58:40+05:00');
 }

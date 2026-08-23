@@ -3845,3 +3845,4 @@
 - [2026-08-23 14:38] fix(test): correct layout constraints and overflow in test
 - [2026-08-23 15:55] feat(state): add bi-directional event bus handler for state
 - [2026-08-23 15:57] feat(navigation): add input validation and sanitization for navigation
+- [2026-08-23 15:58] fix(auth): resolve race condition during auth initialization
