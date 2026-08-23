@@ -3864,3 +3864,4 @@
 - [2026-08-23 21:17] perf(navigation): optimize memory consumption in navigation list viewport
 - [2026-08-23 21:25] perf(cache): memoize expensive computations in cache
 - [2026-08-23 21:42] fix(test): handle null assertion failure in test parser
+- [2026-08-23 22:01] perf(i18n): optimize memory consumption in i18n list viewport
