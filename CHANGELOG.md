@@ -3860,3 +3860,4 @@
 - [2026-08-23 19:54] test(theme): implement widget integration tests for theme
 - [2026-08-23 20:24] fix(core): correct layout constraints and overflow in core
 - [2026-08-23 20:27] chore(network): update dependencies and cleanup unused imports in network
+- [2026-08-23 21:10] fix(security): handle null assertion failure in security parser

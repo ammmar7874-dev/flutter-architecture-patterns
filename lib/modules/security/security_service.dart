@@ -1,9 +1,9 @@
 ﻿// Module: security
-// Updated at: 2026-08-23 17:40:51
-// Commit: chore(security): update dependencies and cleanup unused imports in security
+// Updated at: 2026-08-23 21:10:18
+// Commit: fix(security): handle null assertion failure in security parser
 
 class securityComponentState {
-  final String commitRef = '3849';
-  final String lastMessage = 'chore(security): update dependencies and cleanup unused imports in security';
-  final DateTime timestamp = DateTime.parse('2026-08-23T17:40:51+05:00');
+  final String commitRef = '3859';
+  final String lastMessage = 'fix(security): handle null assertion failure in security parser';
+  final DateTime timestamp = DateTime.parse('2026-08-23T21:10:18+05:00');
 }
