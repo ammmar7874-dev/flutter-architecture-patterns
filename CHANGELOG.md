@@ -3842,3 +3842,4 @@
 - [2026-08-23 13:43] refactor(theme): optimize data flow between domain and data layers
 - [2026-08-23 14:28] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-23 14:28] perf(core): memoize expensive computations in core
+- [2026-08-23 14:38] fix(test): correct layout constraints and overflow in test
