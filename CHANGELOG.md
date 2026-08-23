@@ -3830,3 +3830,4 @@
 - [2026-08-23 10:25] fix(auth): prevent double tap duplicate action in auth
 - [2026-08-23 10:27] refactor(navigation): decouple repository interface from concrete navigation service
 - [2026-08-23 10:42] test(core): add unit tests for core business logic
+- [2026-08-23 10:47] feat(storage): add input validation and sanitization for storage
