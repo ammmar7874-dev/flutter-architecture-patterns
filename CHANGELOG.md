@@ -3838,3 +3838,4 @@
 - [2026-08-23 13:03] style(theme): adjust design tokens, typography, and contrast in theme
 - [2026-08-23 13:31] perf(theme): optimize memory consumption in theme list viewport
 - [2026-08-23 13:38] refactor(test): extract reusable atomic widgets from test
+- [2026-08-23 13:38] docs(perf): update readme and API contracts for perf
