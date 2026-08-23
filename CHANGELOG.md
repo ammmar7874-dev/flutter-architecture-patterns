@@ -3843,3 +3843,4 @@
 - [2026-08-23 14:28] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-23 14:28] perf(core): memoize expensive computations in core
 - [2026-08-23 14:38] fix(test): correct layout constraints and overflow in test
+- [2026-08-23 15:55] feat(state): add bi-directional event bus handler for state
