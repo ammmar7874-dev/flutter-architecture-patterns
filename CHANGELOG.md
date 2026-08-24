@@ -3883,3 +3883,4 @@
 - [2026-08-24 12:09] fix(ui): resolve race condition during ui initialization
 - [2026-08-24 12:19] test(forms): implement widget integration tests for forms
 - [2026-08-24 12:53] fix(analytics): handle null assertion failure in analytics parser
+- [2026-08-24 13:00] style(storage): harmonize light and dark theme palette for storage
