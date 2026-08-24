@@ -3900,3 +3900,4 @@
 - [2026-08-24 16:10] feat(perf): integrate custom telemetry logger in perf
 - [2026-08-24 16:12] fix(core): prevent double tap duplicate action in core
 - [2026-08-24 16:12] feat(navigation): implement shimmer loading skeleton in navigation
+- [2026-08-24 16:28] docs(storage): add detailed code comments and architecture guide for storage
