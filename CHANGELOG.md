@@ -3909,3 +3909,4 @@
 - [2026-08-24 17:50] test(analytics): add unit tests for analytics business logic
 - [2026-08-24 18:03] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-08-24 18:29] fix(state): prevent double tap duplicate action in state
+- [2026-08-24 19:16] refactor(auth): decouple repository interface from concrete auth service
