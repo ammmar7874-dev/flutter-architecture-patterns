@@ -3914,3 +3914,4 @@
 - [2026-08-24 19:48] refactor(cache): decouple repository interface from concrete cache service
 - [2026-08-24 20:21] fix(storage): fix memory leak by cancelling storage subscription
 - [2026-08-24 20:25] refactor(forms): migrate forms controller to modern notifier syntax
+- [2026-08-24 20:28] perf(network): optimize memory consumption in network list viewport
