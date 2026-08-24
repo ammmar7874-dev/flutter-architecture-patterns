@@ -3893,3 +3893,4 @@
 - [2026-08-24 14:35] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-08-24 15:05] refactor(cache): migrate cache controller to modern notifier syntax
 - [2026-08-24 15:10] fix(forms): correct layout constraints and overflow in forms
+- [2026-08-24 15:12] refactor(perf): decouple repository interface from concrete perf service
