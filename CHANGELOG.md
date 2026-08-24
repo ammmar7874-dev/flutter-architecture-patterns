@@ -3886,3 +3886,4 @@
 - [2026-08-24 13:00] style(storage): harmonize light and dark theme palette for storage
 - [2026-08-24 13:03] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-24 13:16] style(analytics): adjust design tokens, typography, and contrast in analytics
+- [2026-08-24 13:21] chore(ui): update dependencies and cleanup unused imports in ui
