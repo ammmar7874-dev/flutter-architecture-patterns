@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-08-24 17:29:24
-// Commit: fix(auth): resolve race condition during auth initialization
+// Updated at: 2026-08-24 18:03:28
+// Commit: refactor(auth): migrate auth controller to modern notifier syntax
 
 class authComponentState {
-  final String commitRef = '3903';
-  final String lastMessage = 'fix(auth): resolve race condition during auth initialization';
-  final DateTime timestamp = DateTime.parse('2026-08-24T17:29:24+05:00');
+  final String commitRef = '3906';
+  final String lastMessage = 'refactor(auth): migrate auth controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-08-24T18:03:28+05:00');
 }
