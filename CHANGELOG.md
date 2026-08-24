@@ -3895,3 +3895,4 @@
 - [2026-08-24 15:10] fix(forms): correct layout constraints and overflow in forms
 - [2026-08-24 15:12] refactor(perf): decouple repository interface from concrete perf service
 - [2026-08-24 15:27] perf(core): apply RepaintBoundary on animated core widgets
+- [2026-08-24 15:33] test(analytics): implement widget integration tests for analytics
