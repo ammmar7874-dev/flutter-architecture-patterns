@@ -3917,3 +3917,4 @@
 - [2026-08-24 20:28] perf(network): optimize memory consumption in network list viewport
 - [2026-08-24 20:57] docs(network): add detailed code comments and architecture guide for network
 - [2026-08-24 20:58] refactor(test): optimize data flow between domain and data layers
+- [2026-08-24 21:09] style(storage): adjust design tokens, typography, and contrast in storage
