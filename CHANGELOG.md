@@ -3899,3 +3899,4 @@
 - [2026-08-24 16:08] fix(network): correct layout constraints and overflow in network
 - [2026-08-24 16:10] feat(perf): integrate custom telemetry logger in perf
 - [2026-08-24 16:12] fix(core): prevent double tap duplicate action in core
+- [2026-08-24 16:12] feat(navigation): implement shimmer loading skeleton in navigation
