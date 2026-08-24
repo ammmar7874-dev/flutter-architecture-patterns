@@ -3898,3 +3898,4 @@
 - [2026-08-24 15:33] test(analytics): implement widget integration tests for analytics
 - [2026-08-24 16:08] fix(network): correct layout constraints and overflow in network
 - [2026-08-24 16:10] feat(perf): integrate custom telemetry logger in perf
+- [2026-08-24 16:12] fix(core): prevent double tap duplicate action in core
