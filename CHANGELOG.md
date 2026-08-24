@@ -3878,3 +3878,4 @@
 - [2026-08-24 11:13] feat(state): implement shimmer loading skeleton in state
 - [2026-08-24 11:22] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-08-24 11:37] refactor(security): optimize data flow between domain and data layers
+- [2026-08-24 11:38] fix(test): fix memory leak by cancelling test subscription
