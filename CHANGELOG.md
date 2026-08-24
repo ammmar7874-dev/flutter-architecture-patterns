@@ -3891,3 +3891,4 @@
 - [2026-08-24 13:36] fix(cache): correct layout constraints and overflow in cache
 - [2026-08-24 14:07] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-08-24 14:35] style(storage): adjust design tokens, typography, and contrast in storage
+- [2026-08-24 15:05] refactor(cache): migrate cache controller to modern notifier syntax
