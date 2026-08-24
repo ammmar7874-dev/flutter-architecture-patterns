@@ -3876,3 +3876,4 @@
 - [2026-08-24 10:38] refactor(analytics): extract reusable atomic widgets from analytics
 - [2026-08-24 10:48] test(auth): add unit tests for auth business logic
 - [2026-08-24 11:13] feat(state): implement shimmer loading skeleton in state
+- [2026-08-24 11:22] refactor(auth): migrate auth controller to modern notifier syntax
