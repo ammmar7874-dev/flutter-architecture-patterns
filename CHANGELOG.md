@@ -3896,3 +3896,4 @@
 - [2026-08-24 15:12] refactor(perf): decouple repository interface from concrete perf service
 - [2026-08-24 15:27] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-08-24 15:33] test(analytics): implement widget integration tests for analytics
+- [2026-08-24 16:08] fix(network): correct layout constraints and overflow in network
