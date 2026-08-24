@@ -3897,3 +3897,4 @@
 - [2026-08-24 15:27] perf(core): apply RepaintBoundary on animated core widgets
 - [2026-08-24 15:33] test(analytics): implement widget integration tests for analytics
 - [2026-08-24 16:08] fix(network): correct layout constraints and overflow in network
+- [2026-08-24 16:10] feat(perf): integrate custom telemetry logger in perf
