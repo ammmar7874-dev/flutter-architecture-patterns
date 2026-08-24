@@ -3912,3 +3912,4 @@
 - [2026-08-24 19:16] refactor(auth): decouple repository interface from concrete auth service
 - [2026-08-24 19:31] fix(network): handle null assertion failure in network parser
 - [2026-08-24 19:48] refactor(cache): decouple repository interface from concrete cache service
+- [2026-08-24 20:21] fix(storage): fix memory leak by cancelling storage subscription
