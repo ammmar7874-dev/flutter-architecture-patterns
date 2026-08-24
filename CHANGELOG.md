@@ -3924,3 +3924,4 @@
 - [2026-08-24 21:28] feat(perf): integrate custom telemetry logger in perf
 - [2026-08-24 22:12] refactor(state): optimize data flow between domain and data layers
 - [2026-08-24 22:12] feat(theme): implement responsive theme view component
+- [2026-08-24 22:15] docs(auth): update readme and API contracts for auth
