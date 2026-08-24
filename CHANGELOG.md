@@ -3920,3 +3920,4 @@
 - [2026-08-24 21:09] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-08-24 21:21] feat(auth): integrate custom telemetry logger in auth
 - [2026-08-24 21:26] fix(ui): correct layout constraints and overflow in ui
+- [2026-08-24 21:27] feat(cache): implement responsive cache view component
