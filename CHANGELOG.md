@@ -3911,3 +3911,4 @@
 - [2026-08-24 18:29] fix(state): prevent double tap duplicate action in state
 - [2026-08-24 19:16] refactor(auth): decouple repository interface from concrete auth service
 - [2026-08-24 19:31] fix(network): handle null assertion failure in network parser
+- [2026-08-24 19:48] refactor(cache): decouple repository interface from concrete cache service
