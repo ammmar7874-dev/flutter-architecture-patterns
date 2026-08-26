@@ -3954,3 +3954,4 @@
 - [2026-08-26 16:06] refactor(ui): optimize data flow between domain and data layers
 - [2026-08-26 16:20] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-08-26 16:20] style(i18n): harmonize light and dark theme palette for i18n
+- [2026-08-26 16:21] fix(storage): prevent double tap duplicate action in storage
