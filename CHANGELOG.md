@@ -3936,3 +3936,4 @@
 - [2026-08-26 11:37] perf(i18n): apply RepaintBoundary on animated i18n widgets
 - [2026-08-26 12:01] test(core): add unit tests for core business logic
 - [2026-08-26 12:18] refactor(test): migrate test controller to modern notifier syntax
+- [2026-08-26 12:43] refactor(state): migrate state controller to modern notifier syntax
