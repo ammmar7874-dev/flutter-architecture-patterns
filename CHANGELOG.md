@@ -3933,3 +3933,4 @@
 - [2026-08-26 09:50] fix(security): handle null assertion failure in security parser
 - [2026-08-26 10:03] fix(core): handle null assertion failure in core parser
 - [2026-08-26 11:35] refactor(forms): optimize data flow between domain and data layers
+- [2026-08-26 11:37] perf(i18n): apply RepaintBoundary on animated i18n widgets
