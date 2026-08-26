@@ -3955,3 +3955,4 @@
 - [2026-08-26 16:20] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-08-26 16:20] style(i18n): harmonize light and dark theme palette for i18n
 - [2026-08-26 16:21] fix(storage): prevent double tap duplicate action in storage
+- [2026-08-26 16:40] refactor(storage): migrate storage controller to modern notifier syntax
