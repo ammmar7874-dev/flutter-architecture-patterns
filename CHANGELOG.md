@@ -3937,3 +3937,4 @@
 - [2026-08-26 12:01] test(core): add unit tests for core business logic
 - [2026-08-26 12:18] refactor(test): migrate test controller to modern notifier syntax
 - [2026-08-26 12:43] refactor(state): migrate state controller to modern notifier syntax
+- [2026-08-26 12:57] feat(test): integrate custom telemetry logger in test
