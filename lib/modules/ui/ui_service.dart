@@ -1,9 +1,9 @@
 ﻿// Module: ui
-// Updated at: 2026-08-26 16:20:31
-// Commit: fix(ui): fix memory leak by cancelling ui subscription
+// Updated at: 2026-08-26 21:45:36
+// Commit: chore(ui): update dependencies and cleanup unused imports in ui
 
 class uiComponentState {
-  final String commitRef = '3951';
-  final String lastMessage = 'fix(ui): fix memory leak by cancelling ui subscription';
-  final DateTime timestamp = DateTime.parse('2026-08-26T16:20:31+05:00');
+  final String commitRef = '3959';
+  final String lastMessage = 'chore(ui): update dependencies and cleanup unused imports in ui';
+  final DateTime timestamp = DateTime.parse('2026-08-26T21:45:36+05:00');
 }
