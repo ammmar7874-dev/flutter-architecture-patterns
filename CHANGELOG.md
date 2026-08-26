@@ -3961,3 +3961,4 @@
 - [2026-08-26 17:47] feat(auth): integrate offline caching for auth state
 - [2026-08-26 21:44] perf(analytics): apply RepaintBoundary on animated analytics widgets
 - [2026-08-26 21:45] chore(ui): update dependencies and cleanup unused imports in ui
+- [2026-08-26 21:47] fix(cache): correct layout constraints and overflow in cache
