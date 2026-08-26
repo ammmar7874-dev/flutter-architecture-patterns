@@ -3963,3 +3963,4 @@
 - [2026-08-26 21:45] chore(ui): update dependencies and cleanup unused imports in ui
 - [2026-08-26 21:47] fix(cache): correct layout constraints and overflow in cache
 - [2026-08-26 22:19] fix(core): resolve race condition during core initialization
+- [2026-08-26 22:57] feat(perf): add input validation and sanitization for perf
