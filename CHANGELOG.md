@@ -3953,3 +3953,4 @@
 - [2026-08-26 15:57] refactor(navigation): migrate navigation controller to modern notifier syntax
 - [2026-08-26 16:06] refactor(ui): optimize data flow between domain and data layers
 - [2026-08-26 16:20] fix(ui): fix memory leak by cancelling ui subscription
+- [2026-08-26 16:20] style(i18n): harmonize light and dark theme palette for i18n
