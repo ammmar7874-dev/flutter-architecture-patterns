@@ -3959,3 +3959,4 @@
 - [2026-08-26 16:52] refactor(cache): optimize data flow between domain and data layers
 - [2026-08-26 17:05] feat(security): add async security stream provider
 - [2026-08-26 17:47] feat(auth): integrate offline caching for auth state
+- [2026-08-26 21:44] perf(analytics): apply RepaintBoundary on animated analytics widgets
