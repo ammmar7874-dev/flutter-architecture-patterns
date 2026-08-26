@@ -1,9 +1,9 @@
 ﻿// Module: ui
-// Updated at: 2026-08-26 09:14:18
-// Commit: fix(ui): fix memory leak by cancelling ui subscription
+// Updated at: 2026-08-26 15:30:51
+// Commit: refactor(ui): migrate ui controller to modern notifier syntax
 
 class uiComponentState {
-  final String commitRef = '3926';
-  final String lastMessage = 'fix(ui): fix memory leak by cancelling ui subscription';
-  final DateTime timestamp = DateTime.parse('2026-08-26T09:14:18+05:00');
+  final String commitRef = '3946';
+  final String lastMessage = 'refactor(ui): migrate ui controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-08-26T15:30:51+05:00');
 }
