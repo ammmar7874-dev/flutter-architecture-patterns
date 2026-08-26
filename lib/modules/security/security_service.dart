@@ -1,9 +1,9 @@
 ﻿// Module: security
-// Updated at: 2026-08-26 09:50:05
-// Commit: fix(security): handle null assertion failure in security parser
+// Updated at: 2026-08-26 14:44:48
+// Commit: refactor(security): migrate security controller to modern notifier syntax
 
 class securityComponentState {
-  final String commitRef = '3929';
-  final String lastMessage = 'fix(security): handle null assertion failure in security parser';
-  final DateTime timestamp = DateTime.parse('2026-08-26T09:50:05+05:00');
+  final String commitRef = '3943';
+  final String lastMessage = 'refactor(security): migrate security controller to modern notifier syntax';
+  final DateTime timestamp = DateTime.parse('2026-08-26T14:44:48+05:00');
 }

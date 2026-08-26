@@ -3944,3 +3944,4 @@
 - [2026-08-26 14:00] feat(cache): add async cache stream provider
 - [2026-08-26 14:21] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-26 14:30] feat(i18n): integrate custom telemetry logger in i18n
+- [2026-08-26 14:44] refactor(security): migrate security controller to modern notifier syntax
