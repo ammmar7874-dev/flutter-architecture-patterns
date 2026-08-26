@@ -3930,3 +3930,4 @@
 - [2026-08-26 09:14] fix(ui): fix memory leak by cancelling ui subscription
 - [2026-08-26 09:28] fix(perf): correct layout constraints and overflow in perf
 - [2026-08-26 09:38] test(forms): add unit tests for forms business logic
+- [2026-08-26 09:50] fix(security): handle null assertion failure in security parser
