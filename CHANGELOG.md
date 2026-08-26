@@ -3948,3 +3948,4 @@
 - [2026-08-26 15:05] feat(network): integrate custom telemetry logger in network
 - [2026-08-26 15:28] docs(state): update readme and API contracts for state
 - [2026-08-26 15:30] refactor(ui): migrate ui controller to modern notifier syntax
+- [2026-08-26 15:33] fix(core): prevent double tap duplicate action in core
