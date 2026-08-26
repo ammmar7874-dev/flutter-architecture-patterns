@@ -3964,3 +3964,4 @@
 - [2026-08-26 21:47] fix(cache): correct layout constraints and overflow in cache
 - [2026-08-26 22:19] fix(core): resolve race condition during core initialization
 - [2026-08-26 22:57] feat(perf): add input validation and sanitization for perf
+- [2026-08-26 23:04] fix(theme): correct layout constraints and overflow in theme
