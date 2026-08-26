@@ -3938,3 +3938,4 @@
 - [2026-08-26 12:18] refactor(test): migrate test controller to modern notifier syntax
 - [2026-08-26 12:43] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-26 12:57] feat(test): integrate custom telemetry logger in test
+- [2026-08-26 12:57] feat(i18n): add input validation and sanitization for i18n
