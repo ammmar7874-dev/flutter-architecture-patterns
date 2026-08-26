@@ -3957,3 +3957,4 @@
 - [2026-08-26 16:21] fix(storage): prevent double tap duplicate action in storage
 - [2026-08-26 16:40] refactor(storage): migrate storage controller to modern notifier syntax
 - [2026-08-26 16:52] refactor(cache): optimize data flow between domain and data layers
+- [2026-08-26 17:05] feat(security): add async security stream provider
