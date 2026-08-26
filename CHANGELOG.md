@@ -3928,3 +3928,4 @@
 - [2026-08-24 22:27] style(cache): harmonize light and dark theme palette for cache
 - [2026-08-24 23:19] test(core): implement widget integration tests for core
 - [2026-08-26 09:14] fix(ui): fix memory leak by cancelling ui subscription
+- [2026-08-26 09:28] fix(perf): correct layout constraints and overflow in perf
