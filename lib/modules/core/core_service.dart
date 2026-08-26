@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-08-24 23:19:47
-// Commit: test(core): implement widget integration tests for core
+// Updated at: 2026-08-26 10:03:06
+// Commit: fix(core): handle null assertion failure in core parser
 
 class coreComponentState {
-  final String commitRef = '3925';
-  final String lastMessage = 'test(core): implement widget integration tests for core';
-  final DateTime timestamp = DateTime.parse('2026-08-24T23:19:47+05:00');
+  final String commitRef = '3930';
+  final String lastMessage = 'fix(core): handle null assertion failure in core parser';
+  final DateTime timestamp = DateTime.parse('2026-08-26T10:03:06+05:00');
 }
