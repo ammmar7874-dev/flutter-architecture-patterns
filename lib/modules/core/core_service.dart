@@ -1,9 +1,9 @@
 ﻿// Module: core
-// Updated at: 2026-08-26 15:33:26
-// Commit: fix(core): prevent double tap duplicate action in core
+// Updated at: 2026-08-26 22:19:43
+// Commit: fix(core): resolve race condition during core initialization
 
 class coreComponentState {
-  final String commitRef = '3947';
-  final String lastMessage = 'fix(core): prevent double tap duplicate action in core';
-  final DateTime timestamp = DateTime.parse('2026-08-26T15:33:26+05:00');
+  final String commitRef = '3961';
+  final String lastMessage = 'fix(core): resolve race condition during core initialization';
+  final DateTime timestamp = DateTime.parse('2026-08-26T22:19:43+05:00');
 }
