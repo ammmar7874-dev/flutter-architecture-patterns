@@ -3965,3 +3965,4 @@
 - [2026-08-26 22:19] fix(core): resolve race condition during core initialization
 - [2026-08-26 22:57] feat(perf): add input validation and sanitization for perf
 - [2026-08-26 23:04] fix(theme): correct layout constraints and overflow in theme
+- [2026-08-27 10:44] feat(perf): add async perf stream provider
