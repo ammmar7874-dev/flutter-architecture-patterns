@@ -3969,3 +3969,4 @@
 - [2026-08-27 13:20] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-08-27 15:48] fix(theme): correct layout constraints and overflow in theme
 - [2026-08-27 15:56] perf(perf): memoize expensive computations in perf
+- [2026-08-27 16:17] fix(state): handle null assertion failure in state parser
