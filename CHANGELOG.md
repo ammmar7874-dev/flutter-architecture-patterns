@@ -3971,3 +3971,4 @@
 - [2026-08-27 15:56] perf(perf): memoize expensive computations in perf
 - [2026-08-27 16:17] fix(state): handle null assertion failure in state parser
 - [2026-08-27 17:33] feat(security): integrate offline caching for security state
+- [2026-08-27 19:02] feat(i18n): integrate custom telemetry logger in i18n
