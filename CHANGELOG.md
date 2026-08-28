@@ -3974,3 +3974,4 @@
 - [2026-08-27 19:02] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-27 21:11] refactor(state): extract reusable atomic widgets from state
 - [2026-08-27 22:12] feat(perf): integrate custom telemetry logger in perf
+- [2026-08-28 09:19] refactor(i18n): decouple repository interface from concrete i18n service
