@@ -3987,3 +3987,4 @@
 - [2026-08-28 12:44] style(theme): harmonize light and dark theme palette for theme
 - [2026-08-28 13:21] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-28 13:34] feat(security): integrate custom telemetry logger in security
+- [2026-08-28 14:27] feat(forms): add bi-directional event bus handler for forms
