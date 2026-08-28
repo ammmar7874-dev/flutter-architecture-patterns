@@ -3990,3 +3990,4 @@
 - [2026-08-28 14:27] feat(forms): add bi-directional event bus handler for forms
 - [2026-08-28 15:14] refactor(security): optimize data flow between domain and data layers
 - [2026-08-28 15:33] chore(core): update dependencies and cleanup unused imports in core
+- [2026-08-28 17:06] perf(perf): optimize memory consumption in perf list viewport
