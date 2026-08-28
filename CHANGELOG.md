@@ -3984,3 +3984,4 @@
 - [2026-08-28 11:48] docs(theme): update readme and API contracts for theme
 - [2026-08-28 12:06] fix(security): fix memory leak by cancelling security subscription
 - [2026-08-28 12:42] style(storage): adjust design tokens, typography, and contrast in storage
+- [2026-08-28 12:44] style(theme): harmonize light and dark theme palette for theme
