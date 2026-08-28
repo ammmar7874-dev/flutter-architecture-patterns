@@ -3996,3 +3996,4 @@
 - [2026-08-28 17:39] docs(state): update readme and API contracts for state
 - [2026-08-28 18:24] feat(analytics): add async analytics stream provider
 - [2026-08-28 18:55] feat(state): add input validation and sanitization for state
+- [2026-08-28 19:45] style(auth): adjust design tokens, typography, and contrast in auth
