@@ -3985,3 +3985,4 @@
 - [2026-08-28 12:06] fix(security): fix memory leak by cancelling security subscription
 - [2026-08-28 12:42] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-08-28 12:44] style(theme): harmonize light and dark theme palette for theme
+- [2026-08-28 13:21] refactor(forms): migrate forms controller to modern notifier syntax
