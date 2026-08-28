@@ -3988,3 +3988,4 @@
 - [2026-08-28 13:21] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-28 13:34] feat(security): integrate custom telemetry logger in security
 - [2026-08-28 14:27] feat(forms): add bi-directional event bus handler for forms
+- [2026-08-28 15:14] refactor(security): optimize data flow between domain and data layers
