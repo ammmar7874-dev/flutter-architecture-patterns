@@ -3992,3 +3992,4 @@
 - [2026-08-28 15:33] chore(core): update dependencies and cleanup unused imports in core
 - [2026-08-28 17:06] perf(perf): optimize memory consumption in perf list viewport
 - [2026-08-28 17:06] refactor(forms): decouple repository interface from concrete forms service
+- [2026-08-28 17:29] feat(cache): implement shimmer loading skeleton in cache
