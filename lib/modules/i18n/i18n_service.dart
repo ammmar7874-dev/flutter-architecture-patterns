@@ -1,9 +1,9 @@
 ﻿// Module: i18n
-// Updated at: 2026-08-28 09:19:35
-// Commit: refactor(i18n): decouple repository interface from concrete i18n service
+// Updated at: 2026-08-28 10:32:44
+// Commit: fix(i18n): prevent double tap duplicate action in i18n
 
 class i18nComponentState {
-  final String commitRef = '3977';
-  final String lastMessage = 'refactor(i18n): decouple repository interface from concrete i18n service';
-  final DateTime timestamp = DateTime.parse('2026-08-28T09:19:35+05:00');
+  final String commitRef = '3980';
+  final String lastMessage = 'fix(i18n): prevent double tap duplicate action in i18n';
+  final DateTime timestamp = DateTime.parse('2026-08-28T10:32:44+05:00');
 }

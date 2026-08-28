@@ -3977,3 +3977,4 @@
 - [2026-08-28 09:19] refactor(i18n): decouple repository interface from concrete i18n service
 - [2026-08-28 09:22] refactor(storage): decouple repository interface from concrete storage service
 - [2026-08-28 09:46] refactor(navigation): decouple repository interface from concrete navigation service
+- [2026-08-28 10:32] fix(i18n): prevent double tap duplicate action in i18n
