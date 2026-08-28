@@ -3975,3 +3975,4 @@
 - [2026-08-27 21:11] refactor(state): extract reusable atomic widgets from state
 - [2026-08-27 22:12] feat(perf): integrate custom telemetry logger in perf
 - [2026-08-28 09:19] refactor(i18n): decouple repository interface from concrete i18n service
+- [2026-08-28 09:22] refactor(storage): decouple repository interface from concrete storage service

@@ -1,9 +1,9 @@
 ﻿// Module: storage
-// Updated at: 2026-08-26 16:40:19
-// Commit: refactor(storage): migrate storage controller to modern notifier syntax
+// Updated at: 2026-08-28 09:22:34
+// Commit: refactor(storage): decouple repository interface from concrete storage service
 
 class storageComponentState {
-  final String commitRef = '3954';
-  final String lastMessage = 'refactor(storage): migrate storage controller to modern notifier syntax';
-  final DateTime timestamp = DateTime.parse('2026-08-26T16:40:19+05:00');
+  final String commitRef = '3978';
+  final String lastMessage = 'refactor(storage): decouple repository interface from concrete storage service';
+  final DateTime timestamp = DateTime.parse('2026-08-28T09:22:34+05:00');
 }
