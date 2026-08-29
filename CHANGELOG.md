@@ -4043,3 +4043,4 @@
 - [2026-08-29 19:24] feat(core): add input validation and sanitization for core
 - [2026-08-29 19:27] feat(ui): implement shimmer loading skeleton in ui
 - [2026-08-29 19:49] feat(theme): add async theme stream provider
+- [2026-08-29 20:52] refactor(state): decouple repository interface from concrete state service
