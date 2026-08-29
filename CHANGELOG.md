@@ -4029,3 +4029,4 @@
 - [2026-08-29 14:40] fix(cache): prevent double tap duplicate action in cache
 - [2026-08-29 14:42] perf(cache): optimize memory consumption in cache list viewport
 - [2026-08-29 15:17] docs(core): update readme and API contracts for core
+- [2026-08-29 15:30] docs(state): add detailed code comments and architecture guide for state
