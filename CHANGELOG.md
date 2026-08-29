@@ -4008,3 +4008,4 @@
 - [2026-08-29 10:33] refactor(auth): migrate auth controller to modern notifier syntax
 - [2026-08-29 11:17] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-08-29 11:24] refactor(state): decouple repository interface from concrete state service
+- [2026-08-29 11:30] perf(forms): memoize expensive computations in forms
