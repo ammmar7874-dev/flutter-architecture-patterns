@@ -4039,3 +4039,4 @@
 - [2026-08-29 18:21] refactor(state): migrate state controller to modern notifier syntax
 - [2026-08-29 18:26] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-29 18:32] refactor(ui): extract reusable atomic widgets from ui
+- [2026-08-29 19:14] fix(theme): fix memory leak by cancelling theme subscription
