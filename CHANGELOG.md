@@ -4044,3 +4044,4 @@
 - [2026-08-29 19:27] feat(ui): implement shimmer loading skeleton in ui
 - [2026-08-29 19:49] feat(theme): add async theme stream provider
 - [2026-08-29 20:52] refactor(state): decouple repository interface from concrete state service
+- [2026-08-29 20:58] perf(state): memoize expensive computations in state
