@@ -4026,3 +4026,4 @@
 - [2026-08-29 14:28] fix(test): handle null assertion failure in test parser
 - [2026-08-29 14:30] refactor(security): optimize data flow between domain and data layers
 - [2026-08-29 14:36] refactor(i18n): decouple repository interface from concrete i18n service
+- [2026-08-29 14:40] fix(cache): prevent double tap duplicate action in cache
