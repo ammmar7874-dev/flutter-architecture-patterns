@@ -4036,3 +4036,4 @@
 - [2026-08-29 17:01] test(core): implement widget integration tests for core
 - [2026-08-29 17:36] feat(network): integrate offline caching for network state
 - [2026-08-29 17:39] docs(analytics): add detailed code comments and architecture guide for analytics
+- [2026-08-29 18:21] refactor(state): migrate state controller to modern notifier syntax
