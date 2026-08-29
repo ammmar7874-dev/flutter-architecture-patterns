@@ -4018,3 +4018,4 @@
 - [2026-08-29 12:57] perf(network): memoize expensive computations in network
 - [2026-08-29 13:16] feat(auth): integrate custom telemetry logger in auth
 - [2026-08-29 13:26] feat(storage): integrate custom telemetry logger in storage
+- [2026-08-29 13:39] style(storage): adjust design tokens, typography, and contrast in storage
