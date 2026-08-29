@@ -4053,3 +4053,4 @@
 - [2026-08-29 21:52] refactor(analytics): optimize data flow between domain and data layers
 - [2026-08-29 22:01] test(auth): implement widget integration tests for auth
 - [2026-08-29 22:38] feat(auth): add input validation and sanitization for auth
+- [2026-08-29 22:44] chore(theme): update dependencies and cleanup unused imports in theme
