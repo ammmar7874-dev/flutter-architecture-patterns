@@ -4047,3 +4047,4 @@
 - [2026-08-29 20:58] perf(state): memoize expensive computations in state
 - [2026-08-29 21:06] fix(analytics): resolve race condition during analytics initialization
 - [2026-08-29 21:25] fix(ui): handle null assertion failure in ui parser
+- [2026-08-29 21:27] chore(test): update dependencies and cleanup unused imports in test
