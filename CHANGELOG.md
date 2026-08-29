@@ -4003,3 +4003,4 @@
 - [2026-08-28 23:14] refactor(forms): migrate forms controller to modern notifier syntax
 - [2026-08-29 09:01] style(state): adjust design tokens, typography, and contrast in state
 - [2026-08-29 09:01] test(cache): add unit tests for cache business logic
+- [2026-08-29 09:35] fix(perf): prevent double tap duplicate action in perf
