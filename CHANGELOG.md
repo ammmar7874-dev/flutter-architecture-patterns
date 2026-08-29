@@ -4040,3 +4040,4 @@
 - [2026-08-29 18:26] feat(auth): implement shimmer loading skeleton in auth
 - [2026-08-29 18:32] refactor(ui): extract reusable atomic widgets from ui
 - [2026-08-29 19:14] fix(theme): fix memory leak by cancelling theme subscription
+- [2026-08-29 19:24] feat(core): add input validation and sanitization for core
