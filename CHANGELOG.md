@@ -4021,3 +4021,4 @@
 - [2026-08-29 13:39] style(storage): adjust design tokens, typography, and contrast in storage
 - [2026-08-29 13:42] fix(forms): prevent double tap duplicate action in forms
 - [2026-08-29 14:05] perf(auth): optimize memory consumption in auth list viewport
+- [2026-08-29 14:11] perf(storage): optimize memory consumption in storage list viewport
