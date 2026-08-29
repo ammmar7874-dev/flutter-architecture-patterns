@@ -4046,3 +4046,4 @@
 - [2026-08-29 20:52] refactor(state): decouple repository interface from concrete state service
 - [2026-08-29 20:58] perf(state): memoize expensive computations in state
 - [2026-08-29 21:06] fix(analytics): resolve race condition during analytics initialization
+- [2026-08-29 21:25] fix(ui): handle null assertion failure in ui parser
