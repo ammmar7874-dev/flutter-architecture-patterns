@@ -4049,3 +4049,4 @@
 - [2026-08-29 21:25] fix(ui): handle null assertion failure in ui parser
 - [2026-08-29 21:27] chore(test): update dependencies and cleanup unused imports in test
 - [2026-08-29 21:38] perf(analytics): optimize memory consumption in analytics list viewport
+- [2026-08-29 21:39] feat(network): integrate custom telemetry logger in network
