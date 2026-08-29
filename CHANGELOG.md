@@ -4006,3 +4006,4 @@
 - [2026-08-29 09:35] fix(perf): prevent double tap duplicate action in perf
 - [2026-08-29 10:02] feat(navigation): integrate custom telemetry logger in navigation
 - [2026-08-29 10:33] refactor(auth): migrate auth controller to modern notifier syntax
+- [2026-08-29 11:17] chore(analytics): update dependencies and cleanup unused imports in analytics
