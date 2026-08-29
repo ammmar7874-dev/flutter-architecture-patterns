@@ -4027,3 +4027,4 @@
 - [2026-08-29 14:30] refactor(security): optimize data flow between domain and data layers
 - [2026-08-29 14:36] refactor(i18n): decouple repository interface from concrete i18n service
 - [2026-08-29 14:40] fix(cache): prevent double tap duplicate action in cache
+- [2026-08-29 14:42] perf(cache): optimize memory consumption in cache list viewport
