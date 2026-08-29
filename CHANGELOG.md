@@ -4011,3 +4011,4 @@
 - [2026-08-29 11:30] perf(forms): memoize expensive computations in forms
 - [2026-08-29 11:43] feat(i18n): integrate custom telemetry logger in i18n
 - [2026-08-29 11:57] test(state): add unit tests for state business logic
+- [2026-08-29 11:59] fix(ui): prevent double tap duplicate action in ui
