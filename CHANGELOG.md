@@ -4013,3 +4013,4 @@
 - [2026-08-29 11:57] test(state): add unit tests for state business logic
 - [2026-08-29 11:59] fix(ui): prevent double tap duplicate action in ui
 - [2026-08-29 12:02] perf(forms): optimize memory consumption in forms list viewport
+- [2026-08-29 12:26] fix(auth): resolve race condition during auth initialization
