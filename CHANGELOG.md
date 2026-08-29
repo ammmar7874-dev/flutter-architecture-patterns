@@ -4023,3 +4023,4 @@
 - [2026-08-29 14:05] perf(auth): optimize memory consumption in auth list viewport
 - [2026-08-29 14:11] perf(storage): optimize memory consumption in storage list viewport
 - [2026-08-29 14:21] feat(storage): add bi-directional event bus handler for storage
+- [2026-08-29 14:28] fix(test): handle null assertion failure in test parser
