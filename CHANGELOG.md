@@ -4069,3 +4069,4 @@
 - [2026-08-31 12:28] fix(theme): resolve race condition during theme initialization
 - [2026-08-31 12:38] feat(forms): integrate custom telemetry logger in forms
 - [2026-08-31 12:57] refactor(security): extract reusable atomic widgets from security
+- [2026-08-31 13:03] fix(auth): correct layout constraints and overflow in auth

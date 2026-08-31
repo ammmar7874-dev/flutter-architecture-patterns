@@ -1,9 +1,9 @@
 ﻿// Module: auth
-// Updated at: 2026-08-31 11:23:39
-// Commit: style(auth): harmonize light and dark theme palette for auth
+// Updated at: 2026-08-31 13:03:16
+// Commit: fix(auth): correct layout constraints and overflow in auth
 
 class authComponentState {
-  final String commitRef = '4066';
-  final String lastMessage = 'style(auth): harmonize light and dark theme palette for auth';
-  final DateTime timestamp = DateTime.parse('2026-08-31T11:23:39+05:00');
+  final String commitRef = '4072';
+  final String lastMessage = 'fix(auth): correct layout constraints and overflow in auth';
+  final DateTime timestamp = DateTime.parse('2026-08-31T13:03:16+05:00');
 }
