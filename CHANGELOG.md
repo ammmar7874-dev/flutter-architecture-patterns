@@ -4102,3 +4102,4 @@
 - [2026-08-31 22:27] refactor(theme): decouple repository interface from concrete theme service
 - [2026-08-31 22:28] fix(i18n): fix memory leak by cancelling i18n subscription
 - [2026-08-31 22:54] chore(network): update dependencies and cleanup unused imports in network
+- [2026-08-31 22:55] feat(auth): integrate custom telemetry logger in auth
