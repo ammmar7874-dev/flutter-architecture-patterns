@@ -4078,3 +4078,4 @@
 - [2026-08-31 15:50] test(network): add unit tests for network business logic
 - [2026-08-31 16:04] feat(core): add bi-directional event bus handler for core
 - [2026-08-31 16:15] fix(security): prevent double tap duplicate action in security
+- [2026-08-31 16:20] feat(theme): add async theme stream provider
