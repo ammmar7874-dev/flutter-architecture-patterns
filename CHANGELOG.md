@@ -4062,3 +4062,4 @@
 - [2026-08-31 10:11] perf(auth): memoize expensive computations in auth
 - [2026-08-31 10:15] refactor(i18n): optimize data flow between domain and data layers
 - [2026-08-31 10:46] perf(network): optimize memory consumption in network list viewport
+- [2026-08-31 11:23] feat(forms): add bi-directional event bus handler for forms
