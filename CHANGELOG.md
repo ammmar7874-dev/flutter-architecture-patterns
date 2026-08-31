@@ -4066,3 +4066,4 @@
 - [2026-08-31 11:23] style(auth): harmonize light and dark theme palette for auth
 - [2026-08-31 11:59] refactor(test): extract reusable atomic widgets from test
 - [2026-08-31 12:02] feat(forms): add async forms stream provider
+- [2026-08-31 12:28] fix(theme): resolve race condition during theme initialization
