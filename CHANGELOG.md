@@ -4071,3 +4071,4 @@
 - [2026-08-31 12:57] refactor(security): extract reusable atomic widgets from security
 - [2026-08-31 13:03] fix(auth): correct layout constraints and overflow in auth
 - [2026-08-31 13:31] feat(forms): integrate custom telemetry logger in forms
+- [2026-08-31 13:58] feat(auth): add input validation and sanitization for auth
