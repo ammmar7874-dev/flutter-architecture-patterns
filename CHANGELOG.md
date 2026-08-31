@@ -4089,3 +4089,4 @@
 - [2026-08-31 18:42] feat(theme): add bi-directional event bus handler for theme
 - [2026-08-31 19:00] feat(state): add input validation and sanitization for state
 - [2026-08-31 19:16] feat(state): integrate custom telemetry logger in state
+- [2026-08-31 19:25] fix(storage): prevent double tap duplicate action in storage
