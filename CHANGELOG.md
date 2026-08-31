@@ -4097,3 +4097,4 @@
 - [2026-08-31 20:49] refactor(forms): decouple repository interface from concrete forms service
 - [2026-08-31 21:15] feat(state): add input validation and sanitization for state
 - [2026-08-31 21:26] feat(perf): add input validation and sanitization for perf
+- [2026-08-31 21:54] perf(auth): memoize expensive computations in auth
