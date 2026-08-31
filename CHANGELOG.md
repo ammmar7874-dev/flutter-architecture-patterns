@@ -4065,3 +4065,4 @@
 - [2026-08-31 11:23] feat(forms): add bi-directional event bus handler for forms
 - [2026-08-31 11:23] style(auth): harmonize light and dark theme palette for auth
 - [2026-08-31 11:59] refactor(test): extract reusable atomic widgets from test
+- [2026-08-31 12:02] feat(forms): add async forms stream provider
