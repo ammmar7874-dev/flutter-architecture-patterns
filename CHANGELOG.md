@@ -4082,3 +4082,4 @@
 - [2026-08-31 16:20] docs(network): add detailed code comments and architecture guide for network
 - [2026-08-31 16:34] perf(theme): apply RepaintBoundary on animated theme widgets
 - [2026-08-31 16:49] fix(forms): fix memory leak by cancelling forms subscription
+- [2026-08-31 16:50] test(theme): implement widget integration tests for theme
