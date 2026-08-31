@@ -4086,3 +4086,4 @@
 - [2026-08-31 16:59] style(storage): harmonize light and dark theme palette for storage
 - [2026-08-31 17:06] test(storage): add unit tests for storage business logic
 - [2026-08-31 18:21] perf(cache): optimize memory consumption in cache list viewport
+- [2026-08-31 18:42] feat(theme): add bi-directional event bus handler for theme
