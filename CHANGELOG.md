@@ -4060,3 +4060,4 @@
 - [2026-08-31 09:46] refactor(core): extract reusable atomic widgets from core
 - [2026-08-31 09:47] docs(core): add detailed code comments and architecture guide for core
 - [2026-08-31 10:11] perf(auth): memoize expensive computations in auth
+- [2026-08-31 10:15] refactor(i18n): optimize data flow between domain and data layers
