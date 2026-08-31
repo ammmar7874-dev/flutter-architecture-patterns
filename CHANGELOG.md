@@ -4068,3 +4068,4 @@
 - [2026-08-31 12:02] feat(forms): add async forms stream provider
 - [2026-08-31 12:28] fix(theme): resolve race condition during theme initialization
 - [2026-08-31 12:38] feat(forms): integrate custom telemetry logger in forms
+- [2026-08-31 12:57] refactor(security): extract reusable atomic widgets from security
