@@ -4084,3 +4084,4 @@
 - [2026-08-31 16:49] fix(forms): fix memory leak by cancelling forms subscription
 - [2026-08-31 16:50] test(theme): implement widget integration tests for theme
 - [2026-08-31 16:59] style(storage): harmonize light and dark theme palette for storage
+- [2026-08-31 17:06] test(storage): add unit tests for storage business logic
