@@ -4063,3 +4063,4 @@
 - [2026-08-31 10:15] refactor(i18n): optimize data flow between domain and data layers
 - [2026-08-31 10:46] perf(network): optimize memory consumption in network list viewport
 - [2026-08-31 11:23] feat(forms): add bi-directional event bus handler for forms
+- [2026-08-31 11:23] style(auth): harmonize light and dark theme palette for auth
