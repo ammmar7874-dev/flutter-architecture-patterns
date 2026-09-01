@@ -4115,3 +4115,4 @@
 - [2026-09-01 15:19] feat(core): add input validation and sanitization for core
 - [2026-09-01 15:33] feat(forms): add input validation and sanitization for forms
 - [2026-09-01 15:58] feat(perf): implement shimmer loading skeleton in perf
+- [2026-09-01 16:49] style(test): harmonize light and dark theme palette for test
