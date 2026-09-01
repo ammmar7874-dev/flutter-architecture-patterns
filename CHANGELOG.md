@@ -4120,3 +4120,4 @@
 - [2026-09-01 18:34] test(test): implement widget integration tests for test
 - [2026-09-01 19:24] feat(core): add bi-directional event bus handler for core
 - [2026-09-01 19:29] perf(auth): memoize expensive computations in auth
+- [2026-09-01 19:40] fix(test): fix memory leak by cancelling test subscription
