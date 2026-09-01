@@ -4114,3 +4114,4 @@
 - [2026-09-01 15:06] chore(analytics): update dependencies and cleanup unused imports in analytics
 - [2026-09-01 15:19] feat(core): add input validation and sanitization for core
 - [2026-09-01 15:33] feat(forms): add input validation and sanitization for forms
+- [2026-09-01 15:58] feat(perf): implement shimmer loading skeleton in perf
