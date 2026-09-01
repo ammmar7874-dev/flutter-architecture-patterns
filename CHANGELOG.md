@@ -4109,3 +4109,4 @@
 - [2026-09-01 10:31] fix(analytics): resolve race condition during analytics initialization
 - [2026-09-01 12:27] style(core): adjust design tokens, typography, and contrast in core
 - [2026-09-01 12:46] test(forms): implement widget integration tests for forms
+- [2026-09-01 13:49] test(theme): implement widget integration tests for theme
