@@ -4123,3 +4123,4 @@
 - [2026-09-01 19:40] fix(test): fix memory leak by cancelling test subscription
 - [2026-09-01 20:44] perf(security): apply RepaintBoundary on animated security widgets
 - [2026-09-01 23:27] feat(cache): add async cache stream provider
+- [2026-09-02 19:04] chore(release): finalize architecture patterns documentation
